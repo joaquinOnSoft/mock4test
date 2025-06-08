@@ -1,0 +1,56 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.joaquinonsoft.importssdui'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    //OpenCSV » 5.11
+    //
+    //A simple library for reading and writing CSV in Java
+    // https://mvnrepository.com/artifact/com.opencsv/opencsv
+    implementation("com.opencsv:opencsv:5.11")
+
+    // Java Simple Exchange Format API » 0.9.3.RELEASE
+    //
+    // JSefa (Java Simple exchange format api) is a simple library for stream-based
+    // serialization of java objects to XML, CSV, FLR or any other format and back
+    // again using an iterator-style interface independent of the serialization format.
+    // The mapping between java object types and types of the serialization format
+    // (e. g. xml complex element types) can be defined either by annotating the
+    // java classes or programmatically using a simple API. The current ...
+    // https://mvnrepository.com/artifact/org.jsefa/jsefa
+    implementation("org.jsefa:jsefa:0.9.3.RELEASE")
+
+    // Logback Classic Module » 1.5.18
+    //
+    // Implementation of the SLF4J API for Logback, a reliable, generic, fast and flexible logging framework.
+    // https://mvnrepository.com/artifact/ch.qos.logback/logback-classic
+    implementation("ch.qos.logback:logback-classic:1.5.18")
+
+    // Project Lombok » 1.18.38
+    //
+    // Lombok is a Java library that provides annotations to simplify Java development
+    // by automating the generation of boilerplate code. Key features include automatic
+    // generation of getters, setters, equals, hashCode, and toString methods, as well
+    // as a facility for automatic resource management. It aims to reduce the amount of
+    // manual coding, thereby streamlining the codebase and reducing potential for errors.
+    // https://mvnrepository.com/artifact/org.projectlombok/lombok
+    compileOnly("org.projectlombok:lombok:1.18.38")
+    annotationProcessor("org.projectlombok:lombok:1.18.38")
+
+    testCompileOnly("org.projectlombok:lombok:1.18.38")
+    testAnnotationProcessor("org.projectlombok:lombok:1.18.38")
+
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+}
+
+test {
+    useJUnitPlatform()
+}
