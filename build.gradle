@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'com.joaquinonsoft.importssdui'
+group = 'com.joaquinonsoft.mock4test'
 version = '1.0-SNAPSHOT'
 
 repositories {

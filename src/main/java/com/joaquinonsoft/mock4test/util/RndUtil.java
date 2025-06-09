@@ -22,6 +22,18 @@ public class RndUtil {
         return rnd.nextFloat();
     }
 
+    public double nextDouble(){
+        return rnd.nextDouble();
+    }
+
+    public int nextInt(){
+        return rnd.nextInt();
+    }
+
+    public int nextInt(int bound){
+        return rnd.nextInt(bound);
+    }
+
     /**
      * Generate Random Number Between Two Given Values (included)
      * @param high - Highest limit of the range

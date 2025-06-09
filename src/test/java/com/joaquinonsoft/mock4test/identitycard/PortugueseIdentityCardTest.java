@@ -1,12 +1,8 @@
 package com.joaquinonsoft.mock4test.identitycard;
 
 import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.Test;
 
 import java.util.stream.Stream;
-
-import static org.junit.jupiter.api.Assertions.assertFalse;
-import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class PortugueseIdentityCardTest extends AbstractIdentityCardTest{
 
@@ -20,17 +16,15 @@ public class PortugueseIdentityCardTest extends AbstractIdentityCardTest{
         return Stream.of(
                 // Valid id, commonly used in examples
                 "000000000ZZ4",
-                "50678943ZY3",
-                "50678943ZZ0",
-                "21765432ZY3",
-                "34567890ZX1",
-                "87654321ZW5",
-                "11223344ZV2",
-                "99887766ZU9",
-                "55443322ZT4",
-                "66778899ZS7",
-                "22334455ZR6",
-                "12345678ZQ8"
+                "299331473742",
+                "104999197D46",
+                "549658552696",
+                "468166466V76",
+                "912055328U13",
+                "9232991996G4",
+                "960472577JS5",
+                "008559903XF9",
+                "416224260IN3"
         );
     }
 
@@ -49,5 +43,4 @@ public class PortugueseIdentityCardTest extends AbstractIdentityCardTest{
                 "12345678ZQ7"
         );
     }
-
 }

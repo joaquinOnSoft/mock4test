@@ -3,10 +3,11 @@ package com.joaquinonsoft.mock4test.identitycard;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
-import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.Locale;
 import java.util.stream.Stream;
+
+import static org.junit.jupiter.api.Assertions.*;
 
 class IdentityCardFactoryTest {
 
@@ -65,15 +66,20 @@ class IdentityCardFactoryTest {
 
     private static Stream<Object[]> provideEuropeanLocales() {
         return Stream.of(
-                new Object[]{Locale.forLanguageTag("es-ES"), SpanishIdentityCard.class},
+                new Object[]{Locale.forLanguageTag("de-AT"), AustrianIdentityCard.class},
+                new Object[]{Locale.forLanguageTag("en-UK"), BritishIdentityCard.class},
+                new Object[]{Locale.forLanguageTag("en-CA"), CanadianIdentityCard.class},
+                new Object[]{Locale.forLanguageTag("zh-CN"), ChineseIdentityCard.class},
                 new Object[]{Locale.forLanguageTag("fr-FR"), FrenchIdentityCard.class},
-                new Object[]{Locale.forLanguageTag("it-IT"), ItalianIdentityCard.class},
                 new Object[]{Locale.forLanguageTag("de-DE"), GermanIdentityCard.class},
-                new Object[]{Locale.forLanguageTag("pt-PT"), PortugueseIdentityCard.class}
-                //new Object[]{new Locale("be", "BE"), BelgianIdentityCard.class},
-                //new Object[]{new Locale("nl", "NL"), DutchIdentityCard.class},
-                //new Object[]{new Locale("se", "SE"), SwedishIdentityCard.class}
-                // Añadir más países según sea necesario
+                new Object[]{Locale.forLanguageTag("en-IE"), IrishIdentityCard.class},
+                new Object[]{Locale.forLanguageTag("it-IT"), ItalianIdentityCard.class},
+                new Object[]{Locale.forLanguageTag("ja-JP"), JapaneseIdentityCard.class},
+                new Object[]{Locale.forLanguageTag("pl-PL"), PolishIdentityCard.class},
+                new Object[]{Locale.forLanguageTag("pt-PT"), PortugueseIdentityCard.class},
+                new Object[]{Locale.forLanguageTag("es-ES"), SpanishIdentityCard.class}
+                //new Object[]{Locale.forLanguageTag("ro-RO"), RomanianIdentityCard.class}
+
         );
     }
 }

@@ -1,6 +1,6 @@
 package com.joaquinonsoft.mock4test.identitycard;
 
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.RepeatedTest;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
 
@@ -22,9 +22,14 @@ public abstract class AbstractIdentityCardTest {
         assertFalse(card.isValid(id));
     }
 
-    @Test
+    @RepeatedTest(10)
     void generateId() {
         String generatedId = card.generateId();
-        assertTrue(card.isValid(generatedId));
+         assertTrue(card.isValid(generatedId));
+    }
+
+    @RepeatedTest(10)
+    public void generatePTCardId(){
+        System.out.println(getClass() + ": "+ card.generateId());
     }
 }

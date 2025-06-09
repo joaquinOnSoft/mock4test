@@ -2,11 +2,13 @@ package com.joaquinonsoft.mock4test;
 
 import com.joaquinonsoft.mock4test.dto.FamilyName;
 import com.joaquinonsoft.mock4test.dto.Name;
+import com.joaquinonsoft.mock4test.util.DateOfBirthGenerator;
 import com.joaquinonsoft.mock4test.util.RndUtil;
 import lombok.AccessLevel;
 import lombok.Getter;
 
 import java.io.FileNotFoundException;
+import java.time.LocalDate;
 import java.util.List;
 import java.util.Locale;
 
@@ -30,7 +32,8 @@ public class Person extends Field{
     private String lastName;
     private String middleName;
     private final Sex sex;
-    private String zodiacSign;
+    private final ZodiacSign zodiacSign;
+    private final LocalDate birthdate;
 
     public Person() throws Mock4DataException{
         this(Locale.forLanguageTag("es-ES"));
@@ -57,9 +60,13 @@ public class Person extends Field{
                 firstName = femaleNames.get(RndUtil.getInstance().nextInRange(0, femaleNames.size() - 1)).getName();
             }
         }
+
+        birthdate = DateOfBirthGenerator.generateRandomDateOfBirth();
+        zodiacSign = ZodiacSign.getZodiacSignFromDate(birthdate);
     }
 
 
+    @SuppressWarnings("unchecked")
     private void initNames() throws Mock4DataException {
         if(maleNames == null) {
             synchronized (this) {
