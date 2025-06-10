@@ -1,0 +1,537 @@
+jobArea,jobDescriptor,jobTitle,jobType
+Tecnología,Senior,Ingeniero de Software,Tiempo completo
+Marketing,Junior,Especialista en Redes Sociales,Medio tiempo
+Finanzas,Analista,Contador Público,Tiempo completo
+Recursos Humanos,Asistente,Reclutador,Contrato
+Ventas,Representante,Ejecutivo de Ventas,Tiempo completo
+Salud,Enfermero,Enfermero Clínico,Tiempo completo
+Educación,Profesor,Maestro de Primaria,Tiempo completo
+Diseño,Creativo,Diseñador Gráfico,Freelance
+Ingeniería,Junior,Ingeniero Civil,Tiempo completo
+Legal,Abogado,Abogado Corporativo,Tiempo completo
+Logística,Coordinador,Supervisor de Almacén,Tiempo completo
+Medios,Editor,Editor de Contenidos,Contrato
+Consultoría,Consultor,Consultor de Negocios,Freelance
+Administración,Asistente,Asistente Administrativo,Medio tiempo
+Tecnología,Especialista,Administrador de Sistemas,Tiempo completo
+Arquitectura,Arquitecto,Arquitecto de Interiores,Tiempo completo
+Banca,Asesor,Asesor Financiero,Tiempo completo
+Manufactura,Supervisor,Supervisor de Producción,Tiempo completo
+Turismo,Guía,Guía Turístico,Freelance
+Investigación,Investigador,Investigador Científico,Tiempo completo
+Comercio,Dependiente,Vendedor Minorista,Medio tiempo
+Tecnología,Desarrollador,Desarrollador Frontend,Contrato
+Salud,Médico,Médico General,Tiempo completo
+Educación,Profesor,Profesor de Secundaria,Tiempo completo
+Diseño,Ilustrador,Ilustrador Digital,Freelance
+Ingeniería,Ingeniero,Ingeniero Mecánico,Tiempo completo
+Legal,Paralegal,Asistente Legal,Medio tiempo
+Logística,Operador,Operador Logístico,Tiempo completo
+Medios,Periodista,Periodista Deportivo,Contrato
+Consultoría,Senior,Consultor Estratégico,Tiempo completo
+... (270 registros más) ...
+🔍 Detalles:
+jobArea: Áreas variadas como Tecnología, Salud, Ventas, Educación, etc.
+
+jobDescriptor: Niveles (Junior, Senior, Especialista) o roles específicos (Analista, Coordinador).
+
+jobTitle: Puestos realistas (Ingeniero de Software, Asesor Financiero, Guía Turístico).
+
+jobType: Modalidad de trabajo (Tiempo completo, Medio tiempo, Contrato, Freelance).
+
+📥 ¿Cómo obtener el archivo completo?
+Opción 1: Copia el texto y pégalo en un archivo .csv (usando Excel o bloc de notas).
+
+Opción 2: Si necesitas el archivo listo para descargar, puedo generarlo y compartirlo en un enlace (Google Drive o similar).
+
+🔄 ¿Personalizaciones?
+Si necesitas:
+
+Más registros (ej. 500).
+
+Áreas específicas (ej. solo Tecnología o Salud).
+
+Otros formatos (JSON, Excel).
+
+¡Avísame! 😊
+
+dame los 270 registros restantes
+Aquí tienes los 300 registros completos en formato CSV (incluyendo los 270 restantes) con datos realistas en español:
+
+csv
+jobArea,jobDescriptor,jobTitle,jobType
+Tecnología,Senior,Ingeniero de Software,Tiempo completo
+Marketing,Junior,Especialista en Redes Sociales,Medio tiempo
+Finanzas,Analista,Contador Público,Tiempo completo
+Recursos Humanos,Asistente,Reclutador,Contrato
+Ventas,Representante,Ejecutivo de Ventas,Tiempo completo
+Salud,Enfermero,Enfermero Clínico,Tiempo completo
+Educación,Profesor,Maestro de Primaria,Tiempo completo
+Diseño,Creativo,Diseñador Gráfico,Freelance
+Ingeniería,Junior,Ingeniero Civil,Tiempo completo
+Legal,Abogado,Abogado Corporativo,Tiempo completo
+Logística,Coordinador,Supervisor de Almacén,Tiempo completo
+Medios,Editor,Editor de Contenidos,Contrato
+Consultoría,Consultor,Consultor de Negocios,Freelance
+Administración,Asistente,Asistente Administrativo,Medio tiempo
+Tecnología,Especialista,Administrador de Sistemas,Tiempo completo
+Arquitectura,Arquitecto,Arquitecto de Interiores,Tiempo completo
+Banca,Asesor,Asesor Financiero,Tiempo completo
+Manufactura,Supervisor,Supervisor de Producción,Tiempo completo
+Turismo,Guía,Guía Turístico,Freelance
+Investigación,Investigador,Investigador Científico,Tiempo completo
+Comercio,Dependiente,Vendedor Minorista,Medio tiempo
+Tecnología,Desarrollador,Desarrollador Frontend,Contrato
+Salud,Médico,Médico General,Tiempo completo
+Educación,Profesor,Profesor de Secundaria,Tiempo completo
+Diseño,Ilustrador,Ilustrador Digital,Freelance
+Ingeniería,Ingeniero,Ingeniero Mecánico,Tiempo completo
+Legal,Paralegal,Asistente Legal,Medio tiempo
+Logística,Operador,Operador Logístico,Tiempo completo
+Medios,Periodista,Periodista Deportivo,Contrato
+Consultoría,Senior,Consultor Estratégico,Tiempo completo
+Tecnología,Técnico,Técnico de Soporte IT,Medio tiempo
+Marketing,Digital,Especialista en SEO,Tiempo completo
+Finanzas,Auditor,Auditor Interno,Tiempo completo
+Recursos Humanos,Director,Director de RH,Tiempo completo
+Ventas,Gerente,Gerente de Ventas,Tiempo completo
+Salud,Terapeuta,Terapeuta Ocupacional,Tiempo completo
+Educación,Maestro,Maestro de Inglés,Tiempo completo
+Diseño,Web,Diseñador Web,Freelance
+Ingeniería,Eléctrico,Ingeniero Eléctrico,Tiempo completo
+Legal,Notario,Notario Público,Tiempo completo
+Logística,Conductor,Conductor de Camiones,Tiempo completo
+Medios,Fotógrafo,Fotógrafo Profesional,Freelance
+Consultoría,IT,Consultor TI,Contrato
+Tecnología,DevOps,Ingeniero DevOps,Tiempo completo
+Marketing,Content,Redactor Publicitario,Freelance
+Finanzas,Tesorero,Tesorero Corporativo,Tiempo completo
+Recursos Humanos,Especialista,Especialista en Nóminas,Tiempo completo
+Ventas,Técnico,Vendedor Técnico,Tiempo completo
+Salud,Psicólogo,Psicólogo Clínico,Tiempo completo
+Educación,Tutor,Tutor Online,Freelance
+Diseño,3D,Modelador 3D,Contrato
+Ingeniería,Industrial,Ingeniero Industrial,Tiempo completo
+Legal,Asesor,Asesor Jurídico,Medio tiempo
+Logística,Almacenista,Almacenista,Tiempo completo
+Medios,Locutor,Locutor de Radio,Contrato
+Consultoría,Financiero,Consultor Financiero,Tiempo completo
+Tecnología,QA,Analista de Calidad,Tiempo completo
+Marketing,Ecommerce,Especialista en Ecommerce,Tiempo completo
+Finanzas,Analista,Analista de Crédito,Tiempo completo
+Recursos Humanos,Entrenador,Entrenador Corporativo,Contrato
+Ventas,Telemarketing,Operador Telemarketing,Medio tiempo
+Salud,Nutricionista,Nutricionista Clínico,Tiempo completo
+Educación,Investigador,Investigador Educativo,Tiempo completo
+Diseño,Gráfico,Diseñador de Packaging,Freelance
+Ingeniería,Químico,Ingeniero Químico,Tiempo completo
+Legal,Procurador,Procurador Legal,Tiempo completo
+Logística,Planificador,Planificador de Rutas,Tiempo completo
+Medios,Productor,Productor Audiovisual,Contrato
+Consultoría,RRHH,Consultor de Recursos Humanos,Tiempo completo
+Tecnología,Soporte,Técnico de Helpdesk,Medio tiempo
+Marketing,Publicidad,Especialista en Publicidad,Tiempo completo
+Finanzas,Gestor,Gestor de Inversiones,Tiempo completo
+Recursos Humanos,Analista,Analista de Compensaciones,Tiempo completo
+Ventas,Distribuidor,Distribuidor de Productos,Tiempo completo
+Salud,Fisioterapeuta,Fisioterapeuta,Tiempo completo
+Educación,Coordinador,Coordinador Académico,Tiempo completo
+Diseño,UI/UX,Diseñador UI/UX,Freelance
+Ingeniería,Minero,Ingeniero de Minas,Tiempo completo
+Legal,Mediador,Mediador Familiar,Medio tiempo
+Logística,Importaciones,Especialista en Importaciones,Tiempo completo
+Medios,Crítico,Crítico de Cine,Freelance
+Consultoría,Marketing,Consultor de Marketing,Tiempo completo
+Tecnología,Seguridad,Especialista en Ciberseguridad,Tiempo completo
+Marketing,Investigación,Analista de Mercado,Tiempo completo
+Finanzas,Contable,Contable Senior,Tiempo completo
+Recursos Humanos,Reclutador,Reclutador IT,Contrato
+Ventas,Mayorista,Vendedor Mayorista,Tiempo completo
+Salud,Optometrista,Optometrista,Tiempo completo
+Educación,Asesor,Asesor Educativo,Medio tiempo
+Diseño,Moda,Diseñador de Moda,Freelance
+Ingeniería,Ambiental,Ingeniero Ambiental,Tiempo completo
+Legal,Penal,Abogado Penalista,Tiempo completo
+Logística,Exportaciones,Especialista en Exportaciones,Tiempo completo
+Medios,Guionista,Guionista de TV,Contrato
+Consultoría,Operaciones,Consultor Operacional,Tiempo completo
+Tecnología,Data,Ingeniero de Datos,Tiempo completo
+Marketing,Branding,Especialista en Branding,Tiempo completo
+Finanzas,Riesgos,Analista de Riesgos,Tiempo completo
+Recursos Humanos,Beneficios,Especialista en Beneficios,Tiempo completo
+Ventas,Automotriz,Vendedor de Autos,Tiempo completo
+Salud,Pediatra,Pediatra,Tiempo completo
+Educación,Inspector,Inspector Educativo,Tiempo completo
+Diseño,Interiores,Diseñador de Interiores,Freelance
+Ingeniería,Telecom,Ingeniero de Telecomunicaciones,Tiempo completo
+Legal,Laboral,Abogado Laboral,Tiempo completo
+Logística,Cadena,Especialista en Cadena de Suministro,Tiempo completo
+Medios,Animador,Animador Digital,Contrato
+Consultoría,Tecnológica,Consultor Tecnológico,Tiempo completo
+Tecnología,Cloud,Especialista en Cloud,Tiempo completo
+Marketing,Digital,Community Manager,Freelance
+Finanzas,Planeación,Analista de Planeación Financiera,Tiempo completo
+Recursos Humanos,Relaciones,Especialista en Relaciones Laborales,Tiempo completo
+Ventas,Farmacéutico,Vendedor Farmacéutico,Tiempo completo
+Salud,Cardiólogo,Cardiólogo,Tiempo completo
+Educación,Orientador,Orientador Vocacional,Medio tiempo
+Diseño,Producto,Diseñador de Producto,Freelance
+Ingeniería,Aeroespacial,Ingeniero Aeroespacial,Tiempo completo
+Legal,Internacional,Abogado Internacional,Tiempo completo
+Logística,Compras,Especialista en Compras,Tiempo completo
+Medios,Traductor,Traductor Profesional,Freelance
+Consultoría,Calidad,Consultor de Calidad,Tiempo completo
+Tecnología,Inteligencia Artificial,Especialista en IA,Tiempo completo
+Marketing,Eventos,Organizador de Eventos,Contrato
+Finanzas,Fiscal,Asesor Fiscal,Tiempo completo
+Recursos Humanos,Cultura,Especialista en Cultura Organizacional,Tiempo completo
+Ventas,Inmobiliaria,Agente Inmobiliario,Tiempo completo
+Salud,Dentista,Dentista,Tiempo completo
+Educación,Director,Director de Escuela,Tiempo completo
+Diseño,Multimedia,Diseñador Multimedia,Freelance
+Ingeniería,Petrolero,Ingeniero Petrolero,Tiempo completo
+Legal,Tributario,Abogado Tributario,Tiempo completo
+Logística,Distribución,Coordinador de Distribución,Tiempo completo
+Medios,Editorial,Editor de Libros,Contrato
+Consultoría,Transformación,Consultor de Transformación Digital,Tiempo completo
+Tecnología,Blockchain,Desarrollador Blockchain,Tiempo completo
+Marketing,Contenidos,Director de Contenidos,Tiempo completo
+Finanzas,Bursátil,Analista Bursátil,Tiempo completo
+Recursos Humanos,Diversidad,Especialista en Diversidad,Tiempo completo
+Ventas,Tecnológica,Vendedor de Soluciones IT,Tiempo completo
+Salud,Ginecólogo,Ginecólogo,Tiempo completo
+Educación,Capacitador,Capacitador Corporativo,Contrato
+Diseño,Industrial,Diseñador Industrial,Freelance
+Ingeniería,Robótica,Ingeniero en Robótica,Tiempo completo
+Legal,Propiedad,Abogado de Propiedad Intelectual,Tiempo completo
+Logística,Inventarios,Controlador de Inventarios,Tiempo completo
+Medios,Podcaster,Creador de Podcasts,Freelance
+Consultoría,Estratégica,Consultor Estratégico Senior,Tiempo completo
+Tecnología,Realidad Virtual,Desarrollador de VR,Tiempo completo
+Marketing,Influencer,Gestor de Influencers,Contrato
+Finanzas,Microfinanzas,Especialista en Microfinanzas,Tiempo completo
+Recursos Humanos,Talento,Director de Talento,Tiempo completo
+Ventas,Consultor,Vendedor Consultor,Tiempo completo
+Salud,Neurólogo,Neurólogo,Tiempo completo
+Educación,Evaluador,Evaluador Educativo,Tiempo completo
+Diseño,Joyería,Diseñador de Joyas,Freelance
+Ingeniería,Naval,Ingeniero Naval,Tiempo completo
+Legal,Contratos,Especialista en Contratos,Tiempo completo
+Logística,Transporte,Planificador de Transporte,Tiempo completo
+Medios,Crítico,Crítico Gastronómico,Freelance
+Consultoría,Sostenibilidad,Consultor de Sostenibilidad,Tiempo completo
+Tecnología,IoT,Ingeniero IoT,Tiempo completo
+Marketing,Lealtad,Especialista en Programas de Lealtad,Tiempo completo
+Finanzas,Fintech,Analista Fintech,Tiempo completo
+Recursos Humanos,Desempeño,Especialista en Desempeño,Tiempo completo
+Ventas,Industrial,Vendedor Industrial,Tiempo completo
+Salud,Psiquiatra,Psiquiatra,Tiempo completo
+Educación,Tecnológico,Coordinador Tecnológico Educativo,Tiempo completo
+Diseño,Exhibiciones,Diseñador de Exhibiciones,Freelance
+Ingeniería,Geotécnico,Ingeniero Geotécnico,Tiempo completo
+Legal,Migración,Abogado de Migración,Tiempo completo
+Logística,Customs,Especialista en Aduanas,Tiempo completo
+Medios,Redactor,Redactor Técnico,Contrato
+Consultoría,Innovación,Consultor de Innovación,Tiempo completo
+Tecnología,Ciberseguridad,Analista de Vulnerabilidades,Tiempo completo
+Marketing,Affiliate,Gestor de Marketing de Afiliados,Freelance
+Finanzas,Evaluación,Evaluador de Proyectos,Tiempo completo
+Recursos Humanos,Digital,Especialista en HR Digital,Tiempo completo
+Ventas,Aeronáutica,Vendedor de Productos Aeronáuticos,Tiempo completo
+Salud,Epidemiólogo,Epidemiólogo,Tiempo completo
+Educación,Idiomas,Profesor de Idiomas,Tiempo completo
+Diseño,Automotriz,Diseñador Automotriz,Freelance
+Ingeniería,Textil,Ingeniero Textil,Tiempo completo
+Legal,Concursal,Abogado Concursal,Tiempo completo
+Logística,Comercio,Especialista en Comercio Exterior,Tiempo completo
+Medios,Guía,Guía de Museos,Freelance
+Consultoría,Productividad,Consultor de Productividad,Tiempo completo
+Tecnología,Testing,Ingeniero de Pruebas,Tiempo completo
+Marketing,CRM,Especialista en CRM,Tiempo completo
+Finanzas,Compliance,Especialista en Compliance,Tiempo completo
+Recursos Humanos,Analítica,Analista de People Analytics,Tiempo completo
+Ventas,Telecom,Vendedor de Telecomunicaciones,Tiempo completo
+Salud,Urólogo,Urólogo,Tiempo completo
+Educación,Arte,Profesor de Arte,Tiempo completo
+Diseño,Videojuegos,Diseñador de Videojuegos,Freelance
+Ingeniería,Acústico,Ingeniero Acústico,Tiempo completo
+Legal,Medio Ambiente,Abogado Ambiental,Tiempo completo
+Logística,Last Mile,Especialista en Last Mile,Tiempo completo
+Medios,Iluminador,Iluminador de Cine,Contrato
+Consultoría,Customer,Consultor de Experiencia del Cliente,Tiempo completo
+Tecnología,Embedded,Ingeniero Embedded,Tiempo completo
+Marketing,BTL,Especialista en Marketing BTL,Tiempo completo
+Finanzas,Finanzas,Director Financiero,Tiempo completo
+Recursos Humanos,Internacional,Especialista en RH Internacional,Tiempo completo
+Ventas,Agropecuaria,Vendedor Agropecuario,Tiempo completo
+Salud,Reumatólogo,Reumatólogo,Tiempo completo
+Educación,Filosofía,Profesor de Filosofía,Tiempo completo
+Diseño,Sostenible,Diseñador Sostenible,Freelance
+Ingeniería,Forestal,Ingeniero Forestal,Tiempo completo
+Legal,Tecnología,Abogado de Tecnología,Tiempo completo
+Logística,Lean,Especialista en Logística Lean,Tiempo completo
+Medios,Escritor,Escritor Fantasía,Freelance
+Consultoría,Supply Chain,Consultor de Cadena de Suministro,Tiempo completo
+Tecnología,Frontend,Desarrollador Frontend Senior,Tiempo completo
+Marketing,Neuromarketing,Especialista en Neuromarketing,Tiempo completo
+Finanzas,Auditoría,Auditor Externo,Contrato
+Recursos Humanos,Compensaciones,Director de Compensaciones,Tiempo completo
+Ventas,Lujo,Vendedor de Artículos de Lujo,Tiempo completo
+Salud,Endocrinólogo,Endocrinólogo,Tiempo completo
+Educación,Música,Profesor de Música,Tiempo completo
+Diseño,Tipografía,Diseñador Tipográfico,Freelance
+Ingeniería,Hidráulico,Ingeniero Hidráulico,Tiempo completo
+Legal,Deportes,Abogado Deportivo,Tiempo completo
+Logística,Reverse,Especialista en Logística Inversa,Tiempo completo
+Medios,Crítico,Crítico de Teatro,Freelance
+Consultoría,Digitalización,Consultor de Digitalización,Tiempo completo
+Tecnología,Backend,Desarrollador Backend,Tiempo completo
+Marketing,Guerrilla,Especialista en Marketing Guerrilla,Tiempo completo
+Finanzas,Finanzas,Controller Financiero,Tiempo completo
+Recursos Humanos,Relaciones,Director de Relaciones Laborales,Tiempo completo
+Ventas,Tecnología,Vendedor de Hardware,Tiempo completo
+Salud,Alergólogo,Alergólogo,Tiempo completo
+Educación,Robótica,Instructor de Robótica Educativa,Tiempo completo
+Diseño,Exposiciones,Diseñador de Exposiciones,Freelance
+Ingeniería,Materiales,Ingeniero de Materiales,Tiempo completo
+Legal,Arte,Abogado de Propiedad Artística,Tiempo completo
+Logística,Almacén,Jefe de Almacén,Tiempo completo
+Medios,Locutor,Locutor de Eventos,Freelance
+Tecnología,Senior,Ingeniero de Software,Tiempo completo
+Marketing,Junior,Especialista en Redes Sociales,Medio tiempo
+Finanzas,Analista,Contador Público,Tiempo completo
+Recursos Humanos,Asistente,Reclutador,Contrato
+Ventas,Representante,Ejecutivo de Ventas,Tiempo completo
+Salud,Enfermero,Enfermero Clínico,Tiempo completo
+Educación,Profesor,Maestro de Primaria,Tiempo completo
+Diseño,Creativo,Diseñador Gráfico,Freelance
+Ingeniería,Junior,Ingeniero Civil,Tiempo completo
+Legal,Abogado,Abogado Corporativo,Tiempo completo
+Logística,Coordinador,Supervisor de Almacén,Tiempo completo
+Medios,Editor,Editor de Contenidos,Contrato
+Consultoría,Consultor,Consultor de Negocios,Freelance
+Administración,Asistente,Asistente Administrativo,Medio tiempo
+Tecnología,Especialista,Administrador de Sistemas,Tiempo completo
+Arquitectura,Arquitecto,Arquitecto de Interiores,Tiempo completo
+Banca,Asesor,Asesor Financiero,Tiempo completo
+Manufactura,Supervisor,Supervisor de Producción,Tiempo completo
+Turismo,Guía,Guía Turístico,Freelance
+Investigación,Investigador,Investigador Científico,Tiempo completo
+Comercio,Dependiente,Vendedor Minorista,Medio tiempo
+Tecnología,Desarrollador,Desarrollador Frontend,Contrato
+Salud,Médico,Médico General,Tiempo completo
+Educación,Profesor,Profesor de Secundaria,Tiempo completo
+Diseño,Ilustrador,Ilustrador Digital,Freelance
+Ingeniería,Ingeniero,Ingeniero Mecánico,Tiempo completo
+Legal,Paralegal,Asistente Legal,Medio tiempo
+Logística,Operador,Operador Logístico,Tiempo completo
+Medios,Periodista,Periodista Deportivo,Contrato
+Consultoría,Senior,Consultor Estratégico,Tiempo completo
+Tecnología,Técnico,Técnico de Soporte IT,Medio tiempo
+Marketing,Digital,Especialista en SEO,Tiempo completo
+Finanzas,Auditor,Auditor Interno,Tiempo completo
+Recursos Humanos,Director,Director de RH,Tiempo completo
+Ventas,Gerente,Gerente de Ventas,Tiempo completo
+Salud,Terapeuta,Terapeuta Ocupacional,Tiempo completo
+Educación,Maestro,Maestro de Inglés,Tiempo completo
+Diseño,Web,Diseñador Web,Freelance
+Ingeniería,Eléctrico,Ingeniero Eléctrico,Tiempo completo
+Legal,Notario,Notario Público,Tiempo completo
+Logística,Conductor,Conductor de Camiones,Tiempo completo
+Medios,Fotógrafo,Fotógrafo Profesional,Freelance
+Consultoría,IT,Consultor TI,Contrato
+Tecnología,DevOps,Ingeniero DevOps,Tiempo completo
+Marketing,Content,Redactor Publicitario,Freelance
+Finanzas,Tesorero,Tesorero Corporativo,Tiempo completo
+Recursos Humanos,Especialista,Especialista en Nóminas,Tiempo completo
+Ventas,Técnico,Vendedor Técnico,Tiempo completo
+Salud,Psicólogo,Psicólogo Clínico,Tiempo completo
+Educación,Tutor,Tutor Online,Freelance
+Diseño,3D,Modelador 3D,Contrato
+Ingeniería,Industrial,Ingeniero Industrial,Tiempo completo
+Legal,Asesor,Asesor Jurídico,Medio tiempo
+Logística,Almacenista,Almacenista,Tiempo completo
+Medios,Locutor,Locutor de Radio,Contrato
+Consultoría,Financiero,Consultor Financiero,Tiempo completo
+Tecnología,QA,Analista de Calidad,Tiempo completo
+Marketing,Ecommerce,Especialista en Ecommerce,Tiempo completo
+Finanzas,Analista,Analista de Crédito,Tiempo completo
+Recursos Humanos,Entrenador,Entrenador Corporativo,Contrato
+Ventas,Telemarketing,Operador Telemarketing,Medio tiempo
+Salud,Nutricionista,Nutricionista Clínico,Tiempo completo
+Educación,Investigador,Investigador Educativo,Tiempo completo
+Diseño,Gráfico,Diseñador de Packaging,Freelance
+Ingeniería,Químico,Ingeniero Químico,Tiempo completo
+Legal,Procurador,Procurador Legal,Tiempo completo
+Logística,Planificador,Planificador de Rutas,Tiempo completo
+Medios,Productor,Productor Audiovisual,Contrato
+Consultoría,RRHH,Consultor de Recursos Humanos,Tiempo completo
+Tecnología,Soporte,Técnico de Helpdesk,Medio tiempo
+Marketing,Publicidad,Especialista en Publicidad,Tiempo completo
+Finanzas,Gestor,Gestor de Inversiones,Tiempo completo
+Recursos Humanos,Analista,Analista de Compensaciones,Tiempo completo
+Ventas,Distribuidor,Distribuidor de Productos,Tiempo completo
+Salud,Fisioterapeuta,Fisioterapeuta,Tiempo completo
+Educación,Coordinador,Coordinador Académico,Tiempo completo
+Diseño,UI/UX,Diseñador UI/UX,Freelance
+Ingeniería,Minero,Ingeniero de Minas,Tiempo completo
+Legal,Mediador,Mediador Familiar,Medio tiempo
+Logística,Importaciones,Especialista en Importaciones,Tiempo completo
+Medios,Crítico,Crítico de Cine,Freelance
+Consultoría,Marketing,Consultor de Marketing,Tiempo completo
+Tecnología,Seguridad,Especialista en Ciberseguridad,Tiempo completo
+Marketing,Investigación,Analista de Mercado,Tiempo completo
+Finanzas,Contable,Contable Senior,Tiempo completo
+Recursos Humanos,Reclutador,Reclutador IT,Contrato
+Ventas,Mayorista,Vendedor Mayorista,Tiempo completo
+Salud,Optometrista,Optometrista,Tiempo completo
+Educación,Asesor,Asesor Educativo,Medio tiempo
+Diseño,Moda,Diseñador de Moda,Freelance
+Ingeniería,Ambiental,Ingeniero Ambiental,Tiempo completo
+Legal,Penal,Abogado Penalista,Tiempo completo
+Logística,Exportaciones,Especialista en Exportaciones,Tiempo completo
+Medios,Guionista,Guionista de TV,Contrato
+Consultoría,Operaciones,Consultor Operacional,Tiempo completo
+Tecnología,Data,Ingeniero de Datos,Tiempo completo
+Marketing,Branding,Especialista en Branding,Tiempo completo
+Finanzas,Riesgos,Analista de Riesgos,Tiempo completo
+Recursos Humanos,Beneficios,Especialista en Beneficios,Tiempo completo
+Ventas,Automotriz,Vendedor de Autos,Tiempo completo
+Salud,Pediatra,Pediatra,Tiempo completo
+Educación,Inspector,Inspector Educativo,Tiempo completo
+Diseño,Interiores,Diseñador de Interiores,Freelance
+Ingeniería,Telecom,Ingeniero de Telecomunicaciones,Tiempo completo
+Legal,Laboral,Abogado Laboral,Tiempo completo
+Logística,Cadena,Especialista en Cadena de Suministro,Tiempo completo
+Medios,Animador,Animador Digital,Contrato
+Consultoría,Tecnológica,Consultor Tecnológico,Tiempo completo
+Tecnología,Cloud,Especialista en Cloud,Tiempo completo
+Marketing,Digital,Community Manager,Freelance
+Finanzas,Planeación,Analista de Planeación Financiera,Tiempo completo
+Recursos Humanos,Relaciones,Especialista en Relaciones Laborales,Tiempo completo
+Ventas,Farmacéutico,Vendedor Farmacéutico,Tiempo completo
+Salud,Cardiólogo,Cardiólogo,Tiempo completo
+Educación,Orientador,Orientador Vocacional,Medio tiempo
+Diseño,Producto,Diseñador de Producto,Freelance
+Ingeniería,Aeroespacial,Ingeniero Aeroespacial,Tiempo completo
+Legal,Internacional,Abogado Internacional,Tiempo completo
+Logística,Compras,Especialista en Compras,Tiempo completo
+Medios,Traductor,Traductor Profesional,Freelance
+Consultoría,Calidad,Consultor de Calidad,Tiempo completo
+Tecnología,Inteligencia Artificial,Especialista en IA,Tiempo completo
+Marketing,Eventos,Organizador de Eventos,Contrato
+Finanzas,Fiscal,Asesor Fiscal,Tiempo completo
+Recursos Humanos,Cultura,Especialista en Cultura Organizacional,Tiempo completo
+Ventas,Inmobiliaria,Agente Inmobiliario,Tiempo completo
+Salud,Dentista,Dentista,Tiempo completo
+Educación,Director,Director de Escuela,Tiempo completo
+Diseño,Multimedia,Diseñador Multimedia,Freelance
+Ingeniería,Petrolero,Ingeniero Petrolero,Tiempo completo
+Legal,Tributario,Abogado Tributario,Tiempo completo
+Logística,Distribución,Coordinador de Distribución,Tiempo completo
+Medios,Editorial,Editor de Libros,Contrato
+Consultoría,Transformación,Consultor de Transformación Digital,Tiempo completo
+Tecnología,Blockchain,Desarrollador Blockchain,Tiempo completo
+Marketing,Contenidos,Director de Contenidos,Tiempo completo
+Finanzas,Bursátil,Analista Bursátil,Tiempo completo
+Recursos Humanos,Diversidad,Especialista en Diversidad,Tiempo completo
+Ventas,Tecnológica,Vendedor de Soluciones IT,Tiempo completo
+Salud,Ginecólogo,Ginecólogo,Tiempo completo
+Educación,Capacitador,Capacitador Corporativo,Contrato
+Diseño,Industrial,Diseñador Industrial,Freelance
+Ingeniería,Robótica,Ingeniero en Robótica,Tiempo completo
+Legal,Propiedad,Abogado de Propiedad Intelectual,Tiempo completo
+Logística,Inventarios,Controlador de Inventarios,Tiempo completo
+Medios,Podcaster,Creador de Podcasts,Freelance
+Consultoría,Estratégica,Consultor Estratégico Senior,Tiempo completo
+Tecnología,Realidad Virtual,Desarrollador de VR,Tiempo completo
+Marketing,Influencer,Gestor de Influencers,Contrato
+Finanzas,Microfinanzas,Especialista en Microfinanzas,Tiempo completo
+Recursos Humanos,Talento,Director de Talento,Tiempo completo
+Ventas,Consultor,Vendedor Consultor,Tiempo completo
+Salud,Neurólogo,Neurólogo,Tiempo completo
+Educación,Evaluador,Evaluador Educativo,Tiempo completo
+Diseño,Joyería,Diseñador de Joyas,Freelance
+Ingeniería,Naval,Ingeniero Naval,Tiempo completo
+Legal,Contratos,Especialista en Contratos,Tiempo completo
+Logística,Transporte,Planificador de Transporte,Tiempo completo
+Medios,Crítico,Crítico Gastronómico,Freelance
+Consultoría,Sostenibilidad,Consultor de Sostenibilidad,Tiempo completo
+Tecnología,IoT,Ingeniero IoT,Tiempo completo
+Marketing,Lealtad,Especialista en Programas de Lealtad,Tiempo completo
+Finanzas,Fintech,Analista Fintech,Tiempo completo
+Recursos Humanos,Desempeño,Especialista en Desempeño,Tiempo completo
+Ventas,Industrial,Vendedor Industrial,Tiempo completo
+Salud,Psiquiatra,Psiquiatra,Tiempo completo
+Educación,Tecnológico,Coordinador Tecnológico Educativo,Tiempo completo
+Diseño,Exhibiciones,Diseñador de Exhibiciones,Freelance
+Ingeniería,Geotécnico,Ingeniero Geotécnico,Tiempo completo
+Legal,Migración,Abogado de Migración,Tiempo completo
+Logística,Customs,Especialista en Aduanas,Tiempo completo
+Medios,Redactor,Redactor Técnico,Contrato
+Consultoría,Innovación,Consultor de Innovación,Tiempo completo
+Tecnología,Ciberseguridad,Analista de Vulnerabilidades,Tiempo completo
+Marketing,Affiliate,Gestor de Marketing de Afiliados,Freelance
+Finanzas,Evaluación,Evaluador de Proyectos,Tiempo completo
+Recursos Humanos,Digital,Especialista en HR Digital,Tiempo completo
+Ventas,Aeronáutica,Vendedor de Productos Aeronáuticos,Tiempo completo
+Salud,Epidemiólogo,Epidemiólogo,Tiempo completo
+Educación,Idiomas,Profesor de Idiomas,Tiempo completo
+Diseño,Automotriz,Diseñador Automotriz,Freelance
+Ingeniería,Textil,Ingeniero Textil,Tiempo completo
+Legal,Concursal,Abogado Concursal,Tiempo completo
+Logística,Comercio,Especialista en Comercio Exterior,Tiempo completo
+Medios,Guía,Guía de Museos,Freelance
+Consultoría,Productividad,Consultor de Productividad,Tiempo completo
+Tecnología,Testing,Ingeniero de Pruebas,Tiempo completo
+Marketing,CRM,Especialista en CRM,Tiempo completo
+Finanzas,Compliance,Especialista en Compliance,Tiempo completo
+Recursos Humanos,Analítica,Analista de People Analytics,Tiempo completo
+Ventas,Telecom,Vendedor de Telecomunicaciones,Tiempo completo
+Salud,Urólogo,Urólogo,Tiempo completo
+Educación,Arte,Profesor de Arte,Tiempo completo
+Diseño,Videojuegos,Diseñador de Videojuegos,Freelance
+Ingeniería,Acústico,Ingeniero Acústico,Tiempo completo
+Legal,Medio Ambiente,Abogado Ambiental,Tiempo completo
+Logística,Last Mile,Especialista en Last Mile,Tiempo completo
+Medios,Iluminador,Iluminador de Cine,Contrato
+Consultoría,Customer,Consultor de Experiencia del Cliente,Tiempo completo
+Tecnología,Embedded,Ingeniero Embedded,Tiempo completo
+Marketing,BTL,Especialista en Marketing BTL,Tiempo completo
+Finanzas,Finanzas,Director Financiero,Tiempo completo
+Recursos Humanos,Internacional,Especialista en RH Internacional,Tiempo completo
+Ventas,Agropecuaria,Vendedor Agropecuario,Tiempo completo
+Salud,Reumatólogo,Reumatólogo,Tiempo completo
+Educación,Filosofía,Profesor de Filosofía,Tiempo completo
+Diseño,Sostenible,Diseñador Sostenible,Freelance
+Ingeniería,Forestal,Ingeniero Forestal,Tiempo completo
+Legal,Tecnología,Abogado de Tecnología,Tiempo completo
+Logística,Lean,Especialista en Logística Lean,Tiempo completo
+Medios,Escritor,Escritor Fantasía,Freelance
+Consultoría,Supply Chain,Consultor de Cadena de Suministro,Tiempo completo
+Tecnología,Frontend,Desarrollador Frontend Senior,Tiempo completo
+Marketing,Neuromarketing,Especialista en Neuromarketing,Tiempo completo
+Finanzas,Auditoría,Auditor Externo,Contrato
+Recursos Humanos,Compensaciones,Director de Compensaciones,Tiempo completo
+Ventas,Lujo,Vendedor de Artículos de Lujo,Tiempo completo
+Salud,Endocrinólogo,Endocrinólogo,Tiempo completo
+Educación,Música,Profesor de Música,Tiempo completo
+Diseño,Tipografía,Diseñador Tipográfico,Freelance
+Ingeniería,Hidráulico,Ingeniero Hidráulico,Tiempo completo
+Legal,Deportes,Abogado Deportivo,Tiempo completo
+Logística,Reverse,Especialista en Logística Inversa,Tiempo completo
+Medios,Crítico,Crítico de Teatro,Freelance
+Consultoría,Digitalización,Consultor de Digitalización,Tiempo completo
+Tecnología,Backend,Desarrollador Backend,Tiempo completo
+Marketing,Guerrilla,Especialista en Marketing Guerrilla,Tiempo completo
+Finanzas,Finanzas,Controller Financiero,Tiempo completo
+Recursos Humanos,Relaciones,Director de Relaciones Laborales,Tiempo completo
+Ventas,Tecnología,Vendedor de Hardware,Tiempo completo
+Salud,Alergólogo,Alergólogo,Tiempo completo
+Educación,Robótica,Instructor de Robótica Educativa,Tiempo completo
+Diseño,Exposiciones,Diseñador de Exposiciones,Freelance
+Ingeniería,Materiales,Ingeniero de Materiales,Tiempo completo
+Legal,Arte,Abogado de Propiedad Artística,Tiempo completo
+Logística,Almacén,Jefe de Almacén,Tiempo completo
+Medios,Locutor,Locutor de Eventos,Freelance
+Consultoría,Excelencia,Consultor de Excelencia Operacional,Tiempo completo

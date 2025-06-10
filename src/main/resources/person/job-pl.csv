@@ -1,0 +1,261 @@
+jobArea,jobDescriptor,jobTitle,jobType
+IT,Starszy,Programista Python,Pełny etat
+Finanse,Specjalista,Księgowy,Pełny etat
+Marketing,Młodszy,Specjalista ds. Social Media,Część etatu
+HR,Kierownik,Dyrektor HR,Pełny etat
+IT,Specjalista,Administrator Sieci,Pełny etat
+Budownictwo,Inżynier,Kierownik Budowy,Pełny etat
+Zdrowie,Lekarz,Specjalista Chirurg,Pełny etat
+Edukacja,Nauczyciel,Wykładowca Akademicki,Pełny etat
+Transport,Kierowca,Kierowca Ciężarówki,Pełny etat
+Prawo,Radca,Prawnik Korporacyjny,Pełny etat
+IT,Młodszy,Tester Oprogramowania,Część etatu
+Finanse,Analityk,Analityk Finansowy,Pełny etat
+Marketing,Specjalista,Specjalista ds. Marketingu Internetowego,Pełny etat
+HR,Asystent,Asystent Działu Kadr,Część etatu
+IT,Konsultant,Konsultant IT,Pełny etat
+Budownictwo,Technik,Inżynier Projektu,Pełny etat
+Zdrowie,Pielęgniarka,Pielęgniarka Oddziałowa,Pełny etat
+Edukacja,Dyrektor,Dyrektor Szkoły,Pełny etat
+Transport,Logistyk,Specjalista ds. Logistyki,Pełny etat
+Prawo,Adwokat,Adwokat Rodzinny,Pełny etat
+IT,Architekt,Architekt Systemów,Pełny etat
+Finanse,Księgowy,Główny Księgowy,Pełny etat
+Marketing,Manager,Product Manager,Pełny etat
+HR,Specjalista,Specjalista ds. Rekrutacji,Pełny etat
+IT,DevOps,Inżynier DevOps,Pełny etat
+Budownictwo,Majster,Brygadzista,Pełny etat
+Zdrowie,Farmaceuta,Kierownik Apteki,Pełny etat
+Edukacja,Nauczyciel,Nauczyciel Matematyki,Pełny etat
+Transport,Mechanik,Mechanik Samochodowy,Pełny etat
+Prawo,Notariusz,Notariusz,Pełny etat
+IT,Specjalista,Programista Java,Pełny etat
+Finanse,Doradca,Doradca Finansowy,Pełny etat
+Marketing,Specjalista,Specjalista ds. SEO,Pełny etat
+HR,Trener,Trener Rozwoju,Pełny etat
+IT,Security,Specjalista Cyberbezpieczeństwa,Pełny etat
+Budownictwo,Geodeta,Geodeta Projektowy,Pełny etat
+Zdrowie,Dietetyk,Dietetyk Kliniczny,Pełny etat
+Edukacja,Wychowawca,Wychowawca Przedszkolny,Pełny etat
+Transport,Dyspozytor,Dyspozytor Floty,Pełny etat
+Prawo,Sędzia,Sędzia Sądu Rejonowego,Pełny etat
+IT,Data Scientist,Analityk Danych,Pełny etat
+Finanse,Kontroler,Kontroler Finansowy,Pełny etat
+Marketing,Grafik,Grafik Komputerowy,Pełny etat
+HR,Psycholog,Psycholog Pracy,Pełny etat
+IT,Support,Specjalista Pomocy Technicznej,Pełny etat
+Budownictwo,Inżynier,Inżynier Budownictwa Mostowego,Pełny etat
+Zdrowie,Ratownik,Ratownik Medyczny,Pełny etat
+Edukacja,Bibliotekarz,Bibliotekarz Naukowy,Pełny etat
+Transport,Kierowca,Kierowca Autobusu,Pełny etat
+Prawo,Prokurator,Prokurator Okręgowy,Pełny etat
+IT,Frontend,Programista React,Pełny etat
+Finanse,Audytor,Audytor Wewnętrzny,Pełny etat
+Marketing,Specjalista,Specjalista ds. Content Marketingu,Pełny etat
+HR,Koordynator,Koordynator Zespołu,Pełny etat
+IT,Backend,Programista Node.js,Pełny etat
+Budownictwo,Technolog,Technolog Budowlany,Pełny etat
+Zdrowie,Stomatolog,Stomatolog Dziecięcy,Pełny etat
+Edukacja,Dydaktyk,Dydaktyk Językowy,Pełny etat
+Transport,Spedytor,Spedytor Międzynarodowy,Pełny etat
+Prawo,Komornik,Komornik Sądowy,Pełny etat
+IT,Cloud,Inżynier Chmury,Pełny etat
+Finanse,Dyrektor,Dyrektor Finansowy,Pełny etat
+Marketing,Event Manager,Organizator Eventów,Pełny etat
+HR,Recruiter,Specjalista ds. Talent Acquisition,Pełny etat
+IT,QA,Tester Automatyczny,Pełny etat
+Budownictwo,Elektryk,Inżynier Elektryk,Pełny etat
+Zdrowie,Fizjoterapeuta,Fizjoterapeuta Sportowy,Pełny etat
+Edukacja,Korepetytor,Korepetytor Matematyki,Część etatu
+Transport,Kierowca,Kierowca Tira,Pełny etat
+Prawo,Doradca,Doradca Podatkowy,Pełny etat
+IT,Scrum Master,Scrum Master,Pełny etat
+Finanse,Specjalista,Specjalista ds. Windykacji,Pełny etat
+Marketing,Brand Manager,Menadżer Marki,Pełny etat
+HR,Doradca,Doradca Zawodowy,Pełny etat
+IT,Embedded,Programista C++,Pełny etat
+Budownictwo,Hydraulik,Hydraulik Budowlany,Pełny etat
+Zdrowie,Optyk,Optyk Okularowy,Pełny etat
+Edukacja,Logopeda,Logopeda Szkolny,Pełny etat
+Transport,Kierowca,Kierowca Ubera,Część etatu
+Prawo,Syndyk,Syndyk Masy Upadłościowej,Pełny etat
+IT,UX/UI,Projektant Interfejsów,Pełny etat
+Finanse,Planista,Planista Finansowy,Pełny etat
+Marketing,PR,Specjalista ds. Public Relations,Pełny etat
+HR,Menadżer,Menadżer HR,Pełny etat
+IT,SAP,Konsultant SAP,Pełny etat
+Budownictwo,Malarz,Malarz Budowlany,Pełny etat
+Zdrowie,Laborant,Laborant Medyczny,Pełny etat
+Edukacja,Pedagog,Pedagog Szkolny,Pełny etat
+Transport,Kierowca,Kierowca Dostawczy,Część etatu
+Prawo,Mediator,Mediator Sądowy,Pełny etat
+IT,AI,Specjalista Sztucznej Inteligencji,Pełny etat
+Finanse,Tesor,Tesor Firmowy,Pełny etat
+Marketing,Influencer,Marketingowiec Influencerowy,Część etatu
+HR,Specjalista,Specjalista ds. Benefitów,Pełny etat
+IT,Game Dev,Programista Gier,Pełny etat
+Budownictwo,Inżynier,Inżynier HVAC,Pełny etat
+Zdrowie,Psychiatra,Psychiatra Dziecięcy,Pełny etat
+Edukacja,Nauczyciel,Nauczyciel Języka Angielskiego,Pełny etat
+Transport,Kierowca,Kierowca Wózka Widłowego,Pełny etat
+Prawo,Referendarz,Referendarz Sądowy,Pełny etat
+IT,BI,Analityk Business Intelligence,Pełny etat
+Finanse,Risk Manager,Menadżer Ryzyka,Pełny etat
+Marketing,Digital,Specjalista ds. Digital Marketingu,Pełny etat
+HR,Trener,Trener Biznesu,Pełny etat
+IT,Sieciowiec,Inżynier Sieciowy,Pełny etat
+Budownictwo,Inżynier,Inżynier Konstrukcji,Pełny etat
+Zdrowie,Położna,Położna Rodzinna,Pełny etat
+Edukacja,Dyrektor,Dyrektor Przedszkola,Pełny etat
+Transport,Kierowca,Kierowca Taxi,Część etatu
+Prawo,Asystent,Asystent Prawny,Pełny etat
+IT,Fullstack,Programista Fullstack,Pełny etat
+Finanse,Kredytowy,Doradca Kredytowy,Pełny etat
+Marketing,Trade Marketing,Specjalista ds. Handlu,Pełny etat
+HR,Asystent,Asystent HR,Część etatu
+IT,DBA,Administrator Baz Danych,Pełny etat
+Budownictwo,Spawacz,Spawacz Konstrukcji,Pełny etat
+Zdrowie,Rehabilitant,Rehabilitant Medyczny,Pełny etat
+Edukacja,Nauczyciel,Nauczyciel Historii,Pełny etat
+Transport,Kierowca,Kierowca Zastępczy,Część etatu
+Prawo,Radca,Radca Prawny,Pełny etat
+IT,Embedded,Programista Embedded,Pełny etat
+Finanse,Analityk,Analityk Inwestycyjny,Pełny etat
+Marketing,Media Buyer,Specjalista ds. Zakupu Reklam,Pełny etat
+HR,Specjalista,Specjalista ds. Szkoleń,Pełny etat
+IT,Security,Penetration Tester,Pełny etat
+Budownictwo,Inżynier,Inżynier Sanitarny,Pełny etat
+Zdrowie,Diagnosta,Laborant Diagnostyki Medycznej,Pełny etat
+Edukacja,Nauczyciel,Nauczyciel WF,Pełny etat
+Transport,Kierowca,Kierowca Zbiornikowca,Pełny etat
+Prawo,Asystent,Asystent Sędziego,Pełny etat
+IT,DevOps,Specjalista Kubernetes,Pełny etat
+Finanse,Specjalista,Specjalista ds. Nieruchomości,Pełny etat
+Marketing,E-commerce,Menadżer Sklepu Internetowego,Pełny etat
+HR,Menadżer,Menadżer ds. Wynagrodzeń,Pełny etat
+IT,Frontend,Programista Angular,Pełny etat
+Budownictwo,Inżynier,Inżynier Geotechnik,Pełny etat
+Zdrowie,Lekarz,Lekarz Rodzinny,Pełny etat
+Edukacja,Nauczyciel,Nauczyciel Chemii,Pełny etat
+Transport,Kierowca,Kierowca Limuzyny,Część etatu
+Prawo,Adwokat,Adwokat Gospodarczy,Pełny etat
+IT,Backend,Programista PHP,Pełny etat
+Finanse,Kontroler,Kontroler Kosztów,Pełny etat
+Marketing,Specjalista,Specjalista ds. Marketingu Mobilnego,Pełny etat
+HR,Recruiter,Recruiter IT,Pełny etat
+IT,Data Engineer,Inżynier Danych,Pełny etat
+Budownictwo,Tynkarz,Tynkarz Budowlany,Pełny etat
+Zdrowie,Technik,Technik Elektroradiologii,Pełny etat
+Edukacja,Nauczyciel,Nauczyciel Biologii,Pełny etat
+Transport,Kierowca,Kierowca Cysterny,Pełny etat
+Prawo,Radca,Radca Podatkowy,Pełny etat
+IT,ML Engineer,Inżynier Uczenia Maszynowego,Pełny etat
+Finanse,Specjalista,Specjalista ds. Leasingu,Pełny etat
+Marketing,Specjalista,Specjalista ds. Marketingu B2B,Pełny etat
+HR,Doradca,Doradca ds. Outplacementu,Pełny etat
+IT,SysAdmin,System Administrator,Pełny etat
+Budownictwo,Inżynier,Inżynier Drogowy,Pełny etat
+Zdrowie,Asystent,Asystent Stomatologiczny,Pełny etat
+Edukacja,Nauczyciel,Nauczyciel Informatyki,Pełny etat
+Transport,Kierowca,Kierowca Dostaw Poczty,Pełny etat
+Prawo,Notariusz,Notariusz Kancelarii,Pełny etat
+IT,QA,Inżynier Jakości Oprogramowania,Pełny etat
+Finanse,Analityk,Analityk Kredytowy,Pełny etat
+Marketing,Specjalista,Specjalista ds. Marketingu Wirusowego,Pełny etat
+HR,Specjalista,Specjalista ds. Employer Brandingu,Pełny etat
+IT,Blockchain,Programista Blockchain,Pełny etat
+Budownictwo,Inżynier,Inżynier Środowiska,Pełny etat
+Zdrowie,Technik,Technik Farmaceutyczny,Pełny etat
+Edukacja,Nauczyciel,Nauczyciel Języka Niemieckiego,Pełny etat
+Transport,Kierowca,Kierowca Auta Zastępczego,Część etatu
+Prawo,Asystent,Asystent Prokuratora,Pełny etat
+IT,Frontend,Programista Vue.js,Pełny etat
+Finanse,Specjalista,Specjalista ds. Factoringu,Pełny etat
+Marketing,Specjalista,Specjalista ds. Marketingu Treści,Pełny etat
+HR,Koordynator,Koordynator ds. Rekrutacji,Pełny etat
+IT,Backend,Programista Ruby,Pełny etat
+Budownictwo,Inżynier,Inżynier Kolejowy,Pełny etat
+Zdrowie,Technik,Technik Sterylizacji Medycznej,Pełny etat
+Edukacja,Nauczyciel,Nauczyciel Języka Polskiego,Pełny etat
+Transport,Kierowca,Kierowca Wozu Policyjnego,Pełny etat
+Prawo,Radca,Radca ds. Compliance,Pełny etat
+IT,Cloud,Architekt Chmury,Pełny etat
+Finanse,Specjalista,Specjalista ds. Private Banking,Pełny etat
+Marketing,Specjalista,Specjalista ds. Marketingu Sportowego,Pełny etat
+HR,Specjalista,Specjalista ds. Diversity & Inclusion,Pełny etat
+IT,Game Dev,Game Designer,Pełny etat
+Budownictwo,Inżynier,Inżynier Telekomunikacyjny,Pełny etat
+Zdrowie,Technik,Technik Dentystyczny,Pełny etat
+Edukacja,Nauczyciel,Nauczyciel Etyki,Pełny etat
+Transport,Kierowca,Kierowca Ambulansu,Pełny etat
+Prawo,Asystent,Asystent Radcy Prawnego,Pełny etat
+IT,AI,Specjalista NLP,Pełny etat
+Finanse,Analityk,Analityk Ryzyka Kredytowego,Pełny etat
+Marketing,Specjalista,Specjalista ds. Marketingu Horeca,Pełny etat
+HR,Specjalista,Specjalista ds. HR Analytics,Pełny etat
+IT,DevSecOps,Inżynier DevSecOps,Pełny etat
+Budownictwo,Inżynier,Inżynier Instalacji Przemysłowych,Pełny etat
+Zdrowie,Technik,Technik Fizjoterapii,Pełny etat
+Edukacja,Nauczyciel,Nauczyciel Plastyki,Pełny etat
+Transport,Kierowca,Kierowca Autobusu Szkolnego,Pełny etat
+Prawo,Radca,Radca ds. Ochrony Danych,Pełny etat
+IT,Frontend,Programista TypeScript,Pełny etat
+Finanse,Specjalista,Specjalista ds. Private Equity,Pełny etat
+Marketing,Specjalista,Specjalista ds. Marketingu Politycznego,Pełny etat
+HR,Specjalista,Specjalista ds. HRIS,Pełny etat
+IT,Backend,Programista Scala,Pełny etat
+Budownictwo,Inżynier,Inżynier Wytrzymałościowy,Pełny etat
+Zdrowie,Technik,Technik Analityki Medycznej,Pełny etat
+Edukacja,Nauczyciel,Nauczyciel Religii,Pełny etat
+Transport,Kierowca,Kierowca Wozu Strażackiego,Pełny etat
+Prawo,Radca,Radca ds. Własności Intelektualnej,Pełny etat
+IT,Data Scientist,Machine Learning Engineer,Pełny etat
+Finanse,Specjalista,Specjalista ds. Funduszy UE,Pełny etat
+Marketing,Specjalista,Specjalista ds. Marketingu Medycznego,Pełny etat
+HR,Specjalista,Specjalista ds. Zmian Organizacyjnych,Pełny etat
+IT,SRE,Site Reliability Engineer,Pełny etat
+Budownictwo,Inżynier,Inżynier Akustyczny,Pełny etat
+Zdrowie,Technik,Technik Ortopeda,Pełny etat
+Edukacja,Nauczyciel,Nauczyciel Przyrody,Pełny etat
+Transport,Kierowca,Kierowca Wozu Komunalnego,Pełny etat
+Prawo,Radca,Radca ds. Regulacji Finansowych,Pełny etat
+IT,Frontend,Programista Svelte,Pełny etat
+Finanse,Specjalista,Specjalista ds. Skarbowości,Pełny etat
+Marketing,Specjalista,Specjalista ds. Marketingu Nieruchomości,Pełny etat
+HR,Specjalista,Specjalista ds. HR Business Partner,Pełny etat
+IT,Backend,Programista Go,Pełny etat
+Budownictwo,Inżynier,Inżynier Procesu,Pełny etat
+Zdrowie,Technik,Technik Stomatologiczny,Pełny etat
+Edukacja,Nauczyciel,Nauczyciel Wiedzy o Społeczeństwie,Pełny etat
+Transport,Kierowca,Kierowca Wozu Pogotowia,Pełny etat
+Prawo,Radca,Radca ds. Prawa Pracy,Pełny etat
+IT,AI,Computer Vision Engineer,Pełny etat
+Finanse,Specjalista,Specjalista ds. Private Banking,Pełny etat
+Marketing,Specjalista,Specjalista ds. Marketingu Muzycznego,Pełny etat
+HR,Specjalista,Specjalista ds. Wellbeing,Pełny etat
+IT,DevOps,Inżynier Infrastructure as Code,Pełny etat
+Budownictwo,Inżynier,Inżynier Materiałowy,Pełny etat
+Zdrowie,Technik,Technik Elektromedyczny,Pełny etat
+Edukacja,Nauczyciel,Nauczyciel Edukacji Wczesnoszkolnej,Pełny etat
+Transport,Kierowca,Kierowca Wozu Technicznego,Pełny etat
+Prawo,Radca,Radca ds. Prawa Medycznego,Pełny etat
+IT,Frontend,Programista Flutter,Pełny etat
+Finanse,Specjalista,Specjalista ds. Ryzyka Rynkowego,Pełny etat
+Marketing,Specjalista,Specjalista ds. Marketingu Gamingowego,Pełny etat
+HR,Specjalista,Specjalista ds. HR Digitalizacji,Pełny etat
+IT,Backend,Programista Kotlin,Pełny etat
+Budownictwo,Inżynier,Inżynier Kontroli Jakości,Pełny etat
+Zdrowie,Technik,Technik Rejestracji Medycznej,Pełny etat
+Edukacja,Nauczyciel,Nauczyciel Techniki,Pełny etat
+Transport,Kierowca,Kierowca Wozu Ochrony,Pełny etat
+Prawo,Radca,Radca ds. Prawa Sportowego,Pełny etat
+IT,AI,Robotics Engineer,Pełny etat
+Finanse,Specjalista,Specjalista ds. Inwestycji Alternatywnych,Pełny etat
+Marketing,Specjalista,Specjalista ds. Marketingu Lotniczego,Pełny etat
+HR,Specjalista,Specjalista ds. HR w Sektorze Publicznym,Pełny etat
+IT,DevOps,Inżynier CI/CD,Pełny etat
+Budownictwo,Inżynier,Inżynier Geodeta,Pełny etat
+Zdrowie,Technik,Technik Optyk,Pełny etat
+Edukacja,Nauczyciel,Nauczyciel Wychowania do Życia w Rodzinie,Pełny etat
+Transport,Kierowca,Kierowca Wozu Służb Mundurowych,Pełny etat
+Prawo,Radca,Radca ds. Prawa Kosmicznego,Pełny etat

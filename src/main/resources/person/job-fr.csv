@@ -1,0 +1,225 @@
+jobArea,jobDescriptor,jobTitle,jobType
+Technologie,Sénior,Ingénieur Logiciel,Temps plein
+Marketing,Junior,Spécialiste des Médias Sociaux,Temps partiel
+Finance,Analyste,Comptable,Temps plein
+Ressources Humaines,Assistant,Recruteur,CDD
+Ventes,Représentant,Commercial,Temps plein
+Santé,Infirmier,Infirmier Clinicien,Temps plein
+Éducation,Professeur,Professeur des Écoles,Temps plein
+Design,Créatif,Designer Graphique,Freelance
+Ingénierie,Junior,Ingénieur Civil,Temps plein
+Juridique,Avocat,Avocat d'Affaires,Temps plein
+Logistique,Coordinateur,Superviseur d'Entrepôt,Temps plein
+Médias,Éditeur,Éditeur de Contenu,CDD
+Consultation,Consultant,Consultant en Stratégie,Freelance
+Administration,Assistant,Assistant Administratif,Temps partiel
+Technologie,Spécialiste,Administrateur Système,Temps plein
+Architecture,Architecte,Architecte d'Intérieur,Temps plein
+Banque,Conseiller,Conseiller Financier,Temps plein
+Manufacture,Superviseur,Superviseur de Production,Temps plein
+Tourisme,Guide,Guide Touristique,Freelance
+Recherche,Chercheur,Chercheur Scientifique,Temps plein
+Technologie,Développeur,Développeur Frontend,CDD
+Santé,Médecin,Médecin Généraliste,Temps plein
+Éducation,Enseignant,Professeur de Lycée,Temps plein
+Design,Illustrateur,Illustrateur Digital,Freelance
+Ingénierie,Ingénieur,Ingénieur Mécanique,Temps plein
+Juridique,Parajuriste,Assistant Juridique,Temps partiel
+Logistique,Opérateur,Opérateur Logistique,Temps plein
+Médias,Journaliste,Journaliste Sportif,CDD
+Consultation,Sénior,Consultant Stratégique,Temps plein
+Technologie,Technicien,Technicien Support IT,Temps partiel
+Marketing,Digital,Spécialiste SEO,Temps plein
+Finance,Auditeur,Auditeur Interne,Temps plein
+Ressources Humaines,Directeur,Directeur RH,Temps plein
+Ventes,Gestionnaire,Responsable Commercial,Temps plein
+Santé,Thérapeute,Ergothérapeute,Temps plein
+Éducation,Maître,Professeur d'Anglais,Temps plein
+Design,Web,Designer Web,Freelance
+Ingénierie,Électrique,Ingénieur Électrique,Temps plein
+Juridique,Notaire,Notaire,Temps plein
+Logistique,Chauffeur,Chauffeur Routier,Temps plein
+Médias,Photographe,Photographe Professionnel,Freelance
+Consultation,IT,Consultant TI,CDD
+Technologie,DevOps,Ingénieur DevOps,Temps plein
+Marketing,Contenu,Rédacteur Publicitaire,Freelance
+Finance,Trésorier,Trésorier d'Entreprise,Temps plein
+Ressources Humaines,Spécialiste,Gestionnaire de Paie,Temps plein
+Ventes,Technicien,Vendeur Technique,Temps plein
+Santé,Psychologue,Psychologue Clinicien,Temps plein
+Éducation,Tuteur,Formateur en Ligne,Freelance
+Design,3D,Modeleur 3D,CDD
+Ingénierie,Industriel,Ingénieur Industriel,Temps plein
+Juridique,Conseiller,Conseiller Juridique,Temps partiel
+Logistique,Magasinier,Magasinier,Temps plein
+Médias,Animateur,Animateur Radio,CDD
+Consultation,Financier,Consultant Financier,Temps plein
+Technologie,QA,Analyste QA,Temps plein
+Marketing,E-commerce,Spécialiste E-commerce,Temps plein
+Finance,Analyste,Analyste de Crédit,Temps plein
+Ressources Humaines,Formateur,Formateur Corporate,CDD
+Ventes,Télémarketing,Téléconseiller,Temps partiel
+Santé,Nutritionniste,Diététicien Clinicien,Temps plein
+Éducation,Chercheur,Chercheur en Éducation,Temps plein
+Design,Graphique,Designer d'Emballage,Freelance
+Ingénierie,Chimique,Ingénieur Chimiste,Temps plein
+Juridique,Procureur,Assistant Juridique,Temps plein
+Logistique,Planificateur,Planificateur de Transport,Temps plein
+Médias,Producteur,Producteur Audiovisuel,CDD
+Consultation,RRH,Consultant en RH,Temps plein
+Technologie,Support,Technicien Helpdesk,Temps partiel
+Marketing,Publicité,Spécialiste en Publicité,Temps plein
+Finance,Gestionnaire,Gestionnaire de Portefeuille,Temps plein
+Ressources Humaines,Analyste,Analyste en Rémunération,Temps plein
+Ventes,Distributeur,Représentant Commercial,Temps plein
+Santé,Physiothérapeute,Kinésithérapeute,Temps plein
+Éducation,Coordinateur,Coordinateur Pédagogique,Temps plein
+Design,UI/UX,Designer UI/UX,Freelance
+Ingénierie,Minier,Ingénieur des Mines,Temps plein
+Juridique,Médiateur,Médiateur Familial,Temps partiel
+Logistique,Import,Spécialiste en Importation,Temps plein
+Médias,Critique,Critique Cinématographique,Freelance
+Consultation,Marketing,Consultant en Marketing,Temps plein
+Technologie,Sécurité,Expert en Cybersécurité,Temps plein
+Marketing,Études,Analyste de Marché,Temps plein
+Finance,Comptable,Comptable Sénior,Temps plein
+Ressources Humaines,Recruteur,Recruteur IT,CDD
+Ventes,Grossiste,Vendeur en Gros,Temps plein
+Santé,Optométriste,Optométriste,Temps plein
+Éducation,Conseiller,Conseiller d'Orientation,Temps partiel
+Design,Mode,Designer de Mode,Freelance
+Ingénierie,Environnement,Ingénieur Environnemental,Temps plein
+Juridique,Pénal,Avocat Pénaliste,Temps plein
+Logistique,Export,Spécialiste en Exportation,Temps plein
+Médias,Scénariste,Scénariste TV,CDD
+Consultation,Opérations,Consultant Opérationnel,Temps plein
+Technologie,Data,Ingénieur Data,Temps plein
+Marketing,Marque,Spécialiste en Branding,Temps plein
+Finance,Risques,Analyste des Risques,Temps plein
+Ressources Humaines,Bénéfices,Spécialiste en Avantages Sociaux,Temps plein
+Ventes,Automobile,Vendeur Automobile,Temps plein
+Santé,Pédiatre,Pédiatre,Temps plein
+Éducation,Inspecteur,Inspecteur Académique,Temps plein
+Design,Intérieur,Designer d'Intérieur,Freelance
+Ingénierie,Télécoms,Ingénieur Télécoms,Temps plein
+Juridique,Travail,Avocat en Droit du Travail,Temps plein
+Logistique,Supply Chain,Spécialiste Supply Chain,Temps plein
+Médias,Animateur,Animateur 3D,CDD
+Consultation,Technologique,Consultant Technologique,Temps plein
+Technologie,Cloud,Expert Cloud,Temps plein
+Marketing,Digital,Community Manager,Freelance
+Finance,Planification,Analyste Financier,Temps plein
+Ressources Humaines,Relations,Gestionnaire des Relations Sociales,Temps plein
+Ventes,Pharmaceutique,Vendeur en Pharmacie,Temps plein
+Santé,Cardiologue,Cardiologue,Temps plein
+Éducation,Orientateur,Conseiller d'Orientation,Temps partiel
+Design,Produit,Designer de Produit,Freelance
+Ingénierie,Aérospatial,Ingénieur Aérospatial,Temps plein
+Juridique,International,Avocat International,Temps plein
+Logistique,Achats,Spécialiste Achats,Temps plein
+Médias,Traducteur,Traducteur Professionnel,Freelance
+Consultation,Qualité,Consultant Qualité,Temps plein
+Technologie,IA,Expert en Intelligence Artificielle,Temps plein
+Marketing,Événements,Organisateur d'Événements,CDD
+Finance,Fiscal,Conseiller Fiscal,Temps plein
+Ressources Humaines,Culture,Spécialiste Culture d'Entreprise,Temps plein
+Ventes,Immobilier,Agent Immobilier,Temps plein
+Santé,Dentiste,Dentiste,Temps plein
+Éducation,Directeur,Directeur d'École,Temps plein
+Design,Multimédia,Designer Multimédia,Freelance
+Ingénierie,Pétrole,Ingénieur Pétrolier,Temps plein
+Juridique,Fiscal,Avocat Fiscaliste,Temps plein
+Logistique,Distribution,Coordinateur Logistique,Temps plein
+Médias,Éditeur,Éditeur Littéraire,CDD
+Consultation,Transformation,Consultant Digital,Temps plein
+Technologie,Blockchain,Développeur Blockchain,Temps plein
+Marketing,Contenu,Directeur de Contenu,Temps plein
+Finance,Bourse,Analyste Financier,Temps plein
+Ressources Humaines,Diversité,Responsable Diversité,Temps plein
+Ventes,Tech,Vendeur Solutions IT,Temps plein
+Santé,Gynécologue,Gynécologue,Temps plein
+Éducation,Formateur,Formateur en Entreprise,CDD
+Design,Industriel,Designer Industriel,Freelance
+Ingénierie,Robotique,Ingénieur en Robotique,Temps plein
+Juridique,Propriété,Avocat en Propriété Intellectuelle,Temps plein
+Logistique,Inventaire,Gestionnaire de Stocks,Temps plein
+Médias,Podcasteur,Créateur de Podcasts,Freelance
+Consultation,Stratégie,Consultant Stratégique Sénior,Temps plein
+Technologie,VR,Développeur Réalité Virtuelle,Temps plein
+Marketing,Influence,Gestionnaire d'Influenceurs,CDD
+Finance,Microfinance,Expert en Microfinance,Temps plein
+Ressources Humaines,Talent,Directeur des Talents,Temps plein
+Ventes,Consultant,Vendeur Conseil,Temps plein
+Santé,Neurologue,Neurologue,Temps plein
+Éducation,Évaluateur,Évaluateur Pédagogique,Temps plein
+Design,Bijoux,Designer de Bijoux,Freelance
+Ingénierie,Naval,Ingénieur Naval,Temps plein
+Juridique,Contrats,Spécialiste en Contrats,Temps plein
+Logistique,Transport,Planificateur Transport,Temps plein
+Médias,Critique,Critique Culinaire,Freelance
+Consultation,Durabilité,Consultant en Durabilité,Temps plein
+Technologie,IoT,Ingénieur IoT,Temps plein
+Marketing,Fidélisation,Spécialiste Fidélisation,Temps plein
+Finance,Fintech,Analyste Fintech,Temps plein
+Ressources Humaines,Performance,Responsable Performance,Temps plein
+Ventes,Industriel,Vendeur Industriel,Temps plein
+Santé,Psychiatre,Psychiatre,Temps plein
+Éducation,Tech,Coordinateur EdTech,Temps plein
+Design,Exposition,Designer d'Exposition,Freelance
+Ingénierie,Géotechnique,Ingénieur Géotechnique,Temps plein
+Juridique,Migration,Avocat en Immigration,Temps plein
+Logistique,Douane,Spécialiste Douanes,Temps plein
+Médias,Rédacteur,Rédacteur Technique,CDD
+Consultation,Innovation,Consultant en Innovation,Temps plein
+Technologie,Sécurité,Analyste Sécurité,Temps plein
+Marketing,Affiliation,Gestionnaire Affiliation,Freelance
+Finance,Évaluation,Évaluateur de Projets,Temps plein
+Ressources Humaines,Digital,Responsable RH Digital,Temps plein
+Ventes,Aéronautique,Vendeur Aéronautique,Temps plein
+Santé,Épidémiologiste,Épidémiologiste,Temps plein
+Éducation,Langues,Professeur de Langues,Temps plein
+Design,Automobile,Designer Automobile,Freelance
+Ingénierie,Textile,Ingénieur Textile,Temps plein
+Juridique,Faillite,Avocat en Faillite,Temps plein
+Logistique,Commerce,Spécialiste Commerce International,Temps plein
+Médias,Guide,Guide de Musée,Freelance
+Consultation,Productivité,Consultant Productivité,Temps plein
+Technologie,Test,Ingénieur Tests,Temps plein
+Marketing,CRM,Spécialiste CRM,Temps plein
+Finance,Conformité,Responsable Conformité,Temps plein
+Ressources Humaines,Analytique,Analyste RH,Temps plein
+Ventes,Télécoms,Vendeur Télécoms,Temps plein
+Santé,Urologue,Urologue,Temps plein
+Éducation,Arts,Professeur d'Arts,Temps plein
+Design,Jeux,Designer de Jeux Vidéo,Freelance
+Ingénierie,Acoustique,Ingénieur Acoustique,Temps plein
+Juridique,Environnement,Avocat Environnemental,Temps plein
+Logistique,Last Mile,Spécialiste Logistique Last Mile,Temps plein
+Médias,Éclairagiste,Éclairagiste Cinéma,CDD
+Consultation,Client,Consultant Expérience Client,Temps plein
+Technologie,Embarqué,Ingénieur Embarqué,Temps plein
+Marketing,BTL,Spécialiste Marketing BTL,Temps plein
+Finance,Finance,Directeur Financier,Temps plein
+Ressources Humaines,International,Responsable RH International,Temps plein
+Ventes,Agroalimentaire,Vendeur Agroalimentaire,Temps plein
+Santé,Rhumatologue,Rhumatologue,Temps plein
+Éducation,Philosophie,Professeur de Philosophie,Temps plein
+Design,Durable,Designer Durable,Freelance
+Ingénierie,Forestier,Ingénieur Forestier,Temps plein
+Juridique,Tech,Avocat en Tech,Temps plein
+Logistique,Lean,Expert Logistique Lean,Temps plein
+Médias,Écrivain,Écrivain de Fantasy,Freelance
+Consultation,Supply Chain,Consultant Supply Chain,Temps plein
+Technologie,Frontend,Développeur Frontend Sénior,Temps plein
+Marketing,Neuromarketing,Expert Neuromarketing,Temps plein
+Finance,Audit,Auditeur Externe,CDD
+Ressources Humaines,Rémunération,Directeur Rémunération,Temps plein
+Ventes,Luxe,Vendeur de Luxe,Temps plein
+Santé,Endocrinologue,Endocrinologue,Temps plein
+Éducation,Musique,Professeur de Musique,Temps plein
+Design,Typographie,Designer Typographique,Freelance
+Ingénierie,Hydraulique,Ingénieur Hydraulique,Temps plein
+Juridique,Sport,Avocat du Sport,Temps plein
+Logistique,Inverse,Spécialiste Logistique Inverse,Temps plein
+Médias,Critique,Critique Théâtre,Freelance
+Consultation,Digitalisation,Consultant

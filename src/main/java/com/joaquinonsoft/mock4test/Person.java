@@ -1,11 +1,16 @@
 package com.joaquinonsoft.mock4test;
 
 import com.joaquinonsoft.mock4test.dto.FamilyName;
+import com.joaquinonsoft.mock4test.dto.Job;
 import com.joaquinonsoft.mock4test.dto.Name;
+import com.joaquinonsoft.mock4test.identitycard.IIdentityCard;
+import com.joaquinonsoft.mock4test.identitycard.IdentityCardFactory;
 import com.joaquinonsoft.mock4test.util.DateOfBirthGenerator;
 import com.joaquinonsoft.mock4test.util.RndUtil;
 import lombok.AccessLevel;
 import lombok.Getter;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.io.FileNotFoundException;
 import java.time.LocalDate;
@@ -15,22 +20,28 @@ import java.util.Locale;
 @Getter
 public class Person extends Field{
     @Getter(AccessLevel.NONE)
+    private final static Logger log = LoggerFactory.getLogger(Person.class);
+
+    @Getter(AccessLevel.NONE)
     private volatile static List<FamilyName> familyNames;
     @Getter(AccessLevel.NONE)
     private volatile static List<Name> femaleNames;
     @Getter(AccessLevel.NONE)
     private volatile static List<Name> maleNames;
+    @Getter(AccessLevel.NONE)
+    private volatile static List<Job> jobs;
 
     private String bio;
     private String firstName;
     private String fullName;
+    private String lastName;
+    private String secondLastName;
+    private String nationalIdentityCard;
     private String gender;
     private String jobArea;
     private String jobDescriptor;
     private String jobTitle;
     private String jobType;
-    private String lastName;
-    private String secondLastName;
     private String middleName;
     private final Sex sex;
     private final ZodiacSign zodiacSign;
@@ -43,7 +54,7 @@ public class Person extends Field{
     public Person(Locale locale) throws Mock4TestException {
         super(locale);
 
-        initNamesDictionary();
+        initDictionaries();
 
         if(familyNames != null){
             lastName = getFamilyName();
@@ -74,9 +85,18 @@ public class Person extends Field{
             }
         }
 
-        initFullName();
+        //Init national identity card
+        try {
+            IIdentityCard idCard = IdentityCardFactory.getIdentityCard(locale);
+            nationalIdentityCard = idCard.generateId();
+        } catch (IllegalArgumentException e) {
+            log.error("Identity card generation: ", e);
+        }
 
-        birthdate = DateOfBirthGenerator.generateRandomDateOfBirth();
+        initFullName();
+        initJob();
+
+        birthdate = DateOfBirthGenerator.generate();
         zodiacSign = ZodiacSign.getZodiacSignFromDate(birthdate);
     }
 
@@ -84,7 +104,7 @@ public class Person extends Field{
 
 
     @SuppressWarnings("unchecked")
-    private void initNamesDictionary() throws Mock4TestException {
+    private void initDictionaries() throws Mock4TestException {
         if(maleNames == null) {
             synchronized (this) {
                 if(maleNames == null) {
@@ -93,6 +113,7 @@ public class Person extends Field{
                         femaleNames = (List<Name>) loadCSV("person/female-name", Name.class);
                         familyNames = (List<FamilyName>) loadCSV("person/family-name", FamilyName.class);
 
+                        jobs = (List<Job>) loadCSV("person/job", Job.class);
                     } catch (FileNotFoundException e) {
                         throw new Mock4TestException(e);
                     }
@@ -118,17 +139,26 @@ public class Person extends Field{
         fullName = fullN.toString();
     }
 
-    private static String getFamilyName() {
-        return familyNames.get(RndUtil.getInstance().nextIntInRange(0, familyNames.size() - 1)).getFamilyName();
+    private void initJob(){
+        if(jobs != null) {
+            Job job = jobs.get(RndUtil.getInstance().nextIntInRange(0, jobs.size() - 1));
+
+            jobArea = job.getJobArea();
+            jobDescriptor = job.getJobDescriptor();
+            jobTitle = job.getJobTitle();
+            jobType = job.getJobType();
+        }
+    }
+
+    private String getFamilyName() {
+        return familyNames == null? "" : familyNames.get(RndUtil.getInstance().nextIntInRange(0, familyNames.size() - 1)).getFamilyName();
     }
 
     private String getFemaleName() {
-        return femaleNames.get(RndUtil.getInstance().nextIntInRange(0, femaleNames.size() - 1)).getName();
+        return femaleNames == null? "" : femaleNames.get(RndUtil.getInstance().nextIntInRange(0, femaleNames.size() - 1)).getName();
     }
 
     private String getMaleName() {
-        return maleNames.get(RndUtil.getInstance().nextIntInRange(0, maleNames.size() - 1)).getName();
+        return maleNames == null? "" : maleNames.get(RndUtil.getInstance().nextIntInRange(0, maleNames.size() - 1)).getName();
     }
-
-
 }

@@ -1,0 +1,238 @@
+jobArea,jobDescriptor,jobTitle,jobType
+Tecnologia,Sênior,Desenvolvedor de Software,Tempo integral
+Marketing,Júnior,Especialista em Mídias Sociais,Meio período
+Finanças,Analista,Contador,Tempo integral
+Recursos Humanos,Assistente,Recrutador,Contrato
+Vendas,Representante,Consultor de Vendas,Tempo integral
+Saúde,Enfermeiro,Enfermeiro Clínico,Tempo integral
+Educação,Professor,Professor do Ensino Fundamental,Tempo integral
+Design,Criativo,Designer Gráfico,Freelance
+Engenharia,Júnior,Engenheiro Civil,Tempo integral
+Jurídico,Advogado,Advogado Empresarial,Tempo integral
+Logística,Coordenador,Supervisor de Armazém,Tempo integral
+Mídia,Editor,Editor de Conteúdo,Contrato
+Consultoria,Consultor,Consultor Estratégico,Freelance
+Administração,Assistente,Assistente Administrativo,Meio período
+Tecnologia,Especialista,Administrador de Sistemas,Tempo integral
+Arquitetura,Arquiteto,Arquiteto de Interiores,Tempo integral
+Banco,Consultor,Consultor Financeiro,Tempo integral
+Manufatura,Supervisor,Supervisor de Produção,Tempo integral
+Turismo,Guia,Guia Turístico,Freelance
+Pesquisa,Pesquisador,Pesquisador Científico,Tempo integral
+Tecnologia,Desenvolvedor,Desenvolvedor Front-end,Contrato
+Saúde,Médico,Médico Generalista,Tempo integral
+Educação,Docente,Professor do Ensino Médio,Tempo integral
+Design,Ilustrador,Ilustrador Digital,Freelance
+Engenharia,Engenheiro,Engenheiro Mecânico,Tempo integral
+Jurídico,Paralegal,Assistente Jurídico,Meio período
+Logística,Operador,Operador Logístico,Tempo integral
+Mídia,Jornalista,Jornalista Esportivo,Contrato
+Consultoria,Sênior,Consultor Sênior,Tempo integral
+Tecnologia,Técnico,Técnico de Suporte,Meio período
+Marketing,Digital,Especialista em SEO,Tempo integral
+Finanças,Auditor,Auditor Interno,Tempo integral
+Recursos Humanos,Gerente,Gerente de RH,Tempo integral
+Vendas,Gerente,Gerente de Vendas,Tempo integral
+Saúde,Terapeuta,Terapeuta Ocupacional,Tempo integral
+Educação,Professor,Professor de Inglês,Tempo integral
+Design,Web,Designer Web,Freelance
+Engenharia,Elétrica,Engenheiro Elétrico,Tempo integral
+Jurídico,Tabelião,Tabelião,Tempo integral
+Logística,Motorista,Motorista de Caminhão,Tempo integral
+Mídia,Fotógrafo,Fotógrafo Profissional,Freelance
+Consultoria,TI,Consultor de TI,Contrato
+Tecnologia,DevOps,Engenheiro DevOps,Tempo integral
+Marketing,Conteúdo,Redator Publicitário,Freelance
+Finanças,Tesoureiro,Tesoureiro Corporativo,Tempo integral
+Recursos Humanos,Especialista,Especialista em Folha,Tempo integral
+Vendas,Técnico,Vendedor Técnico,Tempo integral
+Saúde,Psicólogo,Psicólogo Clínico,Tempo integral
+Educação,Tutor,Tutor Online,Freelance
+Design,3D,Modelador 3D,Contrato
+Engenharia,Industrial,Engenheiro Industrial,Tempo integral
+Jurídico,Consultor,Consultor Jurídico,Meio período
+Logística,Almoxarife,Almoxarife,Tempo integral
+Mídia,Locutor,Locutor de Rádio,Contrato
+Consultoria,Financeira,Consultor Financeiro,Tempo integral
+Tecnologia,QA,Analista de QA,Tempo integral
+Marketing,E-commerce,Especialista em E-commerce,Tempo integral
+Finanças,Analista,Analista de Crédito,Tempo integral
+Recursos Humanos,Treinador,Treinador Corporativo,Contrato
+Vendas,Telemarketing,Operador de Telemarketing,Meio período
+Saúde,Nutricionista,Nutricionista Clínico,Tempo integral
+Educação,Pesquisador,Pesquisador Educacional,Tempo integral
+Design,Gráfico,Designer de Embalagens,Freelance
+Engenharia,Química,Engenheiro Químico,Tempo integral
+Jurídico,Procurador,Assistente Jurídico,Tempo integral
+Logística,Planejador,Planejador de Transportes,Tempo integral
+Mídia,Produtor,Produtor Audiovisual,Contrato
+Consultoria,RH,Consultor de RH,Tempo integral
+Tecnologia,Suporte,Técnico de Helpdesk,Meio período
+Marketing,Publicidade,Especialista em Publicidade,Tempo integral
+Finanças,Gestor,Gestor de Portfólio,Tempo integral
+Recursos Humanos,Analista,Analista de Remuneração,Tempo integral
+Vendas,Distribuidor,Representante de Vendas,Tempo integral
+Saúde,Fisioterapeuta,Fisioterapeuta,Tempo integral
+Educação,Coordenador,Coordenador Pedagógico,Tempo integral
+Design,UI/UX,Designer UI/UX,Freelance
+Engenharia,Mineração,Engenheiro de Minas,Tempo integral
+Jurídico,Mediador,Mediador Familiar,Meio período
+Logística,Importação,Especialista em Importação,Tempo integral
+Mídia,Crítico,Crítico de Cinema,Freelance
+Consultoria,Marketing,Consultor de Marketing,Tempo integral
+Tecnologia,Segurança,Especialista em Cibersegurança,Tempo integral
+Marketing,Pesquisa,Analista de Mercado,Tempo integral
+Finanças,Contador,Contador Sênior,Tempo integral
+Recursos Humanos,Recrutador,Recrutador de TI,Contrato
+Vendas,Atacado,Vendedor de Atacado,Tempo integral
+Saúde,Oftalmologista,Oftalmologista,Tempo integral
+Educação,Orientador,Orientador Educacional,Meio período
+Design,Moda,Designer de Moda,Freelance
+Engenharia,Ambiental,Engenheiro Ambiental,Tempo integral
+Jurídico,Penal,Advogado Criminalista,Tempo integral
+Logística,Exportação,Especialista em Exportação,Tempo integral
+Mídia,Roteirista,Roteirista de TV,Contrato
+Consultoria,Operações,Consultor de Operações,Tempo integral
+Tecnologia,Dados,Engenheiro de Dados,Tempo integral
+Marketing,Marca,Especialista em Branding,Tempo integral
+Finanças,Risco,Analista de Riscos,Tempo integral
+Recursos Humanos,Benefícios,Especialista em Benefícios,Tempo integral
+Vendas,Automotivo,Vendedor de Automóveis,Tempo integral
+Saúde,Pediatra,Pediatra,Tempo integral
+Educação,Inspetor,Inspetor Escolar,Tempo integral
+Design,Interiores,Designer de Interiores,Freelance
+Engenharia,Telecomunicações,Engenheiro de Telecomunicações,Tempo integral
+Jurídico,Trabalhista,Advogado Trabalhista,Tempo integral
+Logística,Cadeia de Suprimentos,Especialista em Supply Chain,Tempo integral
+Mídia,Animador,Animador 3D,Contrato
+Consultoria,Tecnologia,Consultor de Tecnologia,Tempo integral
+Tecnologia,Cloud,Especialista em Cloud,Tempo integral
+Marketing,Digital,Gestor de Comunidade,Freelance
+Finanças,Planejamento,Analista Financeiro,Tempo integral
+Recursos Humanos,Relações,Analista de Relações,Tempo integral
+Vendas,Farmacêutico,Representante Farmacêutico,Tempo integral
+Saúde,Cardiologista,Cardiologista,Tempo integral
+Educação,Orientador,Orientador Vocacional,Meio período
+Design,Produto,Designer de Produto,Freelance
+Engenharia,Aeroespacial,Engenheiro Aeroespacial,Tempo integral
+Jurídico,Internacional,Advogado Internacional,Tempo integral
+Logística,Compras,Especialista em Compras,Tempo integral
+Mídia,Tradutor,Tradutor Profissional,Freelance
+Consultoria,Qualidade,Consultor de Qualidade,Tempo integral
+Tecnologia,IA,Especialista em IA,Tempo integral
+Marketing,Eventos,Organizador de Eventos,Contrato
+Finanças,Tributário,Consultor Tributário,Tempo integral
+Recursos Humanos,Cultura,Especialista em Cultura,Tempo integral
+Vendas,Imobiliário,Corretor de Imóveis,Tempo integral
+Saúde,Dentista,Dentista,Tempo integral
+Educação,Diretor,Diretor Escolar,Tempo integral
+Design,Multimídia,Designer Multimídia,Freelance
+Engenharia,Petróleo,Engenheiro de Petróleo,Tempo integral
+Jurídico,Tributário,Advogado Tributário,Tempo integral
+Logística,Distribuição,Coordenador de Distribuição,Tempo integral
+Mídia,Editor,Editor de Livros,Contrato
+Consultoria,Transformação,Consultor de Transformação Digital,Tempo integral
+Tecnologia,Blockchain,Desenvolvedor Blockchain,Tempo integral
+Marketing,Conteúdo,Gestor de Conteúdo,Tempo integral
+Finanças,Bolsa,Analista Financeiro,Tempo integral
+Recursos Humanos,Diversidade,Especialista em Diversidade,Tempo integral
+Vendas,Tecnologia,Vendedor de TI,Tempo integral
+Saúde,Ginecologista,Ginecologista,Tempo integral
+Educação,Instrutor,Instrutor Corporativo,Contrato
+Design,Industrial,Designer Industrial,Freelance
+Engenharia,Robótica,Engenheiro de Robótica,Tempo integral
+Jurídico,Propriedade Intelectual,Advogado de PI,Tempo integral
+Logística,Inventário,Gestor de Inventário,Tempo integral
+Mídia,Podcaster,Criador de Podcasts,Freelance
+Consultoria,Estratégia,Consultor Estratégico Sênior,Tempo integral
+Tecnologia,VR,Desenvolvedor de Realidade Virtual,Tempo integral
+Marketing,Influenciador,Gestor de Influenciadores,Contrato
+Finanças,Microfinanças,Especialista em Microfinanças,Tempo integral
+Recursos Humanos,Talento,Gestor de Talentos,Tempo integral
+Vendas,Consultor,Vendedor Consultivo,Tempo integral
+Saúde,Neurologista,Neurologista,Tempo integral
+Educação,Avaliador,Avaliador Educacional,Tempo integral
+Design,Joias,Designer de Joias,Freelance
+Engenharia,Naval,Engenheiro Naval,Tempo integral
+Jurídico,Contratos,Especialista em Contratos,Tempo integral
+Logística,Transporte,Planejador de Transporte,Tempo integral
+Mídia,Crítico,Crítico Gastronômico,Freelance
+Consultoria,Sustentabilidade,Consultor de Sustentabilidade,Tempo integral
+Tecnologia,IoT,Engenheiro de IoT,Tempo integral
+Marketing,Fidelização,Especialista em Fidelização,Tempo integral
+Finanças,Fintech,Analista de Fintech,Tempo integral
+Recursos Humanos,Desempenho,Gestor de Desempenho,Tempo integral
+Vendas,Industrial,Vendedor Industrial,Tempo integral
+Saúde,Psiquiatra,Psiquiatra,Tempo integral
+Educação,Tecnologia,Coordenador de Tecnologia Educacional,Tempo integral
+Design,Exposições,Designer de Exposições,Freelance
+Engenharia,Geotécnica,Engenheiro Geotécnico,Tempo integral
+Jurídico,Migração,Advogado de Imigração,Tempo integral
+Logística,Alfândega,Especialista em Alfândega,Tempo integral
+Mídia,Redator,Redator Técnico,Contrato
+Consultoria,Inovação,Consultor de Inovação,Tempo integral
+Tecnologia,Segurança,Analista de Segurança,Tempo integral
+Marketing,Afiliados,Gestor de Afiliados,Freelance
+Finanças,Avaliação,Avaliador de Projetos,Tempo integral
+Recursos Humanos,Digital,Gestor de RH Digital,Tempo integral
+Vendas,Aeronáutica,Vendedor da Indústria Aeronáutica,Tempo integral
+Saúde,Epidemiologista,Epidemiologista,Tempo integral
+Educação,Idiomas,Professor de Idiomas,Tempo integral
+Design,Automotivo,Designer Automotivo,Freelance
+Engenharia,Têxtil,Engenheiro Têxtil,Tempo integral
+Jurídico,Falência,Advogado de Falências,Tempo integral
+Logística,Comércio,Especialista em Comércio Exterior,Tempo integral
+Mídia,Guia,Guia de Museu,Freelance
+Consultoria,Produtividade,Consultor de Produtividade,Tempo integral
+Tecnologia,Testes,Engenheiro de Testes,Tempo integral
+Marketing,CRM,Especialista em CRM,Tempo integral
+Finanças,Compliance,Especialista em Compliance,Tempo integral
+Recursos Humanos,Análise,Analista de RH,Tempo integral
+Vendas,Telecomunicações,Vendedor de Telecomunicações,Tempo integral
+Saúde,Urologista,Urologista,Tempo integral
+Educação,Artes,Professor de Artes,Tempo integral
+Design,Jogos,Designer de Jogos,Freelance
+Engenharia,Acústica,Engenheiro Acústico,Tempo integral
+Jurídico,Ambiental,Advogado Ambiental,Tempo integral
+Logística,Última Milha,Especialista em Última Milha,Tempo integral
+Mídia,Iluminador,Iluminador de Cinema,Contrato
+Consultoria,Cliente,Consultor de Experiência do Cliente,Tempo integral
+Tecnologia,Embarcado,Engenheiro de Sistemas Embarcados,Tempo integral
+Marketing,BTL,Especialista em Marketing BTL,Tempo integral
+Finanças,Finanças,Diretor Financeiro,Tempo integral
+Recursos Humanos,Internacional,Gestor de RH Internacional,Tempo integral
+Vendas,Agropecuária,Vendedor Agropecuário,Tempo integral
+Saúde,Reumatologista,Reumatologista,Tempo integral
+Educação,Filosofia,Professor de Filosofia,Tempo integral
+Design,Sustentável,Designer Sustentável,Freelance
+Engenharia,Florestal,Engenheiro Florestal,Tempo integral
+Jurídico,Tecnologia,Advogado de Tecnologia,Tempo integral
+Logística,Lean,Especialista em Lean,Tempo integral
+Mídia,Escritor,Escritor de Fantasia,Freelance
+Consultoria,Cadeia de Suprimentos,Consultor de Supply Chain,Tempo integral
+Tecnologia,Frontend,Desenvolvedor Frontend Sênior,Tempo integral
+Marketing,Neuromarketing,Especialista em Neuromarketing,Tempo integral
+Finanças,Auditoria,Auditor Externo,Contrato
+Recursos Humanos,Remuneração,Gestor de Remuneração,Tempo integral
+Vendas,Luxo,Vendedor de Artigos de Luxo,Tempo integral
+Saúde,Endocrinologista,Endocrinologista,Tempo integral
+Educação,Música,Professor de Música,Tempo integral
+Design,Tipografia,Designer Tipográfico,Freelance
+Engenharia,Hidráulica,Engenheiro Hidráulico,Tempo integral
+Jurídico,Esportivo,Advogado Esportivo,Tempo integral
+Logística,Reversa,Especialista em Logística Reversa,Tempo integral
+Mídia,Crítico,Crítico de Teatro,Freelance
+Consultoria,Digitalização,Consultor de Digitalização,Tempo integral
+Tecnologia,Backend,Desenvolvedor Backend,Tempo integral
+Marketing,Guerrilha,Especialista em Marketing de Guerrilha,Tempo integral
+Finanças,Controle,Controlador Financeiro,Tempo integral
+Recursos Humanos,Relações,Gestor de Relações,Tempo integral
+Vendas,Hardware,Vendedor de Hardware,Tempo integral
+Saúde,Alergologista,Alergologista,Tempo integral
+Educação,Robótica,Instrutor de Robótica,Tempo integral
+Design,Exposição,Designer de Exposição,Freelance
+Engenharia,Materiais,Engenheiro de Materiais,Tempo integral
+Jurídico,Arte,Advogado de Arte,Tempo integral
+Logística,Depósito,Gestor de Depósito,Tempo integral
+Mídia,Apresentador,Apresentador de Eventos,Freelance
+Consultoria,Excelência,Consultor de Excelência,Tempo integral

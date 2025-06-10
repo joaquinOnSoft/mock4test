@@ -3,7 +3,7 @@ package com.joaquinonsoft.mock4test.identitycard;
 import java.util.Locale;
 
 public class IdentityCardFactory {
-    public IIdentityCard getIdentityCard(Locale locale) {
+    public static IIdentityCard getIdentityCard(Locale locale) {
         String countryCode = locale.getCountry().toUpperCase();
 
         switch (countryCode) {
@@ -13,13 +13,13 @@ public class IdentityCardFactory {
             case "DE": return new GermanIdentityCard();
             case "ES": return new SpanishIdentityCard();
             case "FR": return new FrenchIdentityCard();
+            case "GB": return new BritishIdentityCard();
             case "IE": return new IrishIdentityCard();
             case "IT": return new ItalianIdentityCard();
             case "JP": return new JapaneseIdentityCard();
             case "PL": return new PolishIdentityCard();
             case "PT": return new PortugueseIdentityCard();
             //case "RO": return new RomanianIdentityCard();
-            case "UK": return new BritishIdentityCard();
             //case "BE": return new BelgianIdentityCard();
             //case "NL": return new DutchIdentityCard();
             //case "SE": return new SwedishIdentityCard();

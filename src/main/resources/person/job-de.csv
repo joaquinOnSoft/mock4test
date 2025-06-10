@@ -1,0 +1,238 @@
+jobArea,jobDescriptor,jobTitle,jobType
+Technologie,Senior,Softwareentwickler,Vollzeit
+Marketing,Junior,Social Media Spezialist,Teilzeit
+Finanzen,Analyst,Buchhalter,Vollzeit
+Personalwesen,Assistent,Personalvermittler,Befristet
+Vertrieb,Vertreter,Verkaufsberater,Vollzeit
+Gesundheitswesen,Krankenschwester,Krankenschwester,Vollzeit
+Bildung,Lehrer,Grundschullehrer,Vollzeit
+Design,Kreativ,Grafikdesigner,Freiberuflich
+Ingenieurwesen,Junior,Bauingenieur,Vollzeit
+Recht,Anwalt,Wirtschaftsanwalt,Vollzeit
+Logistik,Koordinator,Lagerleiter,Vollzeit
+Medien,Redakteur,Content Editor,Befristet
+Beratung,Berater,Strategieberater,Freiberuflich
+Verwaltung,Assistent,Verwaltungsassistent,Teilzeit
+Technologie,Spezialist,Systemadministrator,Vollzeit
+Architektur,Architekt,Innenarchitekt,Vollzeit
+Bankwesen,Berater,Finanzberater,Vollzeit
+Produktion,Meister,Produktionsleiter,Vollzeit
+Tourismus,Führer,Reiseführer,Freiberuflich
+Forschung,Forscher,Wissenschaftler,Vollzeit
+Technologie,Entwickler,Frontend-Entwickler,Befristet
+Gesundheitswesen,Arzt,Allgemeinmediziner,Vollzeit
+Bildung,Dozent,Gymnasiallehrer,Vollzeit
+Design,Illustrator,Digital Illustrator,Freiberuflich
+Ingenieurwesen,Ingenieur,Mechaniker,Vollzeit
+Recht,Rechtsanwaltsfachangestellter,Rechtsassistent,Teilzeit
+Logistik,Operator,Logistikmitarbeiter,Vollzeit
+Medien,Journalist,Sportjournalist,Befristet
+Beratung,Senior,Senior Berater,Vollzeit
+Technologie,Techniker,IT-Support Techniker,Teilzeit
+Marketing,Digital,SEO-Spezialist,Vollzeit
+Finanzen,Prüfer,Interner Prüfer,Vollzeit
+Personalwesen,Leiter,Personalchef,Vollzeit
+Vertrieb,Manager,Vertriebsleiter,Vollzeit
+Gesundheitswesen,Therapeut,Ergotherapeut,Vollzeit
+Bildung,Sprachlehrer,Englischlehrer,Vollzeit
+Design,Web,Webdesigner,Freiberuflich
+Ingenieurwesen,Elektro,Elektroingenieur,Vollzeit
+Recht,Notar,Notar,Vollzeit
+Logistik,Fahrer,LKW-Fahrer,Vollzeit
+Medien,Fotograf,Professioneller Fotograf,Freiberuflich
+Beratung,IT,IT-Berater,Befristet
+Technologie,DevOps,DevOps-Ingenieur,Vollzeit
+Marketing,Content,Werbetexter,Freiberuflich
+Finanzen,Treasurer,Unternehmensschatzmeister,Vollzeit
+Personalwesen,Spezialist,Gehaltsabrechner,Vollzeit
+Vertrieb,Techniker,Technischer Verkäufer,Vollzeit
+Gesundheitswesen,Psychologe,Klinischer Psychologe,Vollzeit
+Bildung,Nachhilfe,Online-Tutor,Freiberuflich
+Design,3D,3D-Modellierer,Befristet
+Ingenieurwesen,Industrie,Industrieingenieur,Vollzeit
+Recht,Berater,Rechtsberater,Teilzeit
+Logistik,Lagerist,Lagerarbeiter,Vollzeit
+Medien,Moderator,Radio-Moderator,Befristet
+Beratung,Finanzen,Finanzberater,Vollzeit
+Technologie,QA,QA-Analyst,Vollzeit
+Marketing,E-Commerce,E-Commerce-Spezialist,Vollzeit
+Finanzen,Analyst,Kreditanalyst,Vollzeit
+Personalwesen,Trainer,Unternehmensausbilder,Befristet
+Vertrieb,Telemarketing,Telefonverkäufer,Teilzeit
+Gesundheitswesen,Ernährungsberater,Diätassistent,Vollzeit
+Bildung,Forscher,Bildungsforscher,Vollzeit
+Design,Grafik,Verpackungsdesigner,Freiberuflich
+Ingenieurwesen,Chemie,Chemieingenieur,Vollzeit
+Recht,Rechtsanwalt,Rechtsanwalt,Vollzeit
+Logistik,Planer,Transportplaner,Vollzeit
+Medien,Produzent,Audiovisuelle Produktion,Befristet
+Beratung,Personal,Personalberater,Vollzeit
+Technologie,Support,Helpdesk-Techniker,Teilzeit
+Marketing,Werbung,Werbefachmann,Vollzeit
+Finanzen,Portfolio,Portfoliomanager,Vollzeit
+Personalwesen,Analyst,Vergütungsanalyst,Vollzeit
+Vertrieb,Vertrieb,Verkaufsmitarbeiter,Vollzeit
+Gesundheitswesen,Physiotherapeut,Physiotherapeut,Vollzeit
+Bildung,Koordinator,Bildungskoordinator,Vollzeit
+Design,UI/UX,UI/UX-Designer,Freiberuflich
+Ingenieurwesen,Bergbau,Bergbauingenieur,Vollzeit
+Recht,Mediator,Familienmediator,Teilzeit
+Logistik,Import,Import-Spezialist,Vollzeit
+Medien,Kritiker,Filmkritiker,Freiberuflich
+Beratung,Marketing,Marketingberater,Vollzeit
+Technologie,Sicherheit,Cybersicherheitsexperte,Vollzeit
+Marketing,Marktforschung,Marktforscher,Vollzeit
+Finanzen,Buchhalter,Senior Buchhalter,Vollzeit
+Personalwesen,Recruiter,IT-Recruiter,Befristet
+Vertrieb,Großhandel,Großhandelsverkäufer,Vollzeit
+Gesundheitswesen,Optiker,Optiker,Vollzeit
+Bildung,Berater,Bildungsberater,Teilzeit
+Design,Mode,Modedesigner,Freiberuflich
+Ingenieurwesen,Umwelt,Umweltingenieur,Vollzeit
+Recht,Strafrecht,Strafverteidiger,Vollzeit
+Logistik,Export,Export-Spezialist,Vollzeit
+Medien,Drehbuchautor,Fernsehautor,Befristet
+Beratung,Operation,Operationsberater,Vollzeit
+Technologie,Daten,Dateningenieur,Vollzeit
+Marketing,Brand,Brand-Spezialist,Vollzeit
+Finanzen,Risiko,Risikoanalyst,Vollzeit
+Personalwesen,Vergütung,Vergütungsspezialist,Vollzeit
+Vertrieb,Automobil,Autoverkäufer,Vollzeit
+Gesundheitswesen,Kinderarzt,Kinderarzt,Vollzeit
+Bildung,Inspektor,Schulinspektor,Vollzeit
+Design,Innenarchitekt,Innenarchitekt,Freiberuflich
+Ingenieurwesen,Telekommunikation,Telekommunikationsingenieur,Vollzeit
+Recht,Arbeitsrecht,Arbeitsanwalt,Vollzeit
+Logistik,Supply Chain,Supply-Chain-Spezialist,Vollzeit
+Medien,Animator,3D-Animator,Befristet
+Beratung,Technologie,Technologieberater,Vollzeit
+Technologie,Cloud,Cloud-Experte,Vollzeit
+Marketing,Digital,Community Manager,Freiberuflich
+Finanzen,Planung,Finanzplaner,Vollzeit
+Personalwesen,Beziehungen,Personalreferent,Vollzeit
+Vertrieb,Pharmazeutik,Pharmareferent,Vollzeit
+Gesundheitswesen,Kardiologe,Kardiologe,Vollzeit
+Bildung,Orientierung,Berufsberater,Teilzeit
+Design,Produkt,Produktdesigner,Freiberuflich
+Ingenieurwesen,Luftfahrt,Luftfahrtingenieur,Vollzeit
+Recht,International,Internationaler Anwalt,Vollzeit
+Logistik,Einkauf,Einkäufer,Vollzeit
+Medien,Übersetzer,Professioneller Übersetzer,Freiberuflich
+Beratung,Qualität,Qualitätsberater,Vollzeit
+Technologie,KI,KI-Experte,Vollzeit
+Marketing,Events,Eventmanager,Befristet
+Finanzen,Steuer,Steuerberater,Vollzeit
+Personalwesen,Kultur,Unternehmenskulturberater,Vollzeit
+Vertrieb,Immobilien,Immobilienmakler,Vollzeit
+Gesundheitswesen,Zahnarzt,Zahnarzt,Vollzeit
+Bildung,Rektor,Schulleiter,Vollzeit
+Design,Multimedia,Multimediadesigner,Freiberuflich
+Ingenieurwesen,Erdöl,Erdölingenieur,Vollzeit
+Recht,Steuer,Steueranwalt,Vollzeit
+Logistik,Verteilung,Verteilungsleiter,Vollzeit
+Medien,Herausgeber,Buchverleger,Befristet
+Beratung,Transformation,Digitalberater,Vollzeit
+Technologie,Blockchain,Blockchain-Entwickler,Vollzeit
+Marketing,Content,Content-Manager,Vollzeit
+Finanzen,Börse,Börsenanalyst,Vollzeit
+Personalwesen,Diversität,Diversitätsbeauftragter,Vollzeit
+Vertrieb,Technologie,IT-Verkäufer,Vollzeit
+Gesundheitswesen,Gynäkologe,Gynäkologe,Vollzeit
+Bildung,Trainer,Unternehmensberater,Befristet
+Design,Industrie,Industriedesigner,Freiberuflich
+Ingenieurwesen,Robotik,Robotikingenieur,Vollzeit
+Recht,Geistiges Eigentum,Anwalt für geistiges Eigentum,Vollzeit
+Logistik,Inventur,Inventurleiter,Vollzeit
+Medien,Podcaster,Podcaster,Freiberuflich
+Beratung,Strategie,Senior Strategieberater,Vollzeit
+Technologie,VR,VR-Entwickler,Vollzeit
+Marketing,Influencer,Influencer-Manager,Befristet
+Finanzen,Mikrofinanz,Mikrofinanzexperte,Vollzeit
+Personalwesen,Talent,Talentmanager,Vollzeit
+Vertrieb,Berater,Verkaufsberater,Vollzeit
+Gesundheitswesen,Neurologe,Neurologe,Vollzeit
+Bildung,Evaluator,Bildungsevaluator,Vollzeit
+Design,Schmuck,Schmuckdesigner,Freiberuflich
+Ingenieurwesen,Schiffbau,Schiffsingenieur,Vollzeit
+Recht,Verträge,Vertragsspezialist,Vollzeit
+Logistik,Transport,Transportplaner,Vollzeit
+Medien,Kritiker,Restaurantkritiker,Freiberuflich
+Beratung,Nachhaltigkeit,Nachhaltigkeitsberater,Vollzeit
+Technologie,IoT,IoT-Ingenieur,Vollzeit
+Marketing,Loyalität,Loyalitätsmanager,Vollzeit
+Finanzen,Fintech,Fintech-Analyst,Vollzeit
+Personalwesen,Leistung,Leistungsmanager,Vollzeit
+Vertrieb,Industrie,Industrieverkäufer,Vollzeit
+Gesundheitswesen,Psychiater,Psychiater,Vollzeit
+Bildung,Technologie,Bildungstechnologieberater,Vollzeit
+Design,Ausstellung,Ausstellungsdesigner,Freiberuflich
+Ingenieurwesen,Geotechnik,Geotechniker,Vollzeit
+Recht,Migration,Migrationsanwalt,Vollzeit
+Logistik,Zoll,Zollbeamter,Vollzeit
+Medien,Redakteur,Technischer Redakteur,Befristet
+Beratung,Innovation,Innovationsberater,Vollzeit
+Technologie,Sicherheit,Sicherheitsanalyst,Vollzeit
+Marketing,Affiliate,Affiliate-Manager,Freiberuflich
+Finanzen,Bewertung,Projektbewerter,Vollzeit
+Personalwesen,Digital,Digital HR Manager,Vollzeit
+Vertrieb,Luftfahrt,Luftfahrtverkäufer,Vollzeit
+Gesundheitswesen,Epidemiologe,Epidemiologe,Vollzeit
+Bildung,Sprachen,Sprachlehrer,Vollzeit
+Design,Automobil,Automobildesigner,Freiberuflich
+Ingenieurwesen,Textil,Textilingenieur,Vollzeit
+Recht,Insolvenz,Insolvenzanwalt,Vollzeit
+Logistik,Handel,Außenhandelsspezialist,Vollzeit
+Medien,Führer,Museumsführer,Freiberuflich
+Beratung,Produktivität,Produktivitätsberater,Vollzeit
+Technologie,Test,Testingenieur,Vollzeit
+Marketing,CRM,CRM-Spezialist,Vollzeit
+Finanzen,Compliance,Compliance-Beauftragter,Vollzeit
+Personalwesen,Analytik,HR-Analyst,Vollzeit
+Vertrieb,Telekommunikation,Telekommunikationsverkäufer,Vollzeit
+Gesundheitswesen,Urologe,Urologe,Vollzeit
+Bildung,Kunst,Kunstlehrer,Vollzeit
+Design,Spiele,Spieleentwickler,Freiberuflich
+Ingenieurwesen,Akustik,Akustikingenieur,Vollzeit
+Recht,Umwelt,Umweltanwalt,Vollzeit
+Logistik,Last Mile,Last-Mile-Spezialist,Vollzeit
+Medien,Beleuchter,Beleuchter,Befristet
+Beratung,Kunde,Kundenberater,Vollzeit
+Technologie,Eingebettet,Eingebetteter Systemingenieur,Vollzeit
+Marketing,BTL,BTL-Marketingmanager,Vollzeit
+Finanzen,Finanzen,Finanzdirektor,Vollzeit
+Personalwesen,International,Internationaler Personalmanager,Vollzeit
+Vertrieb,Agrar,Agrarverkäufer,Vollzeit
+Gesundheitswesen,Rheumatologe,Rheumatologe,Vollzeit
+Bildung,Philosophie,Philosophielehrer,Vollzeit
+Design,Nachhaltig,Nachhaltigkeitsdesigner,Freiberuflich
+Ingenieurwesen,Forst,Forstingenieur,Vollzeit
+Recht,Technologie,Technologieanwalt,Vollzeit
+Logistik,Lean,Lean-Logistiker,Vollzeit
+Medien,Autor,Fantasy-Autor,Freiberuflich
+Beratung,Supply Chain,Supply-Chain-Berater,Vollzeit
+Technologie,Frontend,Frontend-Entwickler,Vollzeit
+Marketing,Neuromarketing,Neuromarketing-Experte,Vollzeit
+Finanzen,Audit,Externer Prüfer,Befristet
+Personalwesen,Vergütung,Vergütungsmanager,Vollzeit
+Vertrieb,Luxus,Luxusverkäufer,Vollzeit
+Gesundheitswesen,Endokrinologe,Endokrinologe,Vollzeit
+Bildung,Musik,Musiklehrer,Vollzeit
+Design,Typografie,Typografiedesigner,Freiberuflich
+Ingenieurwesen,Hydraulik,Hydraulikingenieur,Vollzeit
+Recht,Sport,Sportanwalt,Vollzeit
+Logistik,Reverse,Reverse-Logistiker,Vollzeit
+Medien,Kritiker,Theaterkritiker,Freiberuflich
+Beratung,Digitalisierung,Digitalisierungsberater,Vollzeit
+Technologie,Backend,Backend-Entwickler,Vollzeit
+Marketing,Guerrilla,Guerrilla-Marketingexperte,Vollzeit
+Finanzen,Kontrolle,Finanzcontroller,Vollzeit
+Personalwesen,Beziehungen,Personalbeziehungsmanager,Vollzeit
+Vertrieb,Hardware,Hardwareverkäufer,Vollzeit
+Gesundheitswesen,Allergologe,Allergologe,Vollzeit
+Bildung,Robotik,Robotiklehrer,Vollzeit
+Design,Ausstellung,Ausstellungsdesigner,Freiberuflich
+Ingenieurwesen,Material,Materialingenieur,Vollzeit
+Recht,Kunst,Kunstanwalt,Vollzeit
+Logistik,Lager,Lagerleiter,Vollzeit
+Medien,Moderator,Veranstaltungsmoderator,Freiberuflich
+Beratung,Exzellenz,Exzellenzberater,Vollzeit

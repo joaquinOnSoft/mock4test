@@ -55,7 +55,7 @@ public class DateOfBirthGenerator {
      * Generates a random date of birth following the age distribution of the Spanish population.
      * @return A random date of birth as a LocalDate object.
      */
-    public static LocalDate generateRandomDateOfBirth() {
+    public static LocalDate generate() {
         // 1. Select an age range based on the probability distribution
         double rand = random.nextDouble(); // Random number between 0.0 (inclusive) and 1.0 (exclusive)
         int selectedRangeIndex = -1;

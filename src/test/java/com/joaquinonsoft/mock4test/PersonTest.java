@@ -15,6 +15,7 @@ public class PersonTest {
             assertNotNull(personES.getLastName());
             assertNotNull(personES.getSecondLastName());
             assertNotNull(personES.getFullName());
+            assertNotNull(personES.getNationalIdentityCard());
             assertNotNull(personES.getSex());
             assertNotNull(personES.getBirthdate());
 
@@ -23,6 +24,7 @@ public class PersonTest {
             assertNotNull(personUK.getLastName());
             assertNull(personUK.getSecondLastName());
             assertNotNull(personUK.getFullName());
+            assertNotNull(personUK.getNationalIdentityCard());
             assertNotNull(personUK.getSex());
             assertNotNull(personUK.getBirthdate());
         } catch (Mock4TestException e) {

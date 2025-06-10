@@ -1,0 +1,291 @@
+job area,job descriptor,job title,job type
+Marketing,Creative,Marketing Specialist,Full-time
+IT,Senior,Software Engineer,Contract
+Finance,Junior,Financial Analyst,Part-time
+HR,Lead,HR Manager,Full-time
+Sales,Regional,Sales Representative,Full-time
+Operations,Assistant,Operations Coordinator,Part-time
+Engineering,Principal,Electrical Engineer,Full-time
+Healthcare,Senior,Registered Nurse,Full-time
+Education,Junior,Teacher Assistant,Part-time
+Legal,Associate,Paralegal,Contract
+Marketing,Digital,Social Media Manager,Full-time
+IT,Systems,Network Administrator,Full-time
+Finance,Corporate,Accountant,Full-time
+HR,Recruiting,Talent Acquisition Specialist,Contract
+Sales,National,Sales Manager,Full-time
+Operations,Logistics,Supply Chain Analyst,Full-time
+Engineering,Mechanical,Mechanical Engineer,Full-time
+Healthcare,Clinical,Medical Assistant,Part-time
+Education,Special,Special Education Teacher,Full-time
+Legal,Senior,Attorney,Full-time
+Marketing,Content,Content Writer,Contract
+IT,Data,Data Scientist,Full-time
+Finance,Investment,Financial Advisor,Full-time
+HR,Benefits,Benefits Coordinator,Part-time
+Sales,Retail,Sales Associate,Part-time
+Operations,Quality,Quality Assurance Specialist,Full-time
+Engineering,Civil,Civil Engineer,Full-time
+Healthcare,Administrative,Healthcare Administrator,Full-time
+Education,Elementary,Elementary Teacher,Full-time
+Legal,Corporate,Corporate Lawyer,Full-time
+Marketing,Product,Product Marketing Manager,Full-time
+IT,Cloud,Cloud Architect,Contract
+Finance,Audit,Auditor,Full-time
+HR,Training,Training Coordinator,Part-time
+Sales,Wholesale,Sales Executive,Full-time
+Operations,Production,Production Supervisor,Full-time
+Engineering,Software,Software Developer,Full-time
+Healthcare,Therapist,Physical Therapist,Full-time
+Education,High School,High School Teacher,Full-time
+Legal,Immigration,Immigration Lawyer,Contract
+Marketing,Brand,Brand Manager,Full-time
+IT,Cybersecurity,Cybersecurity Analyst,Full-time
+Finance,Tax,Tax Consultant,Contract
+HR,Employee Relations,Employee Relations Specialist,Full-time
+Sales,Account,Account Manager,Full-time
+Operations,Inventory,Inventory Clerk,Part-time
+Engineering,Industrial,Industrial Engineer,Full-time
+Healthcare,Dental,Dental Hygienist,Part-time
+Education,College,Professor,Full-time
+Legal,Family,Family Lawyer,Full-time
+Marketing,Market,Market Research Analyst,Full-time
+IT,Database,Database Administrator,Full-time
+Finance,Wealth,Wealth Manager,Full-time
+HR,Compensation,Compensation Analyst,Full-time
+Sales,Car,Sales Consultant,Full-time
+Operations,Purchasing,Purchasing Agent,Full-time
+Engineering,Aerospace,Aerospace Engineer,Full-time
+Healthcare,Pharmacy,Pharmacist,Full-time
+Education,Early Childhood,Preschool Teacher,Part-time
+Legal,Criminal,Criminal Defense Lawyer,Full-time
+Marketing,Advertising,Advertising Manager,Full-time
+IT,Frontend,Frontend Developer,Contract
+Finance,Risk,Risk Manager,Full-time
+HR,Workplace,Workplace Culture Specialist,Full-time
+Sales,Online,Sales Representative,Part-time
+Operations,Fleet,Fleet Manager,Full-time
+Engineering,Chemical,Chemical Engineer,Full-time
+Healthcare,Veterinary,Veterinarian,Full-time
+Education,Music,Music Teacher,Part-time
+Legal,Contract,Contract Lawyer,Contract
+Marketing,Public Relations,PR Specialist,Full-time
+IT,Backend,Backend Developer,Full-time
+Finance,Credit,Credit Analyst,Full-time
+HR,Diversity,Diversity Officer,Full-time
+Sales,Pharmaceutical,Sales Rep,Full-time
+Operations,Warehouse,Warehouse Manager,Full-time
+Engineering,Environmental,Environmental Engineer,Full-time
+Healthcare,Nursing,Nurse Practitioner,Full-time
+Education,Art,Art Teacher,Part-time
+Legal,Patent,Patent Attorney,Full-time
+Marketing,Email,Email Marketing Specialist,Contract
+IT,DevOps,DevOps Engineer,Full-time
+Finance,Treasury,Treasury Analyst,Full-time
+HR,Onboarding,Onboarding Specialist,Part-time
+Sales,Real Estate,Real Estate Agent,Contract
+Operations,Maintenance,Maintenance Technician,Full-time
+Engineering,Biomedical,Biomedical Engineer,Full-time
+Healthcare,Optometry,Optometrist,Full-time
+Education,Science,Science Teacher,Full-time
+Legal,Employment,Employment Lawyer,Full-time
+Marketing,SEO,SEO Specialist,Contract
+IT,AI,AI Engineer,Full-time
+Finance,Mortgage,Mortgage Advisor,Full-time
+HR,Policy,Policy Advisor,Full-time
+Sales,Insurance,Insurance Agent,Full-time
+Operations,Safety,Safety Officer,Full-time
+Engineering,Marine,Marine Engineer,Full-time
+Healthcare,Psychiatry,Psychiatrist,Full-time
+Education,History,History Teacher,Full-time
+Legal,Real Estate,Real Estate Lawyer,Full-time
+Marketing,Event,Event Coordinator,Part-time
+IT,Game,Game Developer,Full-time
+Finance,Financial Planning,Financial Planner,Full-time
+HR,HRIS,HRIS Analyst,Full-time
+Sales,Tech,Sales Engineer,Full-time
+Operations,Shipping,Shipping Clerk,Part-time
+Engineering,Structural,Structural Engineer,Full-time
+Healthcare,Radiology,Radiologic Technologist,Full-time
+Education,Physical Education,Gym Teacher,Full-time
+Legal,Environmental,Environmental Lawyer,Full-time
+Marketing,Influencer,Influencer Marketer,Contract
+IT,Blockchain,Blockchain Developer,Full-time
+Finance,Private Equity,Private Equity Analyst,Full-time
+HR,Labor Relations,Labor Relations Specialist,Full-time
+Sales,Consultative,Sales Consultant,Full-time
+Operations,Facilities,Facilities Manager,Full-time
+Engineering,Petroleum,Petroleum Engineer,Full-time
+Healthcare,Speech Therapy,Speech Therapist,Full-time
+Education,English,English Teacher,Full-time
+Legal,Entertainment,Entertainment Lawyer,Full-time
+Marketing,Affiliate,Affiliate Marketer,Contract
+IT,QA,QA Engineer,Full-time
+Finance,Hedge Fund,Hedge Fund Manager,Full-time
+HR,Global,Global HR Manager,Full-time
+Sales,Advertising,Sales Director,Full-time
+Operations,Procurement,Procurement Specialist,Full-time
+Engineering,Telecommunications,Telecom Engineer,Full-time
+Healthcare,Chiropractic,Chiropractor,Full-time
+Education,Math,Math Teacher,Full-time
+Legal,Intellectual Property,IP Lawyer,Full-time
+Marketing,Direct,Direct Marketing Specialist,Contract
+IT,Embedded,Embedded Systems Engineer,Full-time
+Finance,Corporate Finance,Finance Manager,Full-time
+HR,Executive,Executive Recruiter,Contract
+Sales,Enterprise,Enterprise Sales Rep,Full-time
+Operations,Logistics,Logistics Coordinator,Part-time
+Engineering,Robotics,Robotics Engineer,Full-time
+Healthcare,Nutrition,Nutritionist,Part-time
+Education,Foreign Language,Language Teacher,Full-time
+Legal,Tax,Tax Attorney,Full-time
+Marketing,Content,Content Strategist,Full-time
+IT,Full Stack,Full Stack Developer,Full-time
+Finance,Banking,Bank Manager,Full-time
+HR,People,People Operations Manager,Full-time
+Sales,Channel,Channel Sales Manager,Full-time
+Operations,Quality Control,Quality Control Inspector,Part-time
+Engineering,Nuclear,Nuclear Engineer,Full-time
+Healthcare,Occupational Therapy,Occupational Therapist,Full-time
+Education,Computer Science,Computer Teacher,Full-time
+Legal,Mergers & Acquisitions,M&A Lawyer,Full-time
+Marketing,Social Media,Social Media Coordinator,Part-time
+IT,Mobile,Mobile Developer,Full-time
+Finance,Financial Reporting,Financial Reporting Analyst,Full-time
+HR,Employee Engagement,Engagement Manager,Full-time
+Sales,Medical,Medical Sales Rep,Full-time
+Operations,Assembly,Assembly Line Worker,Part-time
+Engineering,Automotive,Automotive Engineer,Full-time
+Healthcare,Public Health,Public Health Officer,Full-time
+Education,Geography,Geography Teacher,Full-time
+Legal,Securities,Securities Lawyer,Full-time
+Marketing,Market Research,Market Analyst,Full-time
+IT,UI/UX,UI/UX Designer,Full-time
+Finance,Cost Accounting,Cost Accountant,Full-time
+HR,HR Business Partner,HRBP,Full-time
+Sales,Software,Sales Engineer,Full-time
+Operations,Field,Field Operations Manager,Full-time
+Engineering,Acoustic,Acoustic Engineer,Full-time
+Healthcare,Respiratory Therapy,Respiratory Therapist,Full-time
+Education,Literature,Literature Teacher,Full-time
+Legal,Litigation,Litigation Attorney,Full-time
+Marketing,Digital Media,Digital Media Planner,Full-time
+IT,AR/VR,AR/VR Developer,Full-time
+Finance,Budget,Budget Analyst,Full-time
+HR,Organizational Development,OD Specialist,Full-time
+Sales,Key Account,Key Account Manager,Full-time
+Operations,Production,Production Manager,Full-time
+Engineering,Geotechnical,Geotechnical Engineer,Full-time
+Healthcare,Surgery,Surgical Technologist,Full-time
+Education,Philosophy,Philosophy Teacher,Full-time
+Legal,Health Law,Healthcare Lawyer,Full-time
+Marketing,Product,Product Manager,Full-time
+IT,IT Support,IT Support Specialist,Full-time
+Finance,Forensic,Forensic Accountant,Full-time
+HR,Performance,Performance Manager,Full-time
+Sales,Retail,Retail Manager,Full-time
+Operations,Maintenance,Maintenance Supervisor,Full-time
+Engineering,Optical,Optical Engineer,Full-time
+Healthcare,Anesthesiology,Anesthesiologist,Full-time
+Education,Psychology,Psychology Teacher,Full-time
+Legal,Privacy,Privacy Lawyer,Full-time
+Marketing,Community,Community Manager,Part-time
+IT,Security,Security Engineer,Full-time
+Finance,International Finance,International Finance Manager,Full-time
+HR,Workforce Planning,Workforce Planner,Full-time
+Sales,Strategic,Strategic Account Executive,Full-time
+Operations,Distribution,Distribution Manager,Full-time
+Engineering,Mining,Mining Engineer,Full-time
+Healthcare,Pathology,Pathologist,Full-time
+Education,Sociology,Sociology Teacher,Full-time
+Legal,Corporate Governance,Governance Lawyer,Full-time
+Marketing,Brand,Brand Strategist,Full-time
+IT,Systems,System Administrator,Full-time
+Finance,Equity Research,Equity Research Analyst,Full-time
+HR,HR Analytics,HR Data Analyst,Full-time
+Sales,B2B,B2B Sales Representative,Full-time
+Operations,Supply Chain,Supply Chain Manager,Full-time
+Engineering,Fire Protection,Fire Protection Engineer,Full-time
+Healthcare,Oncology,Oncologist,Full-time
+Education,Economics,Economics Teacher,Full-time
+Legal,Antitrust,Antitrust Lawyer,Full-time
+Marketing,Copywriting,Copywriter,Contract
+IT,Network,Network Engineer,Full-time
+Finance,Financial Control,Financial Controller,Full-time
+HR,Total Rewards,Rewards Manager,Full-time
+Sales,Inside,Inside Sales Rep,Full-time
+Operations,Plant,Plant Manager,Full-time
+Engineering,Agricultural,Agricultural Engineer,Full-time
+Healthcare,Cardiology,Cardiologist,Full-time
+Education,Theology,Theology Teacher,Full-time
+Legal,Maritime,Maritime Lawyer,Full-time
+Marketing,Media,Media Buyer,Full-time
+IT,Technical Support,Technical Support Engineer,Full-time
+Finance,Actuarial,Actuary,Full-time
+HR,HR Director,HR Director,Full-time
+Sales,Outside,Outside Sales Rep,Full-time
+Operations,Continuous Improvement,Continuous Improvement Manager,Full-time
+Engineering,Textile,Textile Engineer,Full-time
+Healthcare,Endocrinology,Endocrinologist,Full-time
+Education,Anthropology,Anthropology Teacher,Full-time
+Legal,Aviation,Aviation Lawyer,Full-time
+Marketing,Growth,Growth Hacker,Contract
+IT,IT Manager,IT Manager,Full-time
+Finance,Investment Banking,Investment Banker,Full-time
+HR,Chief HR Officer,CHRO,Full-time
+Sales,Retail,Retail Sales Associate,Part-time
+Operations,Lean,Lean Manager,Full-time
+Engineering,Audio,Audio Engineer,Full-time
+Healthcare,Geriatrics,Geriatrician,Full-time
+Education,Political Science,Political Science Teacher,Full-time
+Legal,Family Law,Family Law Attorney,Full-time
+Marketing,Publicity,Publicist,Full-time
+IT,IT Consultant,IT Consultant,Contract
+Finance,Portfolio Management,Portfolio Manager,Full-time
+HR,HR Generalist,HR Generalist,Full-time
+Sales,SaaS,SaaS Sales Rep,Full-time
+Operations,Operations Manager,Operations Manager,Full-time
+Engineering,Fire Safety,Fire Safety Engineer,Full-time
+Healthcare,Pediatrics,Pediatrician,Full-time
+Education,Communications,Communications Teacher,Full-time
+Legal,Cyber Law,Cyber Lawyer,Full-time
+Marketing,Promotions,Promotions Manager,Full-time
+IT,Data Analyst,Data Analyst,Full-time
+Finance,Financial Analysis,Financial Analyst,Full-time
+HR,HR Coordinator,HR Coordinator,Part-time
+Sales,Retail,Retail Sales Manager,Full-time
+Operations,Logistics,Logistics Manager,Full-time
+Engineering,Transportation,Transportation Engineer,Full-time
+Healthcare,Neurology,Neurologist,Full-time
+Education,Journalism,Journalism Teacher,Full-time
+Legal,Media Law,Media Lawyer,Full-time
+Marketing,Digital Marketing,Digital Marketer,Full-time
+IT,Software Architect,Software Architect,Full-time
+Finance,Corporate Development,Corporate Development Manager,Full-time
+HR,HR Assistant,HR Assistant,Part-time
+Sales,Retail,Retail Sales Lead,Full-time
+Operations,Operations Analyst,Operations Analyst,Full-time
+Engineering,Water Resources,Water Resources Engineer,Full-time
+Healthcare,Dermatology,Dermatologist,Full-time
+Education,Drama,Drama Teacher,Part-time
+Legal,Sports Law,Sports Lawyer,Full-time
+Marketing,Product Marketing,Product Marketing Specialist,Full-time
+IT,IT Director,IT Director,Full-time
+Finance,Financial Advisor,Financial Advisor,Full-time
+HR,HR Specialist,HR Specialist,Full-time
+Sales,Retail,Retail Sales Associate,Part-time
+Operations,Operations Director,Operations Director,Full-time
+Engineering,Construction,Construction Engineer,Full-time
+Healthcare,Orthopedics,Orthopedic Surgeon,Full-time
+Education,Spanish,Spanish Teacher,Full-time
+Legal,Technology Law,Tech Lawyer,Full-time
+Marketing,Content Marketing,Content Marketing Manager,Full-time
+IT,CTO,Chief Technology Officer,Full-time
+Finance,CFO,Chief Financial Officer,Full-time
+HR,VP of HR,Vice President of HR,Full-time
+Sales,VP of Sales,Vice President of Sales,Full-time
+Operations,COO,Chief Operations Officer,Full-time
+Engineering,VP of Engineering,Vice President of Engineering,Full-time
+Healthcare,CMO,Chief Medical Officer,Full-time
+Education,Principal,School Principal,Full-time
+Legal,General Counsel,General Counsel,Full-time

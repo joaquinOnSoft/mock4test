@@ -77,7 +77,7 @@ class DateOfBirthGeneratorTest {
 
         // 1. Generate a large number of samples and count ages within their respective ranges.
         for (int i = 0; i < NUM_SAMPLES; i++) {
-            LocalDate dob = DateOfBirthGenerator.generateRandomDateOfBirth();
+            LocalDate dob = DateOfBirthGenerator.generate();
             int age = calculateAge(dob, REFERENCE_DATE_FOR_AGE_CALCULATION);
 
             // Determine which age range the generated age falls into.

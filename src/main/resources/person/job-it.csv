@@ -1,0 +1,238 @@
+jobArea,jobDescriptor,jobTitle,jobType
+Tecnologia,Senior,Ingegnere del Software,Tempo pieno
+Marketing,Junior,Specialista Social Media,Part-time
+Finanza,Analista,Contabile,Tempo pieno
+Risorse Umane,Assistente,Reclutatore,Determinato
+Vendite,Rappresentante,Agente Commerciale,Tempo pieno
+Sanità,Infermiere,Infermiere Clinico,Tempo pieno
+Educazione,Insegnante,Maestro Elementare,Tempo pieno
+Design,Creativo,Graphic Designer,Libero professionista
+Ingegneria,Junior,Ingegnere Civile,Tempo pieno
+Legale,Avvocato,Avvocato d'Affari,Tempo pieno
+Logistica,Coordinatore,Supervisore Magazzino,Tempo pieno
+Media,Editore,Editor di Contenuti,Determinato
+Consulenza,Consulente,Consulente Strategico,Libero professionista
+Amministrazione,Assistente,Assistente Amministrativo,Part-time
+Tecnologia,Specialista,Amministratore di Sistema,Tempo pieno
+Architettura,Architetto,Architetto d'Interni,Tempo pieno
+Banca,Consulente,Consulente Finanziario,Tempo pieno
+Manifattura,Supervisore,Supervisore Produzione,Tempo pieno
+Turismo,Guida,Guida Turistica,Libero professionista
+Ricerca,Ricercatore,Ricercatore Scientifico,Tempo pieno
+Tecnologia,Sviluppatore,Sviluppatore Frontend,Determinato
+Sanità,Medico,Medico Generico,Tempo pieno
+Educazione,Professore,Professore di Scuola Superiore,Tempo pieno
+Design,Illustratore,Illustratore Digitale,Libero professionista
+Ingegneria,Ingegnere,Ingegnere Meccanico,Tempo pieno
+Legale,Paralegale,Assistente Legale,Part-time
+Logistica,Operatore,Operatore Logistico,Tempo pieno
+Media,Giornalista,Giornalista Sportivo,Determinato
+Consulenza,Senior,Consulente Strategico,Tempo pieno
+Tecnologia,Tecnico,Tecnico Helpdesk,Part-time
+Marketing,Digitale,Specialista SEO,Tempo pieno
+Finanza,Revisore,Revisore Interno,Tempo pieno
+Risorse Umane,Responsabile,Responsabile HR,Tempo pieno
+Vendite,Manager,Responsabile Vendite,Tempo pieno
+Sanità,Terapista,Terapista Occupazionale,Tempo pieno
+Educazione,Docente,Insegnante di Inglese,Tempo pieno
+Design,Web,Web Designer,Libero professionista
+Ingegneria,Elettrico,Ingegnere Elettrico,Tempo pieno
+Legale,Notaio,Notaio,Tempo pieno
+Logistica,Autista,Autista di Camion,Tempo pieno
+Media,Fotografo,Fotografo Professionista,Libero professionista
+Consulenza,IT,Consulente IT,Determinato
+Tecnologia,DevOps,Ingegnere DevOps,Tempo pieno
+Marketing,Contenuti,Scrittore Pubblicitario,Libero professionista
+Finanza,Tesoriere,Tesoriere Aziendale,Tempo pieno
+Risorse Umane,Specialista,Responsabile Paghe,Tempo pieno
+Vendite,Tecnico,Venditore Tecnico,Tempo pieno
+Sanità,Psicologo,Psicologo Clinico,Tempo pieno
+Educazione,Tutor,Tutor Online,Libero professionista
+Design,3D,Modellatore 3D,Determinato
+Ingegneria,Industriale,Ingegnere Industriale,Tempo pieno
+Legale,Consulente,Consulente Legale,Part-time
+Logistica,Magazziniere,Magazziniere,Tempo pieno
+Media,Speaker,Speaker Radiofonico,Determinato
+Consulenza,Finanziaria,Consulente Finanziario,Tempo pieno
+Tecnologia,QA,Analista QA,Tempo pieno
+Marketing,E-commerce,Specialista E-commerce,Tempo pieno
+Finanza,Analista,Analista di Credito,Tempo pieno
+Risorse Umane,Formatore,Formatore Aziendale,Determinato
+Vendite,Telemarketing,Operatore Telemarketing,Part-time
+Sanità,Nutrizionista,Nutrizionista Clinico,Tempo pieno
+Educazione,Ricercatore,Ricercatore Educativo,Tempo pieno
+Design,Grafico,Designer di Packaging,Libero professionista
+Ingegneria,Chimico,Ingegnere Chimico,Tempo pieno
+Legale,Procuratore,Assistente Legale,Tempo pieno
+Logistica,Pianificatore,Pianificatore Trasporti,Tempo pieno
+Media,Produttore,Produttore Audiovisivo,Determinato
+Consulenza,HR,Consulente Risorse Umane,Tempo pieno
+Tecnologia,Supporto,Tecnico di Supporto,Part-time
+Marketing,Pubblicità,Specialista Pubblicitario,Tempo pieno
+Finanza,Gestore,Gestore Portafoglio,Tempo pieno
+Risorse Umane,Analista,Analista Retributivo,Tempo pieno
+Vendite,Distributore,Rappresentante Vendite,Tempo pieno
+Sanità,Fisioterapista,Fisioterapista,Tempo pieno
+Educazione,Coordinatore,Coordinatore Didattico,Tempo pieno
+Design,UI/UX,Designer UI/UX,Libero professionista
+Ingegneria,Miniera,Ingegnere Minerario,Tempo pieno
+Legale,Mediatore,Mediatore Familiare,Part-time
+Logistica,Import,Specialista Importazione,Tempo pieno
+Media,Critico,Critico Cinematografico,Libero professionista
+Consulenza,Marketing,Consulente Marketing,Tempo pieno
+Tecnologia,Sicurezza,Esperto Cybersecurity,Tempo pieno
+Marketing,Ricerca,Analista di Mercato,Tempo pieno
+Finanza,Contabile,Contabile Senior,Tempo pieno
+Risorse Umane,Reclutatore,Reclutatore IT,Determinato
+Vendite,Ingrosso,Venditore all'Ingrosso,Tempo pieno
+Sanità,Optometrista,Optometrista,Tempo pieno
+Educazione,Consulente,Orientatore Scolastico,Part-time
+Design,Moda,Designer di Moda,Libero professionista
+Ingegneria,Ambientale,Ingegnere Ambientale,Tempo pieno
+Legale,Penale,Avvocato Penalista,Tempo pieno
+Logistica,Export,Specialista Exportazione,Tempo pieno
+Media,Sceneggiatore,Sceneggiatore TV,Determinato
+Consulenza,Operativa,Consulente Operativo,Tempo pieno
+Tecnologia,Data,Ingegnere Dati,Tempo pieno
+Marketing,Brand,Specialista Branding,Tempo pieno
+Finanza,Rischi,Analista Rischi,Tempo pieno
+Risorse Umane,Benefit,Specialista Benefit,Tempo pieno
+Vendite,Automotive,Venditore Auto,Tempo pieno
+Sanità,Pediatra,Pediatra,Tempo pieno
+Educazione,Ispettore,Ispettore Scolastico,Tempo pieno
+Design,Interni,Designer d'Interni,Libero professionista
+Ingegneria,Telecom,Ingegnere Telecomunicazioni,Tempo pieno
+Legale,Lavoro,Avvocato del Lavoro,Tempo pieno
+Logistica,Supply Chain,Specialista Supply Chain,Tempo pieno
+Media,Animatore,Animatore 3D,Determinato
+Consulenza,Tecnologica,Consulente Tecnologico,Tempo pieno
+Tecnologia,Cloud,Esperto Cloud,Tempo pieno
+Marketing,Digitale,Community Manager,Libero professionista
+Finanza,Pianificazione,Analista Pianificazione,Tempo pieno
+Risorse Umane,Relazioni,Responsabile Relazioni,Tempo pieno
+Vendite,Farmaceutico,Venditore Farmaceutico,Tempo pieno
+Sanità,Cardiologo,Cardiologo,Tempo pieno
+Educazione,Orientatore,Consulente Orientamento,Part-time
+Design,Prodotto,Designer di Prodotto,Libero professionista
+Ingegneria,Aerospaziale,Ingegnere Aerospaziale,Tempo pieno
+Legale,Internazionale,Avvocato Internazionale,Tempo pieno
+Logistica,Acquisti,Specialista Acquisti,Tempo pieno
+Media,Traduttore,Traduttore Professionista,Libero professionista
+Consulenza,Qualità,Consulente Qualità,Tempo pieno
+Tecnologia,IA,Esperto Intelligenza Artificiale,Tempo pieno
+Marketing,Eventi,Organizzatore Eventi,Determinato
+Finanza,Fiscale,Consulente Fiscale,Tempo pieno
+Risorse Umane,Cultura,Specialista Cultura,Tempo pieno
+Vendite,Immobiliare,Agente Immobiliare,Tempo pieno
+Sanità,Dentista,Dentista,Tempo pieno
+Educazione,Preside,Dirigente Scolastico,Tempo pieno
+Design,Multimedia,Designer Multimedia,Libero professionista
+Ingegneria,Petrolio,Ingegnere Petrolifero,Tempo pieno
+Legale,Tributario,Avvocato Tributario,Tempo pieno
+Logistica,Distribuzione,Coordinatore Distribuzione,Tempo pieno
+Media,Editore,Editore Editoriale,Determinato
+Consulenza,Trasformazione,Consulente Digitale,Tempo pieno
+Tecnologia,Blockchain,Sviluppatore Blockchain,Tempo pieno
+Marketing,Contenuti,Responsabile Contenuti,Tempo pieno
+Finanza,Borsa,Analista Finanziario,Tempo pieno
+Risorse Umane,Diversità,Responsabile Diversità,Tempo pieno
+Vendite,Tecnologico,Venditore Soluzioni IT,Tempo pieno
+Sanità,Ginecologo,Ginecologo,Tempo pieno
+Educazione,Formatore,Formatore Aziendale,Determinato
+Design,Industriale,Designer Industriale,Libero professionista
+Ingegneria,Robotica,Ingegnere Robotica,Tempo pieno
+Legale,Proprietà,Avvocato Proprietà Intellettuale,Tempo pieno
+Logistica,Inventario,Gestore Inventario,Tempo pieno
+Media,Podcaster,Creatore Podcast,Libero professionista
+Consulenza,Strategica,Consulente Strategico,Tempo pieno
+Tecnologia,VR,Sviluppatore Realtà Virtuale,Tempo pieno
+Marketing,Influencer,Gestore Influencer,Determinato
+Finanza,Microfinanza,Esperto Microfinanza,Tempo pieno
+Risorse Umane,Talento,Responsabile Talento,Tempo pieno
+Vendite,Consulente,Venditore Consulente,Tempo pieno
+Sanità,Neurologo,Neurologo,Tempo pieno
+Educazione,Valutatore,Valutatore Didattico,Tempo pieno
+Design,Gioielli,Designer Gioielli,Libero professionista
+Ingegneria,Navale,Ingegnere Navale,Tempo pieno
+Legale,Contratti,Specialista Contratti,Tempo pieno
+Logistica,Trasporti,Pianificatore Trasporti,Tempo pieno
+Media,Critico,Critico Gastronomico,Libero professionista
+Consulenza,Sostenibilità,Consulente Sostenibilità,Tempo pieno
+Tecnologia,IoT,Ingegnere IoT,Tempo pieno
+Marketing,Fidelizzazione,Specialista Fidelizzazione,Tempo pieno
+Finanza,Fintech,Analista Fintech,Tempo pieno
+Risorse Umane,Prestazioni,Responsabile Prestazioni,Tempo pieno
+Vendite,Industriale,Venditore Industriale,Tempo pieno
+Sanità,Psichiatra,Psichiatra,Tempo pieno
+Educazione,Tecnologia,Coordinatore EdTech,Tempo pieno
+Design,Mostre,Designer Mostre,Libero professionista
+Ingegneria,Geotecnica,Ingegnere Geotecnico,Tempo pieno
+Legale,Migrazione,Avvocato Migrazione,Tempo pieno
+Logistica,Doganale,Specialista Dogane,Tempo pieno
+Media,Redattore,Redattore Tecnico,Determinato
+Consulenza,Innovazione,Consulente Innovazione,Tempo pieno
+Tecnologia,Sicurezza,Analista Sicurezza,Tempo pieno
+Marketing,Affiliazione,Gestore Affiliazione,Libero professionista
+Finanza,Valutazione,Valutatore Progetti,Tempo pieno
+Risorse Umane,Digitale,Responsabile HR Digitale,Tempo pieno
+Vendite,Aeronautica,Venditore Aeronautico,Tempo pieno
+Sanità,Epidemiologo,Epidemiologo,Tempo pieno
+Educazione,Lingue,Insegnante Lingue,Tempo pieno
+Design,Automotive,Designer Automotive,Libero professionista
+Ingegneria,Tessile,Ingegnere Tessile,Tempo pieno
+Legale,Fallimento,Avvocato Fallimento,Tempo pieno
+Logistica,Commercio,Specialista Commercio,Tempo pieno
+Media,Guida,Guida Museale,Libero professionista
+Consulenza,Produttività,Consulente Produttività,Tempo pieno
+Tecnologia,Test,Ingegnere Collaudo,Tempo pieno
+Marketing,CRM,Specialista CRM,Tempo pieno
+Finanza,Compliance,Responsabile Compliance,Tempo pieno
+Risorse Umane,Analitica,Analista HR,Tempo pieno
+Vendite,Telecom,Venditore Telecomunicazioni,Tempo pieno
+Sanità,Urologo,Urologo,Tempo pieno
+Educazione,Arte,Insegnante Arte,Tempo pieno
+Design,Videogiochi,Designer Videogiochi,Libero professionista
+Ingegneria,Acustica,Ingegnere Acustico,Tempo pieno
+Legale,Ambiente,Avvocato Ambientale,Tempo pieno
+Logistica,Last Mile,Specialista Logistica,Tempo pieno
+Media,Lighting,Lighting Designer,Determinato
+Consulenza,Cliente,Consulente Esperienza,Tempo pieno
+Tecnologia,Embedded,Ingegnere Embedded,Tempo pieno
+Marketing,BTL,Specialista Marketing BTL,Tempo pieno
+Finanza,Finanza,Direttore Finanziario,Tempo pieno
+Risorse Umane,Internazionale,Responsabile HR Internazionale,Tempo pieno
+Vendite,Agroalimentare,Venditore Agroalimentare,Tempo pieno
+Sanità,Reumatologo,Reumatologo,Tempo pieno
+Educazione,Filosofia,Insegnante Filosofia,Tempo pieno
+Design,Sostenibile,Designer Sostenibile,Libero professionista
+Ingegneria,Forestale,Ingegnere Forestale,Tempo pieno
+Legale,Tecnologia,Avvocato Tecnologico,Tempo pieno
+Logistica,Lean,Esperto Logistica,Tempo pieno
+Media,Scrittore,Scrittore Fantasy,Libero professionista
+Consulenza,Supply Chain,Consulente Supply Chain,Tempo pieno
+Tecnologia,Frontend,Sviluppatore Frontend,Tempo pieno
+Marketing,Neuromarketing,Esperto Neuromarketing,Tempo pieno
+Finanza,Audit,Revisore Esterno,Determinato
+Risorse Umane,Retribuzione,Responsabile Retribuzione,Tempo pieno
+Vendite,Lusso,Venditore Lusso,Tempo pieno
+Sanità,Endocrinologo,Endocrinologo,Tempo pieno
+Educazione,Musica,Insegnante Musica,Tempo pieno
+Design,Tipografia,Designer Tipografico,Libero professionista
+Ingegneria,Idraulica,Ingegnere Idraulico,Tempo pieno
+Legale,Sport,Avvocato Sportivo,Tempo pieno
+Logistica,Inversa,Specialista Logistica,Tempo pieno
+Media,Critico,Critico Teatrale,Libero professionista
+Consulenza,Digitalizzazione,Consulente Digitalizzazione,Tempo pieno
+Tecnologia,Backend,Sviluppatore Backend,Tempo pieno
+Marketing,Guerrilla,Esperto Guerrilla,Tempo pieno
+Finanza,Controllo,Controllore Finanziario,Tempo pieno
+Risorse Umane,Relazioni,Responsabile Relazioni,Tempo pieno
+Vendite,Hardware,Venditore Hardware,Tempo pieno
+Sanità,Allergologo,Allergologo,Tempo pieno
+Educazione,Robotica,Formatore Robotica,Tempo pieno
+Design,Mostra,Designer Mostre,Libero professionista
+Ingegneria,Materiali,Ingegnere Materiali,Tempo pieno
+Legale,Arte,Avvocato Arte,Tempo pieno
+Logistica,Magazzino,Responsabile Magazzino,Tempo pieno
+Media,Presentatore,Presentatore Eventi,Libero professionista
+Consulenza,Eccellenza,Consulente Eccellenza,Tempo pieno
