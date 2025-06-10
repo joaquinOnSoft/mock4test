@@ -18,7 +18,7 @@ public class RndUtil {
         return instance;
     }
 
-    public float next(){
+    public float nextFloat(){
         return rnd.nextFloat();
     }
 
@@ -40,7 +40,7 @@ public class RndUtil {
      * @param low - Lower limit of the range
      * @return A random Number Between Two Given Values
      */
-    public int nextInRange(int low, int high){
+    public int nextIntInRange(int low, int high){
         return rnd.nextInt(high-low) + low;
     }
 }

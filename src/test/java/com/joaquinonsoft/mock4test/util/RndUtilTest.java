@@ -10,14 +10,14 @@ public class RndUtilTest {
 
     @Test
     public void next(){
-        float value = rnd.next();
+        float value = rnd.nextFloat();
         assertTrue(value >= 0 );
         assertTrue(value < 1 );
     }
 
     @RepeatedTest(100)
     public void nextInRange(){
-        float value = rnd.nextInRange(1, 10);
+        float value = rnd.nextIntInRange(1, 10);
         assertTrue(value >= 1 );
         assertTrue(value <= 100 );
     }

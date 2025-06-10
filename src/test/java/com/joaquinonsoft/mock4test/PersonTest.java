@@ -4,23 +4,28 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Locale;
 
-import static org.junit.jupiter.api.Assertions.assertNotNull;
-import static org.junit.jupiter.api.Assertions.fail;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class PersonTest {
     @Test
     public void getValues(){
         try {
-            Person person1 = new Person();
-            assertNotNull(person1.getFirstName());
-            assertNotNull(person1.getLastName());
-            assertNotNull(person1.getSex());
+            Person personES = new Person();
+            assertNotNull(personES.getFirstName());
+            assertNotNull(personES.getLastName());
+            assertNotNull(personES.getSecondLastName());
+            assertNotNull(personES.getFullName());
+            assertNotNull(personES.getSex());
+            assertNotNull(personES.getBirthdate());
 
-            Person person2 = new Person(Locale.UK);
-            assertNotNull(person2.getFirstName());
-            assertNotNull(person2.getLastName());
-            assertNotNull(person2.getSex());
-        } catch (Mock4DataException e) {
+            Person personUK = new Person(Locale.UK);
+            assertNotNull(personUK.getFirstName());
+            assertNotNull(personUK.getLastName());
+            assertNull(personUK.getSecondLastName());
+            assertNotNull(personUK.getFullName());
+            assertNotNull(personUK.getSex());
+            assertNotNull(personUK.getBirthdate());
+        } catch (Mock4TestException e) {
             fail(e);
         }
 

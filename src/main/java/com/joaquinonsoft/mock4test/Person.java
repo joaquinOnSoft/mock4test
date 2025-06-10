@@ -30,44 +30,61 @@ public class Person extends Field{
     private String jobTitle;
     private String jobType;
     private String lastName;
+    private String secondLastName;
     private String middleName;
     private final Sex sex;
     private final ZodiacSign zodiacSign;
     private final LocalDate birthdate;
 
-    public Person() throws Mock4DataException{
+    public Person() throws Mock4TestException {
         this(Locale.forLanguageTag("es-ES"));
     }
 
-    public Person(Locale locale) throws Mock4DataException{
+    public Person(Locale locale) throws Mock4TestException {
         super(locale);
 
-        initNames();
+        initNamesDictionary();
 
         if(familyNames != null){
-            lastName = familyNames.get(RndUtil.getInstance().nextInRange(0, familyNames.size() - 1)).getFamilyName();
+            lastName = getFamilyName();
+
+            if(locale.getLanguage().compareTo("es") == 0){
+                secondLastName = getFamilyName();
+            }
         }
 
-        if(RndUtil.getInstance().next() <= 0.5f){
+        if(RndUtil.getInstance().nextFloat() <= 0.5f){
             sex = Sex.FEMALE;
             if (maleNames != null) {
-                firstName = maleNames.get(RndUtil.getInstance().nextInRange(0, maleNames.size() - 1)).getName();
+                firstName = getMaleName();
+
+                if(RndUtil.getInstance().nextFloat() <= 0.15f){
+                    middleName = getMaleName();
+                }
             }
         }
         else{
             sex = Sex.MALE;
             if (femaleNames != null) {
-                firstName = femaleNames.get(RndUtil.getInstance().nextInRange(0, femaleNames.size() - 1)).getName();
+                firstName = getFemaleName();
+
+                if(RndUtil.getInstance().nextFloat() <= 0.15f){
+                    middleName = getFemaleName();
+                }
             }
         }
+
+        initFullName();
 
         birthdate = DateOfBirthGenerator.generateRandomDateOfBirth();
         zodiacSign = ZodiacSign.getZodiacSignFromDate(birthdate);
     }
 
 
+
+
     @SuppressWarnings("unchecked")
-    private void initNames() throws Mock4DataException {
+    private void initNamesDictionary() throws Mock4TestException {
         if(maleNames == null) {
             synchronized (this) {
                 if(maleNames == null) {
@@ -77,10 +94,41 @@ public class Person extends Field{
                         familyNames = (List<FamilyName>) loadCSV("person/family-name", FamilyName.class);
 
                     } catch (FileNotFoundException e) {
-                        throw new Mock4DataException(e);
+                        throw new Mock4TestException(e);
                     }
                 }
             }
         }
     }
+
+    private void initFullName() {
+        StringBuilder fullN = new StringBuilder();
+
+        fullN.append(firstName);
+        if(middleName != null){
+            fullN.append(" ").append(middleName);
+        }
+        if(lastName != null){
+            fullN.append(" ").append(lastName);
+        }
+        if(secondLastName != null){
+            fullN.append(" ").append(secondLastName);
+        }
+
+        fullName = fullN.toString();
+    }
+
+    private static String getFamilyName() {
+        return familyNames.get(RndUtil.getInstance().nextIntInRange(0, familyNames.size() - 1)).getFamilyName();
+    }
+
+    private String getFemaleName() {
+        return femaleNames.get(RndUtil.getInstance().nextIntInRange(0, femaleNames.size() - 1)).getName();
+    }
+
+    private String getMaleName() {
+        return maleNames.get(RndUtil.getInstance().nextIntInRange(0, maleNames.size() - 1)).getName();
+    }
+
+
 }
