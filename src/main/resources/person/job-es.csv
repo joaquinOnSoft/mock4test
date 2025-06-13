@@ -29,37 +29,6 @@ Legal,Paralegal,Asistente Legal,Medio tiempo
 Logística,Operador,Operador Logístico,Tiempo completo
 Medios,Periodista,Periodista Deportivo,Contrato
 Consultoría,Senior,Consultor Estratégico,Tiempo completo
-... (270 registros más) ...
-🔍 Detalles:
-jobArea: Áreas variadas como Tecnología, Salud, Ventas, Educación, etc.
-
-jobDescriptor: Niveles (Junior, Senior, Especialista) o roles específicos (Analista, Coordinador).
-
-jobTitle: Puestos realistas (Ingeniero de Software, Asesor Financiero, Guía Turístico).
-
-jobType: Modalidad de trabajo (Tiempo completo, Medio tiempo, Contrato, Freelance).
-
-📥 ¿Cómo obtener el archivo completo?
-Opción 1: Copia el texto y pégalo en un archivo .csv (usando Excel o bloc de notas).
-
-Opción 2: Si necesitas el archivo listo para descargar, puedo generarlo y compartirlo en un enlace (Google Drive o similar).
-
-🔄 ¿Personalizaciones?
-Si necesitas:
-
-Más registros (ej. 500).
-
-Áreas específicas (ej. solo Tecnología o Salud).
-
-Otros formatos (JSON, Excel).
-
-¡Avísame! 😊
-
-dame los 270 registros restantes
-Aquí tienes los 300 registros completos en formato CSV (incluyendo los 270 restantes) con datos realistas en español:
-
-csv
-jobArea,jobDescriptor,jobTitle,jobType
 Tecnología,Senior,Ingeniero de Software,Tiempo completo
 Marketing,Junior,Especialista en Redes Sociales,Medio tiempo
 Finanzas,Analista,Contador Público,Tiempo completo
