@@ -1,0 +1,8 @@
+brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
+ma-297,TVR,fa-1914,Chimaera,mo-3623, (11/1992 - 12/2003),11/1992,12/2003,29429,TVR Chimaera,TVR Chimaera 4.0 Cabriolet 240 cv,Essence
+ma-297,TVR,fa-1915,Griffith,mo-3624, (11/1990 - 12/2002),11/1990,12/2002,29430,TVR Griffith,TVR Griffith 3.9 Cabriolet 240 cv,Essence
+ma-297,TVR,fa-1916,S,mo-3625,érie S (01/1984 - 12/1994),01/1984,12/1994,29431,TVR S,TVR S érie S 350 3.5 i Cabriolet 200 cv,Essence
+ma-297,TVR,fa-1916,S,mo-3625,érie S (01/1984 - 12/1994),01/1984,12/1994,68983,TVR S,TVR S érie S 400 4.0 i Cabriolet 272 cv,Essence
+ma-297,TVR,fa-1916,S,mo-3625,érie S (01/1984 - 12/1994),01/1984,12/1994,68982,TVR S,TVR S érie S 390 3.9 i Cabriolet 279 cv,Essence
+ma-297,TVR,fa-1916,S,mo-3625,érie S (01/1984 - 12/1994),01/1984,12/1994,29432,TVR S,TVR S érie S 420 4.2 i Cabriolet 304 cv,Essence
+ma-297,TVR,fa-1917,Tasmin,mo-3626, (01/1980 - 12/1988),01/1980,12/1988,68984,TVR Tasmin,TVR Tasmin 3.5 Cabriolet 193 cv,Essence

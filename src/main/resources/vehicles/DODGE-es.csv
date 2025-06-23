@@ -1,0 +1,58 @@
+brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
+ma-256,DODGE,fa-204,Caliber,mo-543, (09/2006 - 05/2011),09/2006,05/2011,31337,DODGE Caliber,DODGE Caliber SRT4 2.4 16V 295 cv,Gasolina
+ma-256,DODGE,fa-204,Caliber,mo-543, (09/2006 - 05/2011),09/2006,05/2011,33643,DODGE Caliber,DODGE Caliber 2.2 CRD 16V 163 cv,Diesel
+ma-256,DODGE,fa-204,Caliber,mo-543, (09/2006 - 05/2011),09/2006,05/2011,3378,DODGE Caliber,DODGE Caliber 2.0 CRD 140cv,Diesel
+ma-256,DODGE,fa-204,Caliber,mo-543, (09/2006 - 05/2011),09/2006,05/2011,48647,DODGE Caliber,DODGE Caliber 2.0 VVT 16V 156 cv,Gasolina
+ma-256,DODGE,fa-204,Caliber,mo-543, (09/2006 - 05/2011),09/2006,05/2011,3379,DODGE Caliber,DODGE Caliber 2.0 VVT 156cv CVT Transmisión automática,Gasolina
+ma-256,DODGE,fa-204,Caliber,mo-543, (09/2006 - 05/2011),09/2006,05/2011,12149,DODGE Caliber,DODGE Caliber 1.8 VVT 150cv,Gasolina
+ma-256,DODGE,fa-1946,Journey,mo-3667, (06/2008 - 05/2011),06/2008,05/2011,29993,DODGE Journey,DODGE Journey 2.0 CRD Monovolumen DCT FAP - 7 plazas 140 cv Transmisión automática,Diesel
+ma-256,DODGE,fa-1946,Journey,mo-3667, (06/2008 - 05/2011),06/2008,05/2011,69175,DODGE Journey,DODGE Journey 2.7 i 24V 186 cv,Gasolina
+ma-256,DODGE,fa-1946,Journey,mo-3667, (06/2008 - 05/2011),06/2008,05/2011,33645,DODGE Journey,DODGE Journey 3.5 i V6 24V 235 cv Transmisión automática,Gasolina
+ma-256,DODGE,fa-1946,Journey,mo-3667, (06/2008 - 05/2011),06/2008,05/2011,33644,DODGE Journey,DODGE Journey 2.4 i Eco+ 16V 170 cv,GPL
+ma-256,DODGE,fa-1946,Journey,mo-3667, (06/2008 - 05/2011),06/2008,05/2011,33646,DODGE Journey,DODGE Journey 3.5 i V6 AWD 24V 235 cv Transmisión automática,Gasolina
+ma-256,DODGE,fa-1946,Journey,mo-3667, (06/2008 - 05/2011),06/2008,05/2011,29994,DODGE Journey,DODGE Journey 2.0 CRD Monovolumen FAP - 5 plazas 140 cv,Diesel
+ma-256,DODGE,fa-1946,Journey,mo-3667, (06/2008 - 05/2011),06/2008,05/2011,29992,DODGE Journey,DODGE Journey 2.0 CRD Monovolumen DCT FAP - 5 plazas 140 cv Transmisión automática,Diesel
+ma-256,DODGE,fa-1946,Journey,mo-3667, (06/2008 - 05/2011),06/2008,05/2011,29995,DODGE Journey,DODGE Journey 2.0 CRD Monovolumen FAP - 7 plazas 140 cv,Diesel
+ma-256,DODGE,fa-1946,Journey,mo-3667, (06/2008 - 05/2011),06/2008,05/2011,29996,DODGE Journey,DODGE Journey 2.4 i Monovolumen 16V 173 cv,Gasolina
+ma-256,DODGE,fa-1946,Journey,mo-3667, (06/2008 - 05/2011),06/2008,05/2011,29998,DODGE Journey,DODGE Journey 2.7 i V6 Monovolumen 24V FlexFuel 186 cv,Flex Fuel
+ma-256,DODGE,fa-1947,Nitro,mo-3668, (06/2007 - 05/2011),06/2007,05/2011,30003,DODGE Nitro,DODGE Nitro 2.8 CRD 4x4 SUV 16V 177 cv,Diesel
+ma-256,DODGE,fa-1947,Nitro,mo-3668, (06/2007 - 05/2011),06/2007,05/2011,30000,DODGE Nitro,DODGE Nitro 2.8 CRD 4x2 SUV 16V FAP 177 cv,Diesel
+ma-256,DODGE,fa-1947,Nitro,mo-3668, (06/2007 - 05/2011),06/2007,05/2011,69174,DODGE Nitro,DODGE Nitro 3.7 i V6 4x4 SUV 214 cv Transmisión automática,Gasolina
+ma-256,DODGE,fa-1947,Nitro,mo-3668, (06/2007 - 05/2011),06/2007,05/2011,30001,DODGE Nitro,DODGE Nitro 2.8 CRD 4x4 SUV 16V 177 cv Transmisión automática,Diesel
+ma-256,DODGE,fa-1947,Nitro,mo-3668, (06/2007 - 05/2011),06/2007,05/2011,30002,DODGE Nitro,DODGE Nitro 2.8 CRD 4x4 SUV 16V FAP 177 cv Transmisión automática,Diesel
+ma-256,DODGE,fa-1947,Nitro,mo-3668, (06/2007 - 05/2011),06/2007,05/2011,30004,DODGE Nitro,DODGE Nitro 2.8 CRD 4x4 SUV 16V FAP 177 cv,Diesel
+ma-256,DODGE,fa-1947,Nitro,mo-3668, (06/2007 - 05/2011),06/2007,05/2011,30006,DODGE Nitro,DODGE Nitro 4.0 i V6 4x4 SUV 260 cv Transmisión automática,Gasolina
+ma-256,DODGE,fa-1947,Nitro,mo-3668, (06/2007 - 05/2011),06/2007,05/2011,29999,DODGE Nitro,DODGE Nitro 2.8 CRD 4x2 SUV 16V 177 cv,Diesel
+ma-256,DODGE,fa-1947,Nitro,mo-3668, (06/2007 - 05/2011),06/2007,05/2011,30005,DODGE Nitro,DODGE Nitro 3.7 i V6 4x4 SUV 205 cv Transmisión automática,Gasolina
+ma-256,DODGE,fa-1963,Avenger,mo-3737, (07/2007 - 11/2010),07/2007,11/2010,29788,DODGE Avenger,DODGE Avenger 2.0 CRD Berlina 140 cv,Diesel
+ma-256,DODGE,fa-1963,Avenger,mo-3737, (07/2007 - 11/2010),07/2007,11/2010,29789,DODGE Avenger,DODGE Avenger 2.0 DVVT Berlina 156 cv,Gasolina
+ma-256,DODGE,fa-1963,Avenger,mo-3737, (07/2007 - 11/2010),07/2007,11/2010,29928,DODGE Avenger,DODGE Avenger 2.4 DVVT Berlina 16V 173 cv Transmisión automática,Gasolina
+ma-256,DODGE,fa-1963,Avenger,mo-3737, (07/2007 - 11/2010),07/2007,11/2010,29929,DODGE Avenger,DODGE Avenger 2.7 MPI V6 Berlina 24V 186 cv Transmisión automática,Gasolina
+ma-256,DODGE,fa-2271,RAM,mo-6807,1500 Crew Cab Pickup (09/2008 - 12/2010),09/2008,12/2010,59361,DODGE RAM,DODGE RAM 1500 Crew Cab Pickup 5.7 396 cv Transmisión automática,Gasolina
+ma-256,DODGE,fa-1945,Caravan,mo-2927,III (02/2000 - Hoy),02/2000,,26535,DODGE Caravan,DODGE Caravan III 3.3 174 cv,Gasolina
+ma-256,DODGE,fa-1945,Caravan,mo-2927,III (02/2000 - Hoy),02/2000,,26536,DODGE Caravan,DODGE Caravan III 3.3 AWD 174 cv,Gasolina
+ma-256,DODGE,fa-1945,Caravan,mo-2927,III (02/2000 - Hoy),02/2000,,26716,DODGE Caravan,DODGE Caravan III 3.8 Turbo AWD 208 cv,Gasolina
+ma-256,DODGE,fa-1945,Caravan,mo-2927,III (02/2000 - Hoy),02/2000,,26539,DODGE Caravan,DODGE Caravan III 2.4 151 cv,Gasolina
+ma-256,DODGE,fa-1945,Caravan,mo-2927,III (02/2000 - Hoy),02/2000,,26538,DODGE Caravan,DODGE Caravan III 3.8 AWD 218 cv,Gasolina
+ma-256,DODGE,fa-1945,Caravan,mo-2927,III (02/2000 - Hoy),02/2000,,26537,DODGE Caravan,DODGE Caravan III 3.8 218 cv,Gasolina
+ma-256,DODGE,fa-1945,Caravan,mo-2926,II (01/1995 - 03/2001),01/1995,03/2001,26525,DODGE Caravan,DODGE Caravan II 2.0 i 133 cv,Gasolina
+ma-256,DODGE,fa-1945,Caravan,mo-2926,II (01/1995 - 03/2001),01/1995,03/2001,26531,DODGE Caravan,DODGE Caravan II 3.8 i AWD 178 cv,Gasolina
+ma-256,DODGE,fa-1945,Caravan,mo-2926,II (01/1995 - 03/2001),01/1995,03/2001,26528,DODGE Caravan,DODGE Caravan II 3.0 152 cv,Gasolina
+ma-256,DODGE,fa-1945,Caravan,mo-2926,II (01/1995 - 03/2001),01/1995,03/2001,26530,DODGE Caravan,DODGE Caravan II 3.8 i AWD 166 cv,Gasolina
+ma-256,DODGE,fa-1945,Caravan,mo-2926,II (01/1995 - 03/2001),01/1995,03/2001,26532,DODGE Caravan,DODGE Caravan II 2.5 TD 116 cv,Diesel
+ma-256,DODGE,fa-1945,Caravan,mo-2926,II (01/1995 - 03/2001),01/1995,03/2001,26533,DODGE Caravan,DODGE Caravan II 3.8 i 166 cv,Gasolina
+ma-256,DODGE,fa-1945,Caravan,mo-2926,II (01/1995 - 03/2001),01/1995,03/2001,26534,DODGE Caravan,DODGE Caravan II 3.8 i 178 cv,Gasolina
+ma-256,DODGE,fa-1945,Caravan,mo-3666, (01/1996 - 03/2001),01/1996,03/2001,28656,DODGE Caravan,DODGE Caravan 3.3 i Monospace 150 cv Transmisión automática,Gasolina
+ma-256,DODGE,fa-1945,Caravan,mo-3666, (01/1996 - 03/2001),01/1996,03/2001,28655,DODGE Caravan,DODGE Caravan 2.4 i Monospace 150 cv,Gasolina
+ma-256,DODGE,fa-1945,Caravan,mo-3666, (01/1996 - 03/2001),01/1996,03/2001,28654,DODGE Caravan,DODGE Caravan 2.4 i Monospace 150 cv Transmisión automática,Gasolina
+ma-256,DODGE,fa-1246,NEON,mo-2928, (05/1994 - 08/1999),05/1994,08/1999,26517,DODGE NEON,DODGE NEON 2.0 16V 148 cv,Gasolina
+ma-256,DODGE,fa-1246,NEON,mo-2928, (05/1994 - 08/1999),05/1994,08/1999,26516,DODGE NEON,DODGE NEON 2.0 16V 133 cv,Gasolina
+ma-256,DODGE,fa-1246,NEON,mo-2928, (05/1994 - 08/1999),05/1994,08/1999,26518,DODGE NEON,DODGE NEON 2.0 16V 152 cv,Gasolina
+ma-256,DODGE,fa-1246,NEON,mo-2928, (05/1994 - 08/1999),05/1994,08/1999,26515,DODGE NEON,DODGE NEON 2.0 16V 145 cv,Gasolina
+ma-256,DODGE,fa-1246,NEON,mo-2929,II (08/1999 - Hoy),08/1999,,26519,DODGE NEON,DODGE NEON II 2.0 16V 133 cv,Gasolina
+ma-256,DODGE,fa-1246,NEON,mo-2929,II (08/1999 - Hoy),08/1999,,26520,DODGE NEON,DODGE NEON II 2.0 16V 152 cv,Gasolina
+ma-256,DODGE,fa-1248,VIPER,mo-2931,Descapotable (11/2003 - Hoy),11/2003,,26583,DODGE VIPER,DODGE VIPER Descapotable SRT-10 506 cv,Gasolina
+ma-256,DODGE,fa-1247,STRATUS,mo-2930, (12/1995 - 04/2001),12/1995,04/2001,26524,DODGE STRATUS,DODGE STRATUS 2.5 V6 170 cv,Gasolina
+ma-256,DODGE,fa-1247,STRATUS,mo-2930, (12/1995 - 04/2001),12/1995,04/2001,26522,DODGE STRATUS,DODGE STRATUS 2.0 16V 133 cv,Gasolina
+ma-256,DODGE,fa-1247,STRATUS,mo-2930, (12/1995 - 04/2001),12/1995,04/2001,26521,DODGE STRATUS,DODGE STRATUS 2.4 16 V 140 cv,Gasolina
+ma-256,DODGE,fa-1247,STRATUS,mo-2930, (12/1995 - 04/2001),12/1995,04/2001,26523,DODGE STRATUS,DODGE STRATUS 2.4 16V 152 cv,Gasolina

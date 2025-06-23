@@ -1,0 +1,410 @@
+brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
+ma-206,SUBARU,fa-751,Impreza,mo-1108,(G11) Berline (09/2000 - 08/2005),09/2000,08/2005,17982,SUBARU Impreza,SUBARU Impreza (G11) Berline 2.0 i Turbo 225cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1108,(G11) Berline (09/2000 - 08/2005),09/2000,08/2005,8989,SUBARU Impreza,SUBARU Impreza (G11) Berline 2.0 i 125cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1108,(G11) Berline (09/2000 - 08/2005),09/2000,08/2005,40756,SUBARU Impreza,SUBARU Impreza (G11) Berline 2.0 Turbo 218 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1108,(G11) Berline (09/2000 - 08/2005),09/2000,08/2005,12723,SUBARU Impreza,SUBARU Impreza (G11) Berline 2.0 STi Turbo 265cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1108,(G11) Berline (09/2000 - 08/2005),09/2000,08/2005,8990,SUBARU Impreza,SUBARU Impreza (G11) Berline 2.0 i Turbo 218cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1108,(G11) Berline (09/2000 - 08/2005),09/2000,08/2005,12722,SUBARU Impreza,SUBARU Impreza (G11) Berline 1.6 i 95cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1108,(G11) Berline (09/2000 - 08/2005),09/2000,08/2005,17981,SUBARU Impreza,SUBARU Impreza (G11) Berline 2.0 i 125cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-6635,(GE/GH) Hatchback (06/2007 - 09/2011),06/2007,09/2011,29768,SUBARU Impreza,SUBARU Impreza (GE/GH) Hatchback 1.5 i 16V AWD 107 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-6635,(GE/GH) Hatchback (06/2007 - 09/2011),06/2007,09/2011,29769,SUBARU Impreza,SUBARU Impreza (GE/GH) Hatchback R 2.0 i 16V AWD 150 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-6635,(GE/GH) Hatchback (06/2007 - 09/2011),06/2007,09/2011,66743,SUBARU Impreza,SUBARU Impreza (GE/GH) Hatchback 2.0 D 16V AWD 150 cv,Diesel
+ma-206,SUBARU,fa-751,Impreza,mo-6635,(GE/GH) Hatchback (06/2007 - 09/2011),06/2007,09/2011,29770,SUBARU Impreza,SUBARU Impreza (GE/GH) Hatchback R 2.0 i 16V AWD SportShift 150 cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-6635,(GE/GH) Hatchback (06/2007 - 09/2011),06/2007,09/2011,29773,SUBARU Impreza,SUBARU Impreza (GE/GH) Hatchback 2.0 D 16V DPF AWD 150 cv,Diesel
+ma-206,SUBARU,fa-751,Impreza,mo-6635,(GE/GH) Hatchback (06/2007 - 09/2011),06/2007,09/2011,50018,SUBARU Impreza,SUBARU Impreza (GE/GH) Hatchback 2.0 D 16V AWD 109 cv,Diesel
+ma-206,SUBARU,fa-751,Impreza,mo-6635,(GE/GH) Hatchback (06/2007 - 09/2011),06/2007,09/2011,29765,SUBARU Impreza,SUBARU Impreza (GE/GH) Hatchback 1.5 i 16V 2WD 107 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-6635,(GE/GH) Hatchback (06/2007 - 09/2011),06/2007,09/2011,29767,SUBARU Impreza,SUBARU Impreza (GE/GH) Hatchback 1.5 i 16V AWD SportShift 107 cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-6635,(GE/GH) Hatchback (06/2007 - 09/2011),06/2007,09/2011,29766,SUBARU Impreza,SUBARU Impreza (GE/GH) Hatchback 1.5 i 16V 2WD SportShift 107 cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,12730,SUBARU Impreza,SUBARU Impreza (G10) Berline 1.6 i 95cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,12732,SUBARU Impreza,SUBARU Impreza (G10) Berline 2.0 i 115cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,12731,SUBARU Impreza,SUBARU Impreza (G10) Berline 1.8 i 110cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,8998,SUBARU Impreza,SUBARU Impreza (G10) Berline 2.0 i 115cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,8995,SUBARU Impreza,SUBARU Impreza (G10) Berline 1.6 i 90cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,25123,SUBARU Impreza,SUBARU Impreza (G10) Berline 2.0 i 4x4 125cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,12733,SUBARU Impreza,SUBARU Impreza (G10) Berline 2.0 i 16V Turbo 4WD 211cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,24756,SUBARU Impreza,SUBARU Impreza (G10) Berline 2.0 i 4x4 115cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,24754,SUBARU Impreza,SUBARU Impreza (G10) Berline 1.6 i 4x4 95cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,24755,SUBARU Impreza,SUBARU Impreza (G10) Berline 1.8 i 4x4 110cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,24987,SUBARU Impreza,SUBARU Impreza (G10) Berline 2.0 i 4x4 125cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,17989,SUBARU Impreza,SUBARU Impreza (G10) Berline 2.0 i 125cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,12729,SUBARU Impreza,SUBARU Impreza (G10) Berline 1.6 i 90cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,23140,SUBARU Impreza,SUBARU Impreza (G10) Berline 2.0 i 125cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,48609,SUBARU Impreza,SUBARU Impreza (G10) Berline 2.0 i Turbo 4WD 16V 218 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,8996,SUBARU Impreza,SUBARU Impreza (G10) Berline 1.8 i 103cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,24833,SUBARU Impreza,SUBARU Impreza (G10) Berline 1.6 i 4x4 90cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,8994,SUBARU Impreza,SUBARU Impreza (G10) Berline 1.6 i 95cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,24835,SUBARU Impreza,SUBARU Impreza (G10) Berline 2.0 i 4x4 115cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,8997,SUBARU Impreza,SUBARU Impreza (G10) Berline 1.8 i 110cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1106,(G10) Berline (01/1993 - 08/2000),01/1993,08/2000,24834,SUBARU Impreza,SUBARU Impreza (G10) Berline 1.8 i 4x4 110cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1110,(G11) Phase 2 Berline (09/2005 - 06/2007),09/2005,06/2007,29761,SUBARU Impreza,SUBARU Impreza (G11) Phase 2 Berline 1.5 i AWD Berline 105 cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1110,(G11) Phase 2 Berline (09/2005 - 06/2007),09/2005,06/2007,8991,SUBARU Impreza,SUBARU Impreza (G11) Phase 2 Berline 2.0 R 160cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1110,(G11) Phase 2 Berline (09/2005 - 06/2007),09/2005,06/2007,8992,SUBARU Impreza,SUBARU Impreza (G11) Phase 2 Berline 2.5 WRX Turbo 230cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1110,(G11) Phase 2 Berline (09/2005 - 06/2007),09/2005,06/2007,29763,SUBARU Impreza,SUBARU Impreza (G11) Phase 2 Berline 1.5 i 2WD Berline 105 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1110,(G11) Phase 2 Berline (09/2005 - 06/2007),09/2005,06/2007,17984,SUBARU Impreza,SUBARU Impreza (G11) Phase 2 Berline 2.0 R 160cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1110,(G11) Phase 2 Berline (09/2005 - 06/2007),09/2005,06/2007,12726,SUBARU Impreza,SUBARU Impreza (G11) Phase 2 Berline 2.5 Sti WRX Turbo 320cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1110,(G11) Phase 2 Berline (09/2005 - 06/2007),09/2005,06/2007,23134,SUBARU Impreza,SUBARU Impreza (G11) Phase 2 Berline 2.5 STi WRX Turbo 280cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1110,(G11) Phase 2 Berline (09/2005 - 06/2007),09/2005,06/2007,29764,SUBARU Impreza,SUBARU Impreza (G11) Phase 2 Berline 1.5 i 2WD Berline 105 cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1110,(G11) Phase 2 Berline (09/2005 - 06/2007),09/2005,06/2007,29762,SUBARU Impreza,SUBARU Impreza (G11) Phase 2 Berline 1.5 i AWD Berline 105 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-3734,(GR/GV) Hatchback (06/2007 - 01/2014),06/2007,01/2014,29771,SUBARU Impreza,SUBARU Impreza (GR/GV) Hatchback WRX STI 2.5 16V AWD 300 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-3734,(GR/GV) Hatchback (06/2007 - 01/2014),06/2007,01/2014,29772,SUBARU Impreza,SUBARU Impreza (GR/GV) Hatchback 2.5 Ti 16V AWD 230 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1109,(G11) Break (09/2000 - 08/2005),09/2000,08/2005,8988,SUBARU Impreza,SUBARU Impreza (G11) Break 2.0 STi Turbo 265cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1109,(G11) Break (09/2000 - 08/2005),09/2000,08/2005,12721,SUBARU Impreza,SUBARU Impreza (G11) Break 2.0 i Turbo 218cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1109,(G11) Break (09/2000 - 08/2005),09/2000,08/2005,17980,SUBARU Impreza,SUBARU Impreza (G11) Break 2.0 i WRX Turbo 225cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1109,(G11) Break (09/2000 - 08/2005),09/2000,08/2005,8985,SUBARU Impreza,SUBARU Impreza (G11) Break 1.6 i 95cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1109,(G11) Break (09/2000 - 08/2005),09/2000,08/2005,17978,SUBARU Impreza,SUBARU Impreza (G11) Break 1.6 i 95cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1109,(G11) Break (09/2000 - 08/2005),09/2000,08/2005,17979,SUBARU Impreza,SUBARU Impreza (G11) Break 2.0 i 125cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1109,(G11) Break (09/2000 - 08/2005),09/2000,08/2005,8986,SUBARU Impreza,SUBARU Impreza (G11) Break 2.0 i 125cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1109,(G11) Break (09/2000 - 08/2005),09/2000,08/2005,8987,SUBARU Impreza,SUBARU Impreza (G11) Break 2.0 i Turbo 218cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1107,(G10) Break (01/1993 - 08/2000),01/1993,08/2000,12727,SUBARU Impreza,SUBARU Impreza (G10) Break 1.6 i 95cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1107,(G10) Break (01/1993 - 08/2000),01/1993,08/2000,17988,SUBARU Impreza,SUBARU Impreza (G10) Break 2.0 i 16V Turbo 4WD 211cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1107,(G10) Break (01/1993 - 08/2000),01/1993,08/2000,24753,SUBARU Impreza,SUBARU Impreza (G10) Break 1.6 i 4x4 90cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1107,(G10) Break (01/1993 - 08/2000),01/1993,08/2000,24986,SUBARU Impreza,SUBARU Impreza (G10) Break 1.8 i 4x4 110cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1107,(G10) Break (01/1993 - 08/2000),01/1993,08/2000,23137,SUBARU Impreza,SUBARU Impreza (G10) Break 2.0 i 125cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1107,(G10) Break (01/1993 - 08/2000),01/1993,08/2000,23135,SUBARU Impreza,SUBARU Impreza (G10) Break 1.6 i 90cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1107,(G10) Break (01/1993 - 08/2000),01/1993,08/2000,8993,SUBARU Impreza,SUBARU Impreza (G10) Break 1.6 i 90cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1107,(G10) Break (01/1993 - 08/2000),01/1993,08/2000,24985,SUBARU Impreza,SUBARU Impreza (G10) Break 1.6 i 4x4 95cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1107,(G10) Break (01/1993 - 08/2000),01/1993,08/2000,17986,SUBARU Impreza,SUBARU Impreza (G10) Break 1.8 i 103cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1107,(G10) Break (01/1993 - 08/2000),01/1993,08/2000,23139,SUBARU Impreza,SUBARU Impreza (G10) Break 2.0 i 125cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1107,(G10) Break (01/1993 - 08/2000),01/1993,08/2000,23138,SUBARU Impreza,SUBARU Impreza (G10) Break 2.0 i 115cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1107,(G10) Break (01/1993 - 08/2000),01/1993,08/2000,30451,SUBARU Impreza,SUBARU Impreza (G10) Break 2.0 i Turbo 4WD 211 cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1107,(G10) Break (01/1993 - 08/2000),01/1993,08/2000,17987,SUBARU Impreza,SUBARU Impreza (G10) Break 1.8 i 110cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1107,(G10) Break (01/1993 - 08/2000),01/1993,08/2000,23136,SUBARU Impreza,SUBARU Impreza (G10) Break 2.0 i 16V AWD 115cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1107,(G10) Break (01/1993 - 08/2000),01/1993,08/2000,12728,SUBARU Impreza,SUBARU Impreza (G10) Break 1.8 i 110cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1107,(G10) Break (01/1993 - 08/2000),01/1993,08/2000,17985,SUBARU Impreza,SUBARU Impreza (G10) Break 1.6 i 95cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1107,(G10) Break (01/1993 - 08/2000),01/1993,08/2000,24832,SUBARU Impreza,SUBARU Impreza (G10) Break 1.8 i 4x4 110cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1111,(G11) Phase 2 Break (09/2005 - 06/2007),09/2005,06/2007,12725,SUBARU Impreza,SUBARU Impreza (G11) Phase 2 Break 2.0 R 160cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1111,(G11) Phase 2 Break (09/2005 - 06/2007),09/2005,06/2007,12724,SUBARU Impreza,SUBARU Impreza (G11) Phase 2 Break 2.0 R 160cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1111,(G11) Phase 2 Break (09/2005 - 06/2007),09/2005,06/2007,29760,SUBARU Impreza,SUBARU Impreza (G11) Phase 2 Break 1.5 i AWD Break 105 cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1111,(G11) Phase 2 Break (09/2005 - 06/2007),09/2005,06/2007,17983,SUBARU Impreza,SUBARU Impreza (G11) Phase 2 Break 2.5 WRX Turbo 230cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-1111,(G11) Phase 2 Break (09/2005 - 06/2007),09/2005,06/2007,29759,SUBARU Impreza,SUBARU Impreza (G11) Phase 2 Break 1.5 i AWD Break 105 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-5488,(GP) Hatchback (10/2011 - 10/2017),10/2011,10/2017,39905,SUBARU Impreza,SUBARU Impreza (GP) Hatchback 2.0 i 16V AWD 150 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-5488,(GP) Hatchback (10/2011 - 10/2017),10/2011,10/2017,39898,SUBARU Impreza,SUBARU Impreza (GP) Hatchback 1.6 i 16V FWD Lineartronic 114 cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-5488,(GP) Hatchback (10/2011 - 10/2017),10/2011,10/2017,67808,SUBARU Impreza,SUBARU Impreza (GP) Hatchback 1.6 i 16V AWD Lineartronic 114 cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-5488,(GP) Hatchback (10/2011 - 10/2017),10/2011,10/2017,39902,SUBARU Impreza,SUBARU Impreza (GP) Hatchback 1.6 i 16V LPG FWD Lineartronic 114 cv Boîte auto,GPL
+ma-206,SUBARU,fa-751,Impreza,mo-5488,(GP) Hatchback (10/2011 - 10/2017),10/2011,10/2017,39901,SUBARU Impreza,SUBARU Impreza (GP) Hatchback 1.6 i 16V LPG AWD 114 cv,GPL
+ma-206,SUBARU,fa-751,Impreza,mo-5488,(GP) Hatchback (10/2011 - 10/2017),10/2011,10/2017,39897,SUBARU Impreza,SUBARU Impreza (GP) Hatchback 1.6 i 16V AWD 115 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-5488,(GP) Hatchback (10/2011 - 10/2017),10/2011,10/2017,39899,SUBARU Impreza,SUBARU Impreza (GP) Hatchback 1.6 i 16V FWD 114 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-5488,(GP) Hatchback (10/2011 - 10/2017),10/2011,10/2017,67809,SUBARU Impreza,SUBARU Impreza (GP) Hatchback 1.6 i 16V AWD 114 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-5488,(GP) Hatchback (10/2011 - 10/2017),10/2011,10/2017,39900,SUBARU Impreza,SUBARU Impreza (GP) Hatchback 1.6 i 16V LPG AWD Lineartronic 114 cv Boîte auto,GPL
+ma-206,SUBARU,fa-751,Impreza,mo-5488,(GP) Hatchback (10/2011 - 10/2017),10/2011,10/2017,39896,SUBARU Impreza,SUBARU Impreza (GP) Hatchback 1.6 i 16V AWD Lineartronic 115 cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-5488,(GP) Hatchback (10/2011 - 10/2017),10/2011,10/2017,39903,SUBARU Impreza,SUBARU Impreza (GP) Hatchback 1.6 i 16V LPG FWD 114 cv,GPL
+ma-206,SUBARU,fa-751,Impreza,mo-5488,(GP) Hatchback (10/2011 - 10/2017),10/2011,10/2017,39904,SUBARU Impreza,SUBARU Impreza (GP) Hatchback 2.0 i 16V AWD Lineartronic 150 cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-7100,(GT) (10/2017 - Aujourd'hui),10/2017,,60938,SUBARU Impreza,SUBARU Impreza (GT) 1.6 i 16V AWD Lineartronic 114 cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-7100,(GT) (10/2017 - Aujourd'hui),10/2017,,66744,SUBARU Impreza,SUBARU Impreza (GT) 1.6 i 16V Lineartronic 114 cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-7100,(GT) (10/2017 - Aujourd'hui),10/2017,,66745,SUBARU Impreza,SUBARU Impreza (GT) 2.0 i 16V e-BOXER AWD Lineartronic 150 cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-2526,(GFC) Coupé (12/1995 - 12/2000),12/1995,12/2000,26694,SUBARU Impreza,SUBARU Impreza (GFC) Coupé 2.2 GX AWD 131 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-2526,(GFC) Coupé (12/1995 - 12/2000),12/1995,12/2000,26692,SUBARU Impreza,SUBARU Impreza (GFC) Coupé 2.0 125 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-2526,(GFC) Coupé (12/1995 - 12/2000),12/1995,12/2000,26741,SUBARU Impreza,SUBARU Impreza (GFC) Coupé 2.0 GL 116 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-2526,(GFC) Coupé (12/1995 - 12/2000),12/1995,12/2000,26693,SUBARU Impreza,SUBARU Impreza (GFC) Coupé 2.0 AWD 280 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-2526,(GFC) Coupé (12/1995 - 12/2000),12/1995,12/2000,26120,SUBARU Impreza,SUBARU Impreza (GFC) Coupé 1.6 4WD 90 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-2526,(GFC) Coupé (12/1995 - 12/2000),12/1995,12/2000,25561,SUBARU Impreza,SUBARU Impreza (GFC) Coupé 2.0 4WD 115 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-2526,(GFC) Coupé (12/1995 - 12/2000),12/1995,12/2000,26121,SUBARU Impreza,SUBARU Impreza (GFC) Coupé 2.0 Turbo 4WD 211 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-2526,(GFC) Coupé (12/1995 - 12/2000),12/1995,12/2000,26119,SUBARU Impreza,SUBARU Impreza (GFC) Coupé 1.6 90 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-5487,(GJ) Sedan (10/2011 - 10/2017),10/2011,10/2017,39893,SUBARU Impreza,SUBARU Impreza (GJ) Sedan 1.6 i 16V FWD Lineartronic 115 cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-5487,(GJ) Sedan (10/2011 - 10/2017),10/2011,10/2017,39895,SUBARU Impreza,SUBARU Impreza (GJ) Sedan 2.0 i 16V AWD 150 cv,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-5487,(GJ) Sedan (10/2011 - 10/2017),10/2011,10/2017,39891,SUBARU Impreza,SUBARU Impreza (GJ) Sedan 1.6 i 16V AWD Lineartronic 115 cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-5487,(GJ) Sedan (10/2011 - 10/2017),10/2011,10/2017,39894,SUBARU Impreza,SUBARU Impreza (GJ) Sedan 2.0 i 16V AWD Lineartronic 150 cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-7250,(GK) Sedan (10/2017 - Aujourd'hui),10/2017,,66747,SUBARU Impreza,SUBARU Impreza (GK) Sedan 1.6 i 16V Lineartronic 114 cv Boîte auto,Essence
+ma-206,SUBARU,fa-751,Impreza,mo-7250,(GK) Sedan (10/2017 - Aujourd'hui),10/2017,,66746,SUBARU Impreza,SUBARU Impreza (GK) Sedan 1.6 i 16V AWD Lineartronic 114 cv Boîte auto,Essence
+ma-206,SUBARU,fa-750,Forester,mo-3601,3 (SH) (12/2007 - 12/2013),12/2007,12/2013,30449,SUBARU Forester,SUBARU Forester 3 (SH) 2.5 XT 16V 4WD 230 cv,Essence
+ma-206,SUBARU,fa-750,Forester,mo-3601,3 (SH) (12/2007 - 12/2013),12/2007,12/2013,50359,SUBARU Forester,SUBARU Forester 3 (SH) 2.0 16V 4WD 150 cv,Essence
+ma-206,SUBARU,fa-750,Forester,mo-3601,3 (SH) (12/2007 - 12/2013),12/2007,12/2013,31652,SUBARU Forester,SUBARU Forester 3 (SH) 2.0 XS 16V 4WD Sportshift 150 cv Boîte auto,Essence
+ma-206,SUBARU,fa-750,Forester,mo-3601,3 (SH) (12/2007 - 12/2013),12/2007,12/2013,30450,SUBARU Forester,SUBARU Forester 3 (SH) 2.5 XT 16V 4WD Sportshift 230 cv Boîte auto,Essence
+ma-206,SUBARU,fa-750,Forester,mo-3601,3 (SH) (12/2007 - 12/2013),12/2007,12/2013,31651,SUBARU Forester,SUBARU Forester 3 (SH) 2.0 X 16V 4WD 150 cv,Essence
+ma-206,SUBARU,fa-750,Forester,mo-3601,3 (SH) (12/2007 - 12/2013),12/2007,12/2013,30447,SUBARU Forester,SUBARU Forester 3 (SH) 2.5 X 16V 4WD 172 cv,Essence
+ma-206,SUBARU,fa-750,Forester,mo-3601,3 (SH) (12/2007 - 12/2013),12/2007,12/2013,50360,SUBARU Forester,SUBARU Forester 3 (SH) 2.0 16V 4WD Sportshift 150 cv Boîte auto,Essence
+ma-206,SUBARU,fa-750,Forester,mo-3601,3 (SH) (12/2007 - 12/2013),12/2007,12/2013,30446,SUBARU Forester,SUBARU Forester 3 (SH) 2.0 D 16V 4WD 147 cv,Diesel
+ma-206,SUBARU,fa-750,Forester,mo-3601,3 (SH) (12/2007 - 12/2013),12/2007,12/2013,30448,SUBARU Forester,SUBARU Forester 3 (SH) 2.5 XS 16V 4WD Sportshift 172 cv Boîte auto,Essence
+ma-206,SUBARU,fa-750,Forester,mo-983,1 (SF) (07/1997 - 09/2002),07/1997,09/2002,50357,SUBARU Forester,SUBARU Forester 1 (SF) 2.0 i 16V Turbo 4WD 170 cv,Essence
+ma-206,SUBARU,fa-750,Forester,mo-983,1 (SF) (07/1997 - 09/2002),07/1997,09/2002,8983,SUBARU Forester,SUBARU Forester 1 (SF) 2.0 i 16V 4WD 122 cv,Essence
+ma-206,SUBARU,fa-750,Forester,mo-983,1 (SF) (07/1997 - 09/2002),07/1997,09/2002,17977,SUBARU Forester,SUBARU Forester 1 (SF) 2.0 i 16V 4WD 125 cv Boîte auto,Essence
+ma-206,SUBARU,fa-750,Forester,mo-983,1 (SF) (07/1997 - 09/2002),07/1997,09/2002,17976,SUBARU Forester,SUBARU Forester 1 (SF) 2.0 i 16V 4WD 122 cv Boîte auto,Essence
+ma-206,SUBARU,fa-750,Forester,mo-983,1 (SF) (07/1997 - 09/2002),07/1997,09/2002,8984,SUBARU Forester,SUBARU Forester 1 (SF) 2.0 i 16V 4WD 125 cv,Essence
+ma-206,SUBARU,fa-750,Forester,mo-983,1 (SF) (07/1997 - 09/2002),07/1997,09/2002,12719,SUBARU Forester,SUBARU Forester 1 (SF) 2.0 i 16V Turbo 4WD 170 cv,Essence
+ma-206,SUBARU,fa-750,Forester,mo-983,1 (SF) (07/1997 - 09/2002),07/1997,09/2002,50356,SUBARU Forester,SUBARU Forester 1 (SF) 2.0 i 16V Turbo 4WD 170 cv Boîte auto,Essence
+ma-206,SUBARU,fa-750,Forester,mo-983,1 (SF) (07/1997 - 09/2002),07/1997,09/2002,50358,SUBARU Forester,SUBARU Forester 1 (SF) 2.0 i 16V Turbo 4WD 177 cv,Essence
+ma-206,SUBARU,fa-750,Forester,mo-983,1 (SF) (07/1997 - 09/2002),07/1997,09/2002,12720,SUBARU Forester,SUBARU Forester 1 (SF) 2.0 i 16V Turbo 4WD 170 cv Boîte auto,Essence
+ma-206,SUBARU,fa-750,Forester,mo-984,2 (SG) (09/2002 - 07/2005),09/2002,07/2005,23131,SUBARU Forester,SUBARU Forester 2 (SG) 2.0 X 16V 4WD 125 cv Boîte auto,Essence
+ma-206,SUBARU,fa-750,Forester,mo-984,2 (SG) (09/2002 - 07/2005),09/2002,07/2005,12717,SUBARU Forester,SUBARU Forester 2 (SG) 2.5 XT 16V Turbo 4WD 169 cv Boîte auto,Essence
+ma-206,SUBARU,fa-750,Forester,mo-984,2 (SG) (09/2002 - 07/2005),09/2002,07/2005,12716,SUBARU Forester,SUBARU Forester 2 (SG) 2.5 XT 16V Turbo 4WD 169 cv,Essence
+ma-206,SUBARU,fa-750,Forester,mo-984,2 (SG) (09/2002 - 07/2005),09/2002,07/2005,8982,SUBARU Forester,SUBARU Forester 2 (SG) 2.5 XT 16V Turbo 4WD 210 cv,Essence
+ma-206,SUBARU,fa-750,Forester,mo-984,2 (SG) (09/2002 - 07/2005),09/2002,07/2005,23130,SUBARU Forester,SUBARU Forester 2 (SG) 2.0 X 16V 4WD 125 cv,Essence
+ma-206,SUBARU,fa-750,Forester,mo-984,2 (SG) (09/2002 - 07/2005),09/2002,07/2005,17974,SUBARU Forester,SUBARU Forester 2 (SG) 2.0 XT 16V Turbo 4WD 177 cv Boîte auto,Essence
+ma-206,SUBARU,fa-750,Forester,mo-984,2 (SG) (09/2002 - 07/2005),09/2002,07/2005,8981,SUBARU Forester,SUBARU Forester 2 (SG) 2.0 XT 16V Turbo 4WD 177 cv,Essence
+ma-206,SUBARU,fa-750,Forester,mo-5635,4 (SJ) (02/2013 - 03/2016),02/2013,03/2016,55983,SUBARU Forester,SUBARU Forester 4 (SJ) 2.0 D 16V 4WD CVT 147 cv Boîte auto,Diesel
+ma-206,SUBARU,fa-750,Forester,mo-5635,4 (SJ) (02/2013 - 03/2016),02/2013,03/2016,41656,SUBARU Forester,SUBARU Forester 4 (SJ) 2.0 XT 16V 4WD 150 cv,Essence
+ma-206,SUBARU,fa-750,Forester,mo-5635,4 (SJ) (02/2013 - 03/2016),02/2013,03/2016,41654,SUBARU Forester,SUBARU Forester 4 (SJ) 2.0 XT 16V 4WD CVT 150 cv Boîte auto,Essence
+ma-206,SUBARU,fa-750,Forester,mo-5635,4 (SJ) (02/2013 - 03/2016),02/2013,03/2016,41655,SUBARU Forester,SUBARU Forester 4 (SJ) 2.0 XT 16V 4WD CVT 240 cv Boîte auto,Essence
+ma-206,SUBARU,fa-750,Forester,mo-5635,4 (SJ) (02/2013 - 03/2016),02/2013,03/2016,41653,SUBARU Forester,SUBARU Forester 4 (SJ) 2.0 D 16V 4WD 147 cv,Diesel
+ma-206,SUBARU,fa-750,Forester,mo-985,2 (SG) Phase 2 (08/2005 - 11/2007),08/2005,11/2007,12718,SUBARU Forester,SUBARU Forester 2 (SG) Phase 2 2.5 XT 16V 4WD 230 cv Boîte auto,Essence
+ma-206,SUBARU,fa-750,Forester,mo-985,2 (SG) Phase 2 (08/2005 - 11/2007),08/2005,11/2007,23133,SUBARU Forester,SUBARU Forester 2 (SG) Phase 2 2.0 X 16V 4WD 160 cv Boîte auto,Essence
+ma-206,SUBARU,fa-750,Forester,mo-985,2 (SG) Phase 2 (08/2005 - 11/2007),08/2005,11/2007,17975,SUBARU Forester,SUBARU Forester 2 (SG) Phase 2 2.5 XT 16V 4WD 230 cv,Essence
+ma-206,SUBARU,fa-750,Forester,mo-985,2 (SG) Phase 2 (08/2005 - 11/2007),08/2005,11/2007,23132,SUBARU Forester,SUBARU Forester 2 (SG) Phase 2 2.0 X 16V 4WD 160 cv,Essence
+ma-206,SUBARU,fa-750,Forester,mo-6532,4 (SJ) Phase 2 (03/2016 - 10/2019),03/2016,10/2019,55988,SUBARU Forester,SUBARU Forester 4 (SJ) Phase 2 2.0 XT 16V 4WD 150 cv,Essence
+ma-206,SUBARU,fa-750,Forester,mo-6532,4 (SJ) Phase 2 (03/2016 - 10/2019),03/2016,10/2019,55985,SUBARU Forester,SUBARU Forester 4 (SJ) Phase 2 2.0 D 16V 4WD 147 cv,Diesel
+ma-206,SUBARU,fa-750,Forester,mo-6532,4 (SJ) Phase 2 (03/2016 - 10/2019),03/2016,10/2019,55986,SUBARU Forester,SUBARU Forester 4 (SJ) Phase 2 2.0 XT 16V 4WD CVT 150 cv Boîte auto,Essence
+ma-206,SUBARU,fa-750,Forester,mo-6532,4 (SJ) Phase 2 (03/2016 - 10/2019),03/2016,10/2019,55987,SUBARU Forester,SUBARU Forester 4 (SJ) Phase 2 2.0 XT 16V 4WD CVT 240 cv Boîte auto,Essence
+ma-206,SUBARU,fa-750,Forester,mo-6532,4 (SJ) Phase 2 (03/2016 - 10/2019),03/2016,10/2019,55984,SUBARU Forester,SUBARU Forester 4 (SJ) Phase 2 2.0 D 16V 4WD CVT 147 cv Boîte auto,Diesel
+ma-206,SUBARU,fa-750,Forester,mo-7099,5 (SK) (10/2019 - 01/2022),10/2019,01/2022,60937,SUBARU Forester,SUBARU Forester 5 (SK) 2.0 i 16V e-BOXER 4WD CVT 150 cv Boîte auto,Essence
+ma-206,SUBARU,fa-750,Forester,mo-7494,5 (SK) Phase 2 (01/2022 - Aujourd'hui),01/2022,,66742,SUBARU Forester,SUBARU Forester 5 (SK) Phase 2 2.0 i 16V e-BOXER AWD CVT 150 cv Boîte auto,Electrique
+ma-206,SUBARU,fa-753,Legacy,mo-1250,4 Outback (05/2003 - 05/2009),05/2003,05/2009,31655,SUBARU Legacy,SUBARU Legacy 4 Outback 2.0 D 16V AWD 150 cv,Diesel
+ma-206,SUBARU,fa-753,Legacy,mo-1250,4 Outback (05/2003 - 05/2009),05/2003,05/2009,31656,SUBARU Legacy,SUBARU Legacy 4 Outback 2.5 i 16V AWD 172 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1250,4 Outback (05/2003 - 05/2009),05/2003,05/2009,9080,SUBARU Legacy,SUBARU Legacy 4 Outback 2.5 i 16V AWD 165 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1250,4 Outback (05/2003 - 05/2009),05/2003,05/2009,9081,SUBARU Legacy,SUBARU Legacy 4 Outback 3.0 i 24V AWD 245 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1250,4 Outback (05/2003 - 05/2009),05/2003,05/2009,18000,SUBARU Legacy,SUBARU Legacy 4 Outback 2.5 i 16V AWD 165 cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1250,4 Outback (05/2003 - 05/2009),05/2003,05/2009,31657,SUBARU Legacy,SUBARU Legacy 4 Outback 2.5 i 16V AWD 172 cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1249,4 Break (09/2003 - 05/2009),09/2003,05/2009,32510,SUBARU Legacy,SUBARU Legacy 4 Break SW 2.0 i 16V AWD 150 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1249,4 Break (09/2003 - 05/2009),09/2003,05/2009,50379,SUBARU Legacy,SUBARU Legacy 4 Break SW 2.0 i 16V AWD 165 cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1249,4 Break (09/2003 - 05/2009),09/2003,05/2009,50380,SUBARU Legacy,SUBARU Legacy 4 Break SW 2.5 i 16V AWD 172 cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1249,4 Break (09/2003 - 05/2009),09/2003,05/2009,9078,SUBARU Legacy,SUBARU Legacy 4 Break SW 2.0 i 16V AWD 125 cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1249,4 Break (09/2003 - 05/2009),09/2003,05/2009,17999,SUBARU Legacy,SUBARU Legacy 4 Break SW 3.0 i 24V AWD 245 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1249,4 Break (09/2003 - 05/2009),09/2003,05/2009,32511,SUBARU Legacy,SUBARU Legacy 4 Break SW 2.0 i 16V AWD 150 cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1249,4 Break (09/2003 - 05/2009),09/2003,05/2009,39907,SUBARU Legacy,SUBARU Legacy 4 Break SW 3.0 i 24V AWD 245 cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1249,4 Break (09/2003 - 05/2009),09/2003,05/2009,9079,SUBARU Legacy,SUBARU Legacy 4 Break SW 2.5 i 16V AWD 165 cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1249,4 Break (09/2003 - 05/2009),09/2003,05/2009,31654,SUBARU Legacy,SUBARU Legacy 4 Break SW 2.0 D 16V AWD 150 cv,Diesel
+ma-206,SUBARU,fa-753,Legacy,mo-1249,4 Break (09/2003 - 05/2009),09/2003,05/2009,50378,SUBARU Legacy,SUBARU Legacy 4 Break SW 2.0 i 16V AWD 165 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5288,4 Berline (05/2003 - 05/2009),05/2003,05/2009,39906,SUBARU Legacy,SUBARU Legacy 4 Berline 3.0 i AWD 24V 245 cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5288,4 Berline (05/2003 - 05/2009),05/2003,05/2009,23152,SUBARU Legacy,SUBARU Legacy 4 Berline 3.0 i 4x4 245cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5288,4 Berline (05/2003 - 05/2009),05/2003,05/2009,25167,SUBARU Legacy,SUBARU Legacy 4 Berline 2.5 i 4x4 165cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5288,4 Berline (05/2003 - 05/2009),05/2003,05/2009,31653,SUBARU Legacy,SUBARU Legacy 4 Berline 2.0 D 4WD 16V 150 cv,Diesel
+ma-206,SUBARU,fa-753,Legacy,mo-5288,4 Berline (05/2003 - 05/2009),05/2003,05/2009,23151,SUBARU Legacy,SUBARU Legacy 4 Berline 2.0 i 4x4 125cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5288,4 Berline (05/2003 - 05/2009),05/2003,05/2009,32508,SUBARU Legacy,SUBARU Legacy 4 Berline 2.0 i 4WD 16V 150 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5288,4 Berline (05/2003 - 05/2009),05/2003,05/2009,9082,SUBARU Legacy,SUBARU Legacy 4 Berline 2.0 i 4WD 125cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5288,4 Berline (05/2003 - 05/2009),05/2003,05/2009,32509,SUBARU Legacy,SUBARU Legacy 4 Berline 2.0 i 4WD 16V 150 cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5288,4 Berline (05/2003 - 05/2009),05/2003,05/2009,18001,SUBARU Legacy,SUBARU Legacy 4 Berline 2.5 i 165cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-4971,5 Outback (05/2009 - 02/2015),05/2009,02/2015,35673,SUBARU Legacy,SUBARU Legacy 5 Outback 2.5 i 16V AWD 167 cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-4971,5 Outback (05/2009 - 02/2015),05/2009,02/2015,35672,SUBARU Legacy,SUBARU Legacy 5 Outback 2.5 i 16V AWD CVT 167 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-4971,5 Outback (05/2009 - 02/2015),05/2009,02/2015,35671,SUBARU Legacy,SUBARU Legacy 5 Outback 2.0 D 16V DPF AWD 150 cv,Diesel
+ma-206,SUBARU,fa-753,Legacy,mo-4971,5 Outback (05/2009 - 02/2015),05/2009,02/2015,67810,SUBARU Legacy,SUBARU Legacy 5 Outback 2.5 i 16V AWD CVT 173 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-4971,5 Outback (05/2009 - 02/2015),05/2009,02/2015,35674,SUBARU Legacy,SUBARU Legacy 5 Outback R 3.6 24V AWD 258 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-4971,5 Outback (05/2009 - 02/2015),05/2009,02/2015,67811,SUBARU Legacy,SUBARU Legacy 5 Outback 2.5 i 16V AWD 173 cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1246,3 Break (10/1998 - 04/2003),10/1998,04/2003,12738,SUBARU Legacy,SUBARU Legacy 3 Break 2.0 i 4WD 125cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1246,3 Break (10/1998 - 04/2003),10/1998,04/2003,12739,SUBARU Legacy,SUBARU Legacy 3 Break 2.0 i 125cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1246,3 Break (10/1998 - 04/2003),10/1998,04/2003,9074,SUBARU Legacy,SUBARU Legacy 3 Break 2.5 i 4WD 156cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1246,3 Break (10/1998 - 04/2003),10/1998,04/2003,17996,SUBARU Legacy,SUBARU Legacy 3 Break 2.5 i 4x4 156cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1246,3 Break (10/1998 - 04/2003),10/1998,04/2003,25168,SUBARU Legacy,SUBARU Legacy 3 Break 2.0 i 4x4 125cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1247,3 Outback (10/1998 - 04/2003),10/1998,04/2003,9075,SUBARU Legacy,SUBARU Legacy 3 Outback 2.5 i 4WD Break 156cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1247,3 Outback (10/1998 - 04/2003),10/1998,04/2003,17997,SUBARU Legacy,SUBARU Legacy 3 Outback 2.5 i 4WD Break 156cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1247,3 Outback (10/1998 - 04/2003),10/1998,04/2003,9076,SUBARU Legacy,SUBARU Legacy 3 Outback 3.0 i 4WD Break 209cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-6204,6 Outback (02/2015 - 02/2021),02/2015,02/2021,66749,SUBARU Legacy,SUBARU Legacy 6 Outback 2.5 i 16V AWD Lineartronic 169 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-6204,6 Outback (02/2015 - 02/2021),02/2015,02/2021,55990,SUBARU Legacy,SUBARU Legacy 6 Outback 2.0 D 16V AWD 150 cv,Diesel
+ma-206,SUBARU,fa-753,Legacy,mo-6204,6 Outback (02/2015 - 02/2021),02/2015,02/2021,66750,SUBARU Legacy,SUBARU Legacy 6 Outback 2.5 i 16V AWD Lineartronic 175 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-6204,6 Outback (02/2015 - 02/2021),02/2015,02/2021,55989,SUBARU Legacy,SUBARU Legacy 6 Outback 2.0 D 16V AWD Lineartronic 150 cv Boîte auto,Diesel
+ma-206,SUBARU,fa-753,Legacy,mo-4973,5 Break (05/2009 - 11/2015),05/2009,11/2015,35668,SUBARU Legacy,SUBARU Legacy 5 Break 2.5 i 16V AWD 167 cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-4973,5 Break (05/2009 - 11/2015),05/2009,11/2015,67815,SUBARU Legacy,SUBARU Legacy 5 Break 2.0 i 16V (FB20) AWD 150 cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-4973,5 Break (05/2009 - 11/2015),05/2009,11/2015,35665,SUBARU Legacy,SUBARU Legacy 5 Break 2.0 i 16V (EJ204) AWD CVT 150 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-4973,5 Break (05/2009 - 11/2015),05/2009,11/2015,35669,SUBARU Legacy,SUBARU Legacy 5 Break GT 2.5 i 16V Turbo AWD 265 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-4973,5 Break (05/2009 - 11/2015),05/2009,11/2015,35666,SUBARU Legacy,SUBARU Legacy 5 Break 2.0 i 16V (EJ204) AWD 150 cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-4973,5 Break (05/2009 - 11/2015),05/2009,11/2015,35670,SUBARU Legacy,SUBARU Legacy 5 Break GT 2.5 i 16V Turbo AWD 265 cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-4973,5 Break (05/2009 - 11/2015),05/2009,11/2015,59171,SUBARU Legacy,SUBARU Legacy 5 Break 2.0 D 16V DPF AWD CVT 150 cv Boîte auto,Diesel
+ma-206,SUBARU,fa-753,Legacy,mo-4973,5 Break (05/2009 - 11/2015),05/2009,11/2015,67814,SUBARU Legacy,SUBARU Legacy 5 Break 2.0 i 16V (FB20) AWD CVT 150 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-4973,5 Break (05/2009 - 11/2015),05/2009,11/2015,35667,SUBARU Legacy,SUBARU Legacy 5 Break 2.5 i 16V AWD CVT 167 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-4973,5 Break (05/2009 - 11/2015),05/2009,11/2015,50382,SUBARU Legacy,SUBARU Legacy 5 Break 2.5 i 16V AWD CVT 173 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-4973,5 Break (05/2009 - 11/2015),05/2009,11/2015,35664,SUBARU Legacy,SUBARU Legacy 5 Break 2.0 D 16V DPF AWD 150 cv,Diesel
+ma-206,SUBARU,fa-753,Legacy,mo-5290,5 Berline (05/2009 - 11/2015),05/2009,11/2015,35657,SUBARU Legacy,SUBARU Legacy 5 Berline 2.0 D AWD 16V 150 cv,Diesel
+ma-206,SUBARU,fa-753,Legacy,mo-5290,5 Berline (05/2009 - 11/2015),05/2009,11/2015,35662,SUBARU Legacy,SUBARU Legacy 5 Berline 2.5 i Turbo AWD 16V 265 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5290,5 Berline (05/2009 - 11/2015),05/2009,11/2015,35659,SUBARU Legacy,SUBARU Legacy 5 Berline 2.0 i AWD 16V 150 cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5290,5 Berline (05/2009 - 11/2015),05/2009,11/2015,35660,SUBARU Legacy,SUBARU Legacy 5 Berline 2.5 i AWD 16V CVT 167 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5290,5 Berline (05/2009 - 11/2015),05/2009,11/2015,35661,SUBARU Legacy,SUBARU Legacy 5 Berline 2.5 i AWD 16V 167 cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5290,5 Berline (05/2009 - 11/2015),05/2009,11/2015,35658,SUBARU Legacy,SUBARU Legacy 5 Berline 2.0 i AWD 16V CVT 150 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5290,5 Berline (05/2009 - 11/2015),05/2009,11/2015,35663,SUBARU Legacy,SUBARU Legacy 5 Berline 2.5 i Turbo AWD 16V 265 cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1243,2 Break (01/1994 - 11/1998),01/1994,11/1998,24757,SUBARU Legacy,SUBARU Legacy 2 Break 2.0 i 4x4 115cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1243,2 Break (01/1994 - 11/1998),01/1994,11/1998,24838,SUBARU Legacy,SUBARU Legacy 2 Break 2.0 i 4x4 115cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1243,2 Break (01/1994 - 11/1998),01/1994,11/1998,24989,SUBARU Legacy,SUBARU Legacy 2 Break 2.2 i 4x4 128cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1243,2 Break (01/1994 - 11/1998),01/1994,11/1998,17994,SUBARU Legacy,SUBARU Legacy 2 Break 2.5 i 150cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1243,2 Break (01/1994 - 11/1998),01/1994,11/1998,17993,SUBARU Legacy,SUBARU Legacy 2 Break 2.2 i 128cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1243,2 Break (01/1994 - 11/1998),01/1994,11/1998,9004,SUBARU Legacy,SUBARU Legacy 2 Break 2.0 i 115cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1243,2 Break (01/1994 - 11/1998),01/1994,11/1998,23143,SUBARU Legacy,SUBARU Legacy 2 Break 2.2 i 128cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1243,2 Break (01/1994 - 11/1998),01/1994,11/1998,25125,SUBARU Legacy,SUBARU Legacy 2 Break 2.2 i 4x4 128cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1243,2 Break (01/1994 - 11/1998),01/1994,11/1998,23144,SUBARU Legacy,SUBARU Legacy 2 Break 2.5 i 150cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1243,2 Break (01/1994 - 11/1998),01/1994,11/1998,67812,SUBARU Legacy,SUBARU Legacy 2 Break 2.2 i 16V 4WD 131 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1243,2 Break (01/1994 - 11/1998),01/1994,11/1998,12736,SUBARU Legacy,SUBARU Legacy 2 Break 2.0 i 115cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5289,3 Berline (10/1998 - 04/2003),10/1998,04/2003,12740,SUBARU Legacy,SUBARU Legacy 3 Berline 2.0 i 4WD 125cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5289,3 Berline (10/1998 - 04/2003),10/1998,04/2003,23150,SUBARU Legacy,SUBARU Legacy 3 Berline 2.5 i 4x4 156cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5289,3 Berline (10/1998 - 04/2003),10/1998,04/2003,9077,SUBARU Legacy,SUBARU Legacy 3 Berline 2.5 i 4WD 156cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5289,3 Berline (10/1998 - 04/2003),10/1998,04/2003,17998,SUBARU Legacy,SUBARU Legacy 3 Berline 2.0 i 4x4 125cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1241,1 Break (05/1989 - 09/1994),05/1989,09/1994,23155,SUBARU Legacy,SUBARU Legacy 1 Break 1800 i 110cv Break Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1241,1 Break (05/1989 - 09/1994),05/1989,09/1994,12745,SUBARU Legacy,SUBARU Legacy 1 Break 1800 i 110cv Break Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1241,1 Break (05/1989 - 09/1994),05/1989,09/1994,24760,SUBARU Legacy,SUBARU Legacy 1 Break 2000 i 4x4 115cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1241,1 Break (05/1989 - 09/1994),05/1989,09/1994,12743,SUBARU Legacy,SUBARU Legacy 1 Break 1600 90cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1241,1 Break (05/1989 - 09/1994),05/1989,09/1994,12742,SUBARU Legacy,SUBARU Legacy 1 Break 1600 90cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1241,1 Break (05/1989 - 09/1994),05/1989,09/1994,9084,SUBARU Legacy,SUBARU Legacy 1 Break 2000 i 115cv Break,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1241,1 Break (05/1989 - 09/1994),05/1989,09/1994,25128,SUBARU Legacy,SUBARU Legacy 1 Break 2200 i 4x4 128cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1241,1 Break (05/1989 - 09/1994),05/1989,09/1994,18004,SUBARU Legacy,SUBARU Legacy 1 Break 2000 i Turbo 211cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1241,1 Break (05/1989 - 09/1994),05/1989,09/1994,12744,SUBARU Legacy,SUBARU Legacy 1 Break 1800 i 110cv Break,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1241,1 Break (05/1989 - 09/1994),05/1989,09/1994,24841,SUBARU Legacy,SUBARU Legacy 1 Break 1800 i 4x4 110cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1241,1 Break (05/1989 - 09/1994),05/1989,09/1994,23154,SUBARU Legacy,SUBARU Legacy 1 Break 1800 i 110cv Break,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1241,1 Break (05/1989 - 09/1994),05/1989,09/1994,24992,SUBARU Legacy,SUBARU Legacy 1 Break 2200 i 4x4 128cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5286,2 Berline (01/1994 - 11/1998),01/1994,11/1998,23148,SUBARU Legacy,SUBARU Legacy 2 Berline 2.2 i 128cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5286,2 Berline (01/1994 - 11/1998),01/1994,11/1998,9006,SUBARU Legacy,SUBARU Legacy 2 Berline 2.2 i 128cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5286,2 Berline (01/1994 - 11/1998),01/1994,11/1998,25126,SUBARU Legacy,SUBARU Legacy 2 Berline 2.2 i 4x4 128cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5286,2 Berline (01/1994 - 11/1998),01/1994,11/1998,12737,SUBARU Legacy,SUBARU Legacy 2 Berline 2.0 i 115cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5286,2 Berline (01/1994 - 11/1998),01/1994,11/1998,23146,SUBARU Legacy,SUBARU Legacy 2 Berline 1.8 i 110cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5286,2 Berline (01/1994 - 11/1998),01/1994,11/1998,24758,SUBARU Legacy,SUBARU Legacy 2 Berline 2.2 i 4x4 128cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5286,2 Berline (01/1994 - 11/1998),01/1994,11/1998,24839,SUBARU Legacy,SUBARU Legacy 2 Berline 2.0 i 4x4 115cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5286,2 Berline (01/1994 - 11/1998),01/1994,11/1998,23147,SUBARU Legacy,SUBARU Legacy 2 Berline 1.8 i 110cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5286,2 Berline (01/1994 - 11/1998),01/1994,11/1998,24990,SUBARU Legacy,SUBARU Legacy 2 Berline 2.0 i 4x4 115cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5286,2 Berline (01/1994 - 11/1998),01/1994,11/1998,23149,SUBARU Legacy,SUBARU Legacy 2 Berline 2.5 i 150cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5286,2 Berline (01/1994 - 11/1998),01/1994,11/1998,17995,SUBARU Legacy,SUBARU Legacy 2 Berline 2.0 i 115cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5286,2 Berline (01/1994 - 11/1998),01/1994,11/1998,9073,SUBARU Legacy,SUBARU Legacy 2 Berline 2.5 i 150cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5287,1 Berline (05/1989 - 09/1994),05/1989,09/1994,18003,SUBARU Legacy,SUBARU Legacy 1 Berline 1800 i 110cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5287,1 Berline (05/1989 - 09/1994),05/1989,09/1994,18005,SUBARU Legacy,SUBARU Legacy 1 Berline 2000 i Turbo 211cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5287,1 Berline (05/1989 - 09/1994),05/1989,09/1994,9085,SUBARU Legacy,SUBARU Legacy 1 Berline 2000 i 115cv Berline,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5287,1 Berline (05/1989 - 09/1994),05/1989,09/1994,24840,SUBARU Legacy,SUBARU Legacy 1 Berline 2200 i 4x4 128cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5287,1 Berline (05/1989 - 09/1994),05/1989,09/1994,25127,SUBARU Legacy,SUBARU Legacy 1 Berline 1800 i 4x4 110cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5287,1 Berline (05/1989 - 09/1994),05/1989,09/1994,12741,SUBARU Legacy,SUBARU Legacy 1 Berline 2200 i 128cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5287,1 Berline (05/1989 - 09/1994),05/1989,09/1994,18002,SUBARU Legacy,SUBARU Legacy 1 Berline 1600 90cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5287,1 Berline (05/1989 - 09/1994),05/1989,09/1994,9086,SUBARU Legacy,SUBARU Legacy 1 Berline 2200 i 128cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5287,1 Berline (05/1989 - 09/1994),05/1989,09/1994,24761,SUBARU Legacy,SUBARU Legacy 1 Berline 2200 i 4x4 128cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5287,1 Berline (05/1989 - 09/1994),05/1989,09/1994,24991,SUBARU Legacy,SUBARU Legacy 1 Berline 1800 i 4x4 110cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5287,1 Berline (05/1989 - 09/1994),05/1989,09/1994,9083,SUBARU Legacy,SUBARU Legacy 1 Berline 1600 90cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-5287,1 Berline (05/1989 - 09/1994),05/1989,09/1994,23153,SUBARU Legacy,SUBARU Legacy 1 Berline 1800 i 110cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1244,2 Outback (07/1996 - 11/1998),07/1996,11/1998,23145,SUBARU Legacy,SUBARU Legacy 2 Outback 2.5 i Break 150cv,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-1244,2 Outback (07/1996 - 11/1998),07/1996,11/1998,9005,SUBARU Legacy,SUBARU Legacy 2 Outback 2.5 i Break 150cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-7196,6 Berline (11/2015 - Aujourd'hui),11/2015,,66748,SUBARU Legacy,SUBARU Legacy 6 Berline 2.5 i 16V AWD 175 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-7495,7 Outback (02/2021 - Aujourd'hui),02/2021,,66751,SUBARU Legacy,SUBARU Legacy 7 Outback 2.5 i 16V AWD Lineartronic 175 cv Boîte auto,Essence
+ma-206,SUBARU,fa-753,Legacy,mo-7495,7 Outback (02/2021 - Aujourd'hui),02/2021,,67813,SUBARU Legacy,SUBARU Legacy 7 Outback 2.5 i 16V AWD Lineartronic 169 cv Boîte auto,Essence
+ma-206,SUBARU,fa-2116,XV,mo-5525, (02/2012 - Aujourd'hui),02/2012,,39913,SUBARU XV,SUBARU XV 2.0 D AWD 16V 147 cv,Diesel
+ma-206,SUBARU,fa-2116,XV,mo-5525, (02/2012 - Aujourd'hui),02/2012,,39914,SUBARU XV,SUBARU XV 2.0 i AWD 16V Lineartronic 150 cv Boîte auto,Essence
+ma-206,SUBARU,fa-2116,XV,mo-5525, (02/2012 - Aujourd'hui),02/2012,,39917,SUBARU XV,SUBARU XV 2.0 i-LPG AWD 16V 150 cv,Flex Fuel
+ma-206,SUBARU,fa-2116,XV,mo-5525, (02/2012 - Aujourd'hui),02/2012,,39916,SUBARU XV,SUBARU XV 2.0 i-LPG AWD 16V Lineartronic 150 cv Boîte auto,Flex Fuel
+ma-206,SUBARU,fa-2116,XV,mo-5525, (02/2012 - Aujourd'hui),02/2012,,39910,SUBARU XV,SUBARU XV 1.6 i-LPG AWD 16V Lineartronic 115 cv Boîte auto,Flex Fuel
+ma-206,SUBARU,fa-2116,XV,mo-5525, (02/2012 - Aujourd'hui),02/2012,,39909,SUBARU XV,SUBARU XV 1.6 i AWD 16V 115 cv,Essence
+ma-206,SUBARU,fa-2116,XV,mo-5525, (02/2012 - Aujourd'hui),02/2012,,39915,SUBARU XV,SUBARU XV 2.0 i AWD 16V 150 cv,Essence
+ma-206,SUBARU,fa-2116,XV,mo-5525, (02/2012 - Aujourd'hui),02/2012,,39911,SUBARU XV,SUBARU XV 1.6 i-LPG AWD 16V 115 cv,Flex Fuel
+ma-206,SUBARU,fa-2116,XV,mo-5525, (02/2012 - Aujourd'hui),02/2012,,39912,SUBARU XV,SUBARU XV 2.0 D AWD 16V 109 cv,Diesel
+ma-206,SUBARU,fa-2116,XV,mo-5525, (02/2012 - Aujourd'hui),02/2012,,39908,SUBARU XV,SUBARU XV 1.6 i AWD 16V Lineartronic 115 cv Boîte auto,Essence
+ma-206,SUBARU,fa-2116,XV,mo-7101,(GT) (04/2017 - Aujourd'hui),04/2017,,60939,SUBARU XV,SUBARU XV (GT) 1.6 i AWD 16V Lineartronic 114 cv Boîte auto,Essence
+ma-206,SUBARU,fa-2116,XV,mo-7101,(GT) (04/2017 - Aujourd'hui),04/2017,,60941,SUBARU XV,SUBARU XV (GT) 2.0 i e-BOXER AWD 16V Lineartronic 150 cv Boîte auto,Essence
+ma-206,SUBARU,fa-2116,XV,mo-7101,(GT) (04/2017 - Aujourd'hui),04/2017,,60940,SUBARU XV,SUBARU XV (GT) 2.0 i AWD 16V Lineartronic 156 cv Boîte auto,Essence
+ma-206,SUBARU,fa-752,Justy,mo-5603, (10/2007 - Aujourd'hui),10/2007,,55991,SUBARU Justy,SUBARU Justy 1.3 i AWD 16V 91 cv,Essence
+ma-206,SUBARU,fa-752,Justy,mo-5603, (10/2007 - Aujourd'hui),10/2007,,35656,SUBARU Justy,SUBARU Justy 1.0 i 12V 69 cv,Essence
+ma-206,SUBARU,fa-752,Justy,mo-1004,G3X Justy (10/2003 - 10/2007),10/2003,10/2007,9002,SUBARU Justy,SUBARU Justy G3X Justy 1.5 i Break 99cv,Essence
+ma-206,SUBARU,fa-752,Justy,mo-1004,G3X Justy (10/2003 - 10/2007),10/2003,10/2007,9001,SUBARU Justy,SUBARU Justy G3X Justy 1.3 i Break 93cv,Essence
+ma-206,SUBARU,fa-752,Justy,mo-1004,G3X Justy (10/2003 - 10/2007),10/2003,10/2007,17990,SUBARU Justy,SUBARU Justy G3X Justy 1.3 D Break 70cv,Diesel
+ma-206,SUBARU,fa-752,Justy,mo-1147, (10/1995 - 10/2003),10/1995,10/2003,8999,SUBARU Justy,SUBARU Justy 1.3 i 69cv,Essence
+ma-206,SUBARU,fa-752,Justy,mo-1147, (10/1995 - 10/2003),10/1995,10/2003,9000,SUBARU Justy,SUBARU Justy 1.3 i 85cv,Essence
+ma-206,SUBARU,fa-752,Justy,mo-1148, (06/1986 - 12/1995),06/1986,12/1995,12734,SUBARU Justy,SUBARU Justy 1.0 50cv,Essence
+ma-206,SUBARU,fa-752,Justy,mo-1148, (06/1986 - 12/1995),06/1986,12/1995,17992,SUBARU Justy,SUBARU Justy 1.2 67cv,Essence
+ma-206,SUBARU,fa-752,Justy,mo-1148, (06/1986 - 12/1995),06/1986,12/1995,12735,SUBARU Justy,SUBARU Justy 1.2 ECVT 68cv Boîte auto,Essence
+ma-206,SUBARU,fa-752,Justy,mo-1148, (06/1986 - 12/1995),06/1986,12/1995,9003,SUBARU Justy,SUBARU Justy 1.0 ECVT 50cv Boîte auto,Essence
+ma-206,SUBARU,fa-752,Justy,mo-1148, (06/1986 - 12/1995),06/1986,12/1995,24836,SUBARU Justy,SUBARU Justy 1.0 4x4 50cv,Essence
+ma-206,SUBARU,fa-752,Justy,mo-1148, (06/1986 - 12/1995),06/1986,12/1995,25124,SUBARU Justy,SUBARU Justy 1.2 4x4 68cv,Essence
+ma-206,SUBARU,fa-752,Justy,mo-1148, (06/1986 - 12/1995),06/1986,12/1995,24988,SUBARU Justy,SUBARU Justy 1.2 4x4 67cv,Essence
+ma-206,SUBARU,fa-752,Justy,mo-1148, (06/1986 - 12/1995),06/1986,12/1995,23142,SUBARU Justy,SUBARU Justy 1.2 ECVT 67cv Boîte auto,Essence
+ma-206,SUBARU,fa-752,Justy,mo-1148, (06/1986 - 12/1995),06/1986,12/1995,50367,SUBARU Justy,SUBARU Justy 1.2i 4WD 9V ECVT 74 cv Boîte auto,Essence
+ma-206,SUBARU,fa-752,Justy,mo-1148, (06/1986 - 12/1995),06/1986,12/1995,24837,SUBARU Justy,SUBARU Justy 1.2 4x4 ECVT 68cv Boîte auto,Essence
+ma-206,SUBARU,fa-752,Justy,mo-1148, (06/1986 - 12/1995),06/1986,12/1995,23141,SUBARU Justy,SUBARU Justy 1.2 68cv,Essence
+ma-206,SUBARU,fa-752,Justy,mo-1148, (06/1986 - 12/1995),06/1986,12/1995,50368,SUBARU Justy,SUBARU Justy 1.2i 4WD 9V 74 cv,Essence
+ma-206,SUBARU,fa-752,Justy,mo-1148, (06/1986 - 12/1995),06/1986,12/1995,17991,SUBARU Justy,SUBARU Justy 1.0 Fourgon 50cv,Essence
+ma-206,SUBARU,fa-746,B9 Tribeca,mo-468, (09/2006 - 12/2013),09/2006,12/2013,12711,SUBARU B9 Tribeca,SUBARU B9 Tribeca 3.0 i Break 245cv Boîte auto,Essence
+ma-206,SUBARU,fa-746,B9 Tribeca,mo-3733,FL (08/2007 - 12/2015),08/2007,12/2015,29758,SUBARU B9 Tribeca,SUBARU B9 Tribeca FL 3.6 i V6 AWD SUV 258 cv Boîte auto,Essence
+ma-206,SUBARU,fa-2166,WRX,mo-5989,(VA) (12/2013 - Aujourd'hui),12/2013,,54483,SUBARU WRX,SUBARU WRX (VA) STI 2.0 TI 268 AWD Berline 16V 268 cv,Essence
+ma-206,SUBARU,fa-2166,WRX,mo-5989,(VA) (12/2013 - Aujourd'hui),12/2013,,54481,SUBARU WRX,SUBARU WRX (VA) STI 2.0 TI 268 AWD Berline 16V Lineartronic 268 cv Boîte auto,Essence
+ma-206,SUBARU,fa-2166,WRX,mo-5989,(VA) (12/2013 - Aujourd'hui),12/2013,,54482,SUBARU WRX,SUBARU WRX (VA) STI 2.5 STI 300 AWD Berline 16V 300 cv,Essence
+ma-206,SUBARU,fa-2077,BRZ,mo-5291, (06/2012 - Aujourd'hui),06/2012,,35654,SUBARU BRZ,SUBARU BRZ 2.0 VVT-i Coupé 16V 200 cv Boîte auto,Essence
+ma-206,SUBARU,fa-2077,BRZ,mo-5291, (06/2012 - Aujourd'hui),06/2012,,35655,SUBARU BRZ,SUBARU BRZ 2.0 VVT-i Coupé 16V 200 cv,Essence
+ma-206,SUBARU,fa-2077,BRZ,mo-6688,phase 2 (06/2016 - Aujourd'hui),06/2016,,57944,SUBARU BRZ,SUBARU BRZ phase 2 2.0 VVT-i Coupé 16V 200 cv Boîte auto,Essence
+ma-206,SUBARU,fa-2077,BRZ,mo-6688,phase 2 (06/2016 - Aujourd'hui),06/2016,,57945,SUBARU BRZ,SUBARU BRZ phase 2 2.0 VVT-i Coupé 16V 200 cv,Essence
+ma-206,SUBARU,fa-2182,Levorg,mo-6205, (03/2015 - Aujourd'hui),03/2015,,48740,SUBARU Levorg,SUBARU Levorg 1.6 DIT AWD Break 16V Lineartronic S&S 170 cv Boîte auto,Essence
+ma-206,SUBARU,fa-2050,Trezia,mo-5121, (04/2011 - Aujourd'hui),04/2011,,35675,SUBARU Trezia,SUBARU Trezia 1.3 i 16V 99 cv,Essence
+ma-206,SUBARU,fa-2050,Trezia,mo-5121, (04/2011 - Aujourd'hui),04/2011,,35676,SUBARU Trezia,SUBARU Trezia 1.4 D 16V 90 cv,Diesel
+ma-206,SUBARU,fa-2050,Trezia,mo-5121, (04/2011 - Aujourd'hui),04/2011,,35677,SUBARU Trezia,SUBARU Trezia 1.4 D 16V MultiMode 90 cv Boîte auto,Diesel
+ma-206,SUBARU,fa-761,SVX,mo-2024,Coupé (05/1991 - 12/1997),05/1991,12/1997,9102,SUBARU SVX,SUBARU SVX Coupé 3.3 i 230cv Boîte auto,Essence
+ma-206,SUBARU,fa-761,SVX,mo-2024,Coupé (05/1991 - 12/1997),05/1991,12/1997,12824,SUBARU SVX,SUBARU SVX Coupé 3.3 i 220cv Boîte auto,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,12750,SUBARU L Series,SUBARU L Series Leone II 1.8 i Berline 80cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,9088,SUBARU L Series,SUBARU L Series Leone II 1.6 i Berline 74cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,57727,SUBARU L Series,SUBARU L Series Leone II 1.8 i 4WD Coupé 90 cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,23163,SUBARU L Series,SUBARU L Series Leone II 1.8 Break 90cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,23160,SUBARU L Series,SUBARU L Series Leone II 1.6 Berline 74cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,23158,SUBARU L Series,SUBARU L Series Leone II 1.3 Berline 65cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,12746,SUBARU L Series,SUBARU L Series Leone II 1.6 Break 74cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,23161,SUBARU L Series,SUBARU L Series Leone II 1.8 Coupé 98cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,18009,SUBARU L Series,SUBARU L Series Leone II 1.8 i Turbo Berline 131cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,9091,SUBARU L Series,SUBARU L Series Leone II 1.8 i Turbo Berline 136cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,12748,SUBARU L Series,SUBARU L Series Leone II 1.8 Turbo Break 120cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,12749,SUBARU L Series,SUBARU L Series Leone II 1.8 Turbo Break 136cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,23159,SUBARU L Series,SUBARU L Series Leone II 1.6 Coupé 74cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,57728,SUBARU L Series,SUBARU L Series Leone II 1.8 i Berline 98 cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,23162,SUBARU L Series,SUBARU L Series Leone II 1.8 Turbo Coupé 136cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,23157,SUBARU L Series,SUBARU L Series Leone II 1.3 Coupé 65cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,12747,SUBARU L Series,SUBARU L Series Leone II 1.8 Break 98cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,23164,SUBARU L Series,SUBARU L Series Leone II 1.8 Turbo Break 131cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,9089,SUBARU L Series,SUBARU L Series Leone II 1.8 i Berline 98cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,23165,SUBARU L Series,SUBARU L Series Leone II 1.8 Berline 105cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,18008,SUBARU L Series,SUBARU L Series Leone II 1.8 i Berline 90cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1260,Leone II (07/1984 - 09/1991),07/1984,09/1991,9090,SUBARU L Series,SUBARU L Series Leone II 1.8 i Turbo Berline 120cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1259,Leone I (06/1979 - 11/1984),06/1979,11/1984,9095,SUBARU L Series,SUBARU L Series Leone I 1600 i Berline 86cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1259,Leone I (06/1979 - 11/1984),06/1979,11/1984,18013,SUBARU L Series,SUBARU L Series Leone I 1800 Break 80cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1259,Leone I (06/1979 - 11/1984),06/1979,11/1984,9097,SUBARU L Series,SUBARU L Series Leone I 1800 Berline 82cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1259,Leone I (06/1979 - 11/1984),06/1979,11/1984,12753,SUBARU L Series,SUBARU L Series Leone I 1800 Break 82cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1259,Leone I (06/1979 - 11/1984),06/1979,11/1984,18012,SUBARU L Series,SUBARU L Series Leone I 1300 61cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1259,Leone I (06/1979 - 11/1984),06/1979,11/1984,12752,SUBARU L Series,SUBARU L Series Leone I 1600 Berline 86cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1259,Leone I (06/1979 - 11/1984),06/1979,11/1984,9093,SUBARU L Series,SUBARU L Series Leone I 1600 Break 86cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1259,Leone I (06/1979 - 11/1984),06/1979,11/1984,9094,SUBARU L Series,SUBARU L Series Leone I 1600 86cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1259,Leone I (06/1979 - 11/1984),06/1979,11/1984,12751,SUBARU L Series,SUBARU L Series Leone I 1.8 i Berline 82cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1259,Leone I (06/1979 - 11/1984),06/1979,11/1984,23167,SUBARU L Series,SUBARU L Series Leone I 1800 Berline 80cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1259,Leone I (06/1979 - 11/1984),06/1979,11/1984,18011,SUBARU L Series,SUBARU L Series Leone I 1300 Break 61cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1259,Leone I (06/1979 - 11/1984),06/1979,11/1984,24763,SUBARU L Series,SUBARU L Series Leone I 1600 4x4 Break 71cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1259,Leone I (06/1979 - 11/1984),06/1979,11/1984,9096,SUBARU L Series,SUBARU L Series Leone I 1800 82cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1259,Leone I (06/1979 - 11/1984),06/1979,11/1984,23166,SUBARU L Series,SUBARU L Series Leone I 1300 Berline 61cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1259,Leone I (06/1979 - 11/1984),06/1979,11/1984,18010,SUBARU L Series,SUBARU L Series Leone I 1.8 i Berline 80cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1259,Leone I (06/1979 - 11/1984),06/1979,11/1984,24762,SUBARU L Series,SUBARU L Series Leone I 1.6 i 4x4 Berline 71cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1259,Leone I (06/1979 - 11/1984),06/1979,11/1984,18014,SUBARU L Series,SUBARU L Series Leone I 1800 80cv,Essence
+ma-206,SUBARU,fa-754,L Series,mo-1259,Leone I (06/1979 - 11/1984),06/1979,11/1984,9092,SUBARU L Series,SUBARU L Series Leone I 1.6 i Berline 86cv,Essence
+ma-206,SUBARU,fa-748,E12,mo-881,(FA) (05/1993 - 12/1998),05/1993,12/1998,24830,SUBARU E12,SUBARU E12 (FA) 1.2 i 4x4 Fourgon 54cv,Essence
+ma-206,SUBARU,fa-748,E12,mo-881,(FA) (05/1993 - 12/1998),05/1993,12/1998,24831,SUBARU E12,SUBARU E12 (FA) 1.2 i 4x4 Break 54cv,Essence
+ma-206,SUBARU,fa-748,E12,mo-881,(FA) (05/1993 - 12/1998),05/1993,12/1998,12712,SUBARU E12,SUBARU E12 (FA) 1.2 i Fourgon 54cv,Essence
+ma-206,SUBARU,fa-748,E12,mo-881,(FA) (05/1993 - 12/1998),05/1993,12/1998,12713,SUBARU E12,SUBARU E12 (FA) 1.2 i Break 54cv,Essence
+ma-206,SUBARU,fa-748,E12,mo-882,(KJ) (06/1986 - 02/1994),06/1986,02/1994,12714,SUBARU E12,SUBARU E12 (KJ) 1.2 Fourgon 68cv,Essence
+ma-206,SUBARU,fa-748,E12,mo-882,(KJ) (06/1986 - 02/1994),06/1986,02/1994,17973,SUBARU E12,SUBARU E12 (KJ) 1.2 68cv,Essence
+ma-206,SUBARU,fa-762,Vanille,mo-2151, (06/1994 - 11/1998),06/1994,11/1998,23171,SUBARU Vanille,SUBARU Vanille 1.2 i Minibus court 54cv,Essence
+ma-206,SUBARU,fa-764,XT,mo-2238,Coupé (09/1985 - 12/1990),09/1985,12/1990,12826,SUBARU XT,SUBARU XT Coupé 1800 Turbo 131cv Boîte auto,Essence
+ma-206,SUBARU,fa-764,XT,mo-2238,Coupé (09/1985 - 12/1990),09/1985,12/1990,12825,SUBARU XT,SUBARU XT Coupé 1800 Turbo 4x4 131cv,Essence
+ma-206,SUBARU,fa-764,XT,mo-2238,Coupé (09/1985 - 12/1990),09/1985,12/1990,18024,SUBARU XT,SUBARU XT Coupé 1800 Turbo 136cv,Essence
+ma-206,SUBARU,fa-764,XT,mo-2238,Coupé (09/1985 - 12/1990),09/1985,12/1990,24842,SUBARU XT,SUBARU XT Coupé 1800 Turbo 4x4 131cv Boîte auto,Essence
+ma-206,SUBARU,fa-764,XT,mo-2238,Coupé (09/1985 - 12/1990),09/1985,12/1990,24993,SUBARU XT,SUBARU XT Coupé 1800 Turbo 4x4 136cv,Essence
+ma-206,SUBARU,fa-763,Vivio,mo-2178, (03/1992 - 10/1995),03/1992,10/1995,18023,SUBARU Vivio,SUBARU Vivio 660 ECVT 44cv Boîte auto,Essence
+ma-206,SUBARU,fa-763,Vivio,mo-2178, (03/1992 - 10/1995),03/1992,10/1995,25129,SUBARU Vivio,SUBARU Vivio 660 4x4 44cv,Essence
+ma-206,SUBARU,fa-763,Vivio,mo-2178, (03/1992 - 10/1995),03/1992,10/1995,18022,SUBARU Vivio,SUBARU Vivio 660 ECVT 40cv Boîte auto,Essence
+ma-206,SUBARU,fa-763,Vivio,mo-2178, (03/1992 - 10/1995),03/1992,10/1995,23172,SUBARU Vivio,SUBARU Vivio 660 44cv,Essence
+ma-206,SUBARU,fa-763,Vivio,mo-2178, (03/1992 - 10/1995),03/1992,10/1995,18021,SUBARU Vivio,SUBARU Vivio 660 40cv,Essence
+ma-206,SUBARU,fa-755,Libero,mo-1263, (04/1994 - 12/1998),04/1994,12/1998,23168,SUBARU Libero,SUBARU Libero 1.2 i Combi court 54cv,Essence
+ma-206,SUBARU,fa-747,E10,mo-880,(KJ) (08/1984 - 02/1994),08/1984,02/1994,24752,SUBARU E10,SUBARU E10 (KJ) 1.0 4x4 Fourgon 50cv,Essence
+ma-206,SUBARU,fa-747,E10,mo-880,(KJ) (08/1984 - 02/1994),08/1984,02/1994,8980,SUBARU E10,SUBARU E10 (KJ) 1.0 Fourgon 50cv,Essence
+ma-206,SUBARU,fa-747,E10,mo-880,(KJ) (08/1984 - 02/1994),08/1984,02/1994,25122,SUBARU E10,SUBARU E10 (KJ) 1.0 4x4 Break 50cv,Essence
+ma-206,SUBARU,fa-747,E10,mo-880,(KJ) (08/1984 - 02/1994),08/1984,02/1994,23129,SUBARU E10,SUBARU E10 (KJ) 1.0 Break 50cv,Essence
+ma-206,SUBARU,fa-756,M,mo-1307,70 (08/1985 - 12/1989),08/1985,12/1989,18015,SUBARU M,SUBARU M 70 700 Berline,Essence
+ma-206,SUBARU,fa-756,M,mo-1307,70 (08/1985 - 12/1989),08/1985,12/1989,12821,SUBARU M,SUBARU M 70 700 Fourgon,Essence
+ma-206,SUBARU,fa-756,M,mo-1308,80 (08/1989 - 12/1992),08/1989,12/1992,9099,SUBARU M,SUBARU M 80 800 Berline,Essence
+ma-206,SUBARU,fa-756,M,mo-1308,80 (08/1989 - 12/1992),08/1989,12/1992,12822,SUBARU M,SUBARU M 80 800 Fourgon,Essence
+ma-206,SUBARU,fa-756,M,mo-1308,80 (08/1989 - 12/1992),08/1989,12/1992,18016,SUBARU M,SUBARU M 80 660 Berline,Essence
+ma-206,SUBARU,fa-756,M,mo-1306,60 (08/1984 - 12/1989),08/1984,12/1989,9098,SUBARU M,SUBARU M 60 600 Berline,Essence
+ma-206,SUBARU,fa-757,Mini Jumbo,mo-1407,(M70) (01/1983 - 12/1989),01/1983,12/1989,23169,SUBARU Mini Jumbo,SUBARU Mini Jumbo (M70) 700 Berline,Essence
+ma-206,SUBARU,fa-757,Mini Jumbo,mo-1408,(M80) (08/1989 - 12/1992),08/1989,12/1992,23170,SUBARU Mini Jumbo,SUBARU Mini Jumbo (M80) 800 Berline,Essence
+ma-206,SUBARU,fa-758,MV,mo-1454,Pick up (01/1977 - 12/1994),01/1977,12/1994,18019,SUBARU MV,SUBARU MV Pick up 1.8 82cv,Essence
+ma-206,SUBARU,fa-758,MV,mo-1454,Pick up (01/1977 - 12/1994),01/1977,12/1994,18018,SUBARU MV,SUBARU MV Pick up 1.6 74cv,Essence
+ma-206,SUBARU,fa-758,MV,mo-1454,Pick up (01/1977 - 12/1994),01/1977,12/1994,9100,SUBARU MV,SUBARU MV Pick up 1.8 80cv,Essence
+ma-206,SUBARU,fa-1203,REX,mo-2872,III (06/1989 - 03/1992),06/1989,03/1992,26325,SUBARU REX,SUBARU REX III 0.7 Kompressor 4WD 64 cv,Essence
+ma-206,SUBARU,fa-1203,REX,mo-2872,III (06/1989 - 03/1992),06/1989,03/1992,26319,SUBARU REX,SUBARU REX III 0.5 38 cv,Essence
+ma-206,SUBARU,fa-1203,REX,mo-2872,III (06/1989 - 03/1992),06/1989,03/1992,26320,SUBARU REX,SUBARU REX III 0.5 4WD 38 cv,Essence
+ma-206,SUBARU,fa-1203,REX,mo-2872,III (06/1989 - 03/1992),06/1989,03/1992,26322,SUBARU REX,SUBARU REX III 0.5 Kompressor 61 cv,Essence
+ma-206,SUBARU,fa-1203,REX,mo-2872,III (06/1989 - 03/1992),06/1989,03/1992,26321,SUBARU REX,SUBARU REX III 0.8 42 cv,Essence
+ma-206,SUBARU,fa-1203,REX,mo-2872,III (06/1989 - 03/1992),06/1989,03/1992,26324,SUBARU REX,SUBARU REX III 0.7 4WD 48 cv,Essence
+ma-206,SUBARU,fa-1203,REX,mo-2872,III (06/1989 - 03/1992),06/1989,03/1992,26323,SUBARU REX,SUBARU REX III 0.7 48 cv,Essence
+ma-206,SUBARU,fa-1203,REX,mo-2871,II (08/1981 - 06/1989),08/1981,06/1989,26317,SUBARU REX,SUBARU REX II 550 4WD 35 cv,Essence
+ma-206,SUBARU,fa-1203,REX,mo-2871,II (08/1981 - 06/1989),08/1981,06/1989,26318,SUBARU REX,SUBARU REX II 550 Kompressor 54 cv,Essence
+ma-206,SUBARU,fa-1203,REX,mo-2871,II (08/1981 - 06/1989),08/1981,06/1989,26315,SUBARU REX,SUBARU REX II 550 4WD 31 cv,Essence
+ma-206,SUBARU,fa-1203,REX,mo-2871,II (08/1981 - 06/1989),08/1981,06/1989,26314,SUBARU REX,SUBARU REX II 550 Turbo 41 cv,Essence
+ma-206,SUBARU,fa-1203,REX,mo-2871,II (08/1981 - 06/1989),08/1981,06/1989,26316,SUBARU REX,SUBARU REX II 550 35 cv,Essence
+ma-206,SUBARU,fa-1203,REX,mo-2871,II (08/1981 - 06/1989),08/1981,06/1989,26312,SUBARU REX,SUBARU REX II 550 31 cv,Essence
+ma-206,SUBARU,fa-1203,REX,mo-2871,II (08/1981 - 06/1989),08/1981,06/1989,26313,SUBARU REX,SUBARU REX II 700 37 cv,Essence
+ma-206,SUBARU,fa-1203,REX,mo-2870,I (07/1972 - 08/1981),07/1972,08/1981,26310,SUBARU REX,SUBARU REX I 400 31 cv,Essence
+ma-206,SUBARU,fa-1203,REX,mo-2870,I (07/1972 - 08/1981),07/1972,08/1981,26309,SUBARU REX,SUBARU REX I 550 31 cv,Essence
+ma-206,SUBARU,fa-1203,REX,mo-2870,I (07/1972 - 08/1981),07/1972,08/1981,26311,SUBARU REX,SUBARU REX I 500 31 cv,Essence
+ma-206,SUBARU,fa-759,Signet,mo-1892,(M80) (08/1989 - 12/1992),08/1989,12/1992,9101,SUBARU Signet,SUBARU Signet (M80) 800 Berline,Essence
+ma-206,SUBARU,fa-745,Ace,mo-370,(M80) (08/1989 - 12/1992),08/1989,12/1992,8979,SUBARU Ace,SUBARU Ace (M80) Ace 800 0cv Hatchback,Essence
+ma-206,SUBARU,fa-745,Ace,mo-370,(M80) (08/1989 - 12/1992),08/1989,12/1992,12710,SUBARU Ace,SUBARU Ace (M80) 800 Minibus,Essence
+ma-206,SUBARU,fa-749,Fiori,mo-967,(M80) (08/1989 - 12/1992),08/1989,12/1992,12715,SUBARU Fiori,SUBARU Fiori (M80) Fiori 800 0cv Hatchback,Essence
+ma-206,SUBARU,fa-760,Sumo,mo-2002, (06/1987 - 02/1994),06/1987,02/1994,12823,SUBARU Sumo,SUBARU Sumo 1.2 68cv Fourgon,Essence
+ma-206,SUBARU,fa-760,Sumo,mo-2002, (06/1987 - 02/1994),06/1987,02/1994,18020,SUBARU Sumo,SUBARU Sumo 1.0 50cv Fourgon,Essence

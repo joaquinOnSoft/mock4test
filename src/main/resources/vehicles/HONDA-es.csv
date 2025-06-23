@@ -1,0 +1,584 @@
+brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
+ma-98,HONDA,fa-285,Civic,mo-641,VIII (FK) HB 5p (01/2006 - 10/2011),01/2006,10/2011,14764,HONDA Civic,HONDA Civic VIII (FK) HB 5p 1.4 i 83cv i-shift Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-641,VIII (FK) HB 5p (01/2006 - 10/2011),01/2006,10/2011,3863,HONDA Civic,HONDA Civic VIII (FK) HB 5p 1.8 i 140cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-641,VIII (FK) HB 5p (01/2006 - 10/2011),01/2006,10/2011,30268,HONDA Civic,HONDA Civic VIII (FK) HB 5p 1.4 i-VTEC Hatchback i-Shift/6 100 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-641,VIII (FK) HB 5p (01/2006 - 10/2011),01/2006,10/2011,30269,HONDA Civic,HONDA Civic VIII (FK) HB 5p 1.4 i-VTEC Hatchback 100 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-641,VIII (FK) HB 5p (01/2006 - 10/2011),01/2006,10/2011,5526,HONDA Civic,HONDA Civic VIII (FK) HB 5p 1.8 i 140cv i-shift Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-641,VIII (FK) HB 5p (01/2006 - 10/2011),01/2006,10/2011,3864,HONDA Civic,HONDA Civic VIII (FK) HB 5p 2.2 iCDTi 140cv,Diesel
+ma-98,HONDA,fa-285,Civic,mo-641,VIII (FK) HB 5p (01/2006 - 10/2011),01/2006,10/2011,20262,HONDA Civic,HONDA Civic VIII (FK) HB 5p 1.4 i 83cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-636,(EP) 3 puertas (09/2001 - 06/2006),09/2001,06/2006,20251,HONDA Civic,HONDA Civic (EP) 3 puertas 1.6 i VTEC CVT 110cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-636,(EP) 3 puertas (09/2001 - 06/2006),09/2001,06/2006,3850,HONDA Civic,HONDA Civic (EP) 3 puertas 2.0 i VTEC Type-R 200cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-636,(EP) 3 puertas (09/2001 - 06/2006),09/2001,06/2006,5382,HONDA Civic,HONDA Civic (EP) 3 puertas 1.4 i 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-636,(EP) 3 puertas (09/2001 - 06/2006),09/2001,06/2006,20250,HONDA Civic,HONDA Civic (EP) 3 puertas 1.6 i VTEC 110cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-636,(EP) 3 puertas (09/2001 - 06/2006),09/2001,06/2006,20248,HONDA Civic,HONDA Civic (EP) 3 puertas 1.4 i Sport 90cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-636,(EP) 3 puertas (09/2001 - 06/2006),09/2001,06/2006,14753,HONDA Civic,HONDA Civic (EP) 3 puertas 1.4 i 90cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-636,(EP) 3 puertas (09/2001 - 06/2006),09/2001,06/2006,20249,HONDA Civic,HONDA Civic (EP) 3 puertas 1.6 i VTEC 110cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-636,(EP) 3 puertas (09/2001 - 06/2006),09/2001,06/2006,3849,HONDA Civic,HONDA Civic (EP) 3 puertas 1.7 CTDi 100cv,Diesel
+ma-98,HONDA,fa-285,Civic,mo-640,VIII (FN) HB 3p (02/2007 - 10/2011),02/2007,10/2011,20263,HONDA Civic,HONDA Civic VIII (FN) HB 3p Type S 1.8 i-VTEC 140cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-640,VIII (FN) HB 3p (02/2007 - 10/2011),02/2007,10/2011,34344,HONDA Civic,HONDA Civic VIII (FN) HB 3p Type S 1.4 i-VTEC 16V 100 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-640,VIII (FN) HB 3p (02/2007 - 10/2011),02/2007,10/2011,20265,HONDA Civic,HONDA Civic VIII (FN) HB 3p Type S 2.2 i-CTDi 140cv,Diesel
+ma-98,HONDA,fa-285,Civic,mo-640,VIII (FN) HB 3p (02/2007 - 10/2011),02/2007,10/2011,5527,HONDA Civic,HONDA Civic VIII (FN) HB 3p Type R 2.0 i-VTEC 201cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-640,VIII (FN) HB 3p (02/2007 - 10/2011),02/2007,10/2011,20264,HONDA Civic,HONDA Civic VIII (FN) HB 3p Type S 1.8 i-VTEC 140cv i-shift Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-638,(EP) 5 puertas (04/2001 - 06/2006),04/2001,06/2006,3854,HONDA Civic,HONDA Civic (EP) 5 puertas 1.6 i VTEC 110cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-638,(EP) 5 puertas (04/2001 - 06/2006),04/2001,06/2006,5385,HONDA Civic,HONDA Civic (EP) 5 puertas 2.0 i VTEC Sport 160cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-638,(EP) 5 puertas (04/2001 - 06/2006),04/2001,06/2006,20253,HONDA Civic,HONDA Civic (EP) 5 puertas 1.4 i 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-638,(EP) 5 puertas (04/2001 - 06/2006),04/2001,06/2006,3853,HONDA Civic,HONDA Civic (EP) 5 puertas 1.4 i 90cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-638,(EP) 5 puertas (04/2001 - 06/2006),04/2001,06/2006,14756,HONDA Civic,HONDA Civic (EP) 5 puertas 1.7 CTDi 100cv,Diesel
+ma-98,HONDA,fa-285,Civic,mo-638,(EP) 5 puertas (04/2001 - 06/2006),04/2001,06/2006,14755,HONDA Civic,HONDA Civic (EP) 5 puertas 1.6 i VTEC 110cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6769,X (FC/FK) 5 puertas (01/2017 - 12/2020),01/2017,12/2020,59032,HONDA Civic,HONDA Civic X (FC/FK) 5 puertas 1.6 i-DTEC 16V S&S 120 cv,Diesel
+ma-98,HONDA,fa-285,Civic,mo-6769,X (FC/FK) 5 puertas (01/2017 - 12/2020),01/2017,12/2020,56408,HONDA Civic,HONDA Civic X (FC/FK) 5 puertas 1.0 i-VTEC Turbo 16V 129 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6769,X (FC/FK) 5 puertas (01/2017 - 12/2020),01/2017,12/2020,56409,HONDA Civic,HONDA Civic X (FC/FK) 5 puertas 1.5 i-VTEC Turbo 16V CVT 182 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6769,X (FC/FK) 5 puertas (01/2017 - 12/2020),01/2017,12/2020,56410,HONDA Civic,HONDA Civic X (FC/FK) 5 puertas 1.5 i-VTEC Turbo 16V 182 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6769,X (FC/FK) 5 puertas (01/2017 - 12/2020),01/2017,12/2020,59031,HONDA Civic,HONDA Civic X (FC/FK) 5 puertas 1.6 i-DTEC 16V S&S 120 cv Transmisión automática,Diesel
+ma-98,HONDA,fa-285,Civic,mo-6769,X (FC/FK) 5 puertas (01/2017 - 12/2020),01/2017,12/2020,56407,HONDA Civic,HONDA Civic X (FC/FK) 5 puertas 1.0 i-VTEC Turbo 16V CVT 129 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6769,X (FC/FK) 5 puertas (01/2017 - 12/2020),01/2017,12/2020,57280,HONDA Civic,HONDA Civic X (FC/FK) 5 puertas R 2.0 i-VTEC 16V 320 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6769,X (FC/FK) 5 puertas (01/2017 - 12/2020),01/2017,12/2020,59779,HONDA Civic,HONDA Civic X (FC/FK) 5 puertas 1.0 i-VTEC Turbo 16V 126 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6769,X (FC/FK) 5 puertas (01/2017 - 12/2020),01/2017,12/2020,59778,HONDA Civic,HONDA Civic X (FC/FK) 5 puertas 1.0 i-VTEC Turbo 16V CVT 126 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-633,(EJ/EK) (10/1995 - 03/2001),10/1995,03/2001,20259,HONDA Civic,HONDA Civic (EJ/EK) 1.4 i 75cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-633,(EJ/EK) (10/1995 - 03/2001),10/1995,03/2001,14760,HONDA Civic,HONDA Civic (EJ/EK) 1.5 i 114cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-633,(EJ/EK) (10/1995 - 03/2001),10/1995,03/2001,5522,HONDA Civic,HONDA Civic (EJ/EK) 1.4 i 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-633,(EJ/EK) (10/1995 - 03/2001),10/1995,03/2001,14761,HONDA Civic,HONDA Civic (EJ/EK) 1.6 i 155cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-633,(EJ/EK) (10/1995 - 03/2001),10/1995,03/2001,3859,HONDA Civic,HONDA Civic (EJ/EK) 1.5 i 114cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-633,(EJ/EK) (10/1995 - 03/2001),10/1995,03/2001,5521,HONDA Civic,HONDA Civic (EJ/EK) 1.4 i 90cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-633,(EJ/EK) (10/1995 - 03/2001),10/1995,03/2001,3860,HONDA Civic,HONDA Civic (EJ/EK) 1.6 i VTi 160cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-633,(EJ/EK) (10/1995 - 03/2001),10/1995,03/2001,5524,HONDA Civic,HONDA Civic (EJ/EK) 1.6 i 114cv CVT Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-642,(MA/MB) (01/1995 - 03/2001),01/1995,03/2001,5548,HONDA Civic,HONDA Civic (MA/MB) 1.6 i 126cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-642,(MA/MB) (01/1995 - 03/2001),01/1995,03/2001,14777,HONDA Civic,HONDA Civic (MA/MB) 1.5 i 90cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-642,(MA/MB) (01/1995 - 03/2001),01/1995,03/2001,3880,HONDA Civic,HONDA Civic (MA/MB) 1.5 i 114cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-642,(MA/MB) (01/1995 - 03/2001),01/1995,03/2001,3879,HONDA Civic,HONDA Civic (MA/MB) 1.4 i 90cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-642,(MA/MB) (01/1995 - 03/2001),01/1995,03/2001,20281,HONDA Civic,HONDA Civic (MA/MB) 2.0 TDi 86cv,Diesel
+ma-98,HONDA,fa-285,Civic,mo-642,(MA/MB) (01/1995 - 03/2001),01/1995,03/2001,20280,HONDA Civic,HONDA Civic (MA/MB) 1.8 i 169cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-642,(MA/MB) (01/1995 - 03/2001),01/1995,03/2001,14778,HONDA Civic,HONDA Civic (MA/MB) 1.6 i 113cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-642,(MA/MB) (01/1995 - 03/2001),01/1995,03/2001,3881,HONDA Civic,HONDA Civic (MA/MB) 1.6 i 113cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-642,(MA/MB) (01/1995 - 03/2001),01/1995,03/2001,14779,HONDA Civic,HONDA Civic (MA/MB) 1.6 i 116cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-642,(MA/MB) (01/1995 - 03/2001),01/1995,03/2001,3882,HONDA Civic,HONDA Civic (MA/MB) 1.6 i 116cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-642,(MA/MB) (01/1995 - 03/2001),01/1995,03/2001,20279,HONDA Civic,HONDA Civic (MA/MB) 1.4 i 75cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-642,(MA/MB) (01/1995 - 03/2001),01/1995,03/2001,14776,HONDA Civic,HONDA Civic (MA/MB) 1.4 i 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-642,(MA/MB) (01/1995 - 03/2001),01/1995,03/2001,34345,HONDA Civic,HONDA Civic (MA/MB) 2.0 TDi 105 cv,Diesel
+ma-98,HONDA,fa-285,Civic,mo-5723,IX (FK) HB 5p (10/2011 - 02/2015),10/2011,02/2015,38991,HONDA Civic,HONDA Civic IX (FK) HB 5p 2.2 iDTEC 16V 150 cv,Diesel
+ma-98,HONDA,fa-285,Civic,mo-5723,IX (FK) HB 5p (10/2011 - 02/2015),10/2011,02/2015,38990,HONDA Civic,HONDA Civic IX (FK) HB 5p 1.8 VTEC 16V 142 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-5723,IX (FK) HB 5p (10/2011 - 02/2015),10/2011,02/2015,38987,HONDA Civic,HONDA Civic IX (FK) HB 5p 1.4 VTEC 16V 100 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-5723,IX (FK) HB 5p (10/2011 - 02/2015),10/2011,02/2015,38988,HONDA Civic,HONDA Civic IX (FK) HB 5p 1.6 iDTEC 16V 120 cv,Diesel
+ma-98,HONDA,fa-285,Civic,mo-5723,IX (FK) HB 5p (10/2011 - 02/2015),10/2011,02/2015,48808,HONDA Civic,HONDA Civic IX (FK) HB 5p 1.8 VTEC 16V 142 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,5545,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.6 i Berlina 116cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,3877,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.6 i Berlina 160cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,20276,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.6 i 125cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,3876,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.5 i Berlina 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,14773,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.5 i 90cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,14774,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.5 i Berlina 90cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,20278,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.6 i 125cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,14775,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.6 i Berlina 120cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,32956,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.5 i Berlina 101 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,3875,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.5 i 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,3878,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.6 i Berlina 120cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,5543,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.6 i Coupe 125cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,5546,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.6 i Berlina 125cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,20277,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.6 i 160cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,5547,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.6 i Berlina 125cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,5542,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.6 i Coupe 125cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,20273,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.5 i Coupe 100cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,5544,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.6 i 120cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,20275,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.5 i Berlina 94cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,20272,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.3 75cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,20274,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.5 i Coupe 100cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-631,(EG/EH/EJ) (09/1991 - 09/1995),09/1991,09/1995,5541,HONDA Civic,HONDA Civic (EG/EH/EJ) 1.5 i 94cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6188,IX FL (FK) (01/2015 - 02/2017),01/2015,02/2017,48657,HONDA Civic,HONDA Civic IX FL (FK) R 2.0 i-VTEC 16V 310 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6188,IX FL (FK) (01/2015 - 02/2017),01/2015,02/2017,48653,HONDA Civic,HONDA Civic IX FL (FK) 1.4 i-VTEC 16V S&S 100 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6188,IX FL (FK) (01/2015 - 02/2017),01/2015,02/2017,48656,HONDA Civic,HONDA Civic IX FL (FK) 1.8 i-VTEC 16V S&S 142 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6188,IX FL (FK) (01/2015 - 02/2017),01/2015,02/2017,48655,HONDA Civic,HONDA Civic IX FL (FK) 1.8 i-VTEC 16V S&S 142 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6188,IX FL (FK) (01/2015 - 02/2017),01/2015,02/2017,48654,HONDA Civic,HONDA Civic IX FL (FK) 1.6 i-DTEC 16V S&S 120 cv,Diesel
+ma-98,HONDA,fa-285,Civic,mo-639,VIII (FD) Berlina (01/2006 - 10/2011),01/2006,10/2011,5525,HONDA Civic,HONDA Civic VIII (FD) Berlina 1.6 i-VTEC 125cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-639,VIII (FD) Berlina (01/2006 - 10/2011),01/2006,10/2011,34342,HONDA Civic,HONDA Civic VIII (FD) Berlina 1.8 i-VTEC 132 16V 132 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-639,VIII (FD) Berlina (01/2006 - 10/2011),01/2006,10/2011,20260,HONDA Civic,HONDA Civic VIII (FD) Berlina 1.8 i-VTEC 140cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-639,VIII (FD) Berlina (01/2006 - 10/2011),01/2006,10/2011,3861,HONDA Civic,HONDA Civic VIII (FD) Berlina 1.8 i-VETC 140cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-639,VIII (FD) Berlina (01/2006 - 10/2011),01/2006,10/2011,3862,HONDA Civic,HONDA Civic VIII (FD) Berlina 1.8 i-VTEC 140cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-639,VIII (FD) Berlina (01/2006 - 10/2011),01/2006,10/2011,14763,HONDA Civic,HONDA Civic VIII (FD) Berlina 1.8 i-VETC 140cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-639,VIII (FD) Berlina (01/2006 - 10/2011),01/2006,10/2011,20261,HONDA Civic,HONDA Civic VIII (FD) Berlina Hybrid 1.3 i-VTEC IMA 95cv CVT Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-639,VIII (FD) Berlina (01/2006 - 10/2011),01/2006,10/2011,34343,HONDA Civic,HONDA Civic VIII (FD) Berlina 1.8 i-VTEC 132 16V 132 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-639,VIII (FD) Berlina (01/2006 - 10/2011),01/2006,10/2011,14762,HONDA Civic,HONDA Civic VIII (FD) Berlina 1.6 i-VTEC 125cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-5724,IX (FK) Tourer (01/2014 - 02/2015),01/2014,02/2015,43421,HONDA Civic,HONDA Civic IX (FK) Tourer 1.6 i-DTEC Familiar 16V 120 cv,Diesel
+ma-98,HONDA,fa-285,Civic,mo-5724,IX (FK) Tourer (01/2014 - 02/2015),01/2014,02/2015,43423,HONDA Civic,HONDA Civic IX (FK) Tourer 1.8 i-VTEC Familiar 16V 142 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-5724,IX (FK) Tourer (01/2014 - 02/2015),01/2014,02/2015,43424,HONDA Civic,HONDA Civic IX (FK) Tourer 1.8 i-VTEC Familiar 16V 142 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-632,(EJ*) (03/1996 - 03/2000),03/1996,03/2000,14758,HONDA Civic,HONDA Civic (EJ*) 1.6 i Coupe 105cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-632,(EJ*) (03/1996 - 03/2000),03/1996,03/2000,20257,HONDA Civic,HONDA Civic (EJ*) 1.6 i Coupe 125cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-632,(EJ*) (03/1996 - 03/2000),03/1996,03/2000,3856,HONDA Civic,HONDA Civic (EJ*) 1.6 i Coupe 105cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-632,(EJ*) (03/1996 - 03/2000),03/1996,03/2000,20256,HONDA Civic,HONDA Civic (EJ*) 1.6 i Coupe 125cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6768,X (FC/FK) 4 puertas (02/2017 - 12/2020),02/2017,12/2020,59028,HONDA Civic,HONDA Civic X (FC/FK) 4 puertas 1.5 i-VTEC Turbo berlina 16V 182 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6768,X (FC/FK) 4 puertas (02/2017 - 12/2020),02/2017,12/2020,63783,HONDA Civic,HONDA Civic X (FC/FK) 4 puertas 1.0 i-VTEC 12V Turbo CVT 126 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6768,X (FC/FK) 4 puertas (02/2017 - 12/2020),02/2017,12/2020,59026,HONDA Civic,HONDA Civic X (FC/FK) 4 puertas 1.0 i-VTEC Turbo berlina 16V 129 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6768,X (FC/FK) 4 puertas (02/2017 - 12/2020),02/2017,12/2020,59030,HONDA Civic,HONDA Civic X (FC/FK) 4 puertas 1.6 i-DTEC berlina 16V S&S 120 cv,Diesel
+ma-98,HONDA,fa-285,Civic,mo-6768,X (FC/FK) 4 puertas (02/2017 - 12/2020),02/2017,12/2020,63784,HONDA Civic,HONDA Civic X (FC/FK) 4 puertas 1.0 i-VTEC 12V Turbo 126 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6768,X (FC/FK) 4 puertas (02/2017 - 12/2020),02/2017,12/2020,59025,HONDA Civic,HONDA Civic X (FC/FK) 4 puertas 1.0 i-VTEC Turbo berlina 16V CVT 129 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6768,X (FC/FK) 4 puertas (02/2017 - 12/2020),02/2017,12/2020,59027,HONDA Civic,HONDA Civic X (FC/FK) 4 puertas 1.5 i-VTEC Turbo berlina 16V CVT 182 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6768,X (FC/FK) 4 puertas (02/2017 - 12/2020),02/2017,12/2020,59029,HONDA Civic,HONDA Civic X (FC/FK) 4 puertas 1.6 i-DTEC berlina 16V S&S 120 cv Transmisión automática,Diesel
+ma-98,HONDA,fa-285,Civic,mo-6189,IX Fase 2 (FK) Tourer (01/2015 - 02/2017),01/2015,02/2017,48652,HONDA Civic,HONDA Civic IX Fase 2 (FK) Tourer 1.8 i-VTEC 16V S&S 142 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6189,IX Fase 2 (FK) Tourer (01/2015 - 02/2017),01/2015,02/2017,48650,HONDA Civic,HONDA Civic IX Fase 2 (FK) Tourer 1.6 i-DTEC 16V S&S 120 cv,Diesel
+ma-98,HONDA,fa-285,Civic,mo-6189,IX Fase 2 (FK) Tourer (01/2015 - 02/2017),01/2015,02/2017,48651,HONDA Civic,HONDA Civic IX Fase 2 (FK) Tourer 1.8 i-VTEC 16V S&S 142 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-630,(EC/ED/EE) (09/1987 - 08/1991),09/1987,08/1991,20269,HONDA Civic,HONDA Civic (EC/ED/EE) 1.5 i 90cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-630,(EC/ED/EE) (09/1987 - 08/1991),09/1987,08/1991,5538,HONDA Civic,HONDA Civic (EC/ED/EE) 1.4 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-630,(EC/ED/EE) (09/1987 - 08/1991),09/1987,08/1991,20268,HONDA Civic,HONDA Civic (EC/ED/EE) 1.3 75cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-630,(EC/ED/EE) (09/1987 - 08/1991),09/1987,08/1991,20270,HONDA Civic,HONDA Civic (EC/ED/EE) 1.5 i 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-630,(EC/ED/EE) (09/1987 - 08/1991),09/1987,08/1991,5539,HONDA Civic,HONDA Civic (EC/ED/EE) 1.6 i 111cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-630,(EC/ED/EE) (09/1987 - 08/1991),09/1987,08/1991,20271,HONDA Civic,HONDA Civic (EC/ED/EE) 1.6 i 150cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-630,(EC/ED/EE) (09/1987 - 08/1991),09/1987,08/1991,14772,HONDA Civic,HONDA Civic (EC/ED/EE) 1.3 75cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-630,(EC/ED/EE) (09/1987 - 08/1991),09/1987,08/1991,5540,HONDA Civic,HONDA Civic (EC/ED/EE) 1.6 i 130cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-630,(EC/ED/EE) (09/1987 - 08/1991),09/1987,08/1991,3874,HONDA Civic,HONDA Civic (EC/ED/EE) 1.4 90cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-7738,XI (FL) 3/5 puertas (01/2021 - Hoy),01/2021,,69442,HONDA Civic,HONDA Civic XI (FL) 3/5 puertas Type-R 2.0 i 16V Turbo 330 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-7738,XI (FL) 3/5 puertas (01/2021 - Hoy),01/2021,,69441,HONDA Civic,HONDA Civic XI (FL) 3/5 puertas E:HEV 2.0 i-MMD 184 HEV e-CVT 143 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-637,(EP) 4 puertas (04/2001 - 06/2006),04/2001,06/2006,20252,HONDA Civic,HONDA Civic (EP) 4 puertas 1.6 i VTEC Berlina 110cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-637,(EP) 4 puertas (04/2001 - 06/2006),04/2001,06/2006,3851,HONDA Civic,HONDA Civic (EP) 4 puertas 1.4 i Berlina 90cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-637,(EP) 4 puertas (04/2001 - 06/2006),04/2001,06/2006,3852,HONDA Civic,HONDA Civic (EP) 4 puertas 1.6 i VTEC Berlina 110cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-637,(EP) 4 puertas (04/2001 - 06/2006),04/2001,06/2006,5384,HONDA Civic,HONDA Civic (EP) 4 puertas IMA 1.4 i Berlina 85cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-637,(EP) 4 puertas (04/2001 - 06/2006),04/2001,06/2006,14754,HONDA Civic,HONDA Civic (EP) 4 puertas 1.4 i Berlina 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-637,(EP) 4 puertas (04/2001 - 06/2006),04/2001,06/2006,5383,HONDA Civic,HONDA Civic (EP) 4 puertas IMA 1.3 i Berlina 90cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-635,(EP) 2 puertas (04/2001 - 06/2006),04/2001,06/2006,20247,HONDA Civic,HONDA Civic (EP) 2 puertas 1.7 i VTEC Coupe 125cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-635,(EP) 2 puertas (04/2001 - 06/2006),04/2001,06/2006,14752,HONDA Civic,HONDA Civic (EP) 2 puertas 1.7 i Coupe 120cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-635,(EP) 2 puertas (04/2001 - 06/2006),04/2001,06/2006,3783,HONDA Civic,HONDA Civic (EP) 2 puertas 1.7 i Coupe 120cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-635,(EP) 2 puertas (04/2001 - 06/2006),04/2001,06/2006,3848,HONDA Civic,HONDA Civic (EP) 2 puertas 1.7 i VTEC Coupe 125cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-634,(EJ/EK) Saloon (10/1995 - 03/2001),10/1995,03/2001,3858,HONDA Civic,HONDA Civic (EJ/EK) Saloon 1.5 i Familiar 114cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-634,(EJ/EK) Saloon (10/1995 - 03/2001),10/1995,03/2001,5388,HONDA Civic,HONDA Civic (EJ/EK) Saloon 1.4 i Familiar 90cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-634,(EJ/EK) Saloon (10/1995 - 03/2001),10/1995,03/2001,5520,HONDA Civic,HONDA Civic (EJ/EK) Saloon 1.6 i VTi Familiar 160cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-634,(EJ/EK) Saloon (10/1995 - 03/2001),10/1995,03/2001,3857,HONDA Civic,HONDA Civic (EJ/EK) Saloon 1.4 i Familiar 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-634,(EJ/EK) Saloon (10/1995 - 03/2001),10/1995,03/2001,20258,HONDA Civic,HONDA Civic (EJ/EK) Saloon 1.6 i Familiar 125cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-634,(EJ/EK) Saloon (10/1995 - 03/2001),10/1995,03/2001,5389,HONDA Civic,HONDA Civic (EJ/EK) Saloon 1.5 i 114cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-634,(EJ/EK) Saloon (10/1995 - 03/2001),10/1995,03/2001,14759,HONDA Civic,HONDA Civic (EJ/EK) Saloon 1.6 i Familiar 125cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-646,Aerodeck (MB/MC) (09/1997 - 03/2001),09/1997,03/2001,20282,HONDA Civic,HONDA Civic Aerodeck (MB/MC) 1.4 i 16V Familiar 90cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-646,Aerodeck (MB/MC) (09/1997 - 03/2001),09/1997,03/2001,5550,HONDA Civic,HONDA Civic Aerodeck (MB/MC) 1.6 i 16V Familiar 116cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-646,Aerodeck (MB/MC) (09/1997 - 03/2001),09/1997,03/2001,3886,HONDA Civic,HONDA Civic Aerodeck (MB/MC) 2.0 iTD Familiar 86cv,Diesel
+ma-98,HONDA,fa-285,Civic,mo-646,Aerodeck (MB/MC) (09/1997 - 03/2001),09/1997,03/2001,5549,HONDA Civic,HONDA Civic Aerodeck (MB/MC) 1.4 i 16V Familiar 75cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-646,Aerodeck (MB/MC) (09/1997 - 03/2001),09/1997,03/2001,3885,HONDA Civic,HONDA Civic Aerodeck (MB/MC) 1.8 i 16V Familiar 169cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-646,Aerodeck (MB/MC) (09/1997 - 03/2001),09/1997,03/2001,5551,HONDA Civic,HONDA Civic Aerodeck (MB/MC) 1.6 i 16V Familiar 125cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-646,Aerodeck (MB/MC) (09/1997 - 03/2001),09/1997,03/2001,3887,HONDA Civic,HONDA Civic Aerodeck (MB/MC) 2.0 iTD Familiar 105cv,Diesel
+ma-98,HONDA,fa-285,Civic,mo-646,Aerodeck (MB/MC) (09/1997 - 03/2001),09/1997,03/2001,3884,HONDA Civic,HONDA Civic Aerodeck (MB/MC) 1.5 i 16V Familiar 114cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-646,Aerodeck (MB/MC) (09/1997 - 03/2001),09/1997,03/2001,3883,HONDA Civic,HONDA Civic Aerodeck (MB/MC) 1.4 i 16V Familiar 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-646,Aerodeck (MB/MC) (09/1997 - 03/2001),09/1997,03/2001,14781,HONDA Civic,HONDA Civic Aerodeck (MB/MC) 1.6 i 16V Familiar 116cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-646,Aerodeck (MB/MC) (09/1997 - 03/2001),09/1997,03/2001,14780,HONDA Civic,HONDA Civic Aerodeck (MB/MC) 1.4 i 16V Familiar 75cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-629,(EC/ED/EE) Berlina (09/1987 - 08/1991),09/1987,08/1991,3871,HONDA Civic,HONDA Civic (EC/ED/EE) Berlina 1.4 Berlina 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-629,(EC/ED/EE) Berlina (09/1987 - 08/1991),09/1987,08/1991,24879,HONDA Civic,HONDA Civic (EC/ED/EE) Berlina 1.6 i 4x4 Berlina 111cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-629,(EC/ED/EE) Berlina (09/1987 - 08/1991),09/1987,08/1991,20267,HONDA Civic,HONDA Civic (EC/ED/EE) Berlina 1.5 i Berlina 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-629,(EC/ED/EE) Berlina (09/1987 - 08/1991),09/1987,08/1991,3872,HONDA Civic,HONDA Civic (EC/ED/EE) Berlina 1.5 i Berlina 90cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-629,(EC/ED/EE) Berlina (09/1987 - 08/1991),09/1987,08/1991,14769,HONDA Civic,HONDA Civic (EC/ED/EE) Berlina 1.4 Berlina 90cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-629,(EC/ED/EE) Berlina (09/1987 - 08/1991),09/1987,08/1991,5537,HONDA Civic,HONDA Civic (EC/ED/EE) Berlina 1.6 i Berlina 111cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-629,(EC/ED/EE) Berlina (09/1987 - 08/1991),09/1987,08/1991,14770,HONDA Civic,HONDA Civic (EC/ED/EE) Berlina 1.6 i Berlina 111cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6190,IX FL (FK) Sedan (06/2014 - 02/2017),06/2014,02/2017,50492,HONDA Civic,HONDA Civic IX FL (FK) Sedan 1.6 i-VTEC berlina 16V S&S 125 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6190,IX FL (FK) Sedan (06/2014 - 02/2017),06/2014,02/2017,48648,HONDA Civic,HONDA Civic IX FL (FK) Sedan 1.8 i-VTEC Berlina 16V S&S 142 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6190,IX FL (FK) Sedan (06/2014 - 02/2017),06/2014,02/2017,50493,HONDA Civic,HONDA Civic IX FL (FK) Sedan 1.6 i-VTEC berlina 16V S&S 125 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6190,IX FL (FK) Sedan (06/2014 - 02/2017),06/2014,02/2017,48649,HONDA Civic,HONDA Civic IX FL (FK) Sedan 1.8 i-VTEC Berlina 16V S&S 142 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-644,(SL/SS/SP/WC) (08/1979 - 08/1983),08/1979,08/1983,5553,HONDA Civic,HONDA Civic (SL/SS/SP/WC) 1300 60cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-644,(SL/SS/SP/WC) (08/1979 - 08/1983),08/1979,08/1983,5554,HONDA Civic,HONDA Civic (SL/SS/SP/WC) 1300 Berlina 60cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-644,(SL/SS/SP/WC) (08/1979 - 08/1983),08/1979,08/1983,3888,HONDA Civic,HONDA Civic (SL/SS/SP/WC) 1300 60cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-644,(SL/SS/SP/WC) (08/1979 - 08/1983),08/1979,08/1983,5552,HONDA Civic,HONDA Civic (SL/SS/SP/WC) 1300 45cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-644,(SL/SS/SP/WC) (08/1979 - 08/1983),08/1979,08/1983,14782,HONDA Civic,HONDA Civic (SL/SS/SP/WC) 1300 71cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-628,(AJ/AH/AK) (09/1983 - 08/1987),09/1983,08/1987,3868,HONDA Civic,HONDA Civic (AJ/AH/AK) 1300 71cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-628,(AJ/AH/AK) (09/1983 - 08/1987),09/1983,08/1987,14768,HONDA Civic,HONDA Civic (AJ/AH/AK) 1300 Berlina 71cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-628,(AJ/AH/AK) (09/1983 - 08/1987),09/1983,08/1987,3869,HONDA Civic,HONDA Civic (AJ/AH/AK) 1500 Berlina 85cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-628,(AJ/AH/AK) (09/1983 - 08/1987),09/1983,08/1987,5533,HONDA Civic,HONDA Civic (AJ/AH/AK) 1500 85cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-628,(AJ/AH/AK) (09/1983 - 08/1987),09/1983,08/1987,14767,HONDA Civic,HONDA Civic (AJ/AH/AK) 1300 71cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-628,(AJ/AH/AK) (09/1983 - 08/1987),09/1983,08/1987,20266,HONDA Civic,HONDA Civic (AJ/AH/AK) 1500 Berlina 85cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-628,(AJ/AH/AK) (09/1983 - 08/1987),09/1983,08/1987,5532,HONDA Civic,HONDA Civic (AJ/AH/AK) 1300 Berlina 71cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-628,(AJ/AH/AK) (09/1983 - 08/1987),09/1983,08/1987,3867,HONDA Civic,HONDA Civic (AJ/AH/AK) 1200 71cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-628,(AJ/AH/AK) (09/1983 - 08/1987),09/1983,08/1987,5534,HONDA Civic,HONDA Civic (AJ/AH/AK) 1500 85cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-628,(AJ/AH/AK) (09/1983 - 08/1987),09/1983,08/1987,5536,HONDA Civic,HONDA Civic (AJ/AH/AK) 1500 i 100cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-628,(AJ/AH/AK) (09/1983 - 08/1987),09/1983,08/1987,5535,HONDA Civic,HONDA Civic (AJ/AH/AK) 1500 i 90cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6308,IX Fase 1 (FB) Sedan (10/2011 - 02/2015),10/2011,02/2015,50491,HONDA Civic,HONDA Civic IX Fase 1 (FB) Sedan 1.6 i-VTEC berlina 16V S&S 125 cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-6308,IX Fase 1 (FB) Sedan (10/2011 - 02/2015),10/2011,02/2015,50490,HONDA Civic,HONDA Civic IX Fase 1 (FB) Sedan 1.6 i-VTEC berlina 16V S&S 125 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-648,Shuttle (EE*) (09/1987 - 12/1992),09/1987,12/1992,14802,HONDA Civic,HONDA Civic Shuttle (EE*) 1.6 i 110cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-648,Shuttle (EE*) (09/1987 - 12/1992),09/1987,12/1992,5572,HONDA Civic,HONDA Civic Shuttle (EE*) 1.6 i 110cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-648,Shuttle (EE*) (09/1987 - 12/1992),09/1987,12/1992,5571,HONDA Civic,HONDA Civic Shuttle (EE*) 1.5 i 16V 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-648,Shuttle (EE*) (09/1987 - 12/1992),09/1987,12/1992,14799,HONDA Civic,HONDA Civic Shuttle (EE*) 1.4 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-648,Shuttle (EE*) (09/1987 - 12/1992),09/1987,12/1992,14801,HONDA Civic,HONDA Civic Shuttle (EE*) 1.6 i 116cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-648,Shuttle (EE*) (09/1987 - 12/1992),09/1987,12/1992,14800,HONDA Civic,HONDA Civic Shuttle (EE*) 1.5 i 16V 90cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-648,Shuttle (EE*) (09/1987 - 12/1992),09/1987,12/1992,5570,HONDA Civic,HONDA Civic Shuttle (EE*) 1.4 90cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-643,(SB/SF) (09/1975 - 07/1979),09/1975,07/1979,5530,HONDA Civic,HONDA Civic (SB/SF) Civic 1200 60cv Berlina,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-643,(SB/SF) (09/1975 - 07/1979),09/1975,07/1979,5529,HONDA Civic,HONDA Civic (SB/SF) 1200 54cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-643,(SB/SF) (09/1975 - 07/1979),09/1975,07/1979,5528,HONDA Civic,HONDA Civic (SB/SF) 1200 54cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-645,(SL/SS/SP/WC) Wagon (08/1979 - 08/1983),08/1979,08/1983,20284,HONDA Civic,HONDA Civic (SL/SS/SP/WC) Wagon 1300 Familiar 60cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-645,(SL/SS/SP/WC) Wagon (08/1979 - 08/1983),08/1979,08/1983,20283,HONDA Civic,HONDA Civic (SL/SS/SP/WC) Wagon 1300 Familiar 60cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-647,Shuttle (AN/AG) (09/1983 - 08/1987),09/1983,08/1987,25051,HONDA Civic,HONDA Civic Shuttle (AN/AG) 1500 4x4 85cv,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-647,Shuttle (AN/AG) (09/1983 - 08/1987),09/1983,08/1987,20255,HONDA Civic,HONDA Civic Shuttle (AN/AG) 1500 85cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-285,Civic,mo-647,Shuttle (AN/AG) (09/1983 - 08/1987),09/1983,08/1987,20254,HONDA Civic,HONDA Civic Shuttle (AN/AG) 1500 85cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-368,VII (CL/CM) Berlina (02/2003 - 05/2008),02/2003,05/2008,20206,HONDA Accord,HONDA Accord VII (CL/CM) Berlina 2.0 i 155cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-368,VII (CL/CM) Berlina (02/2003 - 05/2008),02/2003,05/2008,20207,HONDA Accord,HONDA Accord VII (CL/CM) Berlina 2.4 i 190cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-368,VII (CL/CM) Berlina (02/2003 - 05/2008),02/2003,05/2008,20208,HONDA Accord,HONDA Accord VII (CL/CM) Berlina 2.4 i 190cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-368,VII (CL/CM) Berlina (02/2003 - 05/2008),02/2003,05/2008,3761,HONDA Accord,HONDA Accord VII (CL/CM) Berlina 2.2 i-CDTi 140cv,Diesel
+ma-98,HONDA,fa-281,Accord,mo-368,VII (CL/CM) Berlina (02/2003 - 05/2008),02/2003,05/2008,20205,HONDA Accord,HONDA Accord VII (CL/CM) Berlina 2.0 i 155cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-3714, (05/2008 - 04/2011),05/2008,04/2011,34325,HONDA Accord,HONDA Accord 2.4 i-VTEC 16V 201 cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-3714, (05/2008 - 04/2011),05/2008,04/2011,29600,HONDA Accord,HONDA Accord 2.2 i-DTEC 150 cv,Diesel
+ma-98,HONDA,fa-281,Accord,mo-3714, (05/2008 - 04/2011),05/2008,04/2011,29597,HONDA Accord,HONDA Accord 2.0 i-VTEC Auto-S 156 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-3714, (05/2008 - 04/2011),05/2008,04/2011,29596,HONDA Accord,HONDA Accord 2.0 i-VTEC 156 cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-3714, (05/2008 - 04/2011),05/2008,04/2011,32953,HONDA Accord,HONDA Accord 2.2 i-DTEC 180 16V 180 cv,Diesel
+ma-98,HONDA,fa-281,Accord,mo-3714, (05/2008 - 04/2011),05/2008,04/2011,34324,HONDA Accord,HONDA Accord 2.4 i-VTEC 16V Auto-S 201 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-3714, (05/2008 - 04/2011),05/2008,04/2011,29598,HONDA Accord,HONDA Accord 2.4 i-VTEC Auto-S 190 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-3714, (05/2008 - 04/2011),05/2008,04/2011,32952,HONDA Accord,HONDA Accord 2.2 i-DTEC 16V 150 cv Transmisión automática,Diesel
+ma-98,HONDA,fa-281,Accord,mo-3714, (05/2008 - 04/2011),05/2008,04/2011,29599,HONDA Accord,HONDA Accord 2.4 i-VTEC 190 cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-366,VI (CG/CH) Berlina (09/1998 - 01/2003),09/1998,01/2003,14750,HONDA Accord,HONDA Accord VI (CG/CH) Berlina 1.6 i Berlina 108cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-366,VI (CG/CH) Berlina (09/1998 - 01/2003),09/1998,01/2003,20239,HONDA Accord,HONDA Accord VI (CG/CH) Berlina 1.8 i Berlina 136cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-366,VI (CG/CH) Berlina (09/1998 - 01/2003),09/1998,01/2003,5377,HONDA Accord,HONDA Accord VI (CG/CH) Berlina 2.3 i Berlina 150cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-366,VI (CG/CH) Berlina (09/1998 - 01/2003),09/1998,01/2003,20240,HONDA Accord,HONDA Accord VI (CG/CH) Berlina 1.8 i Berlina 136cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-366,VI (CG/CH) Berlina (09/1998 - 01/2003),09/1998,01/2003,5376,HONDA Accord,HONDA Accord VI (CG/CH) Berlina 2.0 TD Berlina 105cv,Diesel
+ma-98,HONDA,fa-281,Accord,mo-366,VI (CG/CH) Berlina (09/1998 - 01/2003),09/1998,01/2003,5378,HONDA Accord,HONDA Accord VI (CG/CH) Berlina 2.3 i Berlina 150cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-366,VI (CG/CH) Berlina (09/1998 - 01/2003),09/1998,01/2003,3780,HONDA Accord,HONDA Accord VI (CG/CH) Berlina 1.6 i Berlina 116cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-366,VI (CG/CH) Berlina (09/1998 - 01/2003),09/1998,01/2003,20243,HONDA Accord,HONDA Accord VI (CG/CH) Berlina 2.2 i Type-R Berlina 212cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-366,VI (CG/CH) Berlina (09/1998 - 01/2003),09/1998,01/2003,20242,HONDA Accord,HONDA Accord VI (CG/CH) Berlina 2.0 i Berlina 147cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-366,VI (CG/CH) Berlina (09/1998 - 01/2003),09/1998,01/2003,20241,HONDA Accord,HONDA Accord VI (CG/CH) Berlina 2.0 i Berlina 147cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-5071,VIII (CU/CW) Berlina (04/2011 - Hoy),04/2011,,34331,HONDA Accord,HONDA Accord VIII (CU/CW) Berlina 2.2 i-DTEC DPF16V 150 cv,Diesel
+ma-98,HONDA,fa-281,Accord,mo-5071,VIII (CU/CW) Berlina (04/2011 - Hoy),04/2011,,34334,HONDA Accord,HONDA Accord VIII (CU/CW) Berlina 2.4 i-VTEC 16V 201 cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-5071,VIII (CU/CW) Berlina (04/2011 - Hoy),04/2011,,34328,HONDA Accord,HONDA Accord VIII (CU/CW) Berlina 2.0 i-VTEC 16V Auto-S 156 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-5071,VIII (CU/CW) Berlina (04/2011 - Hoy),04/2011,,34329,HONDA Accord,HONDA Accord VIII (CU/CW) Berlina 2.0 i-VTEC 16V 156 cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-5071,VIII (CU/CW) Berlina (04/2011 - Hoy),04/2011,,34330,HONDA Accord,HONDA Accord VIII (CU/CW) Berlina 2.2 i-DTEC DPF16V Auto-S 150 cv Transmisión automática,Diesel
+ma-98,HONDA,fa-281,Accord,mo-5071,VIII (CU/CW) Berlina (04/2011 - Hoy),04/2011,,34333,HONDA Accord,HONDA Accord VIII (CU/CW) Berlina 2.4 i-VTEC 16V Auto-S 201 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-5071,VIII (CU/CW) Berlina (04/2011 - Hoy),04/2011,,34332,HONDA Accord,HONDA Accord VIII (CU/CW) Berlina 2.2 i-DTEC DPF16V 180 cv,Diesel
+ma-98,HONDA,fa-281,Accord,mo-3715,Tourer (05/2008 - 04/2011),05/2008,04/2011,32954,HONDA Accord,HONDA Accord Tourer 2.2 i-DTEC 180 Familiar 16V 180 cv,Diesel
+ma-98,HONDA,fa-281,Accord,mo-3715,Tourer (05/2008 - 04/2011),05/2008,04/2011,29603,HONDA Accord,HONDA Accord Tourer 2.4 i-VTEC Auto-S 190 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-3715,Tourer (05/2008 - 04/2011),05/2008,04/2011,29602,HONDA Accord,HONDA Accord Tourer 2.0 i-VTEC Auto-S 156 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-3715,Tourer (05/2008 - 04/2011),05/2008,04/2011,29605,HONDA Accord,HONDA Accord Tourer 2.4 i-VTEC 190 cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-3715,Tourer (05/2008 - 04/2011),05/2008,04/2011,34326,HONDA Accord,HONDA Accord Tourer 2.4 i-VTEC 16V Auto-S 201 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-3715,Tourer (05/2008 - 04/2011),05/2008,04/2011,34327,HONDA Accord,HONDA Accord Tourer 2.4 i-VTEC 16V 201 cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-3715,Tourer (05/2008 - 04/2011),05/2008,04/2011,29601,HONDA Accord,HONDA Accord Tourer 2.0 i-VTEC 156 cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-3715,Tourer (05/2008 - 04/2011),05/2008,04/2011,32955,HONDA Accord,HONDA Accord Tourer 2.2 i-DTEC Familiar 16V 150 cv Transmisión automática,Diesel
+ma-98,HONDA,fa-281,Accord,mo-3715,Tourer (05/2008 - 04/2011),05/2008,04/2011,29604,HONDA Accord,HONDA Accord Tourer 2.2 i-DTEC 150 cv,Diesel
+ma-98,HONDA,fa-281,Accord,mo-369,VII (CL/CM) Tourer (02/2003 - 05/2008),02/2003,05/2008,20210,HONDA Accord,HONDA Accord VII (CL/CM) Tourer 2.4 i Familiar 190cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-369,VII (CL/CM) Tourer (02/2003 - 05/2008),02/2003,05/2008,3763,HONDA Accord,HONDA Accord VII (CL/CM) Tourer 2.2 i-CDTi Familiar 140cv,Diesel
+ma-98,HONDA,fa-281,Accord,mo-369,VII (CL/CM) Tourer (02/2003 - 05/2008),02/2003,05/2008,20209,HONDA Accord,HONDA Accord VII (CL/CM) Tourer 2.0 i Familiar 155cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-369,VII (CL/CM) Tourer (02/2003 - 05/2008),02/2003,05/2008,3762,HONDA Accord,HONDA Accord VII (CL/CM) Tourer 2.0 i Familiar 155cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-369,VII (CL/CM) Tourer (02/2003 - 05/2008),02/2003,05/2008,3764,HONDA Accord,HONDA Accord VII (CL/CM) Tourer 2.4 i Familiar 190cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-5072,VIII (CU/CW) Tourer (04/2011 - Hoy),04/2011,,34339,HONDA Accord,HONDA Accord VIII (CU/CW) Tourer 2.2 i-DTEC DPF 16V 180 cv,Diesel
+ma-98,HONDA,fa-281,Accord,mo-5072,VIII (CU/CW) Tourer (04/2011 - Hoy),04/2011,,34337,HONDA Accord,HONDA Accord VIII (CU/CW) Tourer 2.2 i-DTEC DPF 16V Auto-S 150 cv Transmisión automática,Diesel
+ma-98,HONDA,fa-281,Accord,mo-5072,VIII (CU/CW) Tourer (04/2011 - Hoy),04/2011,,34336,HONDA Accord,HONDA Accord VIII (CU/CW) Tourer 2.0 i-VTEC 16V 156 cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-5072,VIII (CU/CW) Tourer (04/2011 - Hoy),04/2011,,34335,HONDA Accord,HONDA Accord VIII (CU/CW) Tourer 2.0 i-VTEC 16V Auto-S 156 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-5072,VIII (CU/CW) Tourer (04/2011 - Hoy),04/2011,,34340,HONDA Accord,HONDA Accord VIII (CU/CW) Tourer 2.4 i-VTEC 16V Auto-S 201 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-5072,VIII (CU/CW) Tourer (04/2011 - Hoy),04/2011,,34341,HONDA Accord,HONDA Accord VIII (CU/CW) Tourer 2.4 i-VTEC 16V 201 cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-5072,VIII (CU/CW) Tourer (04/2011 - Hoy),04/2011,,34338,HONDA Accord,HONDA Accord VIII (CU/CW) Tourer 2.2 i-DTEC DPF 16V 150 cv,Diesel
+ma-98,HONDA,fa-281,Accord,mo-365,V (CE/CF) (07/1995 - 08/1998),07/1995,08/1998,3767,HONDA Accord,HONDA Accord V (CE/CF) 1.8 i 116cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-365,V (CE/CF) (07/1995 - 08/1998),07/1995,08/1998,20213,HONDA Accord,HONDA Accord V (CE/CF) 2.0 TDi 105cv,Diesel
+ma-98,HONDA,fa-281,Accord,mo-365,V (CE/CF) (07/1995 - 08/1998),07/1995,08/1998,14734,HONDA Accord,HONDA Accord V (CE/CF) 1.8 i 116cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-365,V (CE/CF) (07/1995 - 08/1998),07/1995,08/1998,3769,HONDA Accord,HONDA Accord V (CE/CF) 2.2 i 149cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-365,V (CE/CF) (07/1995 - 08/1998),07/1995,08/1998,14735,HONDA Accord,HONDA Accord V (CE/CF) 2.0 i 130cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-365,V (CE/CF) (07/1995 - 08/1998),07/1995,08/1998,14736,HONDA Accord,HONDA Accord V (CE/CF) 2.2 i 149cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-365,V (CE/CF) (07/1995 - 08/1998),07/1995,08/1998,3768,HONDA Accord,HONDA Accord V (CE/CF) 2.0 i 130cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-367,VI (CG/CH) (09/1998 - 01/2003),09/1998,01/2003,14751,HONDA Accord,HONDA Accord VI (CG/CH) 2.3 i 150cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-367,VI (CG/CH) (09/1998 - 01/2003),09/1998,01/2003,20245,HONDA Accord,HONDA Accord VI (CG/CH) 1.8 i 136cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-367,VI (CG/CH) (09/1998 - 01/2003),09/1998,01/2003,5379,HONDA Accord,HONDA Accord VI (CG/CH) 1.6 i 108cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-367,VI (CG/CH) (09/1998 - 01/2003),09/1998,01/2003,5380,HONDA Accord,HONDA Accord VI (CG/CH) 2.0 TD 105cv,Diesel
+ma-98,HONDA,fa-281,Accord,mo-367,VI (CG/CH) (09/1998 - 01/2003),09/1998,01/2003,3781,HONDA Accord,HONDA Accord VI (CG/CH) 1.8 i 136cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-367,VI (CG/CH) (09/1998 - 01/2003),09/1998,01/2003,20244,HONDA Accord,HONDA Accord VI (CG/CH) 1.6 i 116cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-367,VI (CG/CH) (09/1998 - 01/2003),09/1998,01/2003,20246,HONDA Accord,HONDA Accord VI (CG/CH) 2.0 i 147cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-367,VI (CG/CH) (09/1998 - 01/2003),09/1998,01/2003,5381,HONDA Accord,HONDA Accord VI (CG/CH) 2.3 i 150cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-367,VI (CG/CH) (09/1998 - 01/2003),09/1998,01/2003,3782,HONDA Accord,HONDA Accord VI (CG/CH) 2.0 i 147cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-359,Coupe (CG) (10/1997 - 06/2002),10/1997,06/2002,20238,HONDA Accord,HONDA Accord Coupe (CG) 3.0 i V6 24V 200cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-359,Coupe (CG) (10/1997 - 06/2002),10/1997,06/2002,20236,HONDA Accord,HONDA Accord Coupe (CG) 2.3 i 153cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-359,Coupe (CG) (10/1997 - 06/2002),10/1997,06/2002,3779,HONDA Accord,HONDA Accord Coupe (CG) 2.0 i 147cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-359,Coupe (CG) (10/1997 - 06/2002),10/1997,06/2002,14749,HONDA Accord,HONDA Accord Coupe (CG) 2.0 i 147cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-359,Coupe (CG) (10/1997 - 06/2002),10/1997,06/2002,20237,HONDA Accord,HONDA Accord Coupe (CG) 2.3 i 153cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-364,V (CC) (03/1993 - 06/1995),03/1993,06/1995,5363,HONDA Accord,HONDA Accord V (CC) 2.0 i 130cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-364,V (CC) (03/1993 - 06/1995),03/1993,06/1995,3760,HONDA Accord,HONDA Accord V (CC) 2.3 i 158cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-364,V (CC) (03/1993 - 06/1995),03/1993,06/1995,14732,HONDA Accord,HONDA Accord V (CC) 2.0 i 115cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-364,V (CC) (03/1993 - 06/1995),03/1993,06/1995,14733,HONDA Accord,HONDA Accord V (CC) 2.3 i 158cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-364,V (CC) (03/1993 - 06/1995),03/1993,06/1995,5362,HONDA Accord,HONDA Accord V (CC) 1.8 i 116cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-364,V (CC) (03/1993 - 06/1995),03/1993,06/1995,5364,HONDA Accord,HONDA Accord V (CC) 2.0 i 130cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-358,Coupe (CD*) (09/1993 - 09/1997),09/1993,09/1997,20230,HONDA Accord,HONDA Accord Coupe (CD*) 2.2 i 150cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-358,Coupe (CD*) (09/1993 - 09/1997),09/1993,09/1997,20231,HONDA Accord,HONDA Accord Coupe (CD*) 2.2 i 150cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-358,Coupe (CD*) (09/1993 - 09/1997),09/1993,09/1997,20229,HONDA Accord,HONDA Accord Coupe (CD*) 2.0 i 136cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-358,Coupe (CD*) (09/1993 - 09/1997),09/1993,09/1997,20228,HONDA Accord,HONDA Accord Coupe (CD*) 2.0 i 136cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-363,IV (09/1989 - 08/1993),09/1989,08/1993,3759,HONDA Accord,HONDA Accord IV 2.0 111cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-363,IV (09/1989 - 08/1993),09/1989,08/1993,30724,HONDA Accord,HONDA Accord IV 2.0 Berlina 90 cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-363,IV (09/1989 - 08/1993),09/1989,08/1993,5360,HONDA Accord,HONDA Accord IV 2.2 i 150cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-363,IV (09/1989 - 08/1993),09/1989,08/1993,20202,HONDA Accord,HONDA Accord IV 2.0 110cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-363,IV (09/1989 - 08/1993),09/1989,08/1993,20204,HONDA Accord,HONDA Accord IV 2.0 i 135cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-363,IV (09/1989 - 08/1993),09/1989,08/1993,20203,HONDA Accord,HONDA Accord IV 2.0 i 135cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-363,IV (09/1989 - 08/1993),09/1989,08/1993,5361,HONDA Accord,HONDA Accord IV 2.2 i 150cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-363,IV (09/1989 - 08/1993),09/1989,08/1993,20201,HONDA Accord,HONDA Accord IV 2.0 110cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-363,IV (09/1989 - 08/1993),09/1989,08/1993,5359,HONDA Accord,HONDA Accord IV 2.0 i 133cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-363,IV (09/1989 - 08/1993),09/1989,08/1993,5358,HONDA Accord,HONDA Accord IV 2.0 i 133cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-363,IV (09/1989 - 08/1993),09/1989,08/1993,14731,HONDA Accord,HONDA Accord IV 2.0 111cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-363,IV (09/1989 - 08/1993),09/1989,08/1993,20200,HONDA Accord,HONDA Accord IV 1.8 105cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-356,Aerodeck (CE*) (09/1993 - 12/1997),09/1993,12/1997,3778,HONDA Accord,HONDA Accord Aerodeck (CE*) 2.2 i Familiar,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-356,Aerodeck (CE*) (09/1993 - 12/1997),09/1993,12/1997,14748,HONDA Accord,HONDA Accord Aerodeck (CE*) 2.2 i Familiar Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-356,Aerodeck (CE*) (09/1993 - 12/1997),09/1993,12/1997,20235,HONDA Accord,HONDA Accord Aerodeck (CE*) 2.2 i Familiar 150cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-356,Aerodeck (CE*) (09/1993 - 12/1997),09/1993,12/1997,20234,HONDA Accord,HONDA Accord Aerodeck (CE*) 2.2 i Familiar 150cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-356,Aerodeck (CE*) (09/1993 - 12/1997),09/1993,12/1997,20233,HONDA Accord,HONDA Accord Aerodeck (CE*) 2.0 i Familiar 136cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-356,Aerodeck (CE*) (09/1993 - 12/1997),09/1993,12/1997,20232,HONDA Accord,HONDA Accord Aerodeck (CE*) 2.0 i Familiar 136cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-361,II (AC/AD) (09/1983 - 09/1985),09/1983,09/1985,20193,HONDA Accord,HONDA Accord II (AC/AD) 1800 Coupe 102cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-361,II (AC/AD) (09/1983 - 09/1985),09/1983,09/1985,20189,HONDA Accord,HONDA Accord II (AC/AD) 1600 Coupe 90cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-361,II (AC/AD) (09/1983 - 09/1985),09/1983,09/1985,20190,HONDA Accord,HONDA Accord II (AC/AD) 1600 Coupe 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-361,II (AC/AD) (09/1983 - 09/1985),09/1983,09/1985,20194,HONDA Accord,HONDA Accord II (AC/AD) 1800 Berlina 102cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-361,II (AC/AD) (09/1983 - 09/1985),09/1983,09/1985,20192,HONDA Accord,HONDA Accord II (AC/AD) 1800 Coupe 102cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-361,II (AC/AD) (09/1983 - 09/1985),09/1983,09/1985,3756,HONDA Accord,HONDA Accord II (AC/AD) 1800 Berlina 102cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-361,II (AC/AD) (09/1983 - 09/1985),09/1983,09/1985,3755,HONDA Accord,HONDA Accord II (AC/AD) 1600 Berlina 90cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-361,II (AC/AD) (09/1983 - 09/1985),09/1983,09/1985,20191,HONDA Accord,HONDA Accord II (AC/AD) 1600 Berlina 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-360,I (SJ/SY) (05/1976 - 09/1983),05/1976,09/1983,5366,HONDA Accord,HONDA Accord I (SJ/SY) 1600 80cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-360,I (SJ/SY) (05/1976 - 09/1983),05/1976,09/1983,20212,HONDA Accord,HONDA Accord I (SJ/SY) 1600 Berlina 80cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-360,I (SJ/SY) (05/1976 - 09/1983),05/1976,09/1983,20211,HONDA Accord,HONDA Accord I (SJ/SY) 1600 Coupe 80cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-360,I (SJ/SY) (05/1976 - 09/1983),05/1976,09/1983,3766,HONDA Accord,HONDA Accord I (SJ/SY) 1600 Berlina 80cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-360,I (SJ/SY) (05/1976 - 09/1983),05/1976,09/1983,5365,HONDA Accord,HONDA Accord I (SJ/SY) 1600 80cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-360,I (SJ/SY) (05/1976 - 09/1983),05/1976,09/1983,3765,HONDA Accord,HONDA Accord I (SJ/SY) 1600 Coupe 80cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-355,Aerodeck (CB) (07/1990 - 08/1993),07/1990,08/1993,20226,HONDA Accord,HONDA Accord Aerodeck (CB) 2.2 i Familiar 147cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-355,Aerodeck (CB) (07/1990 - 08/1993),07/1990,08/1993,20224,HONDA Accord,HONDA Accord Aerodeck (CB) 2.0 i Familiar 133cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-355,Aerodeck (CB) (07/1990 - 08/1993),07/1990,08/1993,20227,HONDA Accord,HONDA Accord Aerodeck (CB) 2.2 i Familiar 150cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-355,Aerodeck (CB) (07/1990 - 08/1993),07/1990,08/1993,20225,HONDA Accord,HONDA Accord Aerodeck (CB) 2.2 i Familiar 150cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-362,III (10/1985 - 08/1989),10/1985,08/1989,20199,HONDA Accord,HONDA Accord III 2.0 i 122cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-362,III (10/1985 - 08/1989),10/1985,08/1989,3757,HONDA Accord,HONDA Accord III 2.0 106cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-362,III (10/1985 - 08/1989),10/1985,08/1989,14728,HONDA Accord,HONDA Accord III 2.0 104cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-362,III (10/1985 - 08/1989),10/1985,08/1989,20197,HONDA Accord,HONDA Accord III 2.0 i 122cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-362,III (10/1985 - 08/1989),10/1985,08/1989,20198,HONDA Accord,HONDA Accord III 2.0 i 135cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-362,III (10/1985 - 08/1989),10/1985,08/1989,14730,HONDA Accord,HONDA Accord III 2.0 i 137cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-362,III (10/1985 - 08/1989),10/1985,08/1989,3758,HONDA Accord,HONDA Accord III 2.0 i 113cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-362,III (10/1985 - 08/1989),10/1985,08/1989,14729,HONDA Accord,HONDA Accord III 2.0 i Familiar 113cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-362,III (10/1985 - 08/1989),10/1985,08/1989,20195,HONDA Accord,HONDA Accord III 1.6 88cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-362,III (10/1985 - 08/1989),10/1985,08/1989,14727,HONDA Accord,HONDA Accord III 2.0 106cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-362,III (10/1985 - 08/1989),10/1985,08/1989,20196,HONDA Accord,HONDA Accord III 1.6 88cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-362,III (10/1985 - 08/1989),10/1985,08/1989,5357,HONDA Accord,HONDA Accord III 2.0 102cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-2444,VII Aerodeck (02/1998 - Hoy),02/1998,,26761,HONDA Accord,HONDA Accord VII Aerodeck 1.6 88 cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-2444,VII Aerodeck (02/1998 - Hoy),02/1998,,26235,HONDA Accord,HONDA Accord VII Aerodeck 2.3 16 V 160 cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-2444,VII Aerodeck (02/1998 - Hoy),02/1998,,26709,HONDA Accord,HONDA Accord VII Aerodeck 2.4 Vtec E 160 cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-354,Aerodeck (CA) (10/1985 - 08/1989),10/1985,08/1989,5375,HONDA Accord,HONDA Accord Aerodeck (CA) 2.0 i Familiar 113cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-354,Aerodeck (CA) (10/1985 - 08/1989),10/1985,08/1989,5373,HONDA Accord,HONDA Accord Aerodeck (CA) 1.6 Familiar 88cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-354,Aerodeck (CA) (10/1985 - 08/1989),10/1985,08/1989,20223,HONDA Accord,HONDA Accord Aerodeck (CA) 2.0 i Familiar 122cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-354,Aerodeck (CA) (10/1985 - 08/1989),10/1985,08/1989,14745,HONDA Accord,HONDA Accord Aerodeck (CA) 2.0 Familiar 106cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-354,Aerodeck (CA) (10/1985 - 08/1989),10/1985,08/1989,3776,HONDA Accord,HONDA Accord Aerodeck (CA) 2.0 i Familiar 122cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-354,Aerodeck (CA) (10/1985 - 08/1989),10/1985,08/1989,20222,HONDA Accord,HONDA Accord Aerodeck (CA) 2.0 Familiar 102cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-354,Aerodeck (CA) (10/1985 - 08/1989),10/1985,08/1989,14746,HONDA Accord,HONDA Accord Aerodeck (CA) 2.0 i Familiar 113cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-354,Aerodeck (CA) (10/1985 - 08/1989),10/1985,08/1989,5374,HONDA Accord,HONDA Accord Aerodeck (CA) 2.0 Familiar 104cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-354,Aerodeck (CA) (10/1985 - 08/1989),10/1985,08/1989,3775,HONDA Accord,HONDA Accord Aerodeck (CA) 2.0 Familiar 106cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-357,Coupe (CC1) (07/1991 - 08/1993),07/1991,08/1993,3777,HONDA Accord,HONDA Accord Coupe (CC1) 2.0 i 133cv,Gasolina
+ma-98,HONDA,fa-281,Accord,mo-357,Coupe (CC1) (07/1991 - 08/1993),07/1991,08/1993,14747,HONDA Accord,HONDA Accord Coupe (CC1) 2.0 i 133cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-808,mk III (12/2006 - 04/2010),12/2006,04/2010,5563,HONDA CR-V,HONDA CR-V mk III 2.0 i-VETC SUV 150cv,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-808,mk III (12/2006 - 04/2010),12/2006,04/2010,70517,HONDA CR-V,HONDA CR-V mk III 2.4 i-VTEC 166cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-808,mk III (12/2006 - 04/2010),12/2006,04/2010,3896,HONDA CR-V,HONDA CR-V mk III 2.2 i-CTDi SUV 140cv,Diesel
+ma-98,HONDA,fa-287,CR-V,mo-808,mk III (12/2006 - 04/2010),12/2006,04/2010,3895,HONDA CR-V,HONDA CR-V mk III 2.0 i-VETC SUV 150cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-6154,mk IV FL (03/2015 - 08/2018),03/2015,08/2018,47673,HONDA CR-V,HONDA CR-V mk IV FL 2.0 i-VTEC 16V AWD 155 cv,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-6154,mk IV FL (03/2015 - 08/2018),03/2015,08/2018,47672,HONDA CR-V,HONDA CR-V mk IV FL 2.0 i-VTEC 16V AWD 155 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-6154,mk IV FL (03/2015 - 08/2018),03/2015,08/2018,47669,HONDA CR-V,HONDA CR-V mk IV FL 1.6 i-DTEC 16V AWD 160 cv Transmisión automática,Diesel
+ma-98,HONDA,fa-287,CR-V,mo-6154,mk IV FL (03/2015 - 08/2018),03/2015,08/2018,47670,HONDA CR-V,HONDA CR-V mk IV FL 1.6 i-DTEC 16V AWD 160 cv,Diesel
+ma-98,HONDA,fa-287,CR-V,mo-6154,mk IV FL (03/2015 - 08/2018),03/2015,08/2018,47671,HONDA CR-V,HONDA CR-V mk IV FL 2.0 i-VTEC 16V 155 cv,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-6154,mk IV FL (03/2015 - 08/2018),03/2015,08/2018,47668,HONDA CR-V,HONDA CR-V mk IV FL 1.6 i-DTEC 16V 120 cv,Diesel
+ma-98,HONDA,fa-287,CR-V,mo-6153,mk IV (05/2012 - 02/2015),05/2012,02/2015,47667,HONDA CR-V,HONDA CR-V mk IV 2.2 i-DTEC 16V AWD 150 cv,Diesel
+ma-98,HONDA,fa-287,CR-V,mo-6153,mk IV (05/2012 - 02/2015),05/2012,02/2015,43425,HONDA CR-V,HONDA CR-V mk IV 1.6 i-DTEC DPF 16V 120 cv,Diesel
+ma-98,HONDA,fa-287,CR-V,mo-6153,mk IV (05/2012 - 02/2015),05/2012,02/2015,43426,HONDA CR-V,HONDA CR-V mk IV 2.0 i-VTEC AWD 16V 155 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-6153,mk IV (05/2012 - 02/2015),05/2012,02/2015,43427,HONDA CR-V,HONDA CR-V mk IV 2.0 i-VTEC AWD 16V 155 cv,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-6153,mk IV (05/2012 - 02/2015),05/2012,02/2015,43428,HONDA CR-V,HONDA CR-V mk IV 2.0 i-VTEC FWD 16V 155 cv,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-6153,mk IV (05/2012 - 02/2015),05/2012,02/2015,47666,HONDA CR-V,HONDA CR-V mk IV 2.2 i-DTEC 16V AWD 150 cv Transmisión automática,Diesel
+ma-98,HONDA,fa-287,CR-V,mo-807,mk II (03/2002 - 12/2006),03/2002,12/2006,5562,HONDA CR-V,HONDA CR-V mk II 2.2 iCTDi Familiar 140cv,Diesel
+ma-98,HONDA,fa-287,CR-V,mo-807,mk II (03/2002 - 12/2006),03/2002,12/2006,20292,HONDA CR-V,HONDA CR-V mk II 2.0 i VTEC Familiar 150cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-807,mk II (03/2002 - 12/2006),03/2002,12/2006,20291,HONDA CR-V,HONDA CR-V mk II 2.0 i VTEC Familiar 150cv,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-806,mk I (01/1997 - 02/2002),01/1997,02/2002,5559,HONDA CR-V,HONDA CR-V mk I 2.0 i 16V Familiar 147cv,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-806,mk I (01/1997 - 02/2002),01/1997,02/2002,5561,HONDA CR-V,HONDA CR-V mk I 2.0 i 16V Familiar 147cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-806,mk I (01/1997 - 02/2002),01/1997,02/2002,31424,HONDA CR-V,HONDA CR-V mk I 2.0 i GPL 128 cv,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-806,mk I (01/1997 - 02/2002),01/1997,02/2002,5560,HONDA CR-V,HONDA CR-V mk I 2.0 i 16V Familiar 128cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-4850,mk III (01/2010 - 06/2012),01/2010,06/2012,34350,HONDA CR-V,HONDA CR-V mk III 2.2 i-DTEC DPF 16V 150 cv,Diesel
+ma-98,HONDA,fa-287,CR-V,mo-4850,mk III (01/2010 - 06/2012),01/2010,06/2012,34349,HONDA CR-V,HONDA CR-V mk III 2.2 i-DTEC DPF 16V 150 cv Transmisión automática,Diesel
+ma-98,HONDA,fa-287,CR-V,mo-4850,mk III (01/2010 - 06/2012),01/2010,06/2012,34348,HONDA CR-V,HONDA CR-V mk III 2.0 i-VTEC 16V 150 cv,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-4850,mk III (01/2010 - 06/2012),01/2010,06/2012,34347,HONDA CR-V,HONDA CR-V mk III 2.0 i-VTEC 16V 150 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-6813,mk V (06/2018 - 09/2022),06/2018,09/2022,59479,HONDA CR-V,HONDA CR-V mk V 1.5 I-VTEC FAP 173 2WD 16V 173 cv,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-6813,mk V (06/2018 - 09/2022),06/2018,09/2022,60427,HONDA CR-V,HONDA CR-V mk V 2.0 i-MMD GPF -Hyb. AWD 16V e-CVT 145 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-6813,mk V (06/2018 - 09/2022),06/2018,09/2022,60426,HONDA CR-V,HONDA CR-V mk V 2.0 i-MMD GPF -Hyb. 2WD 16V e-CVT 145 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-6813,mk V (06/2018 - 09/2022),06/2018,09/2022,59481,HONDA CR-V,HONDA CR-V mk V 1.5 I-VTEC FAP 193 AWD 16V CVT 193 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-6813,mk V (06/2018 - 09/2022),06/2018,09/2022,59480,HONDA CR-V,HONDA CR-V mk V 1.5 I-VTEC FAP 173 AWD 16V 173 cv,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-7797,mk VI (09/2022 - Hoy),09/2022,,70036,HONDA CR-V,HONDA CR-V mk VI E:HEV 2.0 i-MMD 16V 184 Hybrid AWD 148 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-7797,mk VI (09/2022 - Hoy),09/2022,,70035,HONDA CR-V,HONDA CR-V mk VI E:HEV 2.0 i-MMD 16V 184 Hybrid 148 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-287,CR-V,mo-7797,mk VI (09/2022 - Hoy),09/2022,,70037,HONDA CR-V,HONDA CR-V mk VI E:PHEV 2.0 i-MMD 16V 184 Hybrid 148 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-290,HR-V,mo-1094,(GH) (10/1998 - 09/2005),10/1998,09/2005,25053,HONDA HR-V,HONDA HR-V (GH) 1.6 i 16V 4x4 Familiar 105cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-290,HR-V,mo-1094,(GH) (10/1998 - 09/2005),10/1998,09/2005,20299,HONDA HR-V,HONDA HR-V (GH) 1.6 i 16V Familiar 105cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-290,HR-V,mo-1094,(GH) (10/1998 - 09/2005),10/1998,09/2005,20300,HONDA HR-V,HONDA HR-V (GH) Hyper 1.6 i 16V VTEC Familiar 125cv,Gasolina
+ma-98,HONDA,fa-290,HR-V,mo-1094,(GH) (10/1998 - 09/2005),10/1998,09/2005,24880,HONDA HR-V,HONDA HR-V (GH) 1.6 i 16V 4x4 Familiar 105cv,Gasolina
+ma-98,HONDA,fa-290,HR-V,mo-1094,(GH) (10/1998 - 09/2005),10/1998,09/2005,14805,HONDA HR-V,HONDA HR-V (GH) 1.6 i 16V Familiar 105cv,Gasolina
+ma-98,HONDA,fa-290,HR-V,mo-6155,II (RU) (07/2015 - 09/2021),07/2015,09/2021,47665,HONDA HR-V,HONDA HR-V II (RU) 1.6 i-DTEC 16V FWD 120 cv,Diesel
+ma-98,HONDA,fa-290,HR-V,mo-6155,II (RU) (07/2015 - 09/2021),07/2015,09/2021,61147,HONDA HR-V,HONDA HR-V II (RU) 1.5 i-VTEC Turbo FWD 16V CVT 182 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-290,HR-V,mo-6155,II (RU) (07/2015 - 09/2021),07/2015,09/2021,47663,HONDA HR-V,HONDA HR-V II (RU) 1.5 i-VTEC 16V FWD CVT 130 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-290,HR-V,mo-6155,II (RU) (07/2015 - 09/2021),07/2015,09/2021,47664,HONDA HR-V,HONDA HR-V II (RU) 1.5 i-VTEC 16V FWD 130 cv,Gasolina
+ma-98,HONDA,fa-290,HR-V,mo-6155,II (RU) (07/2015 - 09/2021),07/2015,09/2021,61148,HONDA HR-V,HONDA HR-V II (RU) 1.5 VTEC Turbo FWD 16V 182 cv,Gasolina
+ma-98,HONDA,fa-290,HR-V,mo-7459,III (2XP) (10/2021 - Hoy),10/2021,,66677,HONDA HR-V,HONDA HR-V III (2XP) 1.5 i-MMD 16V 131 Hybrid e-CVT 107 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-1129,II (JPN) (01/2002 - 10/2008),01/2002,10/2008,20303,HONDA Jazz,HONDA Jazz II (JPN) 1.2 i 78cv,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-1129,II (JPN) (01/2002 - 10/2008),01/2002,10/2008,3902,HONDA Jazz,HONDA Jazz II (JPN) 1.4 i 83cv CVT Transmisión automática,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-1129,II (JPN) (01/2002 - 10/2008),01/2002,10/2008,20304,HONDA Jazz,HONDA Jazz II (JPN) 1.4 i 83cv,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-3768,III (Production Japon) (10/2008 - 07/2015),10/2008,07/2015,56411,HONDA Jazz,HONDA Jazz III (Production Japon) 1.4 i-VTEC 16V CVT 100 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-3768,III (Production Japon) (10/2008 - 07/2015),10/2008,07/2015,33930,HONDA Jazz,HONDA Jazz III (Production Japon) Hybrid IMA 1.3 i-VTEC CVT 88 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-3768,III (Production Japon) (10/2008 - 07/2015),10/2008,07/2015,33929,HONDA Jazz,HONDA Jazz III (Production Japon) 1.2 i-VTEC 90 cv,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-3768,III (Production Japon) (10/2008 - 07/2015),10/2008,07/2015,30276,HONDA Jazz,HONDA Jazz III (Production Japon) 1.4 i-VTEC 100 cv,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-3768,III (Production Japon) (10/2008 - 07/2015),10/2008,07/2015,30275,HONDA Jazz,HONDA Jazz III (Production Japon) 1.4 i-VTEC i-Shift/6 100 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-3767,II (Production R. Tchèque) (03/2005 - 10/2008),03/2005,10/2008,30271,HONDA Jazz,HONDA Jazz II (Production R. Tchèque) 1.2 i-DSI 78 cv,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-3767,II (Production R. Tchèque) (03/2005 - 10/2008),03/2005,10/2008,30273,HONDA Jazz,HONDA Jazz II (Production R. Tchèque) 1.4 i-DSI 83 cv,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-3767,II (Production R. Tchèque) (03/2005 - 10/2008),03/2005,10/2008,30272,HONDA Jazz,HONDA Jazz II (Production R. Tchèque) 1.4 i-DSI CVT 83 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-6522,IV (J) (07/2015 - 12/2017),07/2015,12/2017,47675,HONDA Jazz,HONDA Jazz IV (J) 1.3 i-VTEC 16V 102 cv,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-6522,IV (J) (07/2015 - 12/2017),07/2015,12/2017,47674,HONDA Jazz,HONDA Jazz IV (J) 1.3 i-VTEC 16V CVT 102 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-4539,III (Production Grande Bretagne) (10/2008 - 07/2015),10/2008,07/2015,31429,HONDA Jazz,HONDA Jazz III (Production Grande Bretagne) 1.4 i-VTEC i-Shift/6 100 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-4539,III (Production Grande Bretagne) (10/2008 - 07/2015),10/2008,07/2015,31428,HONDA Jazz,HONDA Jazz III (Production Grande Bretagne) 1.2 i-VTEC 90 cv,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-4539,III (Production Grande Bretagne) (10/2008 - 07/2015),10/2008,07/2015,56405,HONDA Jazz,HONDA Jazz III (Production Grande Bretagne) 1.4 i-VTEC 16V CVT 100 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-4539,III (Production Grande Bretagne) (10/2008 - 07/2015),10/2008,07/2015,31430,HONDA Jazz,HONDA Jazz III (Production Grande Bretagne) 1.4 i-VTEC 100 cv,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-6724,IV (J) Fase 2 (01/2018 - 12/2019),01/2018,12/2019,59035,HONDA Jazz,HONDA Jazz IV (J) Fase 2 1.5 i-VTEC 16V CVT 130 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-6724,IV (J) Fase 2 (01/2018 - 12/2019),01/2018,12/2019,59036,HONDA Jazz,HONDA Jazz IV (J) Fase 2 1.5 i-VTEC 16V 130 cv,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-6724,IV (J) Fase 2 (01/2018 - 12/2019),01/2018,12/2019,59034,HONDA Jazz,HONDA Jazz IV (J) Fase 2 1.3 i-VTEC 16V 102 cv,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-6724,IV (J) Fase 2 (01/2018 - 12/2019),01/2018,12/2019,59033,HONDA Jazz,HONDA Jazz IV (J) Fase 2 1.3 i-VTEC 16V CVT 102 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-4538,III (Production R. Tchèque) (10/2008 - 07/2015),10/2008,07/2015,56406,HONDA Jazz,HONDA Jazz III (Production R. Tchèque) 1.4 i-VTEC 16V CVT 100 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-4538,III (Production R. Tchèque) (10/2008 - 07/2015),10/2008,07/2015,31425,HONDA Jazz,HONDA Jazz III (Production R. Tchèque) 1.2 i-VTEC 90 cv,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-4538,III (Production R. Tchèque) (10/2008 - 07/2015),10/2008,07/2015,30274,HONDA Jazz,HONDA Jazz III (Production R. Tchèque) 1.2 i-VTEC 90 cv,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-4538,III (Production R. Tchèque) (10/2008 - 07/2015),10/2008,07/2015,31427,HONDA Jazz,HONDA Jazz III (Production R. Tchèque) 1.4 i-VTEC 100 cv,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-4538,III (Production R. Tchèque) (10/2008 - 07/2015),10/2008,07/2015,31426,HONDA Jazz,HONDA Jazz III (Production R. Tchèque) 1.4 i-VTEC i-Shift/6 100 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-7145,V (2FJ) (01/2020 - 03/2023),01/2020,03/2023,61151,HONDA Jazz,HONDA Jazz V (2FJ) 1.5 i-VTEC 16V Hybrid CVT 97 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-7145,V (2FJ) (01/2020 - 03/2023),01/2020,03/2023,65045,HONDA Jazz,HONDA Jazz V (2FJ) Crosstar 1.5 i-VTEC 16V Hybrid CVT 97 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-1130,I (10/1981 - 12/1986),10/1981,12/1986,20305,HONDA Jazz,HONDA Jazz I 1.2 56cv,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-1130,I (10/1981 - 12/1986),10/1981,12/1986,20306,HONDA Jazz,HONDA Jazz I 1.2 56cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-7811,V (2FJ) fase 2 (03/2023 - Hoy),03/2023,,70109,HONDA Jazz,HONDA Jazz V (2FJ) fase 2 Crosstar 1.5 i-VTEC 16V 122 Hybrid CVT 107 Transmisión automática,Gasolina
+ma-98,HONDA,fa-293,Jazz,mo-7811,V (2FJ) fase 2 (03/2023 - Hoy),03/2023,,70108,HONDA Jazz,HONDA Jazz V (2FJ) fase 2 1.5 i-VTEC 16V 122 Hybrid CVT 107 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-289,FR-V,mo-3384, (02/2007 - 04/2010),02/2007,04/2010,20297,HONDA FR-V,HONDA FR-V 1.8 i-VTEC 140cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-289,FR-V,mo-3384, (02/2007 - 04/2010),02/2007,04/2010,36912,HONDA FR-V,HONDA FR-V 2.2 i-CDTi 140 cv,Diesel
+ma-98,HONDA,fa-289,FR-V,mo-3384, (02/2007 - 04/2010),02/2007,04/2010,20296,HONDA FR-V,HONDA FR-V 1.8 i-VTEC 140cv,Gasolina
+ma-98,HONDA,fa-289,FR-V,mo-999, (10/2004 - 01/2007),10/2004,01/2007,14804,HONDA FR-V,HONDA FR-V 2.0 i VTEC 150cv,Gasolina
+ma-98,HONDA,fa-289,FR-V,mo-999, (10/2004 - 01/2007),10/2004,01/2007,14803,HONDA FR-V,HONDA FR-V 1.7 i VTEC 125cv,Gasolina
+ma-98,HONDA,fa-289,FR-V,mo-999, (10/2004 - 01/2007),10/2004,01/2007,20298,HONDA FR-V,HONDA FR-V 2.2 i-CDTi 140cv,Diesel
+ma-98,HONDA,fa-298,Prelude,mo-1612,(BB*) (10/1996 - 09/2001),10/1996,09/2001,20219,HONDA Prelude,HONDA Prelude (BB*) 2.0 i 16V Coupe 133cv,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1612,(BB*) (10/1996 - 09/2001),10/1996,09/2001,35450,HONDA Prelude,HONDA Prelude (BB*) 2.2 i VTEC 185 cv,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1612,(BB*) (10/1996 - 09/2001),10/1996,09/2001,20220,HONDA Prelude,HONDA Prelude (BB*) 2.0 i 16V Coupe 133cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1612,(BB*) (10/1996 - 09/2001),10/1996,09/2001,20221,HONDA Prelude,HONDA Prelude (BB*) 2.2 i 16V VTEC Coupe 185cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1612,(BB*) (10/1996 - 09/2001),10/1996,09/2001,5372,HONDA Prelude,HONDA Prelude (BB*) 2.2 i 16V VTEC Coupe 200cv,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1611,(BB*) (10/1991 - 09/1996),10/1991,09/1996,3773,HONDA Prelude,HONDA Prelude (BB*) 2.3 i 16V Coupe 160cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1611,(BB*) (10/1991 - 09/1996),10/1991,09/1996,20218,HONDA Prelude,HONDA Prelude (BB*) 2.2 i 16V Coupe 185cv,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1611,(BB*) (10/1991 - 09/1996),10/1991,09/1996,14742,HONDA Prelude,HONDA Prelude (BB*) 2.0 i 16V Coupe 133cv,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1611,(BB*) (10/1991 - 09/1996),10/1991,09/1996,3772,HONDA Prelude,HONDA Prelude (BB*) 2.0 i 16V Coupe 133cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1611,(BB*) (10/1991 - 09/1996),10/1991,09/1996,14743,HONDA Prelude,HONDA Prelude (BB*) 2.3 i 16V Coupe 160cv,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1610,(BA) (09/1987 - 09/1991),09/1987,09/1991,5368,HONDA Prelude,HONDA Prelude (BA) 2.0 i 16V Coupe 150cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1610,(BA) (09/1987 - 09/1991),09/1987,09/1991,3771,HONDA Prelude,HONDA Prelude (BA) 2.0 i 16V Coupe 138cv,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1610,(BA) (09/1987 - 09/1991),09/1987,09/1991,34352,HONDA Prelude,HONDA Prelude (BA) 2.0 i 16V 144 cv,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1610,(BA) (09/1987 - 09/1991),09/1987,09/1991,14737,HONDA Prelude,HONDA Prelude (BA) 2.0 Coupe 109cv,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1610,(BA) (09/1987 - 09/1991),09/1987,09/1991,20215,HONDA Prelude,HONDA Prelude (BA) 2.0 Coupe 114cv,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1610,(BA) (09/1987 - 09/1991),09/1987,09/1991,14738,HONDA Prelude,HONDA Prelude (BA) 2.0 Coupe 109cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1610,(BA) (09/1987 - 09/1991),09/1987,09/1991,3770,HONDA Prelude,HONDA Prelude (BA) 2.0 Coupe 114cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1610,(BA) (09/1987 - 09/1991),09/1987,09/1991,5367,HONDA Prelude,HONDA Prelude (BA) 2.0 i 16V Coupe 150cv,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1610,(BA) (09/1987 - 09/1991),09/1987,09/1991,14739,HONDA Prelude,HONDA Prelude (BA) 2.0 i 16V Coupe 138cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1610,(BA) (09/1987 - 09/1991),09/1987,09/1991,34351,HONDA Prelude,HONDA Prelude (BA) 2.0 i 16V 144 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1609,(AB/BA) (11/1982 - 09/1987),11/1982,09/1987,5356,HONDA Prelude,HONDA Prelude (AB/BA) 2.0 i 16V Coupe 140cv,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1609,(AB/BA) (11/1982 - 09/1987),11/1982,09/1987,3754,HONDA Prelude,HONDA Prelude (AB/BA) 1.8 Coupe 102cv,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1609,(AB/BA) (11/1982 - 09/1987),11/1982,09/1987,14726,HONDA Prelude,HONDA Prelude (AB/BA) 1.8 Coupe 102cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1613,(SN) (08/1979 - 10/1982),08/1979,10/1982,14895,HONDA Prelude,HONDA Prelude (SN) 1.6 Coupe 80cv,Gasolina
+ma-98,HONDA,fa-298,Prelude,mo-1613,(SN) (08/1979 - 10/1982),08/1979,10/1982,3911,HONDA Prelude,HONDA Prelude (SN) 1.6 Coupe 80cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-288,CRX,mo-811,(EG/EH) (03/1992 - 12/1998),03/1992,12/1998,14797,HONDA CRX,HONDA CRX (EG/EH) 1.6 i Descapotable 125cv,Gasolina
+ma-98,HONDA,fa-288,CRX,mo-811,(EG/EH) (03/1992 - 12/1998),03/1992,12/1998,14798,HONDA CRX,HONDA CRX (EG/EH) 1.6 i Descapotable 120cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-288,CRX,mo-811,(EG/EH) (03/1992 - 12/1998),03/1992,12/1998,3900,HONDA CRX,HONDA CRX (EG/EH) 1.6 i Descapotable 125cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-288,CRX,mo-811,(EG/EH) (03/1992 - 12/1998),03/1992,12/1998,20295,HONDA CRX,HONDA CRX (EG/EH) 1.6 i Coupe 120cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-288,CRX,mo-811,(EG/EH) (03/1992 - 12/1998),03/1992,12/1998,5568,HONDA CRX,HONDA CRX (EG/EH) 1.6 i Coupe 160cv,Gasolina
+ma-98,HONDA,fa-288,CRX,mo-811,(EG/EH) (03/1992 - 12/1998),03/1992,12/1998,20294,HONDA CRX,HONDA CRX (EG/EH) 1.6 i Coupe 120cv,Gasolina
+ma-98,HONDA,fa-288,CRX,mo-811,(EG/EH) (03/1992 - 12/1998),03/1992,12/1998,5567,HONDA CRX,HONDA CRX (EG/EH) 1.6 i Coupe 125cv,Gasolina
+ma-98,HONDA,fa-288,CRX,mo-811,(EG/EH) (03/1992 - 12/1998),03/1992,12/1998,3899,HONDA CRX,HONDA CRX (EG/EH) 1.6 i Descapotable 120cv,Gasolina
+ma-98,HONDA,fa-288,CRX,mo-811,(EG/EH) (03/1992 - 12/1998),03/1992,12/1998,5569,HONDA CRX,HONDA CRX (EG/EH) 1.6 i Coupe 125cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-288,CRX,mo-810,(EE/ED) (09/1987 - 12/1992),09/1987,12/1992,14796,HONDA CRX,HONDA CRX (EE/ED) 1.6 i 16V Coupe 148cv,Gasolina
+ma-98,HONDA,fa-288,CRX,mo-810,(EE/ED) (09/1987 - 12/1992),09/1987,12/1992,5566,HONDA CRX,HONDA CRX (EE/ED) 1.4 Coupe 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-288,CRX,mo-810,(EE/ED) (09/1987 - 12/1992),09/1987,12/1992,5565,HONDA CRX,HONDA CRX (EE/ED) 1.4 Coupe 90cv,Gasolina
+ma-98,HONDA,fa-288,CRX,mo-810,(EE/ED) (09/1987 - 12/1992),09/1987,12/1992,20293,HONDA CRX,HONDA CRX (EE/ED) 1.6 i 16V Coupe 125cv,Gasolina
+ma-98,HONDA,fa-288,CRX,mo-810,(EE/ED) (09/1987 - 12/1992),09/1987,12/1992,3897,HONDA CRX,HONDA CRX (EE/ED) 1.6 i Coupe 111cv,Gasolina
+ma-98,HONDA,fa-288,CRX,mo-810,(EE/ED) (09/1987 - 12/1992),09/1987,12/1992,14795,HONDA CRX,HONDA CRX (EE/ED) 1.6 i Coupe 122cv,Gasolina
+ma-98,HONDA,fa-288,CRX,mo-810,(EE/ED) (09/1987 - 12/1992),09/1987,12/1992,3898,HONDA CRX,HONDA CRX (EE/ED) 1.6 i 16V Coupe 130cv,Gasolina
+ma-98,HONDA,fa-288,CRX,mo-809,(AF/AS) (09/1983 - 07/1988),09/1983,07/1988,14792,HONDA CRX,HONDA CRX (AF/AS) 1.6 i Coupe 125cv,Gasolina
+ma-98,HONDA,fa-288,CRX,mo-809,(AF/AS) (09/1983 - 07/1988),09/1983,07/1988,5564,HONDA CRX,HONDA CRX (AF/AS) 1.5 i Coupe 100cv,Gasolina
+ma-98,HONDA,fa-291,Insight,mo-3766,Hybrid (02/2009 - 01/2015),02/2009,01/2015,30270,HONDA Insight,HONDA Insight Hybrid 1.3 i-VTEC Hatchback CVT IMA 88 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-291,Insight,mo-1114, (03/2000 - 05/2006),03/2000,05/2006,5573,HONDA Insight,HONDA Insight 1.0 i VTEC Coupe 68cv,Gasolina
+ma-98,HONDA,fa-300,S2000,mo-1753,(AP) (04/1999 - 02/2004),04/1999,02/2004,3913,HONDA S2000,HONDA S2000 (AP) 2.0 i VTEC Roadster 240cv,Gasolina
+ma-98,HONDA,fa-300,S2000,mo-1752, (03/2004 - 06/2009),03/2004,06/2009,5584,HONDA S2000,HONDA S2000 2.0 i VTEC Roadster 240cv,Gasolina
+ma-98,HONDA,fa-2002,CR-Z,mo-4640, (06/2010 - 01/2015),06/2010,01/2015,31883,HONDA CR-Z,HONDA CR-Z Hybrid 1.5 I-VTEC IMA Coupe 16V 114 cv,Gasolina
+ma-98,HONDA,fa-2002,CR-Z,mo-4640, (06/2010 - 01/2015),06/2010,01/2015,38992,HONDA CR-Z,HONDA CR-Z Hybrid 1.5 I-VTEC IMA Coupe 16V 121 cv,Gasolina
+ma-98,HONDA,fa-294,Legend,mo-1255,(KB) (09/2006 - 10/2010),09/2006,10/2010,20307,HONDA Legend,HONDA Legend (KB) 3.5 i V6 295cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-294,Legend,mo-1255,(KB) (09/2006 - 10/2010),09/2006,10/2010,30277,HONDA Legend,HONDA Legend (KB) Legend 3.7 i-VTEC V6 SH-AWD Berlina 24V 295 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-294,Legend,mo-1254,(KA9) (03/1996 - 08/2006),03/1996,08/2006,5577,HONDA Legend,HONDA Legend (KA9) 3.5 i 24V V6 205cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-294,Legend,mo-1254,(KA9) (03/1996 - 08/2006),03/1996,08/2006,5578,HONDA Legend,HONDA Legend (KA9) 3.5 i V6 208cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-294,Legend,mo-1253,(KA7/8) (10/1990 - 12/1996),10/1990,12/1996,3903,HONDA Legend,HONDA Legend (KA7/8) 3.2 i 24V Coupe 205cv,Gasolina
+ma-98,HONDA,fa-294,Legend,mo-1253,(KA7/8) (10/1990 - 12/1996),10/1990,12/1996,14809,HONDA Legend,HONDA Legend (KA7/8) 3.2 i 24V Coupe 205cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-294,Legend,mo-1253,(KA7/8) (10/1990 - 12/1996),10/1990,12/1996,14810,HONDA Legend,HONDA Legend (KA7/8) 3.2 i 24V 205cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-294,Legend,mo-1253,(KA7/8) (10/1990 - 12/1996),10/1990,12/1996,3904,HONDA Legend,HONDA Legend (KA7/8) 3.2 i 24V 205cv,Gasolina
+ma-98,HONDA,fa-294,Legend,mo-1252,(KA3/4) (11/1985 - 09/1990),11/1985,09/1990,3909,HONDA Legend,HONDA Legend (KA3/4) 2.7 24V 177cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-294,Legend,mo-1252,(KA3/4) (11/1985 - 09/1990),11/1985,09/1990,14888,HONDA Legend,HONDA Legend (KA3/4) 2.7 24V 169cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-294,Legend,mo-1252,(KA3/4) (11/1985 - 09/1990),11/1985,09/1990,3905,HONDA Legend,HONDA Legend (KA3/4) 2.5 165cv,Gasolina
+ma-98,HONDA,fa-294,Legend,mo-1252,(KA3/4) (11/1985 - 09/1990),11/1985,09/1990,14885,HONDA Legend,HONDA Legend (KA3/4) 2.7 24V Coupe 177cv,Gasolina
+ma-98,HONDA,fa-294,Legend,mo-1252,(KA3/4) (11/1985 - 09/1990),11/1985,09/1990,3906,HONDA Legend,HONDA Legend (KA3/4) 2.7 Coupe 169cv,Gasolina
+ma-98,HONDA,fa-294,Legend,mo-1252,(KA3/4) (11/1985 - 09/1990),11/1985,09/1990,3908,HONDA Legend,HONDA Legend (KA3/4) 2.7 24V 169cv,Gasolina
+ma-98,HONDA,fa-294,Legend,mo-1252,(KA3/4) (11/1985 - 09/1990),11/1985,09/1990,3907,HONDA Legend,HONDA Legend (KA3/4) 2.7 24V Coupe 177cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-294,Legend,mo-1252,(KA3/4) (11/1985 - 09/1990),11/1985,09/1990,14886,HONDA Legend,HONDA Legend (KA3/4) 2.7 Coupe 169cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-294,Legend,mo-1252,(KA3/4) (11/1985 - 09/1990),11/1985,09/1990,14887,HONDA Legend,HONDA Legend (KA3/4) 2.7 24V 177cv,Gasolina
+ma-98,HONDA,fa-294,Legend,mo-1252,(KA3/4) (11/1985 - 09/1990),11/1985,09/1990,14884,HONDA Legend,HONDA Legend (KA3/4) 2.5 165cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-728, (10/1989 - 09/1995),10/1989,09/1995,14787,HONDA Concerto,HONDA Concerto 1.6 i 16V 122cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-728, (10/1989 - 09/1995),10/1989,09/1995,14786,HONDA Concerto,HONDA Concerto 1.6 i 16V 130cv,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-728, (10/1989 - 09/1995),10/1989,09/1995,5555,HONDA Concerto,HONDA Concerto 1.6 16V 106cv,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-728, (10/1989 - 09/1995),10/1989,09/1995,3893,HONDA Concerto,HONDA Concerto 1.6 i 16V 130cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-728, (10/1989 - 09/1995),10/1989,09/1995,14784,HONDA Concerto,HONDA Concerto 1.6 16V 106cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-728, (10/1989 - 09/1995),10/1989,09/1995,14791,HONDA Concerto,HONDA Concerto 1.8 TD Berlina 88cv,Diesel
+ma-98,HONDA,fa-286,Concerto,mo-728, (10/1989 - 09/1995),10/1989,09/1995,3889,HONDA Concerto,HONDA Concerto 1.4 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-728, (10/1989 - 09/1995),10/1989,09/1995,3891,HONDA Concerto,HONDA Concerto 1.6 i 16V 122cv,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-728, (10/1989 - 09/1995),10/1989,09/1995,20285,HONDA Concerto,HONDA Concerto 1.4 90cv,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-728, (10/1989 - 09/1995),10/1989,09/1995,14783,HONDA Concerto,HONDA Concerto 1.5 i 16V 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-728, (10/1989 - 09/1995),10/1989,09/1995,3890,HONDA Concerto,HONDA Concerto 1.5 i 16V 90cv,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-728, (10/1989 - 09/1995),10/1989,09/1995,14785,HONDA Concerto,HONDA Concerto 1.6 i 16V 111cv,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-728, (10/1989 - 09/1995),10/1989,09/1995,3892,HONDA Concerto,HONDA Concerto 1.6 i 16V 111cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-727, (10/1989 - 01/1996),10/1989,01/1996,5558,HONDA Concerto,HONDA Concerto 1.6 i 16V Berlina 122cv,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-727, (10/1989 - 01/1996),10/1989,01/1996,14789,HONDA Concerto,HONDA Concerto 1.6 i 16V Berlina 111cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-727, (10/1989 - 01/1996),10/1989,01/1996,20288,HONDA Concerto,HONDA Concerto 1.5 i 16V Berlina 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-727, (10/1989 - 01/1996),10/1989,01/1996,20286,HONDA Concerto,HONDA Concerto 1.4 Berlina 90cv,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-727, (10/1989 - 01/1996),10/1989,01/1996,20289,HONDA Concerto,HONDA Concerto 1.6 i 16V Berlina 111cv,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-727, (10/1989 - 01/1996),10/1989,01/1996,5557,HONDA Concerto,HONDA Concerto 1.6 16V Berlina 106cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-727, (10/1989 - 01/1996),10/1989,01/1996,14788,HONDA Concerto,HONDA Concerto 1.5 i 16V Berlina 90cv,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-727, (10/1989 - 01/1996),10/1989,01/1996,3894,HONDA Concerto,HONDA Concerto 1.6 i 16V Berlina 122cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-727, (10/1989 - 01/1996),10/1989,01/1996,20287,HONDA Concerto,HONDA Concerto 1.4 Berlina 90cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-727, (10/1989 - 01/1996),10/1989,01/1996,20290,HONDA Concerto,HONDA Concerto 1.6 i 16V Berlina 130cv,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-727, (10/1989 - 01/1996),10/1989,01/1996,14790,HONDA Concerto,HONDA Concerto 1.6 i 16V Berlina 130cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-286,Concerto,mo-727, (10/1989 - 01/1996),10/1989,01/1996,5556,HONDA Concerto,HONDA Concerto 1.6 16V Berlina 106cv,Gasolina
+ma-98,HONDA,fa-302,Stream,mo-1995, (03/2001 - 09/2005),03/2001,09/2005,5586,HONDA Stream,HONDA Stream 2.0 i 16V VTEC 156cv,Gasolina
+ma-98,HONDA,fa-302,Stream,mo-1995, (03/2001 - 09/2005),03/2001,09/2005,5585,HONDA Stream,HONDA Stream 1.7 i 16V VTEC 125cv,Gasolina
+ma-98,HONDA,fa-302,Stream,mo-1995, (03/2001 - 09/2005),03/2001,09/2005,5587,HONDA Stream,HONDA Stream 2.0 i 16V VTEC 156cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-295,Logo,mo-1271,(GA) (12/1998 - 04/2001),12/1998,04/2001,5580,HONDA Logo,HONDA Logo (GA) 1.3 i 65cv CVT Transmisión automática,Gasolina
+ma-98,HONDA,fa-295,Logo,mo-1271,(GA) (12/1998 - 04/2001),12/1998,04/2001,5579,HONDA Logo,HONDA Logo (GA) 1.3 i 65cv,Gasolina
+ma-98,HONDA,fa-292,Integra,mo-1117,R (DC) (11/1997 - 08/2001),11/1997,08/2001,5575,HONDA Integra,HONDA Integra R (DC) Integra-R 1.8 i Coupe 190cv,Gasolina
+ma-98,HONDA,fa-292,Integra,mo-1116,(DA) (03/1985 - 12/1989),03/1985,12/1989,3901,HONDA Integra,HONDA Integra (DA) 1.5 85cv,Gasolina
+ma-98,HONDA,fa-292,Integra,mo-1116,(DA) (03/1985 - 12/1989),03/1985,12/1989,20302,HONDA Integra,HONDA Integra (DA) 1.6 i 120cv,Gasolina
+ma-98,HONDA,fa-292,Integra,mo-1116,(DA) (03/1985 - 12/1989),03/1985,12/1989,5574,HONDA Integra,HONDA Integra (DA) 1.6 i 125cv,Gasolina
+ma-98,HONDA,fa-292,Integra,mo-1116,(DA) (03/1985 - 12/1989),03/1985,12/1989,14808,HONDA Integra,HONDA Integra (DA) 1.6 i 120cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-292,Integra,mo-1116,(DA) (03/1985 - 12/1989),03/1985,12/1989,14807,HONDA Integra,HONDA Integra (DA) 1.5 85cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-2453,ZR-V,mo-7802, (04/2023 - Hoy),04/2023,,70054,HONDA ZR-V,HONDA ZR-V E:HEV 2.0 i -MMD 184 Hybrid 143 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-296,NSX,mo-1480,(NA) (03/1989 - 06/2001),03/1989,06/2001,14892,HONDA NSX,HONDA NSX (NA) NSX-T 3.2 V6 24V Coupe 280cv,Gasolina
+ma-98,HONDA,fa-296,NSX,mo-1480,(NA) (03/1989 - 06/2001),03/1989,06/2001,20308,HONDA NSX,HONDA NSX (NA) NSX-T 3.0 V6 24V Coupe 255cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-296,NSX,mo-1480,(NA) (03/1989 - 06/2001),03/1989,06/2001,5581,HONDA NSX,HONDA NSX (NA) 3.0 V6 24V Coupe 274cv,Gasolina
+ma-98,HONDA,fa-296,NSX,mo-1480,(NA) (03/1989 - 06/2001),03/1989,06/2001,14891,HONDA NSX,HONDA NSX (NA) NSX-T 3.0 V6 24V Coupe 274cv,Gasolina
+ma-98,HONDA,fa-296,NSX,mo-1480,(NA) (03/1989 - 06/2001),03/1989,06/2001,14889,HONDA NSX,HONDA NSX (NA) 3.0 V6 24V Coupe 255cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-296,NSX,mo-1480,(NA) (03/1989 - 06/2001),03/1989,06/2001,14890,HONDA NSX,HONDA NSX (NA) 3.2 V6 24V Coupe 280cv,Gasolina
+ma-98,HONDA,fa-296,NSX,mo-6387,II (06/2016 - Hoy),06/2016,,56404,HONDA NSX,HONDA NSX II 3.5 Ti V6 Hyb-581 AWD coupe 24V DCT9 507 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-296,NSX,mo-1479, (07/2001 - 12/2005),07/2001,12/2005,5583,HONDA NSX,HONDA NSX NSX-T 3.2 V6 24V Coupe 280cv,Gasolina
+ma-98,HONDA,fa-296,NSX,mo-1479, (07/2001 - 12/2005),07/2001,12/2005,5582,HONDA NSX,HONDA NSX 3.0 V6 24V Coupe 255cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-296,NSX,mo-1479, (07/2001 - 12/2005),07/2001,12/2005,14893,HONDA NSX,HONDA NSX NSX-T 3.0 V6 24V Coupe 255cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-296,NSX,mo-1479, (07/2001 - 12/2005),07/2001,12/2005,3910,HONDA NSX,HONDA NSX 3.2 V6 24V Coupe 280cv,Gasolina
+ma-98,HONDA,fa-284,City,mo-5858,(GM) (09/2008 - 12/2010),09/2008,12/2010,60354,HONDA City,HONDA City (GM) 1.4 i-VTEC berlina 16V 100 cv,Gasolina
+ma-98,HONDA,fa-284,City,mo-5858,(GM) (09/2008 - 12/2010),09/2008,12/2010,60355,HONDA City,HONDA City (GM) 1.4 i-VTEC berlina 16V 100 cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-284,City,mo-625, (10/1981 - 12/1987),10/1981,12/1987,5531,HONDA City,HONDA City 1.2 Transmisión automática,Gasolina
+ma-98,HONDA,fa-284,City,mo-625, (10/1981 - 12/1987),10/1981,12/1987,3866,HONDA City,HONDA City 1.2,Gasolina
+ma-98,HONDA,fa-284,City,mo-2447, (05/2003 - 09/2008),05/2003,09/2008,26909,HONDA City,HONDA City 1.5 FF 95 cv,Gasolina
+ma-98,HONDA,fa-284,City,mo-2447, (05/2003 - 09/2008),05/2003,09/2008,26906,HONDA City,HONDA City 1.2 83 cv,Gasolina
+ma-98,HONDA,fa-284,City,mo-2447, (05/2003 - 09/2008),05/2003,09/2008,26910,HONDA City,HONDA City 1.5 FF 107 cv,Gasolina
+ma-98,HONDA,fa-284,City,mo-2447, (05/2003 - 09/2008),05/2003,09/2008,26907,HONDA City,HONDA City 1.3 82 cv,Gasolina
+ma-98,HONDA,fa-284,City,mo-2447, (05/2003 - 09/2008),05/2003,09/2008,26908,HONDA City,HONDA City 1.3 SES 86 cv,Gasolina
+ma-98,HONDA,fa-284,City,mo-2447, (05/2003 - 09/2008),05/2003,09/2008,26905,HONDA City,HONDA City 1.2 79 cv,Gasolina
+ma-98,HONDA,fa-284,City,mo-2446, (12/1999 - 09/2003),12/1999,09/2003,26902,HONDA City,HONDA City 1.3 95 cv,Gasolina
+ma-98,HONDA,fa-284,City,mo-2446, (12/1999 - 09/2003),12/1999,09/2003,26904,HONDA City,HONDA City 1.5 Vtec 88 cv,Gasolina
+ma-98,HONDA,fa-284,City,mo-2446, (12/1999 - 09/2003),12/1999,09/2003,26903,HONDA City,HONDA City 1.5 105 cv,Gasolina
+ma-98,HONDA,fa-284,City,mo-2445, (02/1997 - 11/1999),02/1997,11/1999,26900,HONDA City,HONDA City 1.3 95 cv,Gasolina
+ma-98,HONDA,fa-284,City,mo-2445, (02/1997 - 11/1999),02/1997,11/1999,26901,HONDA City,HONDA City 1.5 105 cv,Gasolina
+ma-98,HONDA,fa-2308,Honda E,mo-7123, (01/2020 - Hoy),01/2020,,61150,HONDA Honda E,HONDA Honda E 154 cv Transmisión automática,Electrico
+ma-98,HONDA,fa-2308,Honda E,mo-7123, (01/2020 - Hoy),01/2020,,61149,HONDA Honda E,HONDA Honda E 136 cv Transmisión automática,Electrico
+ma-98,HONDA,fa-301,Shuttle,mo-1882,(RA) (12/1994 - 10/2000),12/1994,10/2000,14897,HONDA Shuttle,HONDA Shuttle (RA) 2.3 i 16V Familiar 150cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-301,Shuttle,mo-1882,(RA) (12/1994 - 10/2000),12/1994,10/2000,20309,HONDA Shuttle,HONDA Shuttle (RA) 2.2 i 16V Familiar 150cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-282,Acty,mo-371, (01/1982 - 12/1987),01/1982,12/1987,20214,HONDA Acty,HONDA Acty 546 Furgón 30cv,Gasolina
+ma-98,HONDA,fa-297,Odyssey,mo-1502,(RA) (07/1997 - 12/2000),07/1997,12/2000,14894,HONDA Odyssey,HONDA Odyssey (RA) Shuttle 2.2 i 16V 150cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-2452,E:Ny1,mo-7801, (03/2023 - Hoy),03/2023,,70052,HONDA E:Ny1,HONDA E:Ny1 BEV 204 cv Transmisión automática,Electrico
+ma-98,HONDA,fa-283,Ballade,mo-473,1 (01/1980 - 08/1983),01/1980,08/1983,5371,HONDA Ballade,HONDA Ballade 1 1300 Berlina CVCC,Gasolina
+ma-98,HONDA,fa-283,Ballade,mo-474,2 (09/1983 - 12/1990),09/1983,12/1990,14740,HONDA Ballade,HONDA Ballade 2 1300 71cv,Gasolina
+ma-98,HONDA,fa-283,Ballade,mo-474,2 (09/1983 - 12/1990),09/1983,12/1990,5369,HONDA Ballade,HONDA Ballade 2 1.5 100cv,Gasolina
+ma-98,HONDA,fa-1780,N600,mo-3385, (02/1968 - 12/1973),02/1968,12/1973,25997,HONDA N600,HONDA N600 600 42 cv,Gasolina
+ma-98,HONDA,fa-299,Quintet,mo-1650,(SU) (01/1980 - 12/1984),01/1980,12/1984,3912,HONDA Quintet,HONDA Quintet (SU) 1600 80cv,Gasolina
+ma-98,HONDA,fa-299,Quintet,mo-1650,(SU) (01/1980 - 12/1984),01/1980,12/1984,14896,HONDA Quintet,HONDA Quintet (SU) 1600 80cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-1093,TORNEO,mo-2757, (01/1998 - 09/2003),01/1998,09/2003,27080,HONDA TORNEO,HONDA TORNEO 2.0 SiR 180 cv,Gasolina
+ma-98,HONDA,fa-1093,TORNEO,mo-2758,Familiar (10/1999 - 09/2003),10/1999,09/2003,27083,HONDA TORNEO,HONDA TORNEO Familiar 2.2 220 cv,Gasolina
+ma-98,HONDA,fa-303,Today,mo-2072,(JW) (09/1985 - 12/1988),09/1985,12/1988,14898,HONDA Today,HONDA Today (JW) 546 Berlina 30cv Transmisión automática,Gasolina
+ma-98,HONDA,fa-1083,AVANCIER,mo-2742, (09/1999 - 09/2003),09/1999,09/2003,26836,HONDA AVANCIER,HONDA AVANCIER 3.0 4x4 215 cv,Gasolina
+ma-98,HONDA,fa-1083,AVANCIER,mo-2742, (09/1999 - 09/2003),09/1999,09/2003,26835,HONDA AVANCIER,HONDA AVANCIER 3.0 215 cv,Gasolina
+ma-98,HONDA,fa-1089,LAGREAT,mo-2749, (07/2002 - Hoy),07/2002,,26993,HONDA LAGREAT,HONDA LAGREAT 2.3 Vtec 150 cv,Gasolina
+ma-98,HONDA,fa-1090,LIFE,mo-2751, (09/2001 - 08/2003),09/2001,08/2003,27001,HONDA LIFE,HONDA LIFE 0.7 L 52 cv,Gasolina
+ma-98,HONDA,fa-1090,LIFE,mo-2751, (09/2001 - 08/2003),09/2001,08/2003,27002,HONDA LIFE,HONDA LIFE 0.7 G 4x4 52 cv,Gasolina
+ma-98,HONDA,fa-1090,LIFE,mo-2751, (09/2001 - 08/2003),09/2001,08/2003,27003,HONDA LIFE,HONDA LIFE 0.7 64 cv,Gasolina
+ma-98,HONDA,fa-1092,THATS,mo-2755, (09/2003 - Hoy),09/2003,,27072,HONDA THATS,HONDA THATS 0.7 iDSi Turbo 64 cv,Gasolina
+ma-98,HONDA,fa-1094,Z,mo-2760, (01/1998 - 09/2002),01/1998,09/2002,27095,HONDA Z,HONDA Z 0.7 4x4 52 cv,Gasolina
+ma-98,HONDA,fa-1094,Z,mo-2760, (01/1998 - 09/2002),01/1998,09/2002,27096,HONDA Z,HONDA Z 0.7 Turbo 4x4 64 cv,Gasolina
+ma-98,HONDA,fa-1094,Z,mo-2759, (02/1995 - 12/1997),02/1995,12/1997,27094,HONDA Z,HONDA Z 0.7 4x4 52 cv,Gasolina

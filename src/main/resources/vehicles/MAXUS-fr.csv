@@ -1,0 +1,21 @@
+brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
+ma-418,MAXUS,fa-2471,DELIVER,mo-7850,9 Fourgon (07/2020 - Aujourd'hui),07/2020,,70403,MAXUS DELIVER,MAXUS DELIVER 9 Fourgon L3H2 2.0 D RWD 148 cv,Diesel
+ma-418,MAXUS,fa-2471,DELIVER,mo-7850,9 Fourgon (07/2020 - Aujourd'hui),07/2020,,70401,MAXUS DELIVER,MAXUS DELIVER 9 Fourgon L3H2 2.0 D RWD 163 cv,Diesel
+ma-418,MAXUS,fa-2471,DELIVER,mo-7850,9 Fourgon (07/2020 - Aujourd'hui),07/2020,,70402,MAXUS DELIVER,MAXUS DELIVER 9 Fourgon L3H2 2.0 D FWD 163 cv,Diesel
+ma-418,MAXUS,fa-2471,DELIVER,mo-7850,9 Fourgon (07/2020 - Aujourd'hui),07/2020,,70404,MAXUS DELIVER,MAXUS DELIVER 9 Fourgon L3H2 2.0 D FWD 148 cv,Diesel
+ma-418,MAXUS,fa-2469,eDELIVER,mo-7847,3 Fourgon (07/2020 - Aujourd'hui),07/2020,,70395,MAXUS eDELIVER,MAXUS eDELIVER 3 Fourgon L2 50 kWh 160 cv Boîte auto,Electrique
+ma-418,MAXUS,fa-2469,eDELIVER,mo-7847,3 Fourgon (07/2020 - Aujourd'hui),07/2020,,70394,MAXUS eDELIVER,MAXUS eDELIVER 3 Fourgon L1 50 kWh 160 cv Boîte auto,Electrique
+ma-418,MAXUS,fa-2469,eDELIVER,mo-7845,9 Fourgon (07/2019 - Aujourd'hui),07/2019,,70386,MAXUS eDELIVER,MAXUS eDELIVER 9 Fourgon L2H2 52 kWh 204 cv Boîte auto,Electrique
+ma-418,MAXUS,fa-2469,eDELIVER,mo-7845,9 Fourgon (07/2019 - Aujourd'hui),07/2019,,70389,MAXUS eDELIVER,MAXUS eDELIVER 9 Fourgon L3H2 88 kWh 204 cv Boîte auto,Electrique
+ma-418,MAXUS,fa-2469,eDELIVER,mo-7845,9 Fourgon (07/2019 - Aujourd'hui),07/2019,,70391,MAXUS eDELIVER,MAXUS eDELIVER 9 Fourgon L3H3 88 kWh 204 cv Boîte auto,Electrique
+ma-418,MAXUS,fa-2469,eDELIVER,mo-7845,9 Fourgon (07/2019 - Aujourd'hui),07/2019,,70387,MAXUS eDELIVER,MAXUS eDELIVER 9 Fourgon L2H2 72 kWh 204 cv Boîte auto,Electrique
+ma-418,MAXUS,fa-2469,eDELIVER,mo-7845,9 Fourgon (07/2019 - Aujourd'hui),07/2019,,70390,MAXUS eDELIVER,MAXUS eDELIVER 9 Fourgon L3H3 72 kWh 204 cv Boîte auto,Electrique
+ma-418,MAXUS,fa-2469,eDELIVER,mo-7845,9 Fourgon (07/2019 - Aujourd'hui),07/2019,,70388,MAXUS eDELIVER,MAXUS eDELIVER 9 Fourgon L3H2 72 kWh 204 cv Boîte auto,Electrique
+ma-418,MAXUS,fa-2469,eDELIVER,mo-7848,3 Camion plate-forme/Châssis (10/2022 - Aujourd'hui),10/2022,,70396,MAXUS eDELIVER,MAXUS eDELIVER 3 Camion plate-forme/Châssis L2 51,5 kWh 160 cv Boîte auto,Electrique
+ma-418,MAXUS,fa-2469,eDELIVER,mo-7843,7 Fourgon (12/2023 - Aujourd'hui),12/2023,,70384,MAXUS eDELIVER,MAXUS eDELIVER 7 Fourgon L2 88 kWh 204 cv Boîte auto,Electrique
+ma-418,MAXUS,fa-2469,eDELIVER,mo-7843,7 Fourgon (12/2023 - Aujourd'hui),12/2023,,70382,MAXUS eDELIVER,MAXUS eDELIVER 7 Fourgon L1 88 kWh 204 cv Boîte auto,Electrique
+ma-418,MAXUS,fa-2469,eDELIVER,mo-7843,7 Fourgon (12/2023 - Aujourd'hui),12/2023,,70381,MAXUS eDELIVER,MAXUS eDELIVER 7 Fourgon L1 77 kWh 204 cv Boîte auto,Electrique
+ma-418,MAXUS,fa-2469,eDELIVER,mo-7843,7 Fourgon (12/2023 - Aujourd'hui),12/2023,,70383,MAXUS eDELIVER,MAXUS eDELIVER 7 Fourgon L2 77 kWh 204 cv Boîte auto,Electrique
+ma-418,MAXUS,fa-2469,eDELIVER,mo-7846,9 Camion plate-forme/Châssis (10/2022 - Aujourd'hui),10/2022,,70393,MAXUS eDELIVER,MAXUS eDELIVER 9 Camion plate-forme/Châssis L4 65 kWh 204 cv Boîte auto,Electrique
+ma-418,MAXUS,fa-2469,eDELIVER,mo-7846,9 Camion plate-forme/Châssis (10/2022 - Aujourd'hui),10/2022,,70392,MAXUS eDELIVER,MAXUS eDELIVER 9 Camion plate-forme/Châssis L3 65 kWh 204 cv Boîte auto,Electrique
+ma-418,MAXUS,fa-2470,T90,mo-7844, (03/2021 - Aujourd'hui),03/2021,,70385,MAXUS T90,MAXUS T90 EV 177 cv Boîte auto,Electrique

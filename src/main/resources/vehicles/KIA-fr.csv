@@ -1,0 +1,945 @@
+brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
+ma-114,KIA,fa-390,Sportage,mo-4880,III (Fab. Slovaquie) (06/2010 - 12/2013),06/2010,12/2013,37187,KIA Sportage,KIA Sportage III (Fab. Slovaquie) 1.7 CRDi VGT 16V DPF 4x2 115 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4880,III (Fab. Slovaquie) (06/2010 - 12/2013),06/2010,12/2013,37188,KIA Sportage,KIA Sportage III (Fab. Slovaquie) 2.0 CRDi VGT 16V DPF 4x2 136 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4880,III (Fab. Slovaquie) (06/2010 - 12/2013),06/2010,12/2013,40883,KIA Sportage,KIA Sportage III (Fab. Slovaquie) 2.0 CRDi VGT 16V DPF 4x2 184 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4880,III (Fab. Slovaquie) (06/2010 - 12/2013),06/2010,12/2013,40885,KIA Sportage,KIA Sportage III (Fab. Slovaquie) 2.0 CRDi VGT 16V DPF 4x4 184 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4880,III (Fab. Slovaquie) (06/2010 - 12/2013),06/2010,12/2013,37193,KIA Sportage,KIA Sportage III (Fab. Slovaquie) 2.0 GDi CVVT 16V 4x4 163 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-4880,III (Fab. Slovaquie) (06/2010 - 12/2013),06/2010,12/2013,40884,KIA Sportage,KIA Sportage III (Fab. Slovaquie) 2.0 CRDi VGT 16V DPF 4x4 184 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4880,III (Fab. Slovaquie) (06/2010 - 12/2013),06/2010,12/2013,37191,KIA Sportage,KIA Sportage III (Fab. Slovaquie) 2.0 GDi CVVT 16V 4x2 163 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-4880,III (Fab. Slovaquie) (06/2010 - 12/2013),06/2010,12/2013,37194,KIA Sportage,KIA Sportage III (Fab. Slovaquie) 2.0 GDi CVVT 16V 4x4 163 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-4880,III (Fab. Slovaquie) (06/2010 - 12/2013),06/2010,12/2013,61798,KIA Sportage,KIA Sportage III (Fab. Slovaquie) 2.0 GDi CVVT 16V 4x2 150 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-4880,III (Fab. Slovaquie) (06/2010 - 12/2013),06/2010,12/2013,37189,KIA Sportage,KIA Sportage III (Fab. Slovaquie) 2.0 CRDi VGT 16V DPF 4x4 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4880,III (Fab. Slovaquie) (06/2010 - 12/2013),06/2010,12/2013,37192,KIA Sportage,KIA Sportage III (Fab. Slovaquie) 2.0 GDi CVVT 16V 4x2 163 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-4880,III (Fab. Slovaquie) (06/2010 - 12/2013),06/2010,12/2013,37190,KIA Sportage,KIA Sportage III (Fab. Slovaquie) 2.0 CRDi VGT 16V DPF 4x4 136 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4880,III (Fab. Slovaquie) (06/2010 - 12/2013),06/2010,12/2013,37186,KIA Sportage,KIA Sportage III (Fab. Slovaquie) 1.6 GDi CVVT 16V 4x2 135 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-6287,IV (Fab. Slovaquie) (09/2015 - 07/2018),09/2015,07/2018,50112,KIA Sportage,KIA Sportage IV (Fab. Slovaquie) 1.6 T-GDi 16V 4x2 177 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-6287,IV (Fab. Slovaquie) (09/2015 - 07/2018),09/2015,07/2018,50114,KIA Sportage,KIA Sportage IV (Fab. Slovaquie) 1.7 CRDi VGT 16V 4x2 115 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-6287,IV (Fab. Slovaquie) (09/2015 - 07/2018),09/2015,07/2018,50116,KIA Sportage,KIA Sportage IV (Fab. Slovaquie) 2.0 CRDi VGT 16V 4x2 136 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-6287,IV (Fab. Slovaquie) (09/2015 - 07/2018),09/2015,07/2018,50119,KIA Sportage,KIA Sportage IV (Fab. Slovaquie) 2.0 CRDi VGT 16V 4x4 136 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-6287,IV (Fab. Slovaquie) (09/2015 - 07/2018),09/2015,07/2018,50120,KIA Sportage,KIA Sportage IV (Fab. Slovaquie) 2.0 CRDi VGT 16V 4x4 185 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-6287,IV (Fab. Slovaquie) (09/2015 - 07/2018),09/2015,07/2018,50113,KIA Sportage,KIA Sportage IV (Fab. Slovaquie) 1.6 T-GDi 16V 4x4 177 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-6287,IV (Fab. Slovaquie) (09/2015 - 07/2018),09/2015,07/2018,50111,KIA Sportage,KIA Sportage IV (Fab. Slovaquie) 1.6 GDi CVVT 16V 4x2 ISG 132 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-6287,IV (Fab. Slovaquie) (09/2015 - 07/2018),09/2015,07/2018,50117,KIA Sportage,KIA Sportage IV (Fab. Slovaquie) 2.0 CRDi VGT 16V 4x2 ISG 136 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-6287,IV (Fab. Slovaquie) (09/2015 - 07/2018),09/2015,07/2018,50110,KIA Sportage,KIA Sportage IV (Fab. Slovaquie) 1.6 GDi CVVT 16V 4x2 132 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-6287,IV (Fab. Slovaquie) (09/2015 - 07/2018),09/2015,07/2018,50118,KIA Sportage,KIA Sportage IV (Fab. Slovaquie) 2.0 CRDi VGT 16V 4x4 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-6287,IV (Fab. Slovaquie) (09/2015 - 07/2018),09/2015,07/2018,64361,KIA Sportage,KIA Sportage IV (Fab. Slovaquie) 1.6 T-GDi 16V 4x4 DCT7 177 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-6287,IV (Fab. Slovaquie) (09/2015 - 07/2018),09/2015,07/2018,50121,KIA Sportage,KIA Sportage IV (Fab. Slovaquie) 2.0 CRDi VGT 16V 4x4 185 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-6287,IV (Fab. Slovaquie) (09/2015 - 07/2018),09/2015,07/2018,50115,KIA Sportage,KIA Sportage IV (Fab. Slovaquie) 1.7 CRDi VGT 16V 4x2 ISG 115 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-6287,IV (Fab. Slovaquie) (09/2015 - 07/2018),09/2015,07/2018,57235,KIA Sportage,KIA Sportage IV (Fab. Slovaquie) 1.7 CRDi VGT 16V 4x2 DCT7 141 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-6873,IV Phase 2 (Fab. Slovaquie) (07/2018 - 12/2021),07/2018,12/2021,59939,KIA Sportage,KIA Sportage IV Phase 2 (Fab. Slovaquie) 2.0 CRDi VGT 16V Eco-Dynamics+ 4x4 185 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-6873,IV Phase 2 (Fab. Slovaquie) (07/2018 - 12/2021),07/2018,12/2021,59933,KIA Sportage,KIA Sportage IV Phase 2 (Fab. Slovaquie) 1.6 CRDi VGT 16V 4x4 136 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-6873,IV Phase 2 (Fab. Slovaquie) (07/2018 - 12/2021),07/2018,12/2021,59929,KIA Sportage,KIA Sportage IV Phase 2 (Fab. Slovaquie) 1.6 CRDi VGT 16V 4x2 115 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-6873,IV Phase 2 (Fab. Slovaquie) (07/2018 - 12/2021),07/2018,12/2021,59938,KIA Sportage,KIA Sportage IV Phase 2 (Fab. Slovaquie) 1.6 T-GDi 16V 4x4 177 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-6873,IV Phase 2 (Fab. Slovaquie) (07/2018 - 12/2021),07/2018,12/2021,59934,KIA Sportage,KIA Sportage IV Phase 2 (Fab. Slovaquie) 1.6 GDi CVVT 16V 4x2 ISG 132 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-6873,IV Phase 2 (Fab. Slovaquie) (07/2018 - 12/2021),07/2018,12/2021,64340,KIA Sportage,KIA Sportage IV Phase 2 (Fab. Slovaquie) 1.6 CRDi 16V Eco-Dynamics+ 4x2 DCT7 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-6873,IV Phase 2 (Fab. Slovaquie) (07/2018 - 12/2021),07/2018,12/2021,65174,KIA Sportage,KIA Sportage IV Phase 2 (Fab. Slovaquie) 1.6 CRDi 16V Eco-Dynamics+ 4x2 116 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-6873,IV Phase 2 (Fab. Slovaquie) (07/2018 - 12/2021),07/2018,12/2021,59931,KIA Sportage,KIA Sportage IV Phase 2 (Fab. Slovaquie) 1.6 CRDi VGT 16V 4x2 136 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-6873,IV Phase 2 (Fab. Slovaquie) (07/2018 - 12/2021),07/2018,12/2021,59932,KIA Sportage,KIA Sportage IV Phase 2 (Fab. Slovaquie) 1.6 CRDi VGT 16V 4x4 DCT7 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-6873,IV Phase 2 (Fab. Slovaquie) (07/2018 - 12/2021),07/2018,12/2021,59930,KIA Sportage,KIA Sportage IV Phase 2 (Fab. Slovaquie) 1.6 CRDi VGT 16V 4x2 DCT7 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-6873,IV Phase 2 (Fab. Slovaquie) (07/2018 - 12/2021),07/2018,12/2021,59936,KIA Sportage,KIA Sportage IV Phase 2 (Fab. Slovaquie) 1.6 T-GDi 16V 4x2 177 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-6873,IV Phase 2 (Fab. Slovaquie) (07/2018 - 12/2021),07/2018,12/2021,59940,KIA Sportage,KIA Sportage IV Phase 2 (Fab. Slovaquie) 2.0 CRDi VGT 16V Eco-Dynamics+ 4x4 185 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-6873,IV Phase 2 (Fab. Slovaquie) (07/2018 - 12/2021),07/2018,12/2021,59937,KIA Sportage,KIA Sportage IV Phase 2 (Fab. Slovaquie) 1.6 T-GDi 16V 4x4 DCT7 177 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-6873,IV Phase 2 (Fab. Slovaquie) (07/2018 - 12/2021),07/2018,12/2021,59935,KIA Sportage,KIA Sportage IV Phase 2 (Fab. Slovaquie) 1.6 T-GDi 16V 4x2 DCT7 177 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-6873,IV Phase 2 (Fab. Slovaquie) (07/2018 - 12/2021),07/2018,12/2021,65173,KIA Sportage,KIA Sportage IV Phase 2 (Fab. Slovaquie) 1.6 CRDi 16V Eco-Dynamics+ 4x4 DCT7 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-6873,IV Phase 2 (Fab. Slovaquie) (07/2018 - 12/2021),07/2018,12/2021,65018,KIA Sportage,KIA Sportage IV Phase 2 (Fab. Slovaquie) 1.6 CRDi 16V Eco-Dynamics+ 4x2 136 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-5775,III Phase 2 (Fab. Slovaquie) (01/2014 - 12/2015),01/2014,12/2015,44290,KIA Sportage,KIA Sportage III Phase 2 (Fab. Slovaquie) 1.6 GDi CVVT 16V 4x2 135 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-5775,III Phase 2 (Fab. Slovaquie) (01/2014 - 12/2015),01/2014,12/2015,44295,KIA Sportage,KIA Sportage III Phase 2 (Fab. Slovaquie) 2.0 CRDi VGT 16V DPF 4x4 136 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-5775,III Phase 2 (Fab. Slovaquie) (01/2014 - 12/2015),01/2014,12/2015,44297,KIA Sportage,KIA Sportage III Phase 2 (Fab. Slovaquie) 2.0 CRDi VGT 16V DPF 4x4 184 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-5775,III Phase 2 (Fab. Slovaquie) (01/2014 - 12/2015),01/2014,12/2015,44291,KIA Sportage,KIA Sportage III Phase 2 (Fab. Slovaquie) 1.6 GDi CVVT 16V 4x2 135 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-5775,III Phase 2 (Fab. Slovaquie) (01/2014 - 12/2015),01/2014,12/2015,44294,KIA Sportage,KIA Sportage III Phase 2 (Fab. Slovaquie) 2.0 CRDi VGT 16V DPF 4x4 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-5775,III Phase 2 (Fab. Slovaquie) (01/2014 - 12/2015),01/2014,12/2015,44300,KIA Sportage,KIA Sportage III Phase 2 (Fab. Slovaquie) 2.0 GDi VVT 16V 4x2 166 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-5775,III Phase 2 (Fab. Slovaquie) (01/2014 - 12/2015),01/2014,12/2015,64342,KIA Sportage,KIA Sportage III Phase 2 (Fab. Slovaquie) 1.7 CRDi VGT 16V 4x2 115 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-5775,III Phase 2 (Fab. Slovaquie) (01/2014 - 12/2015),01/2014,12/2015,44293,KIA Sportage,KIA Sportage III Phase 2 (Fab. Slovaquie) 2.0 CRDi VGT 16V DPF 4x2 136 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-5775,III Phase 2 (Fab. Slovaquie) (01/2014 - 12/2015),01/2014,12/2015,44299,KIA Sportage,KIA Sportage III Phase 2 (Fab. Slovaquie) 2.0 GDi VVT 16V 4x2 166 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-5775,III Phase 2 (Fab. Slovaquie) (01/2014 - 12/2015),01/2014,12/2015,44296,KIA Sportage,KIA Sportage III Phase 2 (Fab. Slovaquie) 2.0 CRDi VGT 16V DPF 4x2 184 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-5775,III Phase 2 (Fab. Slovaquie) (01/2014 - 12/2015),01/2014,12/2015,44302,KIA Sportage,KIA Sportage III Phase 2 (Fab. Slovaquie) 2.0 GDi VVT 16V 4x4 166 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-5775,III Phase 2 (Fab. Slovaquie) (01/2014 - 12/2015),01/2014,12/2015,44301,KIA Sportage,KIA Sportage III Phase 2 (Fab. Slovaquie) 2.0 GDi VVT 16V 4x4 166 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-5775,III Phase 2 (Fab. Slovaquie) (01/2014 - 12/2015),01/2014,12/2015,44298,KIA Sportage,KIA Sportage III Phase 2 (Fab. Slovaquie) 2.0 CRDi VGT 16V DPF 4x4 184 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-5775,III Phase 2 (Fab. Slovaquie) (01/2014 - 12/2015),01/2014,12/2015,44292,KIA Sportage,KIA Sportage III Phase 2 (Fab. Slovaquie) 1.7 CRDi VGT 16V DPF 4x2 115 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-7463,V (SVK) (12/2021 - Aujourd'hui),12/2021,,66482,KIA Sportage,KIA Sportage V (SVK) 1.6 T-GDI 16V 230 Hybrid 4x2 179 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-7463,V (SVK) (12/2021 - Aujourd'hui),12/2021,,70299,KIA Sportage,KIA Sportage V (SVK) 1.6 T-GDI 16V Mhev 4x4 DCT7 160 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-7463,V (SVK) (12/2021 - Aujourd'hui),12/2021,,66484,KIA Sportage,KIA Sportage V (SVK) 1.6 CRDi 16V VGT Mhev 4x2 DCT7 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-7463,V (SVK) (12/2021 - Aujourd'hui),12/2021,,66486,KIA Sportage,KIA Sportage V (SVK) 1.6 T-GDI 16V Mhev 4x2 DCT7 150 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-7463,V (SVK) (12/2021 - Aujourd'hui),12/2021,,68374,KIA Sportage,KIA Sportage V (SVK) 1.6 T-GDI 16V Mhev 4x4 DCT7 150 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-7463,V (SVK) (12/2021 - Aujourd'hui),12/2021,,70074,KIA Sportage,KIA Sportage V (SVK) 1.6 T-GDI 16V 4x2 150 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-7463,V (SVK) (12/2021 - Aujourd'hui),12/2021,,70300,KIA Sportage,KIA Sportage V (SVK) 1.6 T-GDI 16V 215 Hybrid 4x2 160 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-7463,V (SVK) (12/2021 - Aujourd'hui),12/2021,,70298,KIA Sportage,KIA Sportage V (SVK) 1.6 T-GDI 16V Mhev 4x2 DCT7 160 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-7463,V (SVK) (12/2021 - Aujourd'hui),12/2021,,70301,KIA Sportage,KIA Sportage V (SVK) 1.6 T-GDI 16V 215 Hybrid 4x4 160 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-7463,V (SVK) (12/2021 - Aujourd'hui),12/2021,,70297,KIA Sportage,KIA Sportage V (SVK) 1.6 T-GDI 16V Mhev 4x2 160 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-7463,V (SVK) (12/2021 - Aujourd'hui),12/2021,,66485,KIA Sportage,KIA Sportage V (SVK) 1.6 CRDi 16V VGT Mhev 4x4 DCT7 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-7463,V (SVK) (12/2021 - Aujourd'hui),12/2021,,70303,KIA Sportage,KIA Sportage V (SVK) 1.6 T-GDI 16V 4x2 DCT7 180 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-7463,V (SVK) (12/2021 - Aujourd'hui),12/2021,,66483,KIA Sportage,KIA Sportage V (SVK) 1.6 T-GDI 16V 230 Hybrid 4x4 179 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-7463,V (SVK) (12/2021 - Aujourd'hui),12/2021,,70302,KIA Sportage,KIA Sportage V (SVK) 1.6 T-GDI 16V 252 PHEV 4x4 160 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-7463,V (SVK) (12/2021 - Aujourd'hui),12/2021,,66487,KIA Sportage,KIA Sportage V (SVK) 1.6 T-GDI 16V 265 PHEV 4x4 179 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-7463,V (SVK) (12/2021 - Aujourd'hui),12/2021,,67175,KIA Sportage,KIA Sportage V (SVK) 1.6 T-GDI 16V Mhev 4x2 150 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-7463,V (SVK) (12/2021 - Aujourd'hui),12/2021,,70296,KIA Sportage,KIA Sportage V (SVK) 1.6 T-GDI 16V 4x2 160 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-1931,II (12/2004 - 12/2006),12/2004,12/2006,37397,KIA Sportage,KIA Sportage II 2.0 CRDi 16V 4x4 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-1931,II (12/2004 - 12/2006),12/2004,12/2006,20584,KIA Sportage,KIA Sportage II 2.0 CRDi 16V 4x2 140 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-1931,II (12/2004 - 12/2006),12/2004,12/2006,20583,KIA Sportage,KIA Sportage II 2.0 CRDi 16V 4x2 112 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-1931,II (12/2004 - 12/2006),12/2004,12/2006,24888,KIA Sportage,KIA Sportage II 2.0 i 16V 4x2 143 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-1931,II (12/2004 - 12/2006),12/2004,12/2006,4500,KIA Sportage,KIA Sportage II 2.7 i V6 24V 4x2 175 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-1931,II (12/2004 - 12/2006),12/2004,12/2006,15207,KIA Sportage,KIA Sportage II 2.0 i 16V 4x4 143 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-1931,II (12/2004 - 12/2006),12/2004,12/2006,25062,KIA Sportage,KIA Sportage II 2.0 CRDi 16V 4x4 140 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-1931,II (12/2004 - 12/2006),12/2004,12/2006,25061,KIA Sportage,KIA Sportage II 2.0 CRDi 16V 4x4 112 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-1931,II (12/2004 - 12/2006),12/2004,12/2006,37398,KIA Sportage,KIA Sportage II 2.0 CRDi 16V 4x4 136 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-1931,II (12/2004 - 12/2006),12/2004,12/2006,6367,KIA Sportage,KIA Sportage II 2.0 i 16V 4x4 143 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-1931,II (12/2004 - 12/2006),12/2004,12/2006,24621,KIA Sportage,KIA Sportage II 2.0 CRDi 16V 4x4 140 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-1931,II (12/2004 - 12/2006),12/2004,12/2006,37396,KIA Sportage,KIA Sportage II 2.0 CRDi 16V 4x2 136 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-1931,II (12/2004 - 12/2006),12/2004,12/2006,37395,KIA Sportage,KIA Sportage II 2.0 CRDi 16V 4x2 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-1931,II (12/2004 - 12/2006),12/2004,12/2006,4499,KIA Sportage,KIA Sportage II 2.0 CRDi 16V 4x4 112 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-1931,II (12/2004 - 12/2006),12/2004,12/2006,4498,KIA Sportage,KIA Sportage II 2.0 CRDi 16V 4x2 140 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-1931,II (12/2004 - 12/2006),12/2004,12/2006,24622,KIA Sportage,KIA Sportage II 2.7 i V6 24V 4x4 175 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-4878,II Phase 2 (Fab. Slovaquie) (05/2007 - 05/2010),05/2007,05/2010,37203,KIA Sportage,KIA Sportage II Phase 2 (Fab. Slovaquie) 2.0 i 16V 4x4 143 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-4878,II Phase 2 (Fab. Slovaquie) (05/2007 - 05/2010),05/2007,05/2010,37205,KIA Sportage,KIA Sportage II Phase 2 (Fab. Slovaquie) 2.7 i V6 24V 4x2 175 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-4878,II Phase 2 (Fab. Slovaquie) (05/2007 - 05/2010),05/2007,05/2010,37206,KIA Sportage,KIA Sportage II Phase 2 (Fab. Slovaquie) 2.7 i V6 24V 4x4 175 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-4878,II Phase 2 (Fab. Slovaquie) (05/2007 - 05/2010),05/2007,05/2010,40777,KIA Sportage,KIA Sportage II Phase 2 (Fab. Slovaquie) 2.0 CRDi 16V DPF 4x2 150 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4878,II Phase 2 (Fab. Slovaquie) (05/2007 - 05/2010),05/2007,05/2010,37195,KIA Sportage,KIA Sportage II Phase 2 (Fab. Slovaquie) 2.0 CRDi 16V 4x2 112 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4878,II Phase 2 (Fab. Slovaquie) (05/2007 - 05/2010),05/2007,05/2010,37196,KIA Sportage,KIA Sportage II Phase 2 (Fab. Slovaquie) 2.0 CRDi 16V 4x4 112 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4878,II Phase 2 (Fab. Slovaquie) (05/2007 - 05/2010),05/2007,05/2010,37202,KIA Sportage,KIA Sportage II Phase 2 (Fab. Slovaquie) 2.0 i 16V 4x2 143 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-4878,II Phase 2 (Fab. Slovaquie) (05/2007 - 05/2010),05/2007,05/2010,37199,KIA Sportage,KIA Sportage II Phase 2 (Fab. Slovaquie) 2.0 CRDi 16V DPF 4x2 140 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4878,II Phase 2 (Fab. Slovaquie) (05/2007 - 05/2010),05/2007,05/2010,57752,KIA Sportage,KIA Sportage II Phase 2 (Fab. Slovaquie) 2.0 CRDi 16V DPF 4x4 136 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4878,II Phase 2 (Fab. Slovaquie) (05/2007 - 05/2010),05/2007,05/2010,37200,KIA Sportage,KIA Sportage II Phase 2 (Fab. Slovaquie) 2.0 CRDi 16V DPF 4x4 140 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4878,II Phase 2 (Fab. Slovaquie) (05/2007 - 05/2010),05/2007,05/2010,70119,KIA Sportage,KIA Sportage II Phase 2 (Fab. Slovaquie) 2.0 CRDi 16V DPF 4x2 136 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4878,II Phase 2 (Fab. Slovaquie) (05/2007 - 05/2010),05/2007,05/2010,37197,KIA Sportage,KIA Sportage II Phase 2 (Fab. Slovaquie) 2.0 CRDi 16V 4x4 112 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4878,II Phase 2 (Fab. Slovaquie) (05/2007 - 05/2010),05/2007,05/2010,37204,KIA Sportage,KIA Sportage II Phase 2 (Fab. Slovaquie) 2.0 i 16V 4x4 143 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-4878,II Phase 2 (Fab. Slovaquie) (05/2007 - 05/2010),05/2007,05/2010,40778,KIA Sportage,KIA Sportage II Phase 2 (Fab. Slovaquie) 2.0 CRDi 16V DPF 4x4 150 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4878,II Phase 2 (Fab. Slovaquie) (05/2007 - 05/2010),05/2007,05/2010,37201,KIA Sportage,KIA Sportage II Phase 2 (Fab. Slovaquie) 2.0 CRDi 16V DPF 4x4 140 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4878,II Phase 2 (Fab. Slovaquie) (05/2007 - 05/2010),05/2007,05/2010,37198,KIA Sportage,KIA Sportage II Phase 2 (Fab. Slovaquie) 2.0 CRDi 16V DPF 4x2 140 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-1932,I (07/1993 - 09/2002),07/1993,09/2002,6369,KIA Sportage,KIA Sportage I 2.0 TD 4x4 83 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-1932,I (07/1993 - 09/2002),07/1993,09/2002,20585,KIA Sportage,KIA Sportage I 2.0 i 16V 4x4 Break baché 128 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-1932,I (07/1993 - 09/2002),07/1993,09/2002,15210,KIA Sportage,KIA Sportage I 2.0 i 16V 4x4 128 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-1932,I (07/1993 - 09/2002),07/1993,09/2002,6368,KIA Sportage,KIA Sportage I 2.0 i 16V 4x4 128 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-1932,I (07/1993 - 09/2002),07/1993,09/2002,28216,KIA Sportage,KIA Sportage I 2.0 i 16V 4x2 Break baché 118 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-1932,I (07/1993 - 09/2002),07/1993,09/2002,20586,KIA Sportage,KIA Sportage I 2.0 i 16V 4x2 Break baché 128 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-1932,I (07/1993 - 09/2002),07/1993,09/2002,25063,KIA Sportage,KIA Sportage I 2.0 i 16V 4x4 Break baché 128 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-1932,I (07/1993 - 09/2002),07/1993,09/2002,6370,KIA Sportage,KIA Sportage I 2.0 TD 4x4 83 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-1932,I (07/1993 - 09/2002),07/1993,09/2002,28215,KIA Sportage,KIA Sportage I 2.0 i 16V 4x4 Break baché 118 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-1932,I (07/1993 - 09/2002),07/1993,09/2002,15208,KIA Sportage,KIA Sportage I 2.0 i 16V 4x4 Fourgon court vitré 128 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-1932,I (07/1993 - 09/2002),07/1993,09/2002,15209,KIA Sportage,KIA Sportage I 2.0 i 4x4 95 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-1932,I (07/1993 - 09/2002),07/1993,09/2002,15211,KIA Sportage,KIA Sportage I 2.0 TD 4x4 87 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-1932,I (07/1993 - 09/2002),07/1993,09/2002,4501,KIA Sportage,KIA Sportage I 2.0 TD 4x4 87 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-1932,I (07/1993 - 09/2002),07/1993,09/2002,6371,KIA Sportage,KIA Sportage I 2.2 D 4x4 65 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-1932,I (07/1993 - 09/2002),07/1993,09/2002,20587,KIA Sportage,KIA Sportage I 2.0 TD 4x4 Break baché 87 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-5041,III (Fab. Corée) (05/2010 - 11/2013),05/2010,11/2013,57755,KIA Sportage,KIA Sportage III (Fab. Corée) 2.0 CRDi VGT 16V DPF 4x2 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-5041,III (Fab. Corée) (05/2010 - 11/2013),05/2010,11/2013,57753,KIA Sportage,KIA Sportage III (Fab. Corée) 2.0 CRDi VGT 16V DPF 4x2 136 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-5041,III (Fab. Corée) (05/2010 - 11/2013),05/2010,11/2013,57754,KIA Sportage,KIA Sportage III (Fab. Corée) 2.0 CRDi VGT 16V 4x4 136 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-5041,III (Fab. Corée) (05/2010 - 11/2013),05/2010,11/2013,57756,KIA Sportage,KIA Sportage III (Fab. Corée) 2.0 CRDi VGT 16V DPF 4x4 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-5041,III (Fab. Corée) (05/2010 - 11/2013),05/2010,11/2013,58231,KIA Sportage,KIA Sportage III (Fab. Corée) 2.0 CRDi VGT 16V DPF 4x2 184 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-5041,III (Fab. Corée) (05/2010 - 11/2013),05/2010,11/2013,58233,KIA Sportage,KIA Sportage III (Fab. Corée) 2.0 CRDi VGT 16V DPF 4x4 184 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-5041,III (Fab. Corée) (05/2010 - 11/2013),05/2010,11/2013,56451,KIA Sportage,KIA Sportage III (Fab. Corée) 2.0 GDi CVVT 16V 4x4 163 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-5041,III (Fab. Corée) (05/2010 - 11/2013),05/2010,11/2013,58232,KIA Sportage,KIA Sportage III (Fab. Corée) 2.0 CRDi VGT 16V DPF 4x4 184 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-5041,III (Fab. Corée) (05/2010 - 11/2013),05/2010,11/2013,56448,KIA Sportage,KIA Sportage III (Fab. Corée) 2.0 GDi CVVT 16V 4x2 163 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-5041,III (Fab. Corée) (05/2010 - 11/2013),05/2010,11/2013,56449,KIA Sportage,KIA Sportage III (Fab. Corée) 2.0 GDi CVVT 16V 4x2 163 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-5041,III (Fab. Corée) (05/2010 - 11/2013),05/2010,11/2013,56450,KIA Sportage,KIA Sportage III (Fab. Corée) 2.0 GDi CVVT 16V 4x4 163 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-5041,III (Fab. Corée) (05/2010 - 11/2013),05/2010,11/2013,64341,KIA Sportage,KIA Sportage III (Fab. Corée) 2.0 CRDi VGT 16V 4x2 136 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4879,II Phase 2 (Fab. Corée) (09/2006 - 04/2010),09/2006,04/2010,56447,KIA Sportage,KIA Sportage II Phase 2 (Fab. Corée) 2.7 i V6 24V 4x4 175 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-4879,II Phase 2 (Fab. Corée) (09/2006 - 04/2010),09/2006,04/2010,46563,KIA Sportage,KIA Sportage II Phase 2 (Fab. Corée) 2.0 i 16V 4x2 143 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-4879,II Phase 2 (Fab. Corée) (09/2006 - 04/2010),09/2006,04/2010,43999,KIA Sportage,KIA Sportage II Phase 2 (Fab. Corée) 2.0 CRDi 16V 4x2 112 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4879,II Phase 2 (Fab. Corée) (09/2006 - 04/2010),09/2006,04/2010,44002,KIA Sportage,KIA Sportage II Phase 2 (Fab. Corée) 2.0 CRDi 16V DPF 4x2 140 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4879,II Phase 2 (Fab. Corée) (09/2006 - 04/2010),09/2006,04/2010,56445,KIA Sportage,KIA Sportage II Phase 2 (Fab. Corée) 2.0 i 16V 4x4 143 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-4879,II Phase 2 (Fab. Corée) (09/2006 - 04/2010),09/2006,04/2010,59492,KIA Sportage,KIA Sportage II Phase 2 (Fab. Corée) 2.7 i V6 24V 4x2 175 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-4879,II Phase 2 (Fab. Corée) (09/2006 - 04/2010),09/2006,04/2010,56444,KIA Sportage,KIA Sportage II Phase 2 (Fab. Corée) 2.0 CRDi 16V DPF 4x2 150 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4879,II Phase 2 (Fab. Corée) (09/2006 - 04/2010),09/2006,04/2010,44005,KIA Sportage,KIA Sportage II Phase 2 (Fab. Corée) 2.0 CRDi 16V DPF 4x4 140 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4879,II Phase 2 (Fab. Corée) (09/2006 - 04/2010),09/2006,04/2010,56443,KIA Sportage,KIA Sportage II Phase 2 (Fab. Corée) 2.0 CRDi 16V DPF 4x4 150 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4879,II Phase 2 (Fab. Corée) (09/2006 - 04/2010),09/2006,04/2010,44000,KIA Sportage,KIA Sportage II Phase 2 (Fab. Corée) 2.0 CRDi 16V 4x4 112 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4879,II Phase 2 (Fab. Corée) (09/2006 - 04/2010),09/2006,04/2010,44004,KIA Sportage,KIA Sportage II Phase 2 (Fab. Corée) 2.0 CRDi 16V DPF 4x4 140 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4879,II Phase 2 (Fab. Corée) (09/2006 - 04/2010),09/2006,04/2010,56446,KIA Sportage,KIA Sportage II Phase 2 (Fab. Corée) 2.0 i 16V 4x4 143 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-4879,II Phase 2 (Fab. Corée) (09/2006 - 04/2010),09/2006,04/2010,41807,KIA Sportage,KIA Sportage II Phase 2 (Fab. Corée) 2.0 CRDi 16V DPF 4x2 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4879,II Phase 2 (Fab. Corée) (09/2006 - 04/2010),09/2006,04/2010,44001,KIA Sportage,KIA Sportage II Phase 2 (Fab. Corée) 2.0 CRDi 16V 4x4 112 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-4879,II Phase 2 (Fab. Corée) (09/2006 - 04/2010),09/2006,04/2010,44003,KIA Sportage,KIA Sportage II Phase 2 (Fab. Corée) 2.0 CRDi 16V DPF 4x2 140 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-5776,III Phase 2 (Fab. Corée) (07/2013 - 10/2015),07/2013,10/2015,48156,KIA Sportage,KIA Sportage III Phase 2 (Fab. Corée) 2.0 GDi VVT 16V 4x2 166 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-5776,III Phase 2 (Fab. Corée) (07/2013 - 10/2015),07/2013,10/2015,48155,KIA Sportage,KIA Sportage III Phase 2 (Fab. Corée) 2.0 GDi VVT 16V 4x2 166 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-5776,III Phase 2 (Fab. Corée) (07/2013 - 10/2015),07/2013,10/2015,48153,KIA Sportage,KIA Sportage III Phase 2 (Fab. Corée) 2.0 CRDi VGT 16V DPF 4x4 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-390,Sportage,mo-5776,III Phase 2 (Fab. Corée) (07/2013 - 10/2015),07/2013,10/2015,48157,KIA Sportage,KIA Sportage III Phase 2 (Fab. Corée) 2.0 GDi VVT 16V 4x4 166 cv Boîte auto,Essence
+ma-114,KIA,fa-390,Sportage,mo-5776,III Phase 2 (Fab. Corée) (07/2013 - 10/2015),07/2013,10/2015,48152,KIA Sportage,KIA Sportage III Phase 2 (Fab. Corée) 2.0 CRDi VGT 16V DPF 4x2 136 cv,Diesel
+ma-114,KIA,fa-390,Sportage,mo-5776,III Phase 2 (Fab. Corée) (07/2013 - 10/2015),07/2013,10/2015,48158,KIA Sportage,KIA Sportage III Phase 2 (Fab. Corée) 2.0 GDi VVT 16V 4x4 166 cv,Essence
+ma-114,KIA,fa-390,Sportage,mo-5776,III Phase 2 (Fab. Corée) (07/2013 - 10/2015),07/2013,10/2015,48154,KIA Sportage,KIA Sportage III Phase 2 (Fab. Corée) 2.0 CRDi VGT 16V DPF 4x4 136 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5366,II (05/2012 - 06/2015),05/2012,06/2015,37213,KIA Ceed,KIA Ceed II 1.6 CRDi 16V 128 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5366,II (05/2012 - 06/2015),05/2012,06/2015,37210,KIA Ceed,KIA Ceed II 1.4 i 16V S&S 100 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-5366,II (05/2012 - 06/2015),05/2012,06/2015,37218,KIA Ceed,KIA Ceed II 1.6 GDI 16V S&S 135 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-5366,II (05/2012 - 06/2015),05/2012,06/2015,37402,KIA Ceed,KIA Ceed II 1.6 i 16V S&S 125 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-5366,II (05/2012 - 06/2015),05/2012,06/2015,37212,KIA Ceed,KIA Ceed II 1.6 CRDi 16V 110 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5366,II (05/2012 - 06/2015),05/2012,06/2015,37214,KIA Ceed,KIA Ceed II 1.6 CRDi 16V S&S 110 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5366,II (05/2012 - 06/2015),05/2012,06/2015,37211,KIA Ceed,KIA Ceed II 1.6 CRDi 16V 128 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5366,II (05/2012 - 06/2015),05/2012,06/2015,52258,KIA Ceed,KIA Ceed II 1.6 CRDi 16V 110 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5366,II (05/2012 - 06/2015),05/2012,06/2015,37401,KIA Ceed,KIA Ceed II 1.6 i 16V 125 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-5366,II (05/2012 - 06/2015),05/2012,06/2015,37216,KIA Ceed,KIA Ceed II 1.6 GDI 16V DCT6 135 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-5366,II (05/2012 - 06/2015),05/2012,06/2015,37208,KIA Ceed,KIA Ceed II 1.4 CRDi 16V S&S 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5366,II (05/2012 - 06/2015),05/2012,06/2015,37209,KIA Ceed,KIA Ceed II 1.4 i 16V 100 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-5366,II (05/2012 - 06/2015),05/2012,06/2015,37215,KIA Ceed,KIA Ceed II 1.6 CRDi 16V S&S 128 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5366,II (05/2012 - 06/2015),05/2012,06/2015,37207,KIA Ceed,KIA Ceed II 1.4 CRDi 16V 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5366,II (05/2012 - 06/2015),05/2012,06/2015,37217,KIA Ceed,KIA Ceed II 1.6 GDI 16V 135 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-5366,II (05/2012 - 06/2015),05/2012,06/2015,49358,KIA Ceed,KIA Ceed II GT 1.6 GDI 16V 204 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-595,I (08/2006 - 08/2009),08/2006,08/2009,15161,KIA Ceed,KIA Ceed I 1.6 CVVT 16V 115 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-595,I (08/2006 - 08/2009),08/2006,08/2009,6327,KIA Ceed,KIA Ceed I 2.0 CRDi 16V VGT 136 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-595,I (08/2006 - 08/2009),08/2006,08/2009,34214,KIA Ceed,KIA Ceed I 1.6 i CVVT 16V 126 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-595,I (08/2006 - 08/2009),08/2006,08/2009,15162,KIA Ceed,KIA Ceed I 2.0 CVVT 16V 143 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-595,I (08/2006 - 08/2009),08/2006,08/2009,30730,KIA Ceed,KIA Ceed I 1.6 CRDi 16V VGT 90 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-595,I (08/2006 - 08/2009),08/2006,08/2009,4440,KIA Ceed,KIA Ceed I 1.4 CVVT 16V 105 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-595,I (08/2006 - 08/2009),08/2006,08/2009,20553,KIA Ceed,KIA Ceed I 1.4 CVVT 16V 109 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-595,I (08/2006 - 08/2009),08/2006,08/2009,4441,KIA Ceed,KIA Ceed I 1.6 CVVT 16V 115 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-595,I (08/2006 - 08/2009),08/2006,08/2009,65090,KIA Ceed,KIA Ceed I 2.0 CRDi 16V DPF VGT 140 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-595,I (08/2006 - 08/2009),08/2006,08/2009,6326,KIA Ceed,KIA Ceed I 1.6 CVVT 16V 122 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-595,I (08/2006 - 08/2009),08/2006,08/2009,15160,KIA Ceed,KIA Ceed I 1.6 CRDi 16V VGT BVM6 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-595,I (08/2006 - 08/2009),08/2006,08/2009,20554,KIA Ceed,KIA Ceed I 1.6 CRDi 16V VGT BVM6 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-595,I (08/2006 - 08/2009),08/2006,08/2009,20555,KIA Ceed,KIA Ceed I 2.0 CRDi 16V VGT 140 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-595,I (08/2006 - 08/2009),08/2006,08/2009,68373,KIA Ceed,KIA Ceed I 1.6 CRDi 16V VGT BVM5 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-595,I (08/2006 - 08/2009),08/2006,08/2009,68372,KIA Ceed,KIA Ceed I 1.6 CRDi 16V VGT BVM5 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-595,I (08/2006 - 08/2009),08/2006,08/2009,4442,KIA Ceed,KIA Ceed I 2.0 CVVT 16V 143 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-595,I (08/2006 - 08/2009),08/2006,08/2009,34213,KIA Ceed,KIA Ceed I 1.6 i CVVT 16V 126 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-595,I (08/2006 - 08/2009),08/2006,08/2009,6325,KIA Ceed,KIA Ceed I 1.6 CVVT 16V 122 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6259,II Phase 2 (07/2015 - 07/2018),07/2015,07/2018,52238,KIA Ceed,KIA Ceed II Phase 2 1.6 CRDi 16V DCT7 ISG 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6259,II Phase 2 (07/2015 - 07/2018),07/2015,07/2018,52234,KIA Ceed,KIA Ceed II Phase 2 1.0 T-GDI 12V ISG 100 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6259,II Phase 2 (07/2015 - 07/2018),07/2015,07/2018,52235,KIA Ceed,KIA Ceed II Phase 2 1.4 CRDi 16V 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6259,II Phase 2 (07/2015 - 07/2018),07/2015,07/2018,52241,KIA Ceed,KIA Ceed II Phase 2 1.6 GDI 16V ISG 135 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6259,II Phase 2 (07/2015 - 07/2018),07/2015,07/2018,52239,KIA Ceed,KIA Ceed II Phase 2 1.6 CRDi 16V ISG 136 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6259,II Phase 2 (07/2015 - 07/2018),07/2015,07/2018,52237,KIA Ceed,KIA Ceed II Phase 2 1.6 CRDi 16V ISG 110 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6259,II Phase 2 (07/2015 - 07/2018),07/2015,07/2018,52240,KIA Ceed,KIA Ceed II Phase 2 1.6 GDI 16V DCT6 ISG 135 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-6259,II Phase 2 (07/2015 - 07/2018),07/2015,07/2018,52236,KIA Ceed,KIA Ceed II Phase 2 1.4 i 16V 100 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6259,II Phase 2 (07/2015 - 07/2018),07/2015,07/2018,52233,KIA Ceed,KIA Ceed II Phase 2 1.0 T-GDI 12V ISG 120 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6772,III Hatchback (07/2018 - 10/2021),07/2018,10/2021,65103,KIA Ceed,KIA Ceed III Hatchback 1.5 T-GDI 16V GPF DCT7 ISG 160 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-6772,III Hatchback (07/2018 - 10/2021),07/2018,10/2021,60491,KIA Ceed,KIA Ceed III Hatchback GT 1.6 T-GDI 16V GPF ISG 204 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6772,III Hatchback (07/2018 - 10/2021),07/2018,10/2021,58967,KIA Ceed,KIA Ceed III Hatchback 1.0 T-GDI 12V GPF ISG 120 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6772,III Hatchback (07/2018 - 10/2021),07/2018,10/2021,67182,KIA Ceed,KIA Ceed III Hatchback 1.5 T-GDI 16V GPF Eco-Dynamics+ DCT7 ISG 160 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-6772,III Hatchback (07/2018 - 10/2021),07/2018,10/2021,58968,KIA Ceed,KIA Ceed III Hatchback 1.4 T-GDI 16V GPF DCT7 ISG 140 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-6772,III Hatchback (07/2018 - 10/2021),07/2018,10/2021,58972,KIA Ceed,KIA Ceed III Hatchback 1.6 CRDi 16V DCT7 ISG 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6772,III Hatchback (07/2018 - 10/2021),07/2018,10/2021,62029,KIA Ceed,KIA Ceed III Hatchback 1.0 T-GDI 12V GPF ISG 100 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6772,III Hatchback (07/2018 - 10/2021),07/2018,10/2021,58973,KIA Ceed,KIA Ceed III Hatchback 1.6 CRDi 16V ISG 136 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6772,III Hatchback (07/2018 - 10/2021),07/2018,10/2021,58971,KIA Ceed,KIA Ceed III Hatchback 1.6 CRDi 16V ISG 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6772,III Hatchback (07/2018 - 10/2021),07/2018,10/2021,58970,KIA Ceed,KIA Ceed III Hatchback 1.6 CRDi 16V DCT7 ISG 115 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6772,III Hatchback (07/2018 - 10/2021),07/2018,10/2021,65102,KIA Ceed,KIA Ceed III Hatchback 1.5 T-GDI 16V GPF ISG 160 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6772,III Hatchback (07/2018 - 10/2021),07/2018,10/2021,60489,KIA Ceed,KIA Ceed III Hatchback 1.4 i CVVT 16V GPF ISG 100 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6772,III Hatchback (07/2018 - 10/2021),07/2018,10/2021,58969,KIA Ceed,KIA Ceed III Hatchback 1.4 T-GDI 16V GPF ISG 140 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6772,III Hatchback (07/2018 - 10/2021),07/2018,10/2021,60490,KIA Ceed,KIA Ceed III Hatchback GT 1.6 T-GDI 16V GPF DCT7 ISG 204 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-6772,III Hatchback (07/2018 - 10/2021),07/2018,10/2021,62030,KIA Ceed,KIA Ceed III Hatchback 1.6 CRDi 16V Eco-Dynamics+ DCT7 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6772,III Hatchback (07/2018 - 10/2021),07/2018,10/2021,62031,KIA Ceed,KIA Ceed III Hatchback 1.6 CRDi 16V Eco-Dynamics+136 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,32469,KIA Ceed,KIA Ceed I Phase 2 1.6 CRDi 16V VGT 128 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,32476,KIA Ceed,KIA Ceed I Phase 2 2.0 CRDi 16V VGT 140 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,32467,KIA Ceed,KIA Ceed I Phase 2 1.6 CRDi 16V VGT S&S 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,32477,KIA Ceed,KIA Ceed I Phase 2 2.0 i CVVT 16V 143 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,32464,KIA Ceed,KIA Ceed I Phase 2 1.4 i CVVT 16V S&S 90 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,32472,KIA Ceed,KIA Ceed I Phase 2 1.6 CRDi 16V VGT 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,65096,KIA Ceed,KIA Ceed I Phase 2 1.6 CRDi 16V DPF VGT S&S 128 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,32463,KIA Ceed,KIA Ceed I Phase 2 1.4 i CVVT 16V 90 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,65092,KIA Ceed,KIA Ceed I Phase 2 1.6 CRDi 16V DPF VGT 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,65100,KIA Ceed,KIA Ceed I Phase 2 2.0 CRDi 16V DPF VGT 140 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,32466,KIA Ceed,KIA Ceed I Phase 2 1.6 CRDi 16V VGT 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,32478,KIA Ceed,KIA Ceed I Phase 2 2.0 i CVVT 16V 143 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,32471,KIA Ceed,KIA Ceed I Phase 2 1.6 CRDi 16V VGT 90 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,32475,KIA Ceed,KIA Ceed I Phase 2 1.6 i CVVT 16V S&S 125 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,65094,KIA Ceed,KIA Ceed I Phase 2 1.6 CRDi 16V DPF VGT 128 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,65099,KIA Ceed,KIA Ceed I Phase 2 1.6 i CVVT 16V S&S 126 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,32474,KIA Ceed,KIA Ceed I Phase 2 1.6 i CVVT 16V 125 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,32465,KIA Ceed,KIA Ceed I Phase 2 1.6 CRDi 16V VGT 115 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,65091,KIA Ceed,KIA Ceed I Phase 2 1.6 CRDi 16V DPF VGT 115 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,49480,KIA Ceed,KIA Ceed I Phase 2 1.6 CRDi 16V DPF VGT 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,65098,KIA Ceed,KIA Ceed I Phase 2 1.6 i CVVT 16V 126 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,32470,KIA Ceed,KIA Ceed I Phase 2 1.6 CRDi 16V VGT S&S 128 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,65097,KIA Ceed,KIA Ceed I Phase 2 1.6 CRDi 16V DPF VGT 90 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,32473,KIA Ceed,KIA Ceed I Phase 2 1.6 i CVVT 16V S&S 115 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,65095,KIA Ceed,KIA Ceed I Phase 2 1.6 CRDi 16V DPF VGT 128 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,32468,KIA Ceed,KIA Ceed I Phase 2 1.6 CRDi 16V VGT 128 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4877,I Phase 2 (09/2009 - 05/2012),09/2009,05/2012,65093,KIA Ceed,KIA Ceed I Phase 2 1.6 CRDi 16V DPF VGT S&S 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32504,KIA Ceed,KIA Ceed I SW Phase 2 2.0 i CVVT 16V 143 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32492,KIA Ceed,KIA Ceed I SW Phase 2 1.4 i CVVT 16V S&S 90 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32491,KIA Ceed,KIA Ceed I SW Phase 2 1.4 i CVVT 16V 90 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,45931,KIA Ceed,KIA Ceed I SW Phase 2 2.0 CRDi 16V DPF VGT 140 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,45925,KIA Ceed,KIA Ceed I SW Phase 2 1.6 CRDi 16V DPF VGT 115 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32496,KIA Ceed,KIA Ceed I SW Phase 2 1.6 CRDi 16V VGT 128 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,45929,KIA Ceed,KIA Ceed I SW Phase 2 1.6 CRDi 16V DPF VGT S&S 128 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,34217,KIA Ceed,KIA Ceed I SW Phase 2 1.6 i CVVT 16V S&S 115 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32494,KIA Ceed,KIA Ceed I SW Phase 2 1.6 CRDi 16V DPF VGT 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,45926,KIA Ceed,KIA Ceed I SW Phase 2 1.6 CRDi 16V DPF VGT S&S 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32502,KIA Ceed,KIA Ceed I SW Phase 2 2.0 CRDi 16V VGT 140 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32497,KIA Ceed,KIA Ceed I SW Phase 2 1.6 CRDi 16V VGT 128 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32503,KIA Ceed,KIA Ceed I SW Phase 2 2.0 i CVVT 16V 143 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32493,KIA Ceed,KIA Ceed I SW Phase 2 1.6 CRDi 16V VGT 115 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32500,KIA Ceed,KIA Ceed I SW Phase 2 1.6 i CVVT 16V 125 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,45923,KIA Ceed,KIA Ceed I SW Phase 2 1.6 CRDi 16V VGT S&S 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,34216,KIA Ceed,KIA Ceed I SW Phase 2 1.6 i CVVT 16V 115 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,45930,KIA Ceed,KIA Ceed I SW Phase 2 1.6 CRDi 16V DPF VGT 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,65104,KIA Ceed,KIA Ceed I SW Phase 2 1.6 i CVVT 16V 126 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32499,KIA Ceed,KIA Ceed I SW Phase 2 1.6 CRDi 16V VGT 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32501,KIA Ceed,KIA Ceed I SW Phase 2 1.6 i CVVT 16V S&S 125 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,45924,KIA Ceed,KIA Ceed I SW Phase 2 1.6 CRDi 16V VGT 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,45928,KIA Ceed,KIA Ceed I SW Phase 2 1.6 CRDi 16V DPF VGT 128 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,65105,KIA Ceed,KIA Ceed I SW Phase 2 1.6 i CVVT 16V S&S 126 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32495,KIA Ceed,KIA Ceed I SW Phase 2 1.6 CRDi 16V VGT S&S 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,45927,KIA Ceed,KIA Ceed I SW Phase 2 1.6 CRDi 16V DPF VGT 128 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4875,I SW Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32498,KIA Ceed,KIA Ceed I SW Phase 2 1.6 CRDi 16V VGT S&S 128 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-596,I SW (05/2007 - 11/2009),05/2007,11/2009,20556,KIA Ceed,KIA Ceed I SW 1.6 CVVT 16V 122 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-596,I SW (05/2007 - 11/2009),05/2007,11/2009,6330,KIA Ceed,KIA Ceed I SW 2.0 CVVT 16V 143 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-596,I SW (05/2007 - 11/2009),05/2007,11/2009,4446,KIA Ceed,KIA Ceed I SW 2.0 CVVT 16V 143 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-596,I SW (05/2007 - 11/2009),05/2007,11/2009,68370,KIA Ceed,KIA Ceed I SW 1.6 CRDi 16V VGT BVM5 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-596,I SW (05/2007 - 11/2009),05/2007,11/2009,6329,KIA Ceed,KIA Ceed I SW 1.6 CRDi 16V VGT BVM6 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-596,I SW (05/2007 - 11/2009),05/2007,11/2009,30731,KIA Ceed,KIA Ceed I SW 1.6 CRDi 16V VGT 115 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-596,I SW (05/2007 - 11/2009),05/2007,11/2009,34220,KIA Ceed,KIA Ceed I SW 1.6 i CVVT 16V 126 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-596,I SW (05/2007 - 11/2009),05/2007,11/2009,6328,KIA Ceed,KIA Ceed I SW 1.4 CVVT 16V 109 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-596,I SW (05/2007 - 11/2009),05/2007,11/2009,15165,KIA Ceed,KIA Ceed I SW 2.0 CRDi 16V VGT 140 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-596,I SW (05/2007 - 11/2009),05/2007,11/2009,31966,KIA Ceed,KIA Ceed I SW 1.6 CVVT 16V 115 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-596,I SW (05/2007 - 11/2009),05/2007,11/2009,20557,KIA Ceed,KIA Ceed I SW 1.6 CVVT 16V 122 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-596,I SW (05/2007 - 11/2009),05/2007,11/2009,65101,KIA Ceed,KIA Ceed I SW 2.0 CRDi 16V DPF VGT 140 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-596,I SW (05/2007 - 11/2009),05/2007,11/2009,31967,KIA Ceed,KIA Ceed I SW 1.6 CVVT 16V 115 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-596,I SW (05/2007 - 11/2009),05/2007,11/2009,15163,KIA Ceed,KIA Ceed I SW 1.6 CRDi 16V VGT BVM6 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-596,I SW (05/2007 - 11/2009),05/2007,11/2009,31968,KIA Ceed,KIA Ceed I SW 2.0 CRDi 16V VGT 136 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-596,I SW (05/2007 - 11/2009),05/2007,11/2009,68371,KIA Ceed,KIA Ceed I SW 1.6 CRDi 16V VGT BVM5 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-596,I SW (05/2007 - 11/2009),05/2007,11/2009,31965,KIA Ceed,KIA Ceed I SW 1.4 CVVT 16V 105 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-596,I SW (05/2007 - 11/2009),05/2007,11/2009,34221,KIA Ceed,KIA Ceed I SW 1.6 i CVVT 16V 126 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-5367,II SW (08/2012 - 06/2015),08/2012,06/2015,37219,KIA Ceed,KIA Ceed II SW 1.4 CRDi 16V 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5367,II SW (08/2012 - 06/2015),08/2012,06/2015,37227,KIA Ceed,KIA Ceed II SW 1.6 CRDi 16V S&S 110 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5367,II SW (08/2012 - 06/2015),08/2012,06/2015,37228,KIA Ceed,KIA Ceed II SW 1.6 CRDi 16V S&S 128 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5367,II SW (08/2012 - 06/2015),08/2012,06/2015,37226,KIA Ceed,KIA Ceed II SW 1.6 CRDi 16V 128 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5367,II SW (08/2012 - 06/2015),08/2012,06/2015,37220,KIA Ceed,KIA Ceed II SW 1.4 CRDi 16V S&S 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5367,II SW (08/2012 - 06/2015),08/2012,06/2015,37230,KIA Ceed,KIA Ceed II SW 1.6 GDI 16V 135 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-5367,II SW (08/2012 - 06/2015),08/2012,06/2015,37221,KIA Ceed,KIA Ceed II SW 1.4 i 16V 100 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-5367,II SW (08/2012 - 06/2015),08/2012,06/2015,37231,KIA Ceed,KIA Ceed II SW 1.6 GDI 16V S&S 135 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-5367,II SW (08/2012 - 06/2015),08/2012,06/2015,37222,KIA Ceed,KIA Ceed II SW 1.4 i 16V S&S 100 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-5367,II SW (08/2012 - 06/2015),08/2012,06/2015,37223,KIA Ceed,KIA Ceed II SW 1.6 CRDi 16V 110 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5367,II SW (08/2012 - 06/2015),08/2012,06/2015,37225,KIA Ceed,KIA Ceed II SW 1.6 CRDi 16V 110 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5367,II SW (08/2012 - 06/2015),08/2012,06/2015,37229,KIA Ceed,KIA Ceed II SW 1.6 GDI 16V DCT6 135 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-5367,II SW (08/2012 - 06/2015),08/2012,06/2015,37224,KIA Ceed,KIA Ceed II SW 1.6 CRDi 16V 128 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-7032,XCeed (09/2019 - 10/2021),09/2019,10/2021,60496,KIA Ceed,KIA Ceed XCeed 1.6 CRDi 16V ISG 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-7032,XCeed (09/2019 - 10/2021),09/2019,10/2021,60493,KIA Ceed,KIA Ceed XCeed 1.0 T-GDI 12V GPF ISG 120 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-7032,XCeed (09/2019 - 10/2021),09/2019,10/2021,60494,KIA Ceed,KIA Ceed XCeed 1.4 T-GDI 16V GPF DCT7 ISG 140 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-7032,XCeed (09/2019 - 10/2021),09/2019,10/2021,60500,KIA Ceed,KIA Ceed XCeed 1.6 T-GDI 16V GPF ISG 204 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-7032,XCeed (09/2019 - 10/2021),09/2019,10/2021,65110,KIA Ceed,KIA Ceed XCeed 1.6 CRDi 16V DCT7 ISG 116 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-7032,XCeed (09/2019 - 10/2021),09/2019,10/2021,65107,KIA Ceed,KIA Ceed XCeed 1.6 GDi 16V 141 Plug in Hybrid DCT6 ISG 105 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-7032,XCeed (09/2019 - 10/2021),09/2019,10/2021,65111,KIA Ceed,KIA Ceed XCeed 1.5 T-GDI 16V GPF ISG 159 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-7032,XCeed (09/2019 - 10/2021),09/2019,10/2021,60499,KIA Ceed,KIA Ceed XCeed 1.6 T-GDI 16V GPF DCT7 ISG 204 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-7032,XCeed (09/2019 - 10/2021),09/2019,10/2021,65112,KIA Ceed,KIA Ceed XCeed 1.5 T-GDI 16V GPF DCT7 ISG 159 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-7032,XCeed (09/2019 - 10/2021),09/2019,10/2021,60497,KIA Ceed,KIA Ceed XCeed 1.6 CRDi 16V DCT7 ISG 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-7032,XCeed (09/2019 - 10/2021),09/2019,10/2021,65113,KIA Ceed,KIA Ceed XCeed 1.6 CRDi 16V Eco-Dynamics+ DCT7 ISG 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-7032,XCeed (09/2019 - 10/2021),09/2019,10/2021,60495,KIA Ceed,KIA Ceed XCeed 1.4 T-GDI 16V GPF ISG 140 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-7032,XCeed (09/2019 - 10/2021),09/2019,10/2021,60498,KIA Ceed,KIA Ceed XCeed 1.6 CRDi 16V ISG 136 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-7032,XCeed (09/2019 - 10/2021),09/2019,10/2021,62034,KIA Ceed,KIA Ceed XCeed 1.6 CRDi 16V Eco-Dynamics+ ISG 136 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-7033,Pro Ceed III (03/2019 - 10/2021),03/2019,10/2021,60501,KIA Ceed,KIA Ceed Pro Ceed III 1.0 T-GDI 12V GPF ISG 120 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-7033,Pro Ceed III (03/2019 - 10/2021),03/2019,10/2021,67259,KIA Ceed,KIA Ceed Pro Ceed III 1.5 T-GDI 16V GPF ISG 160 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-7033,Pro Ceed III (03/2019 - 10/2021),03/2019,10/2021,60504,KIA Ceed,KIA Ceed Pro Ceed III 1.6 CRDi 16V DCT7 ISG 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-7033,Pro Ceed III (03/2019 - 10/2021),03/2019,10/2021,67180,KIA Ceed,KIA Ceed Pro Ceed III 1.5 T-GDI 16V GPF Eco-Dynamics+ DCT7 ISG 160 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-7033,Pro Ceed III (03/2019 - 10/2021),03/2019,10/2021,60507,KIA Ceed,KIA Ceed Pro Ceed III GT 1.6 T-GDI 16V GPF ISG 204 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-7033,Pro Ceed III (03/2019 - 10/2021),03/2019,10/2021,60502,KIA Ceed,KIA Ceed Pro Ceed III 1.4 T-GDI 16V GPF DCT7 ISG 140 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-7033,Pro Ceed III (03/2019 - 10/2021),03/2019,10/2021,60506,KIA Ceed,KIA Ceed Pro Ceed III GT 1.6 T-GDI 16V GPF DCT7 ISG 204 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-7033,Pro Ceed III (03/2019 - 10/2021),03/2019,10/2021,60503,KIA Ceed,KIA Ceed Pro Ceed III 1.4 T-GDI 16V GPF ISG 140 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-7033,Pro Ceed III (03/2019 - 10/2021),03/2019,10/2021,60505,KIA Ceed,KIA Ceed Pro Ceed III 1.6 CRDi 16V ISG 136 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-3218,Pro Ceed I (10/2007 - 11/2009),10/2007,11/2009,34218,KIA Ceed,KIA Ceed Pro Ceed I 1.6 i CVVT 16V 126 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-3218,Pro Ceed I (10/2007 - 11/2009),10/2007,11/2009,28202,KIA Ceed,KIA Ceed Pro Ceed I 1.6 CVVT 16V 115 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-3218,Pro Ceed I (10/2007 - 11/2009),10/2007,11/2009,28203,KIA Ceed,KIA Ceed Pro Ceed I 1.6 CVVT 16V 122 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-3218,Pro Ceed I (10/2007 - 11/2009),10/2007,11/2009,68368,KIA Ceed,KIA Ceed Pro Ceed I 1.6 CRDi 16V VGT BVM5 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-3218,Pro Ceed I (10/2007 - 11/2009),10/2007,11/2009,28205,KIA Ceed,KIA Ceed Pro Ceed I 2.0 CRDi 16V VGT 140 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-3218,Pro Ceed I (10/2007 - 11/2009),10/2007,11/2009,31962,KIA Ceed,KIA Ceed Pro Ceed I 1.4 CVVT 16V 105 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-3218,Pro Ceed I (10/2007 - 11/2009),10/2007,11/2009,28199,KIA Ceed,KIA Ceed Pro Ceed I 1.4 CVVT 16V 109 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-3218,Pro Ceed I (10/2007 - 11/2009),10/2007,11/2009,28207,KIA Ceed,KIA Ceed Pro Ceed I 2.0 CVVT 16V 143 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-3218,Pro Ceed I (10/2007 - 11/2009),10/2007,11/2009,68369,KIA Ceed,KIA Ceed Pro Ceed I 1.6 CRDi 16V VGT BVM5 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-3218,Pro Ceed I (10/2007 - 11/2009),10/2007,11/2009,34219,KIA Ceed,KIA Ceed Pro Ceed I 1.6 i CVVT 16V 126 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-3218,Pro Ceed I (10/2007 - 11/2009),10/2007,11/2009,30733,KIA Ceed,KIA Ceed Pro Ceed I 1.6 CRDi 16V VGT 115 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-3218,Pro Ceed I (10/2007 - 11/2009),10/2007,11/2009,31964,KIA Ceed,KIA Ceed Pro Ceed I 2.0 CRDi 16V VGT 136 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-3218,Pro Ceed I (10/2007 - 11/2009),10/2007,11/2009,28201,KIA Ceed,KIA Ceed Pro Ceed I 1.6 CRDi 16V VGT BVM6 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-3218,Pro Ceed I (10/2007 - 11/2009),10/2007,11/2009,40761,KIA Ceed,KIA Ceed Pro Ceed I 2.0 CRDi 16V DPF VGT 140 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-3218,Pro Ceed I (10/2007 - 11/2009),10/2007,11/2009,28206,KIA Ceed,KIA Ceed Pro Ceed I 2.0 CVVT 16V 143 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-3218,Pro Ceed I (10/2007 - 11/2009),10/2007,11/2009,28204,KIA Ceed,KIA Ceed Pro Ceed I 1.6 CVVT 16V 122 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-3218,Pro Ceed I (10/2007 - 11/2009),10/2007,11/2009,28200,KIA Ceed,KIA Ceed Pro Ceed I 1.6 CRDi 16V VGT BVM6 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-3218,Pro Ceed I (10/2007 - 11/2009),10/2007,11/2009,31963,KIA Ceed,KIA Ceed Pro Ceed I 1.6 CVVT 16V 115 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32479,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 1.4 i CVVT 16V 90 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32485,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 1.6 CRDi 16V VGT 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,45922,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 1.6 CRDi 16V DPF VGT 128 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32483,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 1.6 CRDi 16V VGT 128 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32480,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 1.4 i CVVT 16V S&S 90 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,45921,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 1.6 CRDi 16V DPF VGT 115 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,45920,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 1.4 i CVVT 16V 109 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32481,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 1.6 CRDi 16V VGT 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,65136,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 1.6 CRDi 16V DPF VGT S&S 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,65140,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 1.6 i CVVT 16V 126 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32484,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 1.6 CRDi 16V VGT S&S 128 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32487,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 1.6 i CVVT 16V S&S 125 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32490,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 2.0 i CVVT 16V 143 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,65135,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 1.6 CRDi 16V DPF VGT 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,65141,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 1.6 i CVVT 16V S&S 126 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,65138,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 1.6 CRDi 16V DPF VGT S&S 128 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32488,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 2.0 CRDi 16V VGT 140 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,65137,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 1.6 CRDi 16V DPF VGT 128 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32489,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 2.0 i CVVT 16V 143 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,65142,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 2.0 CRDi 16V DPF VGT 140 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,65139,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 1.6 CRDi 16V DPF VGT 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32482,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 1.6 CRDi 16V VGT S&S 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-4876,Pro Ceed I Phase 2 (08/2009 - 12/2011),08/2009,12/2011,32486,KIA Ceed,KIA Ceed Pro Ceed I Phase 2 1.6 i CVVT 16V 125 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6260,II SW Phase 2 (07/2015 - 07/2018),07/2015,07/2018,65106,KIA Ceed,KIA Ceed II SW Phase 2 1.0 T-GDI 12V ISG 120 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6260,II SW Phase 2 (07/2015 - 07/2018),07/2015,07/2018,52256,KIA Ceed,KIA Ceed II SW Phase 2 1.6 GDI 16V DCT6 ISG 135 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-6260,II SW Phase 2 (07/2015 - 07/2018),07/2015,07/2018,52257,KIA Ceed,KIA Ceed II SW Phase 2 1.6 GDI 16V ISG 135 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6260,II SW Phase 2 (07/2015 - 07/2018),07/2015,07/2018,52255,KIA Ceed,KIA Ceed II SW Phase 2 1.6 CRDi 16V ISG 136 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6260,II SW Phase 2 (07/2015 - 07/2018),07/2015,07/2018,52253,KIA Ceed,KIA Ceed II SW Phase 2 1.6 CRDi 16V ISG 110 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6260,II SW Phase 2 (07/2015 - 07/2018),07/2015,07/2018,59762,KIA Ceed,KIA Ceed II SW Phase 2 1.4 MPI 16V 100 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6260,II SW Phase 2 (07/2015 - 07/2018),07/2015,07/2018,52251,KIA Ceed,KIA Ceed II SW Phase 2 1.0 T-GDI 12V ISG 100 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6260,II SW Phase 2 (07/2015 - 07/2018),07/2015,07/2018,52250,KIA Ceed,KIA Ceed II SW Phase 2 1.0 T-GDI 12V 120 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6260,II SW Phase 2 (07/2015 - 07/2018),07/2015,07/2018,52252,KIA Ceed,KIA Ceed II SW Phase 2 1.4 CRDi 16V 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6260,II SW Phase 2 (07/2015 - 07/2018),07/2015,07/2018,52254,KIA Ceed,KIA Ceed II SW Phase 2 1.6 CRDi 16V DCT7 ISG 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5440,Pro Ceed II (02/2013 - 06/2015),02/2013,06/2015,37406,KIA Ceed,KIA Ceed Pro Ceed II 1.6 GDI 16V DCT6 135 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-5440,Pro Ceed II (02/2013 - 06/2015),02/2013,06/2015,37407,KIA Ceed,KIA Ceed Pro Ceed II 1.6 GDI 16V 135 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-5440,Pro Ceed II (02/2013 - 06/2015),02/2013,06/2015,37408,KIA Ceed,KIA Ceed Pro Ceed II 1.6 GDI 16V S&S 135 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-5440,Pro Ceed II (02/2013 - 06/2015),02/2013,06/2015,37405,KIA Ceed,KIA Ceed Pro Ceed II 1.6 CRDi 16V S&S 128 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5440,Pro Ceed II (02/2013 - 06/2015),02/2013,06/2015,49359,KIA Ceed,KIA Ceed Pro Ceed II GT 1.6 GDI 16V 204 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-5440,Pro Ceed II (02/2013 - 06/2015),02/2013,06/2015,37404,KIA Ceed,KIA Ceed Pro Ceed II 1.6 CRDi 16V 128 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5440,Pro Ceed II (02/2013 - 06/2015),02/2013,06/2015,52260,KIA Ceed,KIA Ceed Pro Ceed II 1.6 CRDi 16V 110 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5440,Pro Ceed II (02/2013 - 06/2015),02/2013,06/2015,40759,KIA Ceed,KIA Ceed Pro Ceed II 1.4 CRDi 16V 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5440,Pro Ceed II (02/2013 - 06/2015),02/2013,06/2015,40760,KIA Ceed,KIA Ceed Pro Ceed II 1.4 CVVT 16V 100 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-5440,Pro Ceed II (02/2013 - 06/2015),02/2013,06/2015,37403,KIA Ceed,KIA Ceed Pro Ceed II 1.6 CRDi 16V 128 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5440,Pro Ceed II (02/2013 - 06/2015),02/2013,06/2015,52261,KIA Ceed,KIA Ceed Pro Ceed II 1.6 CRDi 16V S&S 110 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-5440,Pro Ceed II (02/2013 - 06/2015),02/2013,06/2015,52259,KIA Ceed,KIA Ceed Pro Ceed II 1.6 CRDi 16V 110 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6773,III SW (07/2018 - 10/2021),07/2018,10/2021,62032,KIA Ceed,KIA Ceed III SW 1.6 CRDi 16V Eco-Dynamics+ DCT7 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6773,III SW (07/2018 - 10/2021),07/2018,10/2021,58978,KIA Ceed,KIA Ceed III SW 1.6 CRDi 16V ISG 115 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6773,III SW (07/2018 - 10/2021),07/2018,10/2021,58979,KIA Ceed,KIA Ceed III SW 1.6 CRDi 16V DCT7 ISG 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6773,III SW (07/2018 - 10/2021),07/2018,10/2021,65150,KIA Ceed,KIA Ceed III SW 1.6 GDI 16V 141 Plug in Hybrid DCT6 ISG 105 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-6773,III SW (07/2018 - 10/2021),07/2018,10/2021,58975,KIA Ceed,KIA Ceed III SW 1.4 T-GDI 16V GPF DCT7 ISG 140 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-6773,III SW (07/2018 - 10/2021),07/2018,10/2021,58976,KIA Ceed,KIA Ceed III SW 1.4 T-GDI 16V GPF ISG 140 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6773,III SW (07/2018 - 10/2021),07/2018,10/2021,58980,KIA Ceed,KIA Ceed III SW 1.6 CRDi 16V ISG 136 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6773,III SW (07/2018 - 10/2021),07/2018,10/2021,67181,KIA Ceed,KIA Ceed III SW 1.5 T-GDI 16V GPF Eco-Dynamics+ DCT7 ISG 160 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-6773,III SW (07/2018 - 10/2021),07/2018,10/2021,62033,KIA Ceed,KIA Ceed III SW 1.6 CRDi 16V Eco-Dynamics+ 136 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6773,III SW (07/2018 - 10/2021),07/2018,10/2021,58974,KIA Ceed,KIA Ceed III SW 1.0 T-GDI 12V GPF ISG 120 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6773,III SW (07/2018 - 10/2021),07/2018,10/2021,60492,KIA Ceed,KIA Ceed III SW 1.4 i CVVT 16V GPF ISG 100 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6773,III SW (07/2018 - 10/2021),07/2018,10/2021,58977,KIA Ceed,KIA Ceed III SW 1.6 CRDi 16V DCT7 ISG 115 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6261,Pro Ceed II Phase 2 (07/2015 - 03/2019),07/2015,03/2019,59761,KIA Ceed,KIA Ceed Pro Ceed II Phase 2 1.4 MPI 16V 100 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6261,Pro Ceed II Phase 2 (07/2015 - 03/2019),07/2015,03/2019,52244,KIA Ceed,KIA Ceed Pro Ceed II Phase 2 1.4 CRDi 16V 90 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6261,Pro Ceed II Phase 2 (07/2015 - 03/2019),07/2015,03/2019,52249,KIA Ceed,KIA Ceed Pro Ceed II Phase 2 1.6 GDI 16V ISG 135 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6261,Pro Ceed II Phase 2 (07/2015 - 03/2019),07/2015,03/2019,52242,KIA Ceed,KIA Ceed Pro Ceed II Phase 2 1.0 T-GDI 12V ISG 120 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6261,Pro Ceed II Phase 2 (07/2015 - 03/2019),07/2015,03/2019,52246,KIA Ceed,KIA Ceed Pro Ceed II Phase 2 1.6 CRDi 16V DCT7 ISG 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6261,Pro Ceed II Phase 2 (07/2015 - 03/2019),07/2015,03/2019,52248,KIA Ceed,KIA Ceed Pro Ceed II Phase 2 1.6 GDI 16V DCT6 ISG 135 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-6261,Pro Ceed II Phase 2 (07/2015 - 03/2019),07/2015,03/2019,52243,KIA Ceed,KIA Ceed Pro Ceed II Phase 2 1.0 T-GDI 12V ISG 100 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-6261,Pro Ceed II Phase 2 (07/2015 - 03/2019),07/2015,03/2019,52247,KIA Ceed,KIA Ceed Pro Ceed II Phase 2 1.6 CRDi 16V ISG 136 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-6261,Pro Ceed II Phase 2 (07/2015 - 03/2019),07/2015,03/2019,52245,KIA Ceed,KIA Ceed Pro Ceed II Phase 2 1.6 CRDi 16V ISG 110 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-7396,Pro Ceed III Phase 2 (10/2021 - Aujourd'hui),10/2021,,65155,KIA Ceed,KIA Ceed Pro Ceed III Phase 2 1.5 T-GDI 16V GPF ISG 160 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-7396,Pro Ceed III Phase 2 (10/2021 - Aujourd'hui),10/2021,,65154,KIA Ceed,KIA Ceed Pro Ceed III Phase 2 1.5 T-GDI 16V GPF DCT7 ISG 160 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-7396,Pro Ceed III Phase 2 (10/2021 - Aujourd'hui),10/2021,,65153,KIA Ceed,KIA Ceed Pro Ceed III Phase 2 1.0 T-GDI 12V GPF ISG 120 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-7396,Pro Ceed III Phase 2 (10/2021 - Aujourd'hui),10/2021,,65156,KIA Ceed,KIA Ceed Pro Ceed III Phase 2 GT 1.6 T-GDI 16V GPF DCT7 ISG 204 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-7397,XCeed Phase 2 (10/2021 - Aujourd'hui),10/2021,,65117,KIA Ceed,KIA Ceed XCeed Phase 2 1.6 GDI 16V 141 Plug in Hybrid DCT6 ISG 105 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-7397,XCeed Phase 2 (10/2021 - Aujourd'hui),10/2021,,65118,KIA Ceed,KIA Ceed XCeed Phase 2 1.5 T-GDI 16V GPF ISG 159 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-7397,XCeed Phase 2 (10/2021 - Aujourd'hui),10/2021,,65115,KIA Ceed,KIA Ceed XCeed Phase 2 1.6 CRDi 16V Eco-Dynamics+ ISG 136 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-7397,XCeed Phase 2 (10/2021 - Aujourd'hui),10/2021,,65116,KIA Ceed,KIA Ceed XCeed Phase 2 1.6 T-GDI 16V GPF DCT7 ISG 204 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-7397,XCeed Phase 2 (10/2021 - Aujourd'hui),10/2021,,65114,KIA Ceed,KIA Ceed XCeed Phase 2 1.6 CRDi 16V Eco-Dynamics+ DCT7 ISG 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-7397,XCeed Phase 2 (10/2021 - Aujourd'hui),10/2021,,65119,KIA Ceed,KIA Ceed XCeed Phase 2 1.5 T-GDI 16V GPF DCT7 ISG 159 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-7395,III SW Phase 2 (10/2021 - Aujourd'hui),10/2021,,65146,KIA Ceed,KIA Ceed III SW Phase 2 1.5 T-GDI 16V GPF ISG 159 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-7395,III SW Phase 2 (10/2021 - Aujourd'hui),10/2021,,65144,KIA Ceed,KIA Ceed III SW Phase 2 1.0 T-GDI 12V GPF ISG 120 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-7395,III SW Phase 2 (10/2021 - Aujourd'hui),10/2021,,65145,KIA Ceed,KIA Ceed III SW Phase 2 1.5 T-GDI 16V GPF DCT7 ISG 159 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-7395,III SW Phase 2 (10/2021 - Aujourd'hui),10/2021,,65143,KIA Ceed,KIA Ceed III SW Phase 2 1.0 T-GDI 12V GPF ISG 100 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-7395,III SW Phase 2 (10/2021 - Aujourd'hui),10/2021,,65151,KIA Ceed,KIA Ceed III SW Phase 2 1.6 T-GDI 16V 141 Plug in Hybrid DCT6 ISG 141 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-7395,III SW Phase 2 (10/2021 - Aujourd'hui),10/2021,,65148,KIA Ceed,KIA Ceed III SW Phase 2 1.6 CRDi 16V Eco-Dynamics+ ISG 136 cv,Diesel
+ma-114,KIA,fa-369,Ceed,mo-7395,III SW Phase 2 (10/2021 - Aujourd'hui),10/2021,,65147,KIA Ceed,KIA Ceed III SW Phase 2 1.6 CRDi 16V Eco-Dynamics+ DCT7 ISG 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-7394,III Hatchback Phase 2 (10/2021 - Aujourd'hui),10/2021,,65087,KIA Ceed,KIA Ceed III Hatchback Phase 2 GT 1.6 T-GDI 16V GPF DCT7 ISG 204 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-7394,III Hatchback Phase 2 (10/2021 - Aujourd'hui),10/2021,,65085,KIA Ceed,KIA Ceed III Hatchback Phase 2 1.5 T-GDI 16V GPF DCT7 ISG 159 cv Boîte auto,Essence
+ma-114,KIA,fa-369,Ceed,mo-7394,III Hatchback Phase 2 (10/2021 - Aujourd'hui),10/2021,,65086,KIA Ceed,KIA Ceed III Hatchback Phase 2 1.5 T-GDI 16V GPF ISG 159 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-7394,III Hatchback Phase 2 (10/2021 - Aujourd'hui),10/2021,,65089,KIA Ceed,KIA Ceed III Hatchback Phase 2 1.6 CRDi 16V Eco-Dynamics+ DCT7 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-369,Ceed,mo-7394,III Hatchback Phase 2 (10/2021 - Aujourd'hui),10/2021,,65084,KIA Ceed,KIA Ceed III Hatchback Phase 2 1.0 T-GDI 12V GPF ISG 120 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-7394,III Hatchback Phase 2 (10/2021 - Aujourd'hui),10/2021,,65083,KIA Ceed,KIA Ceed III Hatchback Phase 2 1.0 T-GDI 12V GPF ISG 100 cv,Essence
+ma-114,KIA,fa-369,Ceed,mo-7394,III Hatchback Phase 2 (10/2021 - Aujourd'hui),10/2021,,65088,KIA Ceed,KIA Ceed III Hatchback Phase 2 1.6 CRDi 16V Eco-Dynamics+ 136 cv,Diesel
+ma-114,KIA,fa-385,Rio,mo-5094,III (IH) 5 portes (06/2011 - 08/2014),06/2011,08/2014,34228,KIA Rio,KIA Rio III (IH) 5 portes 1.4 CRDi 16V 90 cv,Diesel
+ma-114,KIA,fa-385,Rio,mo-5094,III (IH) 5 portes (06/2011 - 08/2014),06/2011,08/2014,34230,KIA Rio,KIA Rio III (IH) 5 portes 1.4 i-CVVT 16V 109 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5094,III (IH) 5 portes (06/2011 - 08/2014),06/2011,08/2014,34227,KIA Rio,KIA Rio III (IH) 5 portes 1.2 i-CVVT 16V 85 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5094,III (IH) 5 portes (06/2011 - 08/2014),06/2011,08/2014,34226,KIA Rio,KIA Rio III (IH) 5 portes 1.1 CRDi DPF 12V 75 cv,Diesel
+ma-114,KIA,fa-385,Rio,mo-5094,III (IH) 5 portes (06/2011 - 08/2014),06/2011,08/2014,62027,KIA Rio,KIA Rio III (IH) 5 portes 1.6 i-CVVT 16V 122 cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5094,III (IH) 5 portes (06/2011 - 08/2014),06/2011,08/2014,34229,KIA Rio,KIA Rio III (IH) 5 portes 1.4 i-CVVT 16V 109 cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5094,III (IH) 5 portes (06/2011 - 08/2014),06/2011,08/2014,62028,KIA Rio,KIA Rio III (IH) 5 portes 1.6 i-CVVT 16V 122 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6523,IV (11/2016 - 09/2020),11/2016,09/2020,56438,KIA Rio,KIA Rio IV 1.4 i-CVVT 16V 100 cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-6523,IV (11/2016 - 09/2020),11/2016,09/2020,58914,KIA Rio,KIA Rio IV 1.0 GDi 12V DCT7 ISG 120 cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-6523,IV (11/2016 - 09/2020),11/2016,09/2020,58915,KIA Rio,KIA Rio IV 1.0 GDi 12V ISG 120 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6523,IV (11/2016 - 09/2020),11/2016,09/2020,56435,KIA Rio,KIA Rio IV 1.2 i-CVVT 16V 84 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6523,IV (11/2016 - 09/2020),11/2016,09/2020,56436,KIA Rio,KIA Rio IV 1.4 CRDi 16V 77 cv,Diesel
+ma-114,KIA,fa-385,Rio,mo-6523,IV (11/2016 - 09/2020),11/2016,09/2020,56437,KIA Rio,KIA Rio IV 1.4 CRDi 16V 90 cv,Diesel
+ma-114,KIA,fa-385,Rio,mo-6523,IV (11/2016 - 09/2020),11/2016,09/2020,56439,KIA Rio,KIA Rio IV 1.4 i-CVVT 16V 100 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6523,IV (11/2016 - 09/2020),11/2016,09/2020,56434,KIA Rio,KIA Rio IV 1.0 GDi 12V ISG 100 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6284,III (IH) Phase 2 5 Portes (09/2014 - 10/2016),09/2014,10/2016,50090,KIA Rio,KIA Rio III (IH) Phase 2 5 Portes 1.4 i-CVVT 16V ISG 109 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6284,III (IH) Phase 2 5 Portes (09/2014 - 10/2016),09/2014,10/2016,50083,KIA Rio,KIA Rio III (IH) Phase 2 5 Portes 1.1 CRDi 12V 75 cv,Diesel
+ma-114,KIA,fa-385,Rio,mo-6284,III (IH) Phase 2 5 Portes (09/2014 - 10/2016),09/2014,10/2016,50088,KIA Rio,KIA Rio III (IH) Phase 2 5 Portes 1.4 i-CVVT 16V 109 cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-6284,III (IH) Phase 2 5 Portes (09/2014 - 10/2016),09/2014,10/2016,50084,KIA Rio,KIA Rio III (IH) Phase 2 5 Portes 1.1 CRDi 12V ISG 75 cv,Diesel
+ma-114,KIA,fa-385,Rio,mo-6284,III (IH) Phase 2 5 Portes (09/2014 - 10/2016),09/2014,10/2016,50089,KIA Rio,KIA Rio III (IH) Phase 2 5 Portes 1.4 i-CVVT 16V 109 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6284,III (IH) Phase 2 5 Portes (09/2014 - 10/2016),09/2014,10/2016,50085,KIA Rio,KIA Rio III (IH) Phase 2 5 Portes 1.2 i-CVVT 16V 85 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6284,III (IH) Phase 2 5 Portes (09/2014 - 10/2016),09/2014,10/2016,50087,KIA Rio,KIA Rio III (IH) Phase 2 5 Portes 1.4 CRDi 16V ISG 90 cv,Diesel
+ma-114,KIA,fa-385,Rio,mo-6284,III (IH) Phase 2 5 Portes (09/2014 - 10/2016),09/2014,10/2016,50086,KIA Rio,KIA Rio III (IH) Phase 2 5 Portes 1.4 CRDi 16V 90 cv,Diesel
+ma-114,KIA,fa-385,Rio,mo-5092,II (BN) Phase 2 (09/2006 - 05/2011),09/2006,05/2011,34233,KIA Rio,KIA Rio II (BN) Phase 2 1.4 i CVVT 16V 97 cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5092,II (BN) Phase 2 (09/2006 - 05/2011),09/2006,05/2011,34234,KIA Rio,KIA Rio II (BN) Phase 2 1.4 i CVVT 16V 97 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5092,II (BN) Phase 2 (09/2006 - 05/2011),09/2006,05/2011,34239,KIA Rio,KIA Rio II (BN) Phase 2 1.6 i CVVT 112 16V 112 cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5092,II (BN) Phase 2 (09/2006 - 05/2011),09/2006,05/2011,34235,KIA Rio,KIA Rio II (BN) Phase 2 1.5 CRDi 16V 110 cv Boîte auto,Diesel
+ma-114,KIA,fa-385,Rio,mo-5092,II (BN) Phase 2 (09/2006 - 05/2011),09/2006,05/2011,34231,KIA Rio,KIA Rio II (BN) Phase 2 1.4 i 16V 97 cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5092,II (BN) Phase 2 (09/2006 - 05/2011),09/2006,05/2011,34240,KIA Rio,KIA Rio II (BN) Phase 2 1.6 i CVVT 112 16V 112 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5092,II (BN) Phase 2 (09/2006 - 05/2011),09/2006,05/2011,34232,KIA Rio,KIA Rio II (BN) Phase 2 1.4 i 16V 97 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5092,II (BN) Phase 2 (09/2006 - 05/2011),09/2006,05/2011,34238,KIA Rio,KIA Rio II (BN) Phase 2 1.6 i 16V 112 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5092,II (BN) Phase 2 (09/2006 - 05/2011),09/2006,05/2011,34236,KIA Rio,KIA Rio II (BN) Phase 2 1.5 CRDi 16V 110 cv,Diesel
+ma-114,KIA,fa-385,Rio,mo-5092,II (BN) Phase 2 (09/2006 - 05/2011),09/2006,05/2011,34237,KIA Rio,KIA Rio II (BN) Phase 2 1.6 i 16V 112 cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5092,II (BN) Phase 2 (09/2006 - 05/2011),09/2006,05/2011,41808,KIA Rio,KIA Rio II (BN) Phase 2 1.5 CRDi 16V 88 cv,Diesel
+ma-114,KIA,fa-385,Rio,mo-5210,III (IH) 3 portes (01/2012 - 08/2014),01/2012,08/2014,34907,KIA Rio,KIA Rio III (IH) 3 portes 1.4 CRDi 16V 90 cv,Diesel
+ma-114,KIA,fa-385,Rio,mo-5210,III (IH) 3 portes (01/2012 - 08/2014),01/2012,08/2014,34905,KIA Rio,KIA Rio III (IH) 3 portes 1.1 CRDi DPF 12V 75 cv,Diesel
+ma-114,KIA,fa-385,Rio,mo-5210,III (IH) 3 portes (01/2012 - 08/2014),01/2012,08/2014,57970,KIA Rio,KIA Rio III (IH) 3 portes 1.4 i-CVVT 16V 109 cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5210,III (IH) 3 portes (01/2012 - 08/2014),01/2012,08/2014,34906,KIA Rio,KIA Rio III (IH) 3 portes 1.2 i-CVVT 16V 85 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5210,III (IH) 3 portes (01/2012 - 08/2014),01/2012,08/2014,34908,KIA Rio,KIA Rio III (IH) 3 portes 1.4 i-CVVT 16V 109 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-7227,IV Phase 2 (09/2020 - Aujourd'hui),09/2020,,61795,KIA Rio,KIA Rio IV Phase 2 1.0 T-GDi 12V MHEV DCT7 ISG 120 cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-7227,IV Phase 2 (09/2020 - Aujourd'hui),09/2020,,65407,KIA Rio,KIA Rio IV Phase 2 1.0 T-GDi 12V MHEV ISG 101 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-7227,IV Phase 2 (09/2020 - Aujourd'hui),09/2020,,61796,KIA Rio,KIA Rio IV Phase 2 1.0 T-GDi 12V MHEV ISG 120 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-7227,IV Phase 2 (09/2020 - Aujourd'hui),09/2020,,62352,KIA Rio,KIA Rio IV Phase 2 1.2 i-CVVT 16V ISG 84 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-7227,IV Phase 2 (09/2020 - Aujourd'hui),09/2020,,62351,KIA Rio,KIA Rio IV Phase 2 1.0 T-GDi 12V ISG 101 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-7227,IV Phase 2 (09/2020 - Aujourd'hui),09/2020,,65408,KIA Rio,KIA Rio IV Phase 2 1.0 T-GDI 12V DCT7 ISG 101 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5096,II (BN) (06/2005 - 12/2006),06/2005,12/2006,4476,KIA Rio,KIA Rio II (BN) 1.6 i 16V 112cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5096,II (BN) (06/2005 - 12/2006),06/2005,12/2006,15191,KIA Rio,KIA Rio II (BN) 1.6 i 16V 112cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5096,II (BN) (06/2005 - 12/2006),06/2005,12/2006,15189,KIA Rio,KIA Rio II (BN) 1.4 i 16V 97cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5096,II (BN) (06/2005 - 12/2006),06/2005,12/2006,15190,KIA Rio,KIA Rio II (BN) 1.5 CRDi 16V 110cv,Diesel
+ma-114,KIA,fa-385,Rio,mo-5096,II (BN) (06/2005 - 12/2006),06/2005,12/2006,4474,KIA Rio,KIA Rio II (BN) 1.5 CRDi 16V 110cv Boîte auto,Diesel
+ma-114,KIA,fa-385,Rio,mo-5096,II (BN) (06/2005 - 12/2006),06/2005,12/2006,4472,KIA Rio,KIA Rio II (BN) 1.4 i 16V 97cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-6285,III (IH) Phase 2 3 Portes (09/2014 - 10/2016),09/2014,10/2016,50077,KIA Rio,KIA Rio III (IH) Phase 2 3 Portes 1.2 i-CVVT 16V 85 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6285,III (IH) Phase 2 3 Portes (09/2014 - 10/2016),09/2014,10/2016,50078,KIA Rio,KIA Rio III (IH) Phase 2 3 Portes 1.4 CRDi 16V 90 cv,Diesel
+ma-114,KIA,fa-385,Rio,mo-6285,III (IH) Phase 2 3 Portes (09/2014 - 10/2016),09/2014,10/2016,50081,KIA Rio,KIA Rio III (IH) Phase 2 3 Portes 1.4 i-CVVT 16V 109 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6285,III (IH) Phase 2 3 Portes (09/2014 - 10/2016),09/2014,10/2016,50079,KIA Rio,KIA Rio III (IH) Phase 2 3 Portes 1.4 CRDi 16V ISG 90 cv,Diesel
+ma-114,KIA,fa-385,Rio,mo-6285,III (IH) Phase 2 3 Portes (09/2014 - 10/2016),09/2014,10/2016,50082,KIA Rio,KIA Rio III (IH) Phase 2 3 Portes 1.4 i-CVVT 16V ISG 109 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6285,III (IH) Phase 2 3 Portes (09/2014 - 10/2016),09/2014,10/2016,50080,KIA Rio,KIA Rio III (IH) Phase 2 3 Portes 1.4 i-CVVT 16V 109 cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5093,II (BN) Phase 2 Sedan (09/2006 - 05/2011),09/2006,05/2011,34247,KIA Rio,KIA Rio II (BN) Phase 2 Sedan 1.6 i 16V 112 cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5093,II (BN) Phase 2 Sedan (09/2006 - 05/2011),09/2006,05/2011,34241,KIA Rio,KIA Rio II (BN) Phase 2 Sedan 1.4 i 16V 97 cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5093,II (BN) Phase 2 Sedan (09/2006 - 05/2011),09/2006,05/2011,34245,KIA Rio,KIA Rio II (BN) Phase 2 Sedan 1.5 CRDi 16V 110 cv Boîte auto,Diesel
+ma-114,KIA,fa-385,Rio,mo-5093,II (BN) Phase 2 Sedan (09/2006 - 05/2011),09/2006,05/2011,34248,KIA Rio,KIA Rio II (BN) Phase 2 Sedan 1.6 i 16V 112 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5093,II (BN) Phase 2 Sedan (09/2006 - 05/2011),09/2006,05/2011,34244,KIA Rio,KIA Rio II (BN) Phase 2 Sedan 1.4 i CVVT 16V 97 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5093,II (BN) Phase 2 Sedan (09/2006 - 05/2011),09/2006,05/2011,34243,KIA Rio,KIA Rio II (BN) Phase 2 Sedan 1.4 i CVVT 16V 97 cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5093,II (BN) Phase 2 Sedan (09/2006 - 05/2011),09/2006,05/2011,34246,KIA Rio,KIA Rio II (BN) Phase 2 Sedan 1.5 CRDi 16V 110 cv,Diesel
+ma-114,KIA,fa-385,Rio,mo-5093,II (BN) Phase 2 Sedan (09/2006 - 05/2011),09/2006,05/2011,34242,KIA Rio,KIA Rio II (BN) Phase 2 Sedan 1.4 i 16V 97 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5093,II (BN) Phase 2 Sedan (09/2006 - 05/2011),09/2006,05/2011,34249,KIA Rio,KIA Rio II (BN) Phase 2 Sedan 1.6 i CVVT 16V 112 cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5093,II (BN) Phase 2 Sedan (09/2006 - 05/2011),09/2006,05/2011,34250,KIA Rio,KIA Rio II (BN) Phase 2 Sedan 1.6 i CVVT 16V 112 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6283,III (IH) Sedan (06/2011 - 12/2014),06/2011,12/2014,50076,KIA Rio,KIA Rio III (IH) Sedan 1.4 i-CVVT 16V ISG 109 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6283,III (IH) Sedan (06/2011 - 12/2014),06/2011,12/2014,50075,KIA Rio,KIA Rio III (IH) Sedan 1.4 i-CVVT 16V 109 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6283,III (IH) Sedan (06/2011 - 12/2014),06/2011,12/2014,50072,KIA Rio,KIA Rio III (IH) Sedan 1.2 i-CVVT 16V 85 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6283,III (IH) Sedan (06/2011 - 12/2014),06/2011,12/2014,62465,KIA Rio,KIA Rio III (IH) Sedan 1.6 i-CVVT 16V 122 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6283,III (IH) Sedan (06/2011 - 12/2014),06/2011,12/2014,50073,KIA Rio,KIA Rio III (IH) Sedan 1.2 i-CVVT 16V ISG 85 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6283,III (IH) Sedan (06/2011 - 12/2014),06/2011,12/2014,50074,KIA Rio,KIA Rio III (IH) Sedan 1.4 i-CVVT 16V 109 cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-6283,III (IH) Sedan (06/2011 - 12/2014),06/2011,12/2014,62464,KIA Rio,KIA Rio III (IH) Sedan 1.6 i-CVVT 16V 122 cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5091,I (FD) Break (07/2000 - 05/2005),07/2000,05/2005,15192,KIA Rio,KIA Rio I (FD) Break 1.5 i 16V 96cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5091,I (FD) Break (07/2000 - 05/2005),07/2000,05/2005,36905,KIA Rio,KIA Rio I (FD) Break 1.3 i 75 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5091,I (FD) Break (07/2000 - 05/2005),07/2000,05/2005,4480,KIA Rio,KIA Rio I (FD) Break 1.5 i 16V 96cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5091,I (FD) Break (07/2000 - 05/2005),07/2000,05/2005,4478,KIA Rio,KIA Rio I (FD) Break 1.3 i 82cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5089,I (FD) (07/2000 - 05/2005),07/2000,05/2005,20573,KIA Rio,KIA Rio I (FD) 1.3 i 75cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5089,I (FD) (07/2000 - 05/2005),07/2000,05/2005,67503,KIA Rio,KIA Rio I (FD) 1.5 i 16V 98cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5089,I (FD) (07/2000 - 05/2005),07/2000,05/2005,67502,KIA Rio,KIA Rio I (FD) 1.5 i 16V 98cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5089,I (FD) (07/2000 - 05/2005),07/2000,05/2005,20574,KIA Rio,KIA Rio I (FD) 1.3 i 75cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5089,I (FD) (07/2000 - 05/2005),07/2000,05/2005,4481,KIA Rio,KIA Rio I (FD) 1.5 i 16V 96cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5089,I (FD) (07/2000 - 05/2005),07/2000,05/2005,15193,KIA Rio,KIA Rio I (FD) 1.5 i 16V 96cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5089,I (FD) (07/2000 - 05/2005),07/2000,05/2005,4479,KIA Rio,KIA Rio I (FD) 1.3 i 82cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6286,III (IH) Phase 2 Sedan (09/2014 - 10/2016),09/2014,10/2016,50094,KIA Rio,KIA Rio III (IH) Phase 2 Sedan 1.4 i-CVVT 16V 109 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6286,III (IH) Phase 2 Sedan (09/2014 - 10/2016),09/2014,10/2016,50092,KIA Rio,KIA Rio III (IH) Phase 2 Sedan 1.2 i-CVVT 16V ISG 85 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6286,III (IH) Phase 2 Sedan (09/2014 - 10/2016),09/2014,10/2016,50095,KIA Rio,KIA Rio III (IH) Phase 2 Sedan 1.4 i-CVVT 16V ISG 109 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6286,III (IH) Phase 2 Sedan (09/2014 - 10/2016),09/2014,10/2016,50091,KIA Rio,KIA Rio III (IH) Phase 2 Sedan 1.2 i-CVVT 16V 85 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-6286,III (IH) Phase 2 Sedan (09/2014 - 10/2016),09/2014,10/2016,50093,KIA Rio,KIA Rio III (IH) Phase 2 Sedan 1.4 i-CVVT 16V 109 cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5090,I (FD) Sedan (07/2000 - 05/2005),07/2000,05/2005,6353,KIA Rio,KIA Rio I (FD) Sedan 1.3 i 75cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5090,I (FD) Sedan (07/2000 - 05/2005),07/2000,05/2005,6354,KIA Rio,KIA Rio I (FD) Sedan 1.3 i 75cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5090,I (FD) Sedan (07/2000 - 05/2005),07/2000,05/2005,57751,KIA Rio,KIA Rio I (FD) Sedan 1.3 i 82 cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5090,I (FD) Sedan (07/2000 - 05/2005),07/2000,05/2005,15194,KIA Rio,KIA Rio I (FD) Sedan 1.5 i 16V 96cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5090,I (FD) Sedan (07/2000 - 05/2005),07/2000,05/2005,4482,KIA Rio,KIA Rio I (FD) Sedan 1.5 i 16V 96cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5095,II (BN) Sedan (06/2005 - 12/2006),06/2005,12/2006,20571,KIA Rio,KIA Rio II (BN) Sedan 1.5 CRDi 16V 110cv Boîte auto,Diesel
+ma-114,KIA,fa-385,Rio,mo-5095,II (BN) Sedan (06/2005 - 12/2006),06/2005,12/2006,4475,KIA Rio,KIA Rio II (BN) Sedan 1.5 CRDi 16V 110cv,Diesel
+ma-114,KIA,fa-385,Rio,mo-5095,II (BN) Sedan (06/2005 - 12/2006),06/2005,12/2006,4473,KIA Rio,KIA Rio II (BN) Sedan 1.4 i 16V 97cv,Essence
+ma-114,KIA,fa-385,Rio,mo-5095,II (BN) Sedan (06/2005 - 12/2006),06/2005,12/2006,20570,KIA Rio,KIA Rio II (BN) Sedan 1.4 i 16V 97cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5095,II (BN) Sedan (06/2005 - 12/2006),06/2005,12/2006,4477,KIA Rio,KIA Rio II (BN) Sedan 1.6 i 16V 112cv Boîte auto,Essence
+ma-114,KIA,fa-385,Rio,mo-5095,II (BN) Sedan (06/2005 - 12/2006),06/2005,12/2006,20572,KIA Rio,KIA Rio II (BN) Sedan 1.6 i 16V 112cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-1575,(SA) (01/2004 - 12/2007),01/2004,12/2007,20568,KIA Picanto,KIA Picanto (SA) 1.1 CRDi 12V 75 cv,Diesel
+ma-114,KIA,fa-381,Picanto,mo-1575,(SA) (01/2004 - 12/2007),01/2004,12/2007,15183,KIA Picanto,KIA Picanto (SA) 1.1 12V 65 cv Boîte auto,Essence
+ma-114,KIA,fa-381,Picanto,mo-1575,(SA) (01/2004 - 12/2007),01/2004,12/2007,4465,KIA Picanto,KIA Picanto (SA) 1.1 12V 65 cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-1575,(SA) (01/2004 - 12/2007),01/2004,12/2007,4464,KIA Picanto,KIA Picanto (SA) 1.0 12V 61 cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-3416,(SA) Phase 2 (12/2007 - 04/2011),12/2007,04/2011,28212,KIA Picanto,KIA Picanto (SA) Phase 2 1.1 12V 65 cv Boîte auto,Essence
+ma-114,KIA,fa-381,Picanto,mo-3416,(SA) Phase 2 (12/2007 - 04/2011),12/2007,04/2011,28213,KIA Picanto,KIA Picanto (SA) Phase 2 1.1 12V 65 cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-3416,(SA) Phase 2 (12/2007 - 04/2011),12/2007,04/2011,28211,KIA Picanto,KIA Picanto (SA) Phase 2 1.0 12V 62 cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-3416,(SA) Phase 2 (12/2007 - 04/2011),12/2007,04/2011,28214,KIA Picanto,KIA Picanto (SA) Phase 2 1.1 CRDi 12V 75 cv,Diesel
+ma-114,KIA,fa-381,Picanto,mo-6651,(JA) (03/2017 - 07/2020),03/2017,07/2020,59001,KIA Picanto,KIA Picanto (JA) 1.0 T-GDI 12V 100 cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-6651,(JA) (03/2017 - 07/2020),03/2017,07/2020,59694,KIA Picanto,KIA Picanto (JA) 1.0 T-GDI 12V GPF 100 cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-6651,(JA) (03/2017 - 07/2020),03/2017,07/2020,59693,KIA Picanto,KIA Picanto (JA) 1.0 MPi 12V 67 cv Boîte auto,Essence
+ma-114,KIA,fa-381,Picanto,mo-6651,(JA) (03/2017 - 07/2020),03/2017,07/2020,57749,KIA Picanto,KIA Picanto (JA) 1.2 MPi 16V 84 cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-6651,(JA) (03/2017 - 07/2020),03/2017,07/2020,58474,KIA Picanto,KIA Picanto (JA) 1.2 MPi 16V 84 cv Boîte auto,Essence
+ma-114,KIA,fa-381,Picanto,mo-6651,(JA) (03/2017 - 07/2020),03/2017,07/2020,57748,KIA Picanto,KIA Picanto (JA) 1.0 MPi 12V 67 cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-5212,(TA) 5 Portes (05/2011 - 01/2015),05/2011,01/2015,33040,KIA Picanto,KIA Picanto (TA) 5 Portes 1.2 MPi 16V 85 cv Boîte auto,Essence
+ma-114,KIA,fa-381,Picanto,mo-5212,(TA) 5 Portes (05/2011 - 01/2015),05/2011,01/2015,46860,KIA Picanto,KIA Picanto (TA) 5 Portes 1.0 MPi 12V LPG 66 cv,GPL
+ma-114,KIA,fa-381,Picanto,mo-5212,(TA) 5 Portes (05/2011 - 01/2015),05/2011,01/2015,33041,KIA Picanto,KIA Picanto (TA) 5 Portes 1.2 MPi 16V Stop and Go 85 cv Boîte auto,Essence
+ma-114,KIA,fa-381,Picanto,mo-5212,(TA) 5 Portes (05/2011 - 01/2015),05/2011,01/2015,33038,KIA Picanto,KIA Picanto (TA) 5 Portes 1.0 MPi 12V 69 cv Boîte auto,Essence
+ma-114,KIA,fa-381,Picanto,mo-5212,(TA) 5 Portes (05/2011 - 01/2015),05/2011,01/2015,33043,KIA Picanto,KIA Picanto (TA) 5 Portes 1.2 MPi 16V Stop and Go 85 cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-5212,(TA) 5 Portes (05/2011 - 01/2015),05/2011,01/2015,34225,KIA Picanto,KIA Picanto (TA) 5 Portes 1.0 MPi 12V LPG 82 cv,GPL
+ma-114,KIA,fa-381,Picanto,mo-5212,(TA) 5 Portes (05/2011 - 01/2015),05/2011,01/2015,33039,KIA Picanto,KIA Picanto (TA) 5 Portes 1.0 MPi 12V 69 cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-5212,(TA) 5 Portes (05/2011 - 01/2015),05/2011,01/2015,33042,KIA Picanto,KIA Picanto (TA) 5 Portes 1.2 MPi 16V 85 cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-6054,(TA) Phase 2 HB 5P (02/2015 - 03/2017),02/2015,03/2017,46858,KIA Picanto,KIA Picanto (TA) Phase 2 HB 5P 1.2 MPi 16V 85 cv Boîte auto,Essence
+ma-114,KIA,fa-381,Picanto,mo-6054,(TA) Phase 2 HB 5P (02/2015 - 03/2017),02/2015,03/2017,46857,KIA Picanto,KIA Picanto (TA) Phase 2 HB 5P 1.0 MPi 12V 66 cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-6054,(TA) Phase 2 HB 5P (02/2015 - 03/2017),02/2015,03/2017,46859,KIA Picanto,KIA Picanto (TA) Phase 2 HB 5P 1.2 MPi 16V 85 cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-6054,(TA) Phase 2 HB 5P (02/2015 - 03/2017),02/2015,03/2017,56433,KIA Picanto,KIA Picanto (TA) Phase 2 HB 5P 1.0 MPi 12V LPG 66 cv,Flex Fuel
+ma-114,KIA,fa-381,Picanto,mo-7428,(JA) Phase 2 (07/2020 - Aujourd'hui),07/2020,,65401,KIA Picanto,KIA Picanto (JA) Phase 2 1.2 DPI 16V ISG 84 cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-7428,(JA) Phase 2 (07/2020 - Aujourd'hui),07/2020,,65402,KIA Picanto,KIA Picanto (JA) Phase 2 1.2 DPI 16V BVR5 ISG 84 cv Boîte auto,Essence
+ma-114,KIA,fa-381,Picanto,mo-7428,(JA) Phase 2 (07/2020 - Aujourd'hui),07/2020,,65405,KIA Picanto,KIA Picanto (JA) Phase 2 1.0 T-GDi 12V ISG 100 cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-7428,(JA) Phase 2 (07/2020 - Aujourd'hui),07/2020,,65403,KIA Picanto,KIA Picanto (JA) Phase 2 1.0 DPI 12V ISG 67 cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-7428,(JA) Phase 2 (07/2020 - Aujourd'hui),07/2020,,65404,KIA Picanto,KIA Picanto (JA) Phase 2 1.0 DPI 12V BVR5 ISG 67 cv Boîte auto,Essence
+ma-114,KIA,fa-381,Picanto,mo-5213,(TA) 3 Portes (07/2011 - 01/2015),07/2011,01/2015,36777,KIA Picanto,KIA Picanto (TA) 3 Portes 1.2 MPi 16V 85 cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-5213,(TA) 3 Portes (07/2011 - 01/2015),07/2011,01/2015,36776,KIA Picanto,KIA Picanto (TA) 3 Portes 1.0 MPi 12V 69 cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-6053,(TA) Phase 2 HB 3P (02/2015 - 03/2017),02/2015,03/2017,46856,KIA Picanto,KIA Picanto (TA) Phase 2 HB 3P 1.2 MPi 16V 85 cv,Essence
+ma-114,KIA,fa-381,Picanto,mo-6053,(TA) Phase 2 HB 3P (02/2015 - 03/2017),02/2015,03/2017,46855,KIA Picanto,KIA Picanto (TA) Phase 2 HB 3P 1.0 MPi 12V 66 cv,Essence
+ma-114,KIA,fa-389,Sorento,mo-1912,(FY) (04/2002 - 05/2006),04/2002,05/2006,15205,KIA Sorento,KIA Sorento (FY) 2.5 CRDi 140cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-1912,(FY) (04/2002 - 05/2006),04/2002,05/2006,15206,KIA Sorento,KIA Sorento (FY) 3.5 i V6 195cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-1912,(FY) (04/2002 - 05/2006),04/2002,05/2006,20582,KIA Sorento,KIA Sorento (FY) 2.5 CRDi 140cv,Diesel
+ma-114,KIA,fa-389,Sorento,mo-1912,(FY) (04/2002 - 05/2006),04/2002,05/2006,15204,KIA Sorento,KIA Sorento (FY) 2.4 i 139cv,Essence
+ma-114,KIA,fa-389,Sorento,mo-4884,II (04/2009 - 08/2012),04/2009,08/2012,36789,KIA Sorento,KIA Sorento II 2.2 CRDi 16V FAP AWD 197 cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-4884,II (04/2009 - 08/2012),04/2009,08/2012,36791,KIA Sorento,KIA Sorento II 2.4 i 16V 2WD 174 cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-4884,II (04/2009 - 08/2012),04/2009,08/2012,36795,KIA Sorento,KIA Sorento II 3.5 i V6 24V AWD 277 cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-4884,II (04/2009 - 08/2012),04/2009,08/2012,36793,KIA Sorento,KIA Sorento II 2.4 i 16V AWD 174 cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-4884,II (04/2009 - 08/2012),04/2009,08/2012,36790,KIA Sorento,KIA Sorento II 2.2 CRDi 16V FAP AWD 197 cv,Diesel
+ma-114,KIA,fa-389,Sorento,mo-4884,II (04/2009 - 08/2012),04/2009,08/2012,36794,KIA Sorento,KIA Sorento II 2.4 i 16V AWD 174 cv,Essence
+ma-114,KIA,fa-389,Sorento,mo-4884,II (04/2009 - 08/2012),04/2009,08/2012,36792,KIA Sorento,KIA Sorento II 2.4 i 16V 2WD 174 cv,Essence
+ma-114,KIA,fa-389,Sorento,mo-4884,II (04/2009 - 08/2012),04/2009,08/2012,36785,KIA Sorento,KIA Sorento II 2.0 CRDi 16V DPF 2WD 150 cv,Diesel
+ma-114,KIA,fa-389,Sorento,mo-4884,II (04/2009 - 08/2012),04/2009,08/2012,36787,KIA Sorento,KIA Sorento II 2.2 CRDi 16V FAP 2WD 197 cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-4884,II (04/2009 - 08/2012),04/2009,08/2012,36788,KIA Sorento,KIA Sorento II 2.2 CRDi 16V FAP 2WD 197 cv,Diesel
+ma-114,KIA,fa-389,Sorento,mo-4884,II (04/2009 - 08/2012),04/2009,08/2012,36786,KIA Sorento,KIA Sorento II 2.0 CRDi 16V DPF AWD 150 cv,Diesel
+ma-114,KIA,fa-389,Sorento,mo-1913,(FY) Phase 2 (04/2006 - 12/2010),04/2006,12/2010,34251,KIA Sorento,KIA Sorento (FY) Phase 2 2.5 CRDi 16V 140cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-1913,(FY) Phase 2 (04/2006 - 12/2010),04/2006,12/2010,37399,KIA Sorento,KIA Sorento (FY) Phase 2 2.5 CRDi 16V 163cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-1913,(FY) Phase 2 (04/2006 - 12/2010),04/2006,12/2010,15203,KIA Sorento,KIA Sorento (FY) Phase 2 3.3 i V6 248cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-1913,(FY) Phase 2 (04/2006 - 12/2010),04/2006,12/2010,15202,KIA Sorento,KIA Sorento (FY) Phase 2 3.3 i V6 241cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-1913,(FY) Phase 2 (04/2006 - 12/2010),04/2006,12/2010,6366,KIA Sorento,KIA Sorento (FY) Phase 2 2.5 CRDi 170cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-1913,(FY) Phase 2 (04/2006 - 12/2010),04/2006,12/2010,4495,KIA Sorento,KIA Sorento (FY) Phase 2 2.5 CRDi 170cv,Diesel
+ma-114,KIA,fa-389,Sorento,mo-1913,(FY) Phase 2 (04/2006 - 12/2010),04/2006,12/2010,37400,KIA Sorento,KIA Sorento (FY) Phase 2 2.5 CRDi 16V 163cv,Diesel
+ma-114,KIA,fa-389,Sorento,mo-1913,(FY) Phase 2 (04/2006 - 12/2010),04/2006,12/2010,4496,KIA Sorento,KIA Sorento (FY) Phase 2 3.3 i V6 241cv,Essence
+ma-114,KIA,fa-389,Sorento,mo-1913,(FY) Phase 2 (04/2006 - 12/2010),04/2006,12/2010,15201,KIA Sorento,KIA Sorento (FY) Phase 2 2.5 CRDi 140cv,Diesel
+ma-114,KIA,fa-389,Sorento,mo-1913,(FY) Phase 2 (04/2006 - 12/2010),04/2006,12/2010,4497,KIA Sorento,KIA Sorento (FY) Phase 2 3.3 i V6 248cv,Essence
+ma-114,KIA,fa-389,Sorento,mo-5963,III (01/2015 - 02/2020),01/2015,02/2020,46278,KIA Sorento,KIA Sorento III 2.2 CRDi 16V FWD 7p 200 cv,Diesel
+ma-114,KIA,fa-389,Sorento,mo-5963,III (01/2015 - 02/2020),01/2015,02/2020,50103,KIA Sorento,KIA Sorento III 2.4 GDi 16V 2WD 7p 188 cv,Essence
+ma-114,KIA,fa-389,Sorento,mo-5963,III (01/2015 - 02/2020),01/2015,02/2020,57616,KIA Sorento,KIA Sorento III 2.0 CRDi 16V AWD 5p 185 cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-5963,III (01/2015 - 02/2020),01/2015,02/2020,50100,KIA Sorento,KIA Sorento III 2.4 GDi 16V 2WD 5p 188 cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-5963,III (01/2015 - 02/2020),01/2015,02/2020,50101,KIA Sorento,KIA Sorento III 2.4 GDi 16V 2WD 7p 188 cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-5963,III (01/2015 - 02/2020),01/2015,02/2020,50107,KIA Sorento,KIA Sorento III 2.4 GDi 16V AWD 7p 188 cv,Essence
+ma-114,KIA,fa-389,Sorento,mo-5963,III (01/2015 - 02/2020),01/2015,02/2020,50105,KIA Sorento,KIA Sorento III 2.4 GDi 16V AWD 7p 188 cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-5963,III (01/2015 - 02/2020),01/2015,02/2020,46274,KIA Sorento,KIA Sorento III 2.2 CRDi 16V FWD 5p 200 cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-5963,III (01/2015 - 02/2020),01/2015,02/2020,46275,KIA Sorento,KIA Sorento III 2.2 CRDi 16V FWD 7p 200 cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-5963,III (01/2015 - 02/2020),01/2015,02/2020,46269,KIA Sorento,KIA Sorento III 2.2 CRDi 16V AWD 5p 200 cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-5963,III (01/2015 - 02/2020),01/2015,02/2020,50102,KIA Sorento,KIA Sorento III 2.4 GDi 16V 2WD 5p 188 cv,Essence
+ma-114,KIA,fa-389,Sorento,mo-5963,III (01/2015 - 02/2020),01/2015,02/2020,50106,KIA Sorento,KIA Sorento III 2.4 GDi 16V AWD 5p 188 cv,Essence
+ma-114,KIA,fa-389,Sorento,mo-5963,III (01/2015 - 02/2020),01/2015,02/2020,46271,KIA Sorento,KIA Sorento III 2.2 CRDi 16V AWD 7p 200 cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-5963,III (01/2015 - 02/2020),01/2015,02/2020,69869,KIA Sorento,KIA Sorento III 2.0 CRDi 16V AWD 7p 185 cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-5963,III (01/2015 - 02/2020),01/2015,02/2020,46276,KIA Sorento,KIA Sorento III 2.2 CRDi 16V FWD 5p 200 cv,Diesel
+ma-114,KIA,fa-389,Sorento,mo-5963,III (01/2015 - 02/2020),01/2015,02/2020,46272,KIA Sorento,KIA Sorento III 2.2 CRDi 16V AWD 5p 200 cv,Diesel
+ma-114,KIA,fa-389,Sorento,mo-5963,III (01/2015 - 02/2020),01/2015,02/2020,46273,KIA Sorento,KIA Sorento III 2.2 CRDi 16V AWD 7p 200 cv,Diesel
+ma-114,KIA,fa-389,Sorento,mo-5963,III (01/2015 - 02/2020),01/2015,02/2020,50104,KIA Sorento,KIA Sorento III 2.4 GDi 16V AWD 5p 188 cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-5483,II Phase 2 (09/2012 - 12/2014),09/2012,12/2014,40774,KIA Sorento,KIA Sorento II Phase 2 2.4 GDi 16V 2WD 192 cv,Essence
+ma-114,KIA,fa-389,Sorento,mo-5483,II Phase 2 (09/2012 - 12/2014),09/2012,12/2014,40776,KIA Sorento,KIA Sorento II Phase 2 2.4 GDi 16V 4WD 192 cv,Essence
+ma-114,KIA,fa-389,Sorento,mo-5483,II Phase 2 (09/2012 - 12/2014),09/2012,12/2014,40770,KIA Sorento,KIA Sorento II Phase 2 2.2 CRDi 16V 2WD 197 cv,Diesel
+ma-114,KIA,fa-389,Sorento,mo-5483,II Phase 2 (09/2012 - 12/2014),09/2012,12/2014,40771,KIA Sorento,KIA Sorento II Phase 2 2.2 CRDi 16V 4WD 197 cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-5483,II Phase 2 (09/2012 - 12/2014),09/2012,12/2014,50099,KIA Sorento,KIA Sorento II Phase 2 3.5 i V6 24V AWD 278 cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-5483,II Phase 2 (09/2012 - 12/2014),09/2012,12/2014,40775,KIA Sorento,KIA Sorento II Phase 2 2.4 GDi 16V 4WD 192 cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-5483,II Phase 2 (09/2012 - 12/2014),09/2012,12/2014,40773,KIA Sorento,KIA Sorento II Phase 2 2.4 GDi 16V 2WD 192 cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-5483,II Phase 2 (09/2012 - 12/2014),09/2012,12/2014,40768,KIA Sorento,KIA Sorento II Phase 2 2.0 CRDi 16V 4WD 145 cv,Diesel
+ma-114,KIA,fa-389,Sorento,mo-5483,II Phase 2 (09/2012 - 12/2014),09/2012,12/2014,40769,KIA Sorento,KIA Sorento II Phase 2 2.2 CRDi 16V 2WD 197 cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-5483,II Phase 2 (09/2012 - 12/2014),09/2012,12/2014,40767,KIA Sorento,KIA Sorento II Phase 2 2.0 CRDi 16V 2WD 145 cv,Diesel
+ma-114,KIA,fa-389,Sorento,mo-5483,II Phase 2 (09/2012 - 12/2014),09/2012,12/2014,40772,KIA Sorento,KIA Sorento II Phase 2 2.2 CRDi 16V 4WD 197 cv,Diesel
+ma-114,KIA,fa-389,Sorento,mo-7161,IV (02/2020 - 02/2024),02/2020,02/2024,67507,KIA Sorento,KIA Sorento IV 2.2 CRDi 16V DPF DCT8 (7pl) 193 cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-7161,IV (02/2020 - 02/2024),02/2020,02/2024,65178,KIA Sorento,KIA Sorento IV 2.2 CRDi 16V DPF DCT8 (5pl) 201 cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-7161,IV (02/2020 - 02/2024),02/2020,02/2024,65180,KIA Sorento,KIA Sorento IV 1.6 T-GDi 16V GPF 230 Hybrid AWD BVA6 (5pl) 180 cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-7161,IV (02/2020 - 02/2024),02/2020,02/2024,67505,KIA Sorento,KIA Sorento IV 2.2 CRDi 16V DPF AWD DCT8 (7pl) 193 cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-7161,IV (02/2020 - 02/2024),02/2020,02/2024,65176,KIA Sorento,KIA Sorento IV 2.2 CRDi 16V DPF AWD DCT8 (5pl) 201 cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-7161,IV (02/2020 - 02/2024),02/2020,02/2024,61787,KIA Sorento,KIA Sorento IV 1.6 T-GDi 16V GPF 265 Plug in Hybrid AWD BVA6 (7pl) 180 cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-7161,IV (02/2020 - 02/2024),02/2020,02/2024,67506,KIA Sorento,KIA Sorento IV 2.2 CRDi 16V DPF DCT8 (5pl) 193 cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-7161,IV (02/2020 - 02/2024),02/2020,02/2024,65181,KIA Sorento,KIA Sorento IV 1.6 T-GDi 16V GPF 265 Plug in Hybrid AWD BVA6 (5pl) 180 cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-7161,IV (02/2020 - 02/2024),02/2020,02/2024,61786,KIA Sorento,KIA Sorento IV 1.6 T-GDi 16V GPF 230 Hybrid BVA6 (7pl) 180 cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-7161,IV (02/2020 - 02/2024),02/2020,02/2024,65182,KIA Sorento,KIA Sorento IV 1.6 T-GDi 16V GPF 230 Hybrid BVA6 (5pl) 180 cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-7161,IV (02/2020 - 02/2024),02/2020,02/2024,67504,KIA Sorento,KIA Sorento IV 2.2 CRDi 16V DPF AWD DCT8 (5pl) 193 cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-7161,IV (02/2020 - 02/2024),02/2020,02/2024,65179,KIA Sorento,KIA Sorento IV 1.6 T-GDi 16V GPF 230 Hybrid AWD BVA6 (7pl) 180 cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-7161,IV (02/2020 - 02/2024),02/2020,02/2024,65175,KIA Sorento,KIA Sorento IV 2.2 CRDi 16V DPF AWD DCT8 (7pl) 201 cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-7161,IV (02/2020 - 02/2024),02/2020,02/2024,65177,KIA Sorento,KIA Sorento IV 2.2 CRDi 16V DPF DCT8 (7pl) 201 cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-7875,IV Phase 2 (03/2024 - Aujourd'hui),03/2024,,70640,KIA Sorento,KIA Sorento IV Phase 2 1.6 T-GDi 16V 215 Hybrid AWD ISG BVA6 160 cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-7875,IV Phase 2 (03/2024 - Aujourd'hui),03/2024,,70641,KIA Sorento,KIA Sorento IV Phase 2 1.6 T-GDi 16V 252 Plug-in Hybrid AWD ISG BVA6 160 cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-7875,IV Phase 2 (03/2024 - Aujourd'hui),03/2024,,70639,KIA Sorento,KIA Sorento IV Phase 2 1.6 T-GDi 16V 215 Hybrid ISG BVA6 160 cv Boîte auto,Essence
+ma-114,KIA,fa-389,Sorento,mo-7875,IV Phase 2 (03/2024 - Aujourd'hui),03/2024,,70643,KIA Sorento,KIA Sorento IV Phase 2 2.2 CRDi 16V AWD DCT8 193 cv Boîte auto,Diesel
+ma-114,KIA,fa-389,Sorento,mo-7875,IV Phase 2 (03/2024 - Aujourd'hui),03/2024,,70642,KIA Sorento,KIA Sorento IV Phase 2 2.2 CRDi 16V DCT8 193 cv Boîte auto,Diesel
+ma-114,KIA,fa-367,Carens,mo-5462,IV (03/2012 - Aujourd'hui),03/2012,,39319,KIA Carens,KIA Carens IV 2.0 GDi 16V S&S 166 cv,Essence
+ma-114,KIA,fa-367,Carens,mo-5462,IV (03/2012 - Aujourd'hui),03/2012,,39315,KIA Carens,KIA Carens IV 1.7 CRDi 16V 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-367,Carens,mo-5462,IV (03/2012 - Aujourd'hui),03/2012,,39320,KIA Carens,KIA Carens IV 2.0 GDi 16V 177 cv Boîte auto,Essence
+ma-114,KIA,fa-367,Carens,mo-5462,IV (03/2012 - Aujourd'hui),03/2012,,39321,KIA Carens,KIA Carens IV 2.0 GDi 16V S&S 177 cv,Essence
+ma-114,KIA,fa-367,Carens,mo-5462,IV (03/2012 - Aujourd'hui),03/2012,,56440,KIA Carens,KIA Carens IV 1.7 CRDi 16V DCT-7 141 cv Boîte auto,Diesel
+ma-114,KIA,fa-367,Carens,mo-5462,IV (03/2012 - Aujourd'hui),03/2012,,39318,KIA Carens,KIA Carens IV 2.0 GDi 16V 166 cv Boîte auto,Essence
+ma-114,KIA,fa-367,Carens,mo-5462,IV (03/2012 - Aujourd'hui),03/2012,,56441,KIA Carens,KIA Carens IV 1.7 CRDi 16V S&S 141 cv,Diesel
+ma-114,KIA,fa-367,Carens,mo-5462,IV (03/2012 - Aujourd'hui),03/2012,,39317,KIA Carens,KIA Carens IV 1.7 CRDi 16V S&S 136 cv,Diesel
+ma-114,KIA,fa-367,Carens,mo-5462,IV (03/2012 - Aujourd'hui),03/2012,,39314,KIA Carens,KIA Carens IV 1.6 GDi 16V S&S 135 cv,Essence
+ma-114,KIA,fa-367,Carens,mo-5462,IV (03/2012 - Aujourd'hui),03/2012,,39316,KIA Carens,KIA Carens IV 1.7 CRDi 16V S&S 115 cv,Diesel
+ma-114,KIA,fa-367,Carens,mo-562,III (06/2006 - 12/2014),06/2006,12/2014,4435,KIA Carens,KIA Carens III 2.0 CVVT 145cv,Essence
+ma-114,KIA,fa-367,Carens,mo-562,III (06/2006 - 12/2014),06/2006,12/2014,6320,KIA Carens,KIA Carens III 2.0 CRDi 16V 140cv,Diesel
+ma-114,KIA,fa-367,Carens,mo-562,III (06/2006 - 12/2014),06/2006,12/2014,33036,KIA Carens,KIA Carens III 2.0 CRDi 16V 135 cv Boîte auto,Diesel
+ma-114,KIA,fa-367,Carens,mo-562,III (06/2006 - 12/2014),06/2006,12/2014,33037,KIA Carens,KIA Carens III 2.0 CRDi 16V 135 cv,Diesel
+ma-114,KIA,fa-367,Carens,mo-562,III (06/2006 - 12/2014),06/2006,12/2014,31961,KIA Carens,KIA Carens III 2.0 CRDi 16V 115 cv,Diesel
+ma-114,KIA,fa-367,Carens,mo-562,III (06/2006 - 12/2014),06/2006,12/2014,20549,KIA Carens,KIA Carens III 2.0 CVVT 145cv Boîte auto,Essence
+ma-114,KIA,fa-367,Carens,mo-562,III (06/2006 - 12/2014),06/2006,12/2014,34211,KIA Carens,KIA Carens III 1.6 CRDi 16V 128 cv,Diesel
+ma-114,KIA,fa-367,Carens,mo-562,III (06/2006 - 12/2014),06/2006,12/2014,34212,KIA Carens,KIA Carens III 1.6 CVVT 16V 126 cv,Essence
+ma-114,KIA,fa-367,Carens,mo-562,III (06/2006 - 12/2014),06/2006,12/2014,15156,KIA Carens,KIA Carens III 2.0 CRDi 140cv Boîte auto,Diesel
+ma-114,KIA,fa-367,Carens,mo-561,II (07/2002 - 05/2006),07/2002,05/2006,15154,KIA Carens,KIA Carens II 2.0 CRDi 113cv,Diesel
+ma-114,KIA,fa-367,Carens,mo-561,II (07/2002 - 05/2006),07/2002,05/2006,6319,KIA Carens,KIA Carens II 2.0 CVVT 139cv,Essence
+ma-114,KIA,fa-367,Carens,mo-561,II (07/2002 - 05/2006),07/2002,05/2006,6250,KIA Carens,KIA Carens II 2.0 CRDi 113cv Boîte auto,Diesel
+ma-114,KIA,fa-367,Carens,mo-561,II (07/2002 - 05/2006),07/2002,05/2006,15153,KIA Carens,KIA Carens II 1.6 i 105cv,Essence
+ma-114,KIA,fa-367,Carens,mo-561,II (07/2002 - 05/2006),07/2002,05/2006,50286,KIA Carens,KIA Carens II 2.0 CRDi 16V 140 cv Boîte auto,Diesel
+ma-114,KIA,fa-367,Carens,mo-561,II (07/2002 - 05/2006),07/2002,05/2006,15155,KIA Carens,KIA Carens II 2.0 CVVT 139cv Boîte auto,Essence
+ma-114,KIA,fa-367,Carens,mo-561,II (07/2002 - 05/2006),07/2002,05/2006,6248,KIA Carens,KIA Carens II 1.8 i 126cv,Essence
+ma-114,KIA,fa-367,Carens,mo-561,II (07/2002 - 05/2006),07/2002,05/2006,6249,KIA Carens,KIA Carens II 1.8 i 126cv Boîte auto,Essence
+ma-114,KIA,fa-367,Carens,mo-561,II (07/2002 - 05/2006),07/2002,05/2006,50287,KIA Carens,KIA Carens II 2.0 CRDi 16V 140 cv,Diesel
+ma-114,KIA,fa-367,Carens,mo-560,I (12/1999 - 07/2002),12/1999,07/2002,20552,KIA Carens,KIA Carens I 1.8 i 110cv,Essence
+ma-114,KIA,fa-2004,Venga,mo-4643, (12/2009 - 12/2014),12/2009,12/2014,31972,KIA Venga,KIA Venga 1.6 CVVT 16V 125 cv Boîte auto,Essence
+ma-114,KIA,fa-2004,Venga,mo-4643, (12/2009 - 12/2014),12/2009,12/2014,31971,KIA Venga,KIA Venga 1.6 CRDi 16V 128 cv,Diesel
+ma-114,KIA,fa-2004,Venga,mo-4643, (12/2009 - 12/2014),12/2009,12/2014,31970,KIA Venga,KIA Venga 1.4 CVVT 16V 90 cv,Essence
+ma-114,KIA,fa-2004,Venga,mo-4643, (12/2009 - 12/2014),12/2009,12/2014,31973,KIA Venga,KIA Venga 1.6 CVVT 16V 125 cv,Essence
+ma-114,KIA,fa-2004,Venga,mo-4643, (12/2009 - 12/2014),12/2009,12/2014,69570,KIA Venga,KIA Venga 1.4 CRDi 16V S&S 90 cv,Diesel
+ma-114,KIA,fa-2004,Venga,mo-4643, (12/2009 - 12/2014),12/2009,12/2014,33019,KIA Venga,KIA Venga 1.6 CRDi 16V 115 cv,Diesel
+ma-114,KIA,fa-2004,Venga,mo-4643, (12/2009 - 12/2014),12/2009,12/2014,31969,KIA Venga,KIA Venga 1.4 CRDi 16V 90 cv,Diesel
+ma-114,KIA,fa-2004,Venga,mo-4643, (12/2009 - 12/2014),12/2009,12/2014,36778,KIA Venga,KIA Venga 1.4 CRDi 16V DPF 78 cv,Diesel
+ma-114,KIA,fa-2004,Venga,mo-4643, (12/2009 - 12/2014),12/2009,12/2014,33018,KIA Venga,KIA Venga 1.4 CRDi 16V 75 cv,Diesel
+ma-114,KIA,fa-2004,Venga,mo-6180,Phase 2 (01/2015 - Aujourd'hui),01/2015,,48162,KIA Venga,KIA Venga Phase 2 1.6 CRDi 16V 115 cv,Diesel
+ma-114,KIA,fa-2004,Venga,mo-6180,Phase 2 (01/2015 - Aujourd'hui),01/2015,,48159,KIA Venga,KIA Venga Phase 2 1.4 CRDi 16V 77 cv,Diesel
+ma-114,KIA,fa-2004,Venga,mo-6180,Phase 2 (01/2015 - Aujourd'hui),01/2015,,48161,KIA Venga,KIA Venga Phase 2 1.4 CVVT 16V S&S 90 cv,Essence
+ma-114,KIA,fa-2004,Venga,mo-6180,Phase 2 (01/2015 - Aujourd'hui),01/2015,,48160,KIA Venga,KIA Venga Phase 2 1.4 CRDi 16V 90 cv,Diesel
+ma-114,KIA,fa-2004,Venga,mo-6180,Phase 2 (01/2015 - Aujourd'hui),01/2015,,48164,KIA Venga,KIA Venga Phase 2 1.6 CRDi 16V 128 cv,Diesel
+ma-114,KIA,fa-2004,Venga,mo-6180,Phase 2 (01/2015 - Aujourd'hui),01/2015,,48163,KIA Venga,KIA Venga Phase 2 1.6 CRDi 16V S&S 115 cv,Diesel
+ma-114,KIA,fa-2004,Venga,mo-6180,Phase 2 (01/2015 - Aujourd'hui),01/2015,,69569,KIA Venga,KIA Venga Phase 2 1.4 CRDi 16V S&S 90 cv,Diesel
+ma-114,KIA,fa-2004,Venga,mo-6180,Phase 2 (01/2015 - Aujourd'hui),01/2015,,48165,KIA Venga,KIA Venga Phase 2 1.6 CVVT 16V 125 cv Boîte auto,Essence
+ma-114,KIA,fa-2004,Venga,mo-6180,Phase 2 (01/2015 - Aujourd'hui),01/2015,,48166,KIA Venga,KIA Venga Phase 2 1.6 CVVT 16V S&S 125 cv,Essence
+ma-114,KIA,fa-2211,Niro,mo-6373,I (07/2016 - 01/2020),07/2016,01/2020,60159,KIA Niro,KIA Niro I e-Niro 64,0 kWh 204 cv,Electrique
+ma-114,KIA,fa-2211,Niro,mo-6373,I (07/2016 - 01/2020),07/2016,01/2020,52232,KIA Niro,KIA Niro I 1.6 GDi 16V 141 Hybrid DCT6 105 cv Boîte auto,Essence
+ma-114,KIA,fa-2211,Niro,mo-6373,I (07/2016 - 01/2020),07/2016,01/2020,64325,KIA Niro,KIA Niro I 1.6 GDi 16V 141 Plug in Hybrid DCT6 105 cv Boîte auto,Essence
+ma-114,KIA,fa-2211,Niro,mo-7542,II (04/2022 - Aujourd'hui),04/2022,,67178,KIA Niro,KIA Niro II 1.6 GDi 16V 183 Plug in Hybrid DCT6 105 cv Boîte auto,Essence
+ma-114,KIA,fa-2211,Niro,mo-7542,II (04/2022 - Aujourd'hui),04/2022,,67179,KIA Niro,KIA Niro II e-Niro 64,8 kWh 204 cv Boîte auto,Electrique
+ma-114,KIA,fa-2211,Niro,mo-7542,II (04/2022 - Aujourd'hui),04/2022,,67177,KIA Niro,KIA Niro II 1.6 GDi 16V 141 Hybrid DCT6 105 cv Boîte auto,Essence
+ma-114,KIA,fa-2211,Niro,mo-7398,I Phase 2 (01/2020 - 04/2022),01/2020,04/2022,64328,KIA Niro,KIA Niro I Phase 2 1.6 GDi 16V 141 Hybrid DCT6 105 cv Boîte auto,Essence
+ma-114,KIA,fa-2211,Niro,mo-7398,I Phase 2 (01/2020 - 04/2022),01/2020,04/2022,64327,KIA Niro,KIA Niro I Phase 2 e-Niro 64,0 kWh 204 cv,Electrique
+ma-114,KIA,fa-2211,Niro,mo-7398,I Phase 2 (01/2020 - 04/2022),01/2020,04/2022,64326,KIA Niro,KIA Niro I Phase 2 e-Niro 39,2 kWh 136 cv,Electrique
+ma-114,KIA,fa-2211,Niro,mo-7398,I Phase 2 (01/2020 - 04/2022),01/2020,04/2022,64329,KIA Niro,KIA Niro I Phase 2 1.6 GDi 16V 141 Plug in Hybrid DCT6 105 cv Boîte auto,Essence
+ma-114,KIA,fa-2254,Stonic,mo-6697, (09/2017 - 07/2020),09/2017,07/2020,60217,KIA Stonic,KIA Stonic 1.0 T-GDi 12V GPF ISG 120 cv,Essence
+ma-114,KIA,fa-2254,Stonic,mo-6697, (09/2017 - 07/2020),09/2017,07/2020,58010,KIA Stonic,KIA Stonic 1.4 MPi 16V ISG 100 cv,Essence
+ma-114,KIA,fa-2254,Stonic,mo-6697, (09/2017 - 07/2020),09/2017,07/2020,60887,KIA Stonic,KIA Stonic 1.0 T-GDi 12V GPF ISG 100 cv,Essence
+ma-114,KIA,fa-2254,Stonic,mo-6697, (09/2017 - 07/2020),09/2017,07/2020,60216,KIA Stonic,KIA Stonic 1.0 T-GDi 12V GPF DCT7 ISG 120 cv Boîte auto,Essence
+ma-114,KIA,fa-2254,Stonic,mo-6697, (09/2017 - 07/2020),09/2017,07/2020,60889,KIA Stonic,KIA Stonic 1.6 CRDi 16V ISG 136 cv,Diesel
+ma-114,KIA,fa-2254,Stonic,mo-6697, (09/2017 - 07/2020),09/2017,07/2020,60888,KIA Stonic,KIA Stonic 1.6 CRDi 16V ISG 115 cv,Diesel
+ma-114,KIA,fa-2254,Stonic,mo-6697, (09/2017 - 07/2020),09/2017,07/2020,58011,KIA Stonic,KIA Stonic 1.6 CRDi 16V ISG 110 cv,Diesel
+ma-114,KIA,fa-2254,Stonic,mo-6697, (09/2017 - 07/2020),09/2017,07/2020,58009,KIA Stonic,KIA Stonic 1.0 T-GDi 12V ISG 120 cv,Essence
+ma-114,KIA,fa-2254,Stonic,mo-6697, (09/2017 - 07/2020),09/2017,07/2020,63913,KIA Stonic,KIA Stonic 1.2 MPi 16V ISG 84 cv,Essence
+ma-114,KIA,fa-2254,Stonic,mo-7360,Phase 2 (07/2020 - Aujourd'hui),07/2020,,63917,KIA Stonic,KIA Stonic Phase 2 1.0 T-GDi 12V GPF mHEV ISG 100 cv,Essence
+ma-114,KIA,fa-2254,Stonic,mo-7360,Phase 2 (07/2020 - Aujourd'hui),07/2020,,63918,KIA Stonic,KIA Stonic Phase 2 1.0 T-GDi 12V GPF mHEV ISG 120 cv,Essence
+ma-114,KIA,fa-2254,Stonic,mo-7360,Phase 2 (07/2020 - Aujourd'hui),07/2020,,63919,KIA Stonic,KIA Stonic Phase 2 1.2 MPi 16V ISG 84 cv,Essence
+ma-114,KIA,fa-2254,Stonic,mo-7360,Phase 2 (07/2020 - Aujourd'hui),07/2020,,63914,KIA Stonic,KIA Stonic Phase 2 1.0 T-GDi 12V GPF DCT7 ISG 100 cv Boîte auto,Essence
+ma-114,KIA,fa-2254,Stonic,mo-7360,Phase 2 (07/2020 - Aujourd'hui),07/2020,,63916,KIA Stonic,KIA Stonic Phase 2 1.0 T-GDi 12V GPF mHEV DCT7 ISG 120 cv Boîte auto,Essence
+ma-114,KIA,fa-2254,Stonic,mo-7360,Phase 2 (07/2020 - Aujourd'hui),07/2020,,63915,KIA Stonic,KIA Stonic Phase 2 1.0 T-GDi 12V GPF ISG 100 cv,Essence
+ma-114,KIA,fa-1969,Soul,mo-3775,I (10/2008 - 07/2011),10/2008,07/2011,30337,KIA Soul,KIA Soul I 1.6 i 16V 126 cv,Essence
+ma-114,KIA,fa-1969,Soul,mo-3775,I (10/2008 - 07/2011),10/2008,07/2011,37394,KIA Soul,KIA Soul I 1.6 i 16V 126 cv Boîte auto,Essence
+ma-114,KIA,fa-1969,Soul,mo-3775,I (10/2008 - 07/2011),10/2008,07/2011,65596,KIA Soul,KIA Soul I 1.6 CRDi 16V 115 cv Boîte auto,Diesel
+ma-114,KIA,fa-1969,Soul,mo-3775,I (10/2008 - 07/2011),10/2008,07/2011,30335,KIA Soul,KIA Soul I 1.6 CRDi 16V 128 cv Boîte auto,Diesel
+ma-114,KIA,fa-1969,Soul,mo-3775,I (10/2008 - 07/2011),10/2008,07/2011,37393,KIA Soul,KIA Soul I 1.6 CRDi 16V 115 cv,Diesel
+ma-114,KIA,fa-1969,Soul,mo-3775,I (10/2008 - 07/2011),10/2008,07/2011,30336,KIA Soul,KIA Soul I 1.6 CRDi 16V 128 cv,Diesel
+ma-114,KIA,fa-1969,Soul,mo-5903,II (12/2013 - 06/2019),12/2013,06/2019,46569,KIA Soul,KIA Soul II 1.6 i CVVT 16V 124 cv Boîte auto,Essence
+ma-114,KIA,fa-1969,Soul,mo-5903,II (12/2013 - 06/2019),12/2013,06/2019,48149,KIA Soul,KIA Soul II 1.6 i 16V 124 cv,Essence
+ma-114,KIA,fa-1969,Soul,mo-5903,II (12/2013 - 06/2019),12/2013,06/2019,46570,KIA Soul,KIA Soul II 1.6 i CVVT 16V 124 cv,Essence
+ma-114,KIA,fa-1969,Soul,mo-5903,II (12/2013 - 06/2019),12/2013,06/2019,46568,KIA Soul,KIA Soul II 1.6 GDi 16V 132 cv,Essence
+ma-114,KIA,fa-1969,Soul,mo-5903,II (12/2013 - 06/2019),12/2013,06/2019,48147,KIA Soul,KIA Soul II 1.6 CRDi 16V 136 cv,Diesel
+ma-114,KIA,fa-1969,Soul,mo-5903,II (12/2013 - 06/2019),12/2013,06/2019,48151,KIA Soul,KIA Soul II 2.0 i 16V 154 cv,Essence
+ma-114,KIA,fa-1969,Soul,mo-5903,II (12/2013 - 06/2019),12/2013,06/2019,48150,KIA Soul,KIA Soul II 2.0 i 16V 154 cv Boîte auto,Essence
+ma-114,KIA,fa-1969,Soul,mo-5903,II (12/2013 - 06/2019),12/2013,06/2019,46565,KIA Soul,KIA Soul II 1.6 CRDi 16V 128 cv Boîte auto,Diesel
+ma-114,KIA,fa-1969,Soul,mo-5903,II (12/2013 - 06/2019),12/2013,06/2019,46566,KIA Soul,KIA Soul II 1.6 CRDi 16V 128 cv,Diesel
+ma-114,KIA,fa-1969,Soul,mo-5903,II (12/2013 - 06/2019),12/2013,06/2019,46564,KIA Soul,KIA Soul II EV 110 cv Boîte auto,Electrique
+ma-114,KIA,fa-1969,Soul,mo-5903,II (12/2013 - 06/2019),12/2013,06/2019,46567,KIA Soul,KIA Soul II 1.6 GDi 16V 132 cv Boîte auto,Essence
+ma-114,KIA,fa-1969,Soul,mo-5903,II (12/2013 - 06/2019),12/2013,06/2019,48148,KIA Soul,KIA Soul II 1.6 i 16V 124 cv Boîte auto,Essence
+ma-114,KIA,fa-1969,Soul,mo-5903,II (12/2013 - 06/2019),12/2013,06/2019,58621,KIA Soul,KIA Soul II 1.6 TGDi 16V DCT7 204 cv Boîte auto,Essence
+ma-114,KIA,fa-1969,Soul,mo-5903,II (12/2013 - 06/2019),12/2013,06/2019,48146,KIA Soul,KIA Soul II 1.6 CRDi 16V DCT 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-1969,Soul,mo-5211,I Phase 2 (08/2011 - 11/2013),08/2011,11/2013,48143,KIA Soul,KIA Soul I Phase 2 1.6 GDi 16V 129 cv Boîte auto,Essence
+ma-114,KIA,fa-1969,Soul,mo-5211,I Phase 2 (08/2011 - 11/2013),08/2011,11/2013,34902,KIA Soul,KIA Soul I Phase 2 1.6 CRDi 16V 128 cv Boîte auto,Diesel
+ma-114,KIA,fa-1969,Soul,mo-5211,I Phase 2 (08/2011 - 11/2013),08/2011,11/2013,34903,KIA Soul,KIA Soul I Phase 2 1.6 CRDi 16V 128 cv,Diesel
+ma-114,KIA,fa-1969,Soul,mo-5211,I Phase 2 (08/2011 - 11/2013),08/2011,11/2013,48144,KIA Soul,KIA Soul I Phase 2 1.6 GDi 16V 129 cv,Essence
+ma-114,KIA,fa-1969,Soul,mo-5211,I Phase 2 (08/2011 - 11/2013),08/2011,11/2013,48142,KIA Soul,KIA Soul I Phase 2 1.6 CRDi 16V 115 cv Boîte auto,Diesel
+ma-114,KIA,fa-1969,Soul,mo-5211,I Phase 2 (08/2011 - 11/2013),08/2011,11/2013,41809,KIA Soul,KIA Soul I Phase 2 1.6 CRDi 16V 115 cv,Diesel
+ma-114,KIA,fa-1969,Soul,mo-5211,I Phase 2 (08/2011 - 11/2013),08/2011,11/2013,48145,KIA Soul,KIA Soul I Phase 2 1.6 GDi 16V 140 cv Boîte auto,Essence
+ma-114,KIA,fa-1969,Soul,mo-5211,I Phase 2 (08/2011 - 11/2013),08/2011,11/2013,34904,KIA Soul,KIA Soul I Phase 2 1.6 GDi 16V 140 cv,Essence
+ma-114,KIA,fa-1969,Soul,mo-7012,III (04/2019 - Aujourd'hui),04/2019,,60160,KIA Soul,KIA Soul III e-Soul 39,2 kWh 136 cv Boîte auto,Electrique
+ma-114,KIA,fa-1969,Soul,mo-7012,III (04/2019 - Aujourd'hui),04/2019,,60161,KIA Soul,KIA Soul III e-Soul 64 kWh 204 cv Boîte auto,Electrique
+ma-114,KIA,fa-368,Carnival,mo-579,II (02/2002 - 02/2006),02/2002,02/2006,4436,KIA Carnival,KIA Carnival II 2.9 CRDi 144cv,Diesel
+ma-114,KIA,fa-368,Carnival,mo-579,II (02/2002 - 02/2006),02/2002,02/2006,4437,KIA Carnival,KIA Carnival II 3.5 i V6 195cv Boîte auto,Essence
+ma-114,KIA,fa-368,Carnival,mo-579,II (02/2002 - 02/2006),02/2002,02/2006,20551,KIA Carnival,KIA Carnival II 2.5 i V6 150cv Boîte auto,Essence
+ma-114,KIA,fa-368,Carnival,mo-579,II (02/2002 - 02/2006),02/2002,02/2006,20550,KIA Carnival,KIA Carnival II 2.5 i V6 150cv,Essence
+ma-114,KIA,fa-368,Carnival,mo-579,II (02/2002 - 02/2006),02/2002,02/2006,15157,KIA Carnival,KIA Carnival II 2.9 CRDi 144cv Boîte auto,Diesel
+ma-114,KIA,fa-368,Carnival,mo-580,II FL (03/2006 - 07/2012),03/2006,07/2012,4439,KIA Carnival,KIA Carnival II FL 2.9 CRDi 185cv Boîte auto,Diesel
+ma-114,KIA,fa-368,Carnival,mo-580,II FL (03/2006 - 07/2012),03/2006,07/2012,44303,KIA Carnival,KIA Carnival II FL 2.2 CRDi 16V 194 cv Boîte auto,Diesel
+ma-114,KIA,fa-368,Carnival,mo-580,II FL (03/2006 - 07/2012),03/2006,07/2012,44304,KIA Carnival,KIA Carnival II FL 2.2 CRDi 16V 194 cv,Diesel
+ma-114,KIA,fa-368,Carnival,mo-580,II FL (03/2006 - 07/2012),03/2006,07/2012,15159,KIA Carnival,KIA Carnival II FL 2.9 CRDi 185cv,Diesel
+ma-114,KIA,fa-368,Carnival,mo-580,II FL (03/2006 - 07/2012),03/2006,07/2012,15158,KIA Carnival,KIA Carnival II FL 2.7 CVVT V6 188cv Boîte auto,Essence
+ma-114,KIA,fa-368,Carnival,mo-580,II FL (03/2006 - 07/2012),03/2006,07/2012,4438,KIA Carnival,KIA Carnival II FL 2.7 CVVT V6 188cv,Essence
+ma-114,KIA,fa-368,Carnival,mo-578, (01/1999 - 01/2002),01/1999,01/2002,6322,KIA Carnival,KIA Carnival 2.5 i V6 165cv Boîte auto,Essence
+ma-114,KIA,fa-368,Carnival,mo-578, (01/1999 - 01/2002),01/1999,01/2002,6324,KIA Carnival,KIA Carnival 2.9 CRDi 126cv Boîte auto,Diesel
+ma-114,KIA,fa-368,Carnival,mo-578, (01/1999 - 01/2002),01/1999,01/2002,6321,KIA Carnival,KIA Carnival 2.5 i V6 165cv,Essence
+ma-114,KIA,fa-368,Carnival,mo-578, (01/1999 - 01/2002),01/1999,01/2002,6323,KIA Carnival,KIA Carnival 2.9 CRDi 126cv,Diesel
+ma-114,KIA,fa-2072,Optima,mo-5251, (11/2010 - 07/2015),11/2010,07/2015,36784,KIA Optima,KIA Optima 2.4 MPI 16V 203 cv,Essence
+ma-114,KIA,fa-2072,Optima,mo-5251, (11/2010 - 07/2015),11/2010,07/2015,40764,KIA Optima,KIA Optima 2.0 CVVL Berline 16V 165 cv Boîte auto,Essence
+ma-114,KIA,fa-2072,Optima,mo-5251, (11/2010 - 07/2015),11/2010,07/2015,40766,KIA Optima,KIA Optima 2.0 HEV Berline 16V 150 cv Boîte auto,Essence
+ma-114,KIA,fa-2072,Optima,mo-5251, (11/2010 - 07/2015),11/2010,07/2015,36782,KIA Optima,KIA Optima 2.0 MPI 16V 170 cv,Essence
+ma-114,KIA,fa-2072,Optima,mo-5251, (11/2010 - 07/2015),11/2010,07/2015,36781,KIA Optima,KIA Optima 2.0 MPI 16V 170 cv Boîte auto,Essence
+ma-114,KIA,fa-2072,Optima,mo-5251, (11/2010 - 07/2015),11/2010,07/2015,40765,KIA Optima,KIA Optima 2.0 CVVL Berline 16V 165 cv,Essence
+ma-114,KIA,fa-2072,Optima,mo-5251, (11/2010 - 07/2015),11/2010,07/2015,36780,KIA Optima,KIA Optima 1.7 CRDi DPF 16V 136 cv,Diesel
+ma-114,KIA,fa-2072,Optima,mo-5251, (11/2010 - 07/2015),11/2010,07/2015,36783,KIA Optima,KIA Optima 2.4 MPI 16V 203 cv Boîte auto,Essence
+ma-114,KIA,fa-2072,Optima,mo-5251, (11/2010 - 07/2015),11/2010,07/2015,36779,KIA Optima,KIA Optima 1.7 CRDi DPF 16V 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-2072,Optima,mo-6371,II (08/2015 - Aujourd'hui),08/2015,,61041,KIA Optima,KIA Optima II 1.6 CRDi Berline 16V DCT 7 ISG 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-2072,Optima,mo-6371,II (08/2015 - Aujourd'hui),08/2015,,49106,KIA Optima,KIA Optima II 2.0 T Berline 16V cv Boîte auto,Essence
+ma-114,KIA,fa-2072,Optima,mo-6371,II (08/2015 - Aujourd'hui),08/2015,,49102,KIA Optima,KIA Optima II 1.7 CRDi Berline 16V DCT 7 ISG 141 cv Boîte auto,Diesel
+ma-114,KIA,fa-2072,Optima,mo-6371,II (08/2015 - Aujourd'hui),08/2015,,58964,KIA Optima,KIA Optima II 2.4 CVVL Berline 16V 171 cv Boîte auto,Essence
+ma-114,KIA,fa-2072,Optima,mo-6371,II (08/2015 - Aujourd'hui),08/2015,,61042,KIA Optima,KIA Optima II 1.6 CRDi Berline 16V ISG 136 cv,Diesel
+ma-114,KIA,fa-2072,Optima,mo-6371,II (08/2015 - Aujourd'hui),08/2015,,56442,KIA Optima,KIA Optima II 2.0 PHEV Berline 16V 156 cv Boîte auto,Essence
+ma-114,KIA,fa-2072,Optima,mo-6371,II (08/2015 - Aujourd'hui),08/2015,,49104,KIA Optima,KIA Optima II 2.0 CVVL Berline 16V 163 cv Boîte auto,Essence
+ma-114,KIA,fa-2072,Optima,mo-6371,II (08/2015 - Aujourd'hui),08/2015,,49105,KIA Optima,KIA Optima II 2.0 CVVL Berline 16V 163 cv,Essence
+ma-114,KIA,fa-2072,Optima,mo-6371,II (08/2015 - Aujourd'hui),08/2015,,49103,KIA Optima,KIA Optima II 1.7 CRDi Berline 16V ISG 141 cv,Diesel
+ma-114,KIA,fa-2072,Optima,mo-6372,II SW (09/2016 - Aujourd'hui),09/2016,,58965,KIA Optima,KIA Optima II SW 2.0 PHEV Break 16V 156 cv Boîte auto,Essence
+ma-114,KIA,fa-2072,Optima,mo-6372,II SW (09/2016 - Aujourd'hui),09/2016,,52266,KIA Optima,KIA Optima II SW 2.0 T-GDI Break 16V 245 cv Boîte auto,Essence
+ma-114,KIA,fa-2072,Optima,mo-6372,II SW (09/2016 - Aujourd'hui),09/2016,,52265,KIA Optima,KIA Optima II SW 2.0 CVVL Break 16V 163 cv,Essence
+ma-114,KIA,fa-2072,Optima,mo-6372,II SW (09/2016 - Aujourd'hui),09/2016,,52263,KIA Optima,KIA Optima II SW 1.7 CRDi Break 16V ISG 141 cv,Diesel
+ma-114,KIA,fa-2072,Optima,mo-6372,II SW (09/2016 - Aujourd'hui),09/2016,,52264,KIA Optima,KIA Optima II SW 2.0 CVVL Break 16V 163 cv Boîte auto,Essence
+ma-114,KIA,fa-2072,Optima,mo-6372,II SW (09/2016 - Aujourd'hui),09/2016,,61043,KIA Optima,KIA Optima II SW 1.6 CRDi Break 16V DCT 7 ISG 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-2072,Optima,mo-6372,II SW (09/2016 - Aujourd'hui),09/2016,,52262,KIA Optima,KIA Optima II SW 1.7 CRDi Break 16V DCT 7 ISG 141 cv Boîte auto,Diesel
+ma-114,KIA,fa-2072,Optima,mo-6372,II SW (09/2016 - Aujourd'hui),09/2016,,61044,KIA Optima,KIA Optima II SW 1.6 CRDi Break 16V ISG 136 cv,Diesel
+ma-114,KIA,fa-370,Cerato,mo-604, (01/2004 - 12/2008),01/2004,12/2008,6333,KIA Cerato,KIA Cerato 1.5 CRDi 102cv,Diesel
+ma-114,KIA,fa-370,Cerato,mo-604, (01/2004 - 12/2008),01/2004,12/2008,6335,KIA Cerato,KIA Cerato 2.0 CVVT 143cv Boîte auto,Essence
+ma-114,KIA,fa-370,Cerato,mo-604, (01/2004 - 12/2008),01/2004,12/2008,28209,KIA Cerato,KIA Cerato 1.6 i CVVT 122 cv,Essence
+ma-114,KIA,fa-370,Cerato,mo-604, (01/2004 - 12/2008),01/2004,12/2008,20559,KIA Cerato,KIA Cerato 1.6 i 105cv Boîte auto,Essence
+ma-114,KIA,fa-370,Cerato,mo-604, (01/2004 - 12/2008),01/2004,12/2008,15166,KIA Cerato,KIA Cerato 1.6 CRDi 115cv Boîte auto,Diesel
+ma-114,KIA,fa-370,Cerato,mo-604, (01/2004 - 12/2008),01/2004,12/2008,20558,KIA Cerato,KIA Cerato 1.6 i 105cv,Essence
+ma-114,KIA,fa-370,Cerato,mo-604, (01/2004 - 12/2008),01/2004,12/2008,15170,KIA Cerato,KIA Cerato 2.0 CRDi 112cv,Diesel
+ma-114,KIA,fa-370,Cerato,mo-604, (01/2004 - 12/2008),01/2004,12/2008,4447,KIA Cerato,KIA Cerato 1.6 CRDi 115cv,Diesel
+ma-114,KIA,fa-370,Cerato,mo-604, (01/2004 - 12/2008),01/2004,12/2008,6334,KIA Cerato,KIA Cerato 2.0 CVVT 143cv,Essence
+ma-114,KIA,fa-370,Cerato,mo-603,Berline (01/2004 - 12/2008),01/2004,12/2008,15168,KIA Cerato,KIA Cerato Berline 1.6 i Berline 105cv Boîte auto,Essence
+ma-114,KIA,fa-370,Cerato,mo-603,Berline (01/2004 - 12/2008),01/2004,12/2008,15167,KIA Cerato,KIA Cerato Berline 1.6 CRDi Berline 115cv,Diesel
+ma-114,KIA,fa-370,Cerato,mo-603,Berline (01/2004 - 12/2008),01/2004,12/2008,28208,KIA Cerato,KIA Cerato Berline 1.6 i CVVT 122 cv,Essence
+ma-114,KIA,fa-370,Cerato,mo-603,Berline (01/2004 - 12/2008),01/2004,12/2008,4450,KIA Cerato,KIA Cerato Berline 2.0 CVVT Berline 143cv Boîte auto,Essence
+ma-114,KIA,fa-370,Cerato,mo-603,Berline (01/2004 - 12/2008),01/2004,12/2008,4448,KIA Cerato,KIA Cerato Berline 1.6 CRDi Berline 115cv Boîte auto,Diesel
+ma-114,KIA,fa-370,Cerato,mo-603,Berline (01/2004 - 12/2008),01/2004,12/2008,6331,KIA Cerato,KIA Cerato Berline 1.5 CRDi Berline 102cv,Diesel
+ma-114,KIA,fa-370,Cerato,mo-603,Berline (01/2004 - 12/2008),01/2004,12/2008,15169,KIA Cerato,KIA Cerato Berline 2.0 CVVT Berline 143cv,Essence
+ma-114,KIA,fa-370,Cerato,mo-603,Berline (01/2004 - 12/2008),01/2004,12/2008,6332,KIA Cerato,KIA Cerato Berline 2.0 CRDi Berline 112cv,Diesel
+ma-114,KIA,fa-370,Cerato,mo-603,Berline (01/2004 - 12/2008),01/2004,12/2008,4449,KIA Cerato,KIA Cerato Berline 1.6 i Berline 105cv,Essence
+ma-114,KIA,fa-370,Cerato,mo-4883,08MY Sedan (10/2008 - 04/2013),10/2008,04/2013,48138,KIA Cerato,KIA Cerato 08MY Sedan 1.6 CVVT 16V 126 cv Boîte auto,Essence
+ma-114,KIA,fa-370,Cerato,mo-4883,08MY Sedan (10/2008 - 04/2013),10/2008,04/2013,48140,KIA Cerato,KIA Cerato 08MY Sedan 2.0 CVVT 16V 156 cv Boîte auto,Essence
+ma-114,KIA,fa-370,Cerato,mo-4883,08MY Sedan (10/2008 - 04/2013),10/2008,04/2013,48139,KIA Cerato,KIA Cerato 08MY Sedan 1.6 CVVT 16V 126 cv,Essence
+ma-114,KIA,fa-370,Cerato,mo-4883,08MY Sedan (10/2008 - 04/2013),10/2008,04/2013,48141,KIA Cerato,KIA Cerato 08MY Sedan 2.0 CVVT 16V 156 cv,Essence
+ma-114,KIA,fa-370,Cerato,mo-4882,08MY Coupé (10/2008 - 04/2013),10/2008,04/2013,34223,KIA Cerato,KIA Cerato 08MY Coupé 2.0 CVVT 156 16V 156 cv Boîte auto,Essence
+ma-114,KIA,fa-370,Cerato,mo-4882,08MY Coupé (10/2008 - 04/2013),10/2008,04/2013,34222,KIA Cerato,KIA Cerato 08MY Coupé 1.6 CVVT 126 16V 126 cv Boîte auto,Essence
+ma-114,KIA,fa-370,Cerato,mo-4882,08MY Coupé (10/2008 - 04/2013),10/2008,04/2013,34224,KIA Cerato,KIA Cerato 08MY Coupé 2.0 CVVT 156 16V 156 cv,Essence
+ma-114,KIA,fa-2348,EV6,mo-7373, (08/2021 - Aujourd'hui),08/2021,,64278,KIA EV6,KIA EV6 77 Kw/h 4WD 325 cv Boîte auto,Electrique
+ma-114,KIA,fa-2348,EV6,mo-7373, (08/2021 - Aujourd'hui),08/2021,,64279,KIA EV6,KIA EV6 77 Kw/h 229 cv Boîte auto,Electrique
+ma-114,KIA,fa-2348,EV6,mo-7373, (08/2021 - Aujourd'hui),08/2021,,67501,KIA EV6,KIA EV6 GT 77 Kw/h 4WD 585 cv Boîte auto,Electrique
+ma-114,KIA,fa-2348,EV6,mo-7373, (08/2021 - Aujourd'hui),08/2021,,67500,KIA EV6,KIA EV6 58 Kw/h 170 cv Boîte auto,Electrique
+ma-114,KIA,fa-2255,Stinger,mo-6698, (09/2017 - Aujourd'hui),09/2017,,58008,KIA Stinger,KIA Stinger 3.3 T-GDI 4X4 24V ISG 370 cv Boîte auto,Essence
+ma-114,KIA,fa-2255,Stinger,mo-6698, (09/2017 - Aujourd'hui),09/2017,,58006,KIA Stinger,KIA Stinger 2.2 CRDi 200 16V ISG 200 cv Boîte auto,Diesel
+ma-114,KIA,fa-2255,Stinger,mo-6698, (09/2017 - Aujourd'hui),09/2017,,59130,KIA Stinger,KIA Stinger 2.0 T-GDI 16V Automatic 247 cv Boîte auto,Essence
+ma-114,KIA,fa-2255,Stinger,mo-6698, (09/2017 - Aujourd'hui),09/2017,,58007,KIA Stinger,KIA Stinger 2.2 CRDi 200 4X4 16V ISG 200 cv Boîte auto,Diesel
+ma-114,KIA,fa-2255,Stinger,mo-6698, (09/2017 - Aujourd'hui),09/2017,,61797,KIA Stinger,KIA Stinger 3.3 T-GDI FAP 366 24V Automatic ISG 366 cv Boîte auto,Essence
+ma-114,KIA,fa-2255,Stinger,mo-6698, (09/2017 - Aujourd'hui),09/2017,,59397,KIA Stinger,KIA Stinger 2.0 T-GDI FAP 245 16V Automatic ISG 245 cv Boîte auto,Essence
+ma-114,KIA,fa-2255,Stinger,mo-6698, (09/2017 - Aujourd'hui),09/2017,,59398,KIA Stinger,KIA Stinger 3.3 T-GDI FAP 366 4X4 24V Automatic ISG 366 cv Boîte auto,Essence
+ma-114,KIA,fa-2255,Stinger,mo-6698, (09/2017 - Aujourd'hui),09/2017,,59131,KIA Stinger,KIA Stinger 3.3 T-GDI 24V Automatic ISG 370 cv Boîte auto,Essence
+ma-114,KIA,fa-2255,Stinger,mo-6698, (09/2017 - Aujourd'hui),09/2017,,58005,KIA Stinger,KIA Stinger 2.0 T-GDI 16V 255 cv Boîte auto,Essence
+ma-114,KIA,fa-378,Magentis,mo-1311,II (MG) (01/2006 - 05/2008),01/2006,05/2008,40763,KIA Magentis,KIA Magentis II (MG) 2.0 CRDi Berline 16V 136 cv,Diesel
+ma-114,KIA,fa-378,Magentis,mo-1311,II (MG) (01/2006 - 05/2008),01/2006,05/2008,4459,KIA Magentis,KIA Magentis II (MG) 2.0 CRDi 140cv,Diesel
+ma-114,KIA,fa-378,Magentis,mo-1311,II (MG) (01/2006 - 05/2008),01/2006,05/2008,4460,KIA Magentis,KIA Magentis II (MG) 2.7 i V6 188cv Boîte auto,Essence
+ma-114,KIA,fa-378,Magentis,mo-1311,II (MG) (01/2006 - 05/2008),01/2006,05/2008,40762,KIA Magentis,KIA Magentis II (MG) 2.0 CRDi Berline 16V 136 cv Boîte auto,Diesel
+ma-114,KIA,fa-378,Magentis,mo-1311,II (MG) (01/2006 - 05/2008),01/2006,05/2008,6343,KIA Magentis,KIA Magentis II (MG) 2.0 i 144cv,Essence
+ma-114,KIA,fa-378,Magentis,mo-1311,II (MG) (01/2006 - 05/2008),01/2006,05/2008,15180,KIA Magentis,KIA Magentis II (MG) 2.0 CRDi 140cv Boîte auto,Diesel
+ma-114,KIA,fa-378,Magentis,mo-1311,II (MG) (01/2006 - 05/2008),01/2006,05/2008,46571,KIA Magentis,KIA Magentis II (MG) 2.0 i Berline 16V 144 cv Boîte auto,Essence
+ma-114,KIA,fa-378,Magentis,mo-1310,(MS) (02/2001 - 12/2005),02/2001,12/2005,4458,KIA Magentis,KIA Magentis (MS) 2.0 i 136cv,Essence
+ma-114,KIA,fa-378,Magentis,mo-1310,(MS) (02/2001 - 12/2005),02/2001,12/2005,15178,KIA Magentis,KIA Magentis (MS) 2.0 i 136cv Boîte auto,Essence
+ma-114,KIA,fa-378,Magentis,mo-1310,(MS) (02/2001 - 12/2005),02/2001,12/2005,15179,KIA Magentis,KIA Magentis (MS) 2.5 i V6 168cv Boîte auto,Essence
+ma-114,KIA,fa-378,Magentis,mo-1310,(MS) (02/2001 - 12/2005),02/2001,12/2005,20564,KIA Magentis,KIA Magentis (MS) 2.5 i V6 168cv,Essence
+ma-114,KIA,fa-378,Magentis,mo-4881,II (MG) Phase 2 (05/2008 - 08/2010),05/2008,08/2010,33024,KIA Magentis,KIA Magentis II (MG) Phase 2 2.7 i V6 Berline 24V 193 cv Boîte auto,Essence
+ma-114,KIA,fa-378,Magentis,mo-4881,II (MG) Phase 2 (05/2008 - 08/2010),05/2008,08/2010,33021,KIA Magentis,KIA Magentis II (MG) Phase 2 2.0 CRDi Berline 16V 150 cv,Diesel
+ma-114,KIA,fa-378,Magentis,mo-4881,II (MG) Phase 2 (05/2008 - 08/2010),05/2008,08/2010,33020,KIA Magentis,KIA Magentis II (MG) Phase 2 2.0 CRDi Berline 16V 150 cv Boîte auto,Diesel
+ma-114,KIA,fa-378,Magentis,mo-4881,II (MG) Phase 2 (05/2008 - 08/2010),05/2008,08/2010,33023,KIA Magentis,KIA Magentis II (MG) Phase 2 2.0 i Berline 16V 164 cv,Essence
+ma-114,KIA,fa-378,Magentis,mo-4881,II (MG) Phase 2 (05/2008 - 08/2010),05/2008,08/2010,33022,KIA Magentis,KIA Magentis II (MG) Phase 2 2.0 i Berline 16V 164 cv Boîte auto,Essence
+ma-114,KIA,fa-375,K2500,mo-1149, (01/2003 - 12/2004),01/2003,12/2004,4457,KIA K2500,KIA K2500 2.5 TCi Pickup 94cv,Diesel
+ma-114,KIA,fa-375,K2500,mo-1149, (01/2003 - 12/2004),01/2003,12/2004,15174,KIA K2500,KIA K2500 2.5 TCi Plateau cabine 94cv,Diesel
+ma-114,KIA,fa-375,K2500,mo-1149, (01/2003 - 12/2004),01/2003,12/2004,15173,KIA K2500,KIA K2500 2.5 TCi Plateau double cabine 94cv,Diesel
+ma-114,KIA,fa-375,K2500,mo-1149, (01/2003 - 12/2004),01/2003,12/2004,6340,KIA K2500,KIA K2500 2.5 TCi Pickup double cabine 94cv,Diesel
+ma-114,KIA,fa-375,K2500,mo-1150,II (01/2005 - 01/2007),01/2005,01/2007,6341,KIA K2500,KIA K2500 II 2.5 TD Pickup double cabine 94cv,Diesel
+ma-114,KIA,fa-375,K2500,mo-1150,II (01/2005 - 01/2007),01/2005,01/2007,15175,KIA K2500,KIA K2500 II 2.5 TD Plateau cabine 94cv,Diesel
+ma-114,KIA,fa-375,K2500,mo-1150,II (01/2005 - 01/2007),01/2005,01/2007,20561,KIA K2500,KIA K2500 II 2.5 TD Pickup 94cv,Diesel
+ma-114,KIA,fa-375,K2500,mo-6731,III (01/2007 - Aujourd'hui),01/2007,,68952,KIA K2500,KIA K2500 III 2.5 D Châssis cabine court 94 cv,Diesel
+ma-114,KIA,fa-375,K2500,mo-6731,III (01/2007 - Aujourd'hui),01/2007,,68951,KIA K2500,KIA K2500 III 2.5 D Châssis cabine court 131 cv,Diesel
+ma-114,KIA,fa-376,K2700,mo-1151, (07/1997 - 09/2004),07/1997,09/2004,15176,KIA K2700,KIA K2700 2.7 D Châssis cabine court 83cv,Diesel
+ma-114,KIA,fa-376,K2700,mo-1151, (07/1997 - 09/2004),07/1997,09/2004,20562,KIA K2700,KIA K2700 2.7 D Pickup 83cv,Diesel
+ma-114,KIA,fa-376,K2700,mo-1151, (07/1997 - 09/2004),07/1997,09/2004,15177,KIA K2700,KIA K2700 2.7 D Pickup double cabine 83cv,Diesel
+ma-114,KIA,fa-382,Pregio,mo-1608, (11/1995 - 10/2005),11/1995,10/2005,15184,KIA Pregio,KIA Pregio 2.7 D Minibus 82cv,Diesel
+ma-114,KIA,fa-382,Pregio,mo-1608, (11/1995 - 10/2005),11/1995,10/2005,15185,KIA Pregio,KIA Pregio 2.7 D Fourgon 82cv,Diesel
+ma-114,KIA,fa-382,Pregio,mo-1608, (11/1995 - 10/2005),11/1995,10/2005,57750,KIA Pregio,KIA Pregio 2.5 TCI Minibus 94 cv,Diesel
+ma-114,KIA,fa-382,Pregio,mo-1608, (11/1995 - 10/2005),11/1995,10/2005,4466,KIA Pregio,KIA Pregio 2.5 TCI Fourgon 94cv,Diesel
+ma-114,KIA,fa-365,Besta,mo-479, (03/1986 - 07/1999),03/1986,07/1999,6246,KIA Besta,KIA Besta 2.2 D Minibus 65cv,Diesel
+ma-114,KIA,fa-365,Besta,mo-479, (03/1986 - 07/1999),03/1986,07/1999,6247,KIA Besta,KIA Besta 2.2 D Minibus long 65cv,Diesel
+ma-114,KIA,fa-365,Besta,mo-479, (03/1986 - 07/1999),03/1986,07/1999,24887,KIA Besta,KIA Besta 2.2 D 4x4 Fourgon 65cv,Diesel
+ma-114,KIA,fa-365,Besta,mo-479, (03/1986 - 07/1999),03/1986,07/1999,15152,KIA Besta,KIA Besta 2.2 D Fourgon 65cv,Diesel
+ma-114,KIA,fa-380,Opirus,mo-1508, (04/2003 - 10/2006),04/2003,10/2006,20567,KIA Opirus,KIA Opirus 3.5 i V6 203cv Boîte auto,Essence
+ma-114,KIA,fa-380,Opirus,mo-1508, (04/2003 - 10/2006),04/2003,10/2006,4463,KIA Opirus,KIA Opirus 3.5 i V6 197cv Boîte auto,Essence
+ma-114,KIA,fa-380,Opirus,mo-3415,Phase 2 (10/2006 - 10/2007),10/2006,10/2007,28210,KIA Opirus,KIA Opirus Phase 2 3.8 i V6 Berline H-Matic 266 cv Boîte auto,Essence
+ma-114,KIA,fa-2230,K2900,mo-6603, (01/2008 - Aujourd'hui),01/2008,,43446,KIA K2900,KIA K2900 K2900 2.9 D Châssis cabine court 126 cv,Diesel
+ma-114,KIA,fa-383,Pride,mo-1618,(DA) (10/1987 - 07/2000),10/1987,07/2000,4468,KIA Pride,KIA Pride (DA) 1.3 64cv,Essence
+ma-114,KIA,fa-383,Pride,mo-1618,(DA) (10/1987 - 07/2000),10/1987,07/2000,68949,KIA Pride,KIA Pride (DA) 1.3 i 73cv,Essence
+ma-114,KIA,fa-383,Pride,mo-1618,(DA) (10/1987 - 07/2000),10/1987,07/2000,6348,KIA Pride,KIA Pride (DA) 1.1 52cv,Essence
+ma-114,KIA,fa-383,Pride,mo-1618,(DA) (10/1987 - 07/2000),10/1987,07/2000,4470,KIA Pride,KIA Pride (DA) 1.3 i 64cv,Essence
+ma-114,KIA,fa-383,Pride,mo-1618,(DA) (10/1987 - 07/2000),10/1987,07/2000,68950,KIA Pride,KIA Pride (DA) 1.3 i 60cv,Essence
+ma-114,KIA,fa-383,Pride,mo-1618,(DA) (10/1987 - 07/2000),10/1987,07/2000,4469,KIA Pride,KIA Pride (DA) 1.3 i Break 64cv,Essence
+ma-114,KIA,fa-383,Pride,mo-1618,(DA) (10/1987 - 07/2000),10/1987,07/2000,4467,KIA Pride,KIA Pride (DA) 1.3 Fourgon 64cv,Essence
+ma-114,KIA,fa-383,Pride,mo-1618,(DA) (10/1987 - 07/2000),10/1987,07/2000,20569,KIA Pride,KIA Pride (DA) 1.3 i 64cv Boîte auto,Essence
+ma-114,KIA,fa-383,Pride,mo-1619,RV (08/1998 - 07/2000),08/1998,07/2000,4471,KIA Pride,KIA Pride RV 1.3 i Break 64cv Boîte auto,Essence
+ma-114,KIA,fa-383,Pride,mo-1619,RV (08/1998 - 07/2000),08/1998,07/2000,15186,KIA Pride,KIA Pride RV 1.3 i Break 64cv,Essence
+ma-114,KIA,fa-387,Sephia,mo-1825, (01/1993 - 08/1998),01/1993,08/1998,6362,KIA Sephia,KIA Sephia 1.8 i 16V Berline 116cv Boîte auto,Essence
+ma-114,KIA,fa-387,Sephia,mo-1825, (01/1993 - 08/1998),01/1993,08/1998,4488,KIA Sephia,KIA Sephia 1.6 i 80cv Boîte auto,Essence
+ma-114,KIA,fa-387,Sephia,mo-1825, (01/1993 - 08/1998),01/1993,08/1998,20577,KIA Sephia,KIA Sephia 1.8 i 16V 116cv Boîte auto,Essence
+ma-114,KIA,fa-387,Sephia,mo-1825, (01/1993 - 08/1998),01/1993,08/1998,4490,KIA Sephia,KIA Sephia 1.8 i 16V Berline 116cv,Essence
+ma-114,KIA,fa-387,Sephia,mo-1825, (01/1993 - 08/1998),01/1993,08/1998,6359,KIA Sephia,KIA Sephia 1.5 i 16V 80cv Boîte auto,Essence
+ma-114,KIA,fa-387,Sephia,mo-1825, (01/1993 - 08/1998),01/1993,08/1998,6360,KIA Sephia,KIA Sephia 1.5 i 16V Berline 80cv,Essence
+ma-114,KIA,fa-387,Sephia,mo-1825, (01/1993 - 08/1998),01/1993,08/1998,4489,KIA Sephia,KIA Sephia 1.6 i Berline 80cv Boîte auto,Essence
+ma-114,KIA,fa-387,Sephia,mo-1825, (01/1993 - 08/1998),01/1993,08/1998,20576,KIA Sephia,KIA Sephia 1.8 i 16V 116cv,Essence
+ma-114,KIA,fa-387,Sephia,mo-1825, (01/1993 - 08/1998),01/1993,08/1998,15199,KIA Sephia,KIA Sephia 1.6 i 80cv,Essence
+ma-114,KIA,fa-387,Sephia,mo-1825, (01/1993 - 08/1998),01/1993,08/1998,4487,KIA Sephia,KIA Sephia 1.5 i 16V Berline 80cv Boîte auto,Essence
+ma-114,KIA,fa-387,Sephia,mo-1825, (01/1993 - 08/1998),01/1993,08/1998,6361,KIA Sephia,KIA Sephia 1.6 i Berline 80cv,Essence
+ma-114,KIA,fa-387,Sephia,mo-1825, (01/1993 - 08/1998),01/1993,08/1998,6358,KIA Sephia,KIA Sephia 1.5 i 16V 80cv,Essence
+ma-114,KIA,fa-387,Sephia,mo-1826,II (09/1997 - 02/2001),09/1997,02/2001,15197,KIA Sephia,KIA Sephia II 1.5 i 88cv Boîte auto,Essence
+ma-114,KIA,fa-387,Sephia,mo-1826,II (09/1997 - 02/2001),09/1997,02/2001,15198,KIA Sephia,KIA Sephia II 1.5 i Berline 88cv Boîte auto,Essence
+ma-114,KIA,fa-387,Sephia,mo-1826,II (09/1997 - 02/2001),09/1997,02/2001,20575,KIA Sephia,KIA Sephia II 1.5 i Berline 88cv,Essence
+ma-114,KIA,fa-387,Sephia,mo-1826,II (09/1997 - 02/2001),09/1997,02/2001,4486,KIA Sephia,KIA Sephia II 1.5 i 88cv,Essence
+ma-114,KIA,fa-388,Shuma,mo-1881,II (02/2001 - 08/2004),02/2001,08/2004,20578,KIA Shuma,KIA Shuma II 1.6 i 101cv Boîte auto,Essence
+ma-114,KIA,fa-388,Shuma,mo-1881,II (02/2001 - 08/2004),02/2001,08/2004,20579,KIA Shuma,KIA Shuma II 1.8 i 116cv,Essence
+ma-114,KIA,fa-388,Shuma,mo-1881,II (02/2001 - 08/2004),02/2001,08/2004,4492,KIA Shuma,KIA Shuma II 1.6 i Berline 101cv,Essence
+ma-114,KIA,fa-388,Shuma,mo-1881,II (02/2001 - 08/2004),02/2001,08/2004,4493,KIA Shuma,KIA Shuma II 1.8 i 116cv Boîte auto,Essence
+ma-114,KIA,fa-388,Shuma,mo-1881,II (02/2001 - 08/2004),02/2001,08/2004,4491,KIA Shuma,KIA Shuma II 1.6 i 101cv,Essence
+ma-114,KIA,fa-388,Shuma,mo-1880, (04/1997 - 09/2002),04/1997,09/2002,6363,KIA Shuma,KIA Shuma 1.5 i 16V Berline 88cv,Essence
+ma-114,KIA,fa-388,Shuma,mo-1880, (04/1997 - 09/2002),04/1997,09/2002,4494,KIA Shuma,KIA Shuma 1.5 i 16V 88cv Boîte auto,Essence
+ma-114,KIA,fa-388,Shuma,mo-1880, (04/1997 - 09/2002),04/1997,09/2002,15200,KIA Shuma,KIA Shuma 1.8 i 110cv,Essence
+ma-114,KIA,fa-388,Shuma,mo-1880, (04/1997 - 09/2002),04/1997,09/2002,20581,KIA Shuma,KIA Shuma 1.5 i Berline 80cv,Essence
+ma-114,KIA,fa-388,Shuma,mo-1880, (04/1997 - 09/2002),04/1997,09/2002,6365,KIA Shuma,KIA Shuma 1.8 i 110cv Boîte auto,Essence
+ma-114,KIA,fa-388,Shuma,mo-1880, (04/1997 - 09/2002),04/1997,09/2002,6364,KIA Shuma,KIA Shuma 1.5 i 16V Berline 88cv Boîte auto,Essence
+ma-114,KIA,fa-388,Shuma,mo-1880, (04/1997 - 09/2002),04/1997,09/2002,20580,KIA Shuma,KIA Shuma 1.5 i 16V 88cv,Essence
+ma-114,KIA,fa-2460,EV9,mo-7818,(MV) (06/2023 - Aujourd'hui),06/2023,,70140,KIA EV9,KIA EV9 (MV) GT AWD 385 cv Boîte auto,Electrique
+ma-114,KIA,fa-2460,EV9,mo-7818,(MV) (06/2023 - Aujourd'hui),06/2023,,70139,KIA EV9,KIA EV9 (MV) RWD 204 cv Boîte auto,Electrique
+ma-114,KIA,fa-384,Retona,mo-1715, (09/1999 - 05/2000),09/1999,05/2000,15187,KIA Retona,KIA Retona 2.0 i 16V Cabriolet 128cv,Essence
+ma-114,KIA,fa-384,Retona,mo-1715, (09/1999 - 05/2000),09/1999,05/2000,6349,KIA Retona,KIA Retona 2.0 i 16V Break 128cv,Essence
+ma-114,KIA,fa-384,Retona,mo-1715, (09/1999 - 05/2000),09/1999,05/2000,6350,KIA Retona,KIA Retona 2.0 TCi Fourgon 87cv,Diesel
+ma-114,KIA,fa-384,Retona,mo-1715, (09/1999 - 05/2000),09/1999,05/2000,15188,KIA Retona,KIA Retona 2.0 TCi Cabriolet 87cv,Diesel
+ma-114,KIA,fa-384,Retona,mo-1715, (09/1999 - 05/2000),09/1999,05/2000,6351,KIA Retona,KIA Retona 2.0 TCi Break 87cv,Diesel
+ma-114,KIA,fa-384,Retona,mo-1715, (09/1999 - 05/2000),09/1999,05/2000,6352,KIA Retona,KIA Retona 2.0 TCi Break 87cv Boîte auto,Diesel
+ma-114,KIA,fa-386,Sedona,mo-1820,II (02/2002 - 11/2005),02/2002,11/2005,4483,KIA Sedona,KIA Sedona II 2.5 i V6 165cv,Essence
+ma-114,KIA,fa-386,Sedona,mo-1820,II (02/2002 - 11/2005),02/2002,11/2005,6355,KIA Sedona,KIA Sedona II 2.5 i V6 165cv Boîte auto,Essence
+ma-114,KIA,fa-386,Sedona,mo-1820,II (02/2002 - 11/2005),02/2002,11/2005,15195,KIA Sedona,KIA Sedona II 2.9 CrDi 126cv,Diesel
+ma-114,KIA,fa-386,Sedona,mo-1820,II (02/2002 - 11/2005),02/2002,11/2005,4484,KIA Sedona,KIA Sedona II 2.9 CrDi 126cv Boîte auto,Diesel
+ma-114,KIA,fa-386,Sedona,mo-1819, (09/1999 - 01/2002),09/1999,01/2002,4485,KIA Sedona,KIA Sedona 2.5 i V6 165cv Boîte auto,Essence
+ma-114,KIA,fa-386,Sedona,mo-1819, (09/1999 - 01/2002),09/1999,01/2002,6356,KIA Sedona,KIA Sedona 2.5 i V6 165cv,Essence
+ma-114,KIA,fa-386,Sedona,mo-1819, (09/1999 - 01/2002),09/1999,01/2002,6357,KIA Sedona,KIA Sedona 2.9 CrDi 126cv,Diesel
+ma-114,KIA,fa-386,Sedona,mo-1819, (09/1999 - 01/2002),09/1999,01/2002,15196,KIA Sedona,KIA Sedona 2.9 CrDi 126cv Boîte auto,Diesel
+ma-114,KIA,fa-386,Sedona,mo-5817,II FL (03/2006 - 07/2012),03/2006,07/2012,32375,KIA Sedona,KIA Sedona II FL 2.2 CRDi V6 24V 194 cv Boîte auto,Diesel
+ma-114,KIA,fa-386,Sedona,mo-5817,II FL (03/2006 - 07/2012),03/2006,07/2012,40758,KIA Sedona,KIA Sedona II FL 2.2 CRDi 16V 194 cv,Diesel
+ma-114,KIA,fa-364,Avella,mo-448, (12/1998 - 12/1999),12/1998,12/1999,68953,KIA Avella,KIA Avella 1.5 i Berline 80cv Boîte auto,Essence
+ma-114,KIA,fa-364,Avella,mo-448, (12/1998 - 12/1999),12/1998,12/1999,15148,KIA Avella,KIA Avella 1.3 i 73cv Boîte auto,Essence
+ma-114,KIA,fa-364,Avella,mo-448, (12/1998 - 12/1999),12/1998,12/1999,4433,KIA Avella,KIA Avella 1.5 i 88cv,Essence
+ma-114,KIA,fa-364,Avella,mo-448, (12/1998 - 12/1999),12/1998,12/1999,15150,KIA Avella,KIA Avella 1.5 i 88cv Boîte auto,Essence
+ma-114,KIA,fa-364,Avella,mo-448, (12/1998 - 12/1999),12/1998,12/1999,15149,KIA Avella,KIA Avella 1.3 i Berline 73cv Boîte auto,Essence
+ma-114,KIA,fa-364,Avella,mo-448, (12/1998 - 12/1999),12/1998,12/1999,4432,KIA Avella,KIA Avella 1.3 i 73cv,Essence
+ma-114,KIA,fa-364,Avella,mo-448, (12/1998 - 12/1999),12/1998,12/1999,20547,KIA Avella,KIA Avella 1.3 i Berline 73cv,Essence
+ma-114,KIA,fa-364,Avella,mo-448, (12/1998 - 12/1999),12/1998,12/1999,68956,KIA Avella,KIA Avella 1.5 i 80cv Boîte auto,Essence
+ma-114,KIA,fa-364,Avella,mo-448, (12/1998 - 12/1999),12/1998,12/1999,68957,KIA Avella,KIA Avella 1.5 i 80cv,Essence
+ma-114,KIA,fa-364,Avella,mo-448, (12/1998 - 12/1999),12/1998,12/1999,68954,KIA Avella,KIA Avella 1.5 i Berline 80cv,Essence
+ma-114,KIA,fa-2314,Borrego,mo-7162, (07/2008 - Aujourd'hui),07/2008,,68955,KIA Borrego,KIA Borrego 3.8 i V6 24V AWD 274 cv Boîte auto,Essence
+ma-114,KIA,fa-2314,Borrego,mo-7162, (07/2008 - Aujourd'hui),07/2008,,68958,KIA Borrego,KIA Borrego 3.0 CRDi 4WD 250 cv Boîte auto,Diesel
+ma-114,KIA,fa-371,Clarus,mo-652,Berline (05/1995 - 07/2001),05/1995,07/2001,4453,KIA Clarus,KIA Clarus Berline 1.8 i 16V 116cv,Essence
+ma-114,KIA,fa-371,Clarus,mo-652,Berline (05/1995 - 07/2001),05/1995,07/2001,15171,KIA Clarus,KIA Clarus Berline 1.8 i 16V 116cv Boîte auto,Essence
+ma-114,KIA,fa-371,Clarus,mo-652,Berline (05/1995 - 07/2001),05/1995,07/2001,6336,KIA Clarus,KIA Clarus Berline 2.0 i 16V 133cv Boîte auto,Essence
+ma-114,KIA,fa-371,Clarus,mo-652,Berline (05/1995 - 07/2001),05/1995,07/2001,4454,KIA Clarus,KIA Clarus Berline 2.0 i 16V 133cv,Essence
+ma-114,KIA,fa-371,Clarus,mo-653,Break (03/1996 - 07/2001),03/1996,07/2001,4452,KIA Clarus,KIA Clarus Break 2.0 i 16V 133cv,Essence
+ma-114,KIA,fa-371,Clarus,mo-653,Break (03/1996 - 07/2001),03/1996,07/2001,20560,KIA Clarus,KIA Clarus Break 2.0 i 16V 133cv Boîte auto,Essence
+ma-114,KIA,fa-371,Clarus,mo-653,Break (03/1996 - 07/2001),03/1996,07/2001,4451,KIA Clarus,KIA Clarus Break 1.8 i 16V 116cv,Essence
+ma-114,KIA,fa-373,Elan,mo-884,Roadster (01/1999 - 12/1999),01/1999,12/1999,4456,KIA Elan,KIA Elan Roadster 1.8 i 136cv,Essence
+ma-114,KIA,fa-374,Joice,mo-1140, (09/1999 - 03/2003),09/1999,03/2003,15172,KIA Joice,KIA Joice 2.0 i 137cv Boîte auto,Essence
+ma-114,KIA,fa-374,Joice,mo-1140, (09/1999 - 03/2003),09/1999,03/2003,6339,KIA Joice,KIA Joice 2.0 i 120cv Boîte auto,Essence
+ma-114,KIA,fa-374,Joice,mo-1140, (09/1999 - 03/2003),09/1999,03/2003,6338,KIA Joice,KIA Joice 2.0 i 137cv,Essence
+ma-114,KIA,fa-366,Bongo,mo-491, (08/1998 - 10/2005),08/1998,10/2005,4434,KIA Bongo,KIA Bongo 2.7 D Pickup 93cv,Diesel
+ma-114,KIA,fa-372,Credos,mo-790, (01/1997 - 04/2000),01/1997,04/2000,6337,KIA Credos,KIA Credos 1.8 i 16V 116cv,Essence
+ma-114,KIA,fa-372,Credos,mo-790, (01/1997 - 04/2000),01/1997,04/2000,4455,KIA Credos,KIA Credos 1.8 i 16V 116cv Boîte auto,Essence
+ma-114,KIA,fa-379,Mentor,mo-1376, (05/1994 - 06/2001),05/1994,06/2001,4461,KIA Mentor,KIA Mentor 1.5 i Berline 88cv,Essence
+ma-114,KIA,fa-379,Mentor,mo-1376, (05/1994 - 06/2001),05/1994,06/2001,4462,KIA Mentor,KIA Mentor 1.6 i Berline 80cv Boîte auto,Essence

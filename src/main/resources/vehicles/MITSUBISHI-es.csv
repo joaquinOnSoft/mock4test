@@ -1,0 +1,903 @@
+brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
+ma-142,MITSUBISHI,fa-525,Montero,mo-6254,3 (VD/VF) (02/2000 - 08/2006),02/2000,08/2006,49377,MITSUBISHI Montero,MITSUBISHI Montero 3 (VD/VF) 3.2 DI-D 4WD familiar 16V 160 cv,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-6254,3 (VD/VF) (02/2000 - 08/2006),02/2000,08/2006,49374,MITSUBISHI Montero,MITSUBISHI Montero 3 (VD/VF) 2.5 TD 4WD familiar 115 cv,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-6254,3 (VD/VF) (02/2000 - 08/2006),02/2000,08/2006,49376,MITSUBISHI Montero,MITSUBISHI Montero 3 (VD/VF) 3.2 DI-D 4WD familiar 16V 160 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-6254,3 (VD/VF) (02/2000 - 08/2006),02/2000,08/2006,49375,MITSUBISHI Montero,MITSUBISHI Montero 3 (VD/VF) 2.5 TD 4WD familiar 99 cv,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-1434,(V2/4) (11/1993 - 08/2006),11/1993,08/2006,5780,MITSUBISHI Montero,MITSUBISHI Montero (V2/4) 2.8 TD Familiar 125cv,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-1434,(V2/4) (11/1993 - 08/2006),11/1993,08/2006,16049,MITSUBISHI Montero,MITSUBISHI Montero (V2/4) 2.8 TD Familiar 125cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-1434,(V2/4) (11/1993 - 08/2006),11/1993,08/2006,21442,MITSUBISHI Montero,MITSUBISHI Montero (V2/4) 2.5 TD Familiar 115cv,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-6291,4 5P (09/2006 - Hoy),09/2006,,50041,MITSUBISHI Montero,MITSUBISHI Montero 4 5P 3.2 DI-D 4WD familiar 16V 160 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-6291,4 5P (09/2006 - Hoy),09/2006,,50045,MITSUBISHI Montero,MITSUBISHI Montero 4 5P 3.2 DI-D DPF 4WD familiar 16V 200 cv,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-6291,4 5P (09/2006 - Hoy),09/2006,,50042,MITSUBISHI Montero,MITSUBISHI Montero 4 5P 3.2 DI-D 4WD familiar 16V 160 cv,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-6291,4 5P (09/2006 - Hoy),09/2006,,50044,MITSUBISHI Montero,MITSUBISHI Montero 4 5P 3.2 DI-D DPF 4WD familiar 16V 200 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-6291,4 5P (09/2006 - Hoy),09/2006,,50043,MITSUBISHI Montero,MITSUBISHI Montero 4 5P 3.2 DI-D DPF 4WD familiar 16V 170 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-1435,Sport (K9) (08/1998 - 02/2009),08/1998,02/2009,21378,MITSUBISHI Montero,MITSUBISHI Montero Sport (K9) 3.0 i V6 Familiar 177cv,Gasolina
+ma-142,MITSUBISHI,fa-525,Montero,mo-1435,Sport (K9) (08/1998 - 02/2009),08/1998,02/2009,21379,MITSUBISHI Montero,MITSUBISHI Montero Sport (K9) 3.0 i V6 Familiar 177cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-525,Montero,mo-1435,Sport (K9) (08/1998 - 02/2009),08/1998,02/2009,16002,MITSUBISHI Montero,MITSUBISHI Montero Sport (K9) 2.5 TD Familiar 115cv,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-1435,Sport (K9) (08/1998 - 02/2009),08/1998,02/2009,16001,MITSUBISHI Montero,MITSUBISHI Montero Sport (K9) 2.5 TD Familiar 99cv,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-6292,4 3P (09/2006 - Hoy),09/2006,,36129,MITSUBISHI Montero,MITSUBISHI Montero 4 3P 3.2 DI-D DPF 4WD Familiar 16V 200 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-6292,4 3P (09/2006 - Hoy),09/2006,,50040,MITSUBISHI Montero,MITSUBISHI Montero 4 3P 3.2 DI-D DPF 4WD familiar 16V 170 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-6292,4 3P (09/2006 - Hoy),09/2006,,36130,MITSUBISHI Montero,MITSUBISHI Montero 4 3P 3.2 DI-D DPF 4WD Familiar 16V 200 cv,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-6292,4 3P (09/2006 - Hoy),09/2006,,50039,MITSUBISHI Montero,MITSUBISHI Montero 4 3P 3.2 DI-D 4WD familiar 16V 160 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-6292,4 3P (09/2006 - Hoy),09/2006,,36128,MITSUBISHI Montero,MITSUBISHI Montero 4 3P 3.2 DI-D 4WD Familiar 16V 160 cv,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-6290,Sport (KH) (07/2008 - Hoy),07/2008,,50048,MITSUBISHI Montero,MITSUBISHI Montero Sport (KH) 3500 V6 4WD familiar 24V 208 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-525,Montero,mo-6290,Sport (KH) (07/2008 - Hoy),07/2008,,50046,MITSUBISHI Montero,MITSUBISHI Montero Sport (KH) 3200 D 4WD familiar 16V 160 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-525,Montero,mo-6290,Sport (KH) (07/2008 - Hoy),07/2008,,50049,MITSUBISHI Montero,MITSUBISHI Montero Sport (KH) 3500 V6 4WD familiar 24V 208 cv,Gasolina
+ma-142,MITSUBISHI,fa-525,Montero,mo-6290,Sport (KH) (07/2008 - Hoy),07/2008,,50047,MITSUBISHI Montero,MITSUBISHI Montero Sport (KH) 3200 D 4WD familiar 16V 160 cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,16056,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 3.0 i V6 Familiar entoldado 150cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,5928,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 2.5 TD Familiar entoldado 99cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,21455,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 3.0 i V6 Familiar 177cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,21453,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 3.0 i V6 Familiar entoldado 150cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,21454,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 3.0 i V6 Familiar 177cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,16058,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 3.5 i V6 Familiar 194cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,8477,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 3.0 i V6 Familiar entoldado 177cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,8400,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 2.4 i Familiar entoldado 112cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,8474,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 2.5 TD Familiar 99cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,5930,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 2.8 TD Familiar 125cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,5931,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 3.0 i V6 Familiar entoldado 177cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,8479,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 3.5 i V6 Familiar 203cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,5933,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 3.5 i V6 Familiar 194cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,5929,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 2.5 TD Familiar 87cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,8476,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 2.8 TD Familiar,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,16055,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 2.8 TD Familiar 125cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,16057,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 3.0 i V6 Familiar 150cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,8401,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 2.4 i Familiar 112cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,8478,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 3.5 i V6 Familiar 208cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,5932,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 3.0 i V6 Familiar 150cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,8475,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 2.5 TD Familiar 99cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1515,2 (V2/4) (12/1990 - 04/2004),12/1990,04/2004,21452,MITSUBISHI Pajero,MITSUBISHI Pajero 2 (V2/4) 2.6 i Familiar 103cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1516,Sport (K9) (08/1998 - 12/2013),08/1998,12/2013,15999,MITSUBISHI Pajero,MITSUBISHI Pajero Sport (K9) 3.0 i V6 Familiar 170cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1516,Sport (K9) (08/1998 - 12/2013),08/1998,12/2013,21376,MITSUBISHI Pajero,MITSUBISHI Pajero Sport (K9) 2.5 TD Familiar 99cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1516,Sport (K9) (08/1998 - 12/2013),08/1998,12/2013,8346,MITSUBISHI Pajero,MITSUBISHI Pajero Sport (K9) 2.5 TD Familiar 133cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1516,Sport (K9) (08/1998 - 12/2013),08/1998,12/2013,21377,MITSUBISHI Pajero,MITSUBISHI Pajero Sport (K9) 2.5 TD Familiar 115cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1516,Sport (K9) (08/1998 - 12/2013),08/1998,12/2013,16000,MITSUBISHI Pajero,MITSUBISHI Pajero Sport (K9) 3.0 i V6 Familiar 177cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1516,Sport (K9) (08/1998 - 12/2013),08/1998,12/2013,5731,MITSUBISHI Pajero,MITSUBISHI Pajero Sport (K9) 3.0 i V6 Familiar 170cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1516,Sport (K9) (08/1998 - 12/2013),08/1998,12/2013,5732,MITSUBISHI Pajero,MITSUBISHI Pajero Sport (K9) 3.0 i V6 Familiar 177cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,21448,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 2.6 Familiar entoldado 103cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,16052,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 2.6 Familiar 103cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,29854,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 2.5 TD 4WD Familiar entoldado 84 cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,16051,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 2.5 TD LWB Familiar 95cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,5783,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 2.5 TD Familiar 95cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,5784,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 2.5 TD Familiar 95cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,5786,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 2.6 i LWB Familiar 103cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,29853,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 2.5 TD 4WD Familiar 84 cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,21447,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 2.6 Familiar entoldado 103cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,8396,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 2.5 TD Familiar entoldado 95cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,8395,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 2.5 TD LWB Familiar 95cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,5785,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 2.6 LWB Familiar 103cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,21446,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 2.5 TD Familiar 95cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,8399,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 3.0 i LWB V6 Familiar 141cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,21449,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 3.0 i V6 Familiar 141cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,21444,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 2.3 TD LWB Familiar 84cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,8397,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 2.5 TD LWB Familiar 95cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,8394,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) Pajero 2.3 TD Familiar 84cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,21445,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) Pajero 2.3 TD Familiar entoldado 84cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,16053,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 2.6 Familiar 103cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,29855,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 2.5 TD 4WD Familiar LWB 84 cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1514,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,8398,MITSUBISHI Pajero,MITSUBISHI Pajero 1 (L0/1) 3.0 i LWB V6 Familiar 141cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1518,3 (VD/VF) (02/2000 - 08/2006),02/2000,08/2006,5935,MITSUBISHI Pajero,MITSUBISHI Pajero 3 (VD/VF) 3.2 DI-D Familiar 160cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1518,3 (VD/VF) (02/2000 - 08/2006),02/2000,08/2006,5936,MITSUBISHI Pajero,MITSUBISHI Pajero 3 (VD/VF) 3.5 GDI V6 Familiar 203cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1518,3 (VD/VF) (02/2000 - 08/2006),02/2000,08/2006,5934,MITSUBISHI Pajero,MITSUBISHI Pajero 3 (VD/VF) 3.2 DI-D Familiar 160cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1518,3 (VD/VF) (02/2000 - 08/2006),02/2000,08/2006,8480,MITSUBISHI Pajero,MITSUBISHI Pajero 3 (VD/VF) 3.5 GDI V6 Familiar 203cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1518,3 (VD/VF) (02/2000 - 08/2006),02/2000,08/2006,33706,MITSUBISHI Pajero,MITSUBISHI Pajero 3 (VD/VF) 2.5 TD 4WD 115 cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1518,3 (VD/VF) (02/2000 - 08/2006),02/2000,08/2006,16060,MITSUBISHI Pajero,MITSUBISHI Pajero 3 (VD/VF) 3.2 DI-D Familiar 165cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1518,3 (VD/VF) (02/2000 - 08/2006),02/2000,08/2006,21456,MITSUBISHI Pajero,MITSUBISHI Pajero 3 (VD/VF) 2.5 TD Familiar 95cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1518,3 (VD/VF) (02/2000 - 08/2006),02/2000,08/2006,16059,MITSUBISHI Pajero,MITSUBISHI Pajero 3 (VD/VF) 3.2 DI-D Familiar 165cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1517,.Pinin (H7*) (07/1999 - 02/2005),07/1999,02/2005,21450,MITSUBISHI Pajero,MITSUBISHI Pajero .Pinin (H7*) 1.8 GDI Familiar 122cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1517,.Pinin (H7*) (07/1999 - 02/2005),07/1999,02/2005,5788,MITSUBISHI Pajero,MITSUBISHI Pajero .Pinin (H7*) 1.8 i Familiar 114cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1517,.Pinin (H7*) (07/1999 - 02/2005),07/1999,02/2005,5789,MITSUBISHI Pajero,MITSUBISHI Pajero .Pinin (H7*) 2.0 GDI 129cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1517,.Pinin (H7*) (07/1999 - 02/2005),07/1999,02/2005,16054,MITSUBISHI Pajero,MITSUBISHI Pajero .Pinin (H7*) 1.8 i Familiar 114cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1517,.Pinin (H7*) (07/1999 - 02/2005),07/1999,02/2005,21451,MITSUBISHI Pajero,MITSUBISHI Pajero .Pinin (H7*) 2.0 GDI 129cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1517,.Pinin (H7*) (07/1999 - 02/2005),07/1999,02/2005,5787,MITSUBISHI Pajero,MITSUBISHI Pajero .Pinin (H7*) 1.8 GDI Familiar 122cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1520,4 Short Wagon (V8) (09/2006 - 11/2018),09/2006,11/2018,8483,MITSUBISHI Pajero,MITSUBISHI Pajero 4 Short Wagon (V8) 3.2 DI-D Familiar 170cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1520,4 Short Wagon (V8) (09/2006 - 11/2018),09/2006,11/2018,16063,MITSUBISHI Pajero,MITSUBISHI Pajero 4 Short Wagon (V8) 3.2 DI-D Familiar 160cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1520,4 Short Wagon (V8) (09/2006 - 11/2018),09/2006,11/2018,16064,MITSUBISHI Pajero,MITSUBISHI Pajero 4 Short Wagon (V8) 3.8 i Familiar 252cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1520,4 Short Wagon (V8) (09/2006 - 11/2018),09/2006,11/2018,50397,MITSUBISHI Pajero,MITSUBISHI Pajero 4 Short Wagon (V8) 3.2 DI-D DPF 4WD familiar 16V 200 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1520,4 Short Wagon (V8) (09/2006 - 11/2018),09/2006,11/2018,58377,MITSUBISHI Pajero,MITSUBISHI Pajero 4 Short Wagon (V8) 3.2 DI-D DPF 4WD familiar 16V 190 cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1520,4 Short Wagon (V8) (09/2006 - 11/2018),09/2006,11/2018,50398,MITSUBISHI Pajero,MITSUBISHI Pajero 4 Short Wagon (V8) 3.2 DI-D DPF 4WD familiar 16V 200 cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1520,4 Short Wagon (V8) (09/2006 - 11/2018),09/2006,11/2018,5939,MITSUBISHI Pajero,MITSUBISHI Pajero 4 Short Wagon (V8) 3.2 DI-D Familiar 160cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1519,4 Largo Wagon (V9) (09/2006 - 11/2018),09/2006,11/2018,36132,MITSUBISHI Pajero,MITSUBISHI Pajero 4 Largo Wagon (V9) 3.0 i V6 4WD Familiar 24V 180 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1519,4 Largo Wagon (V9) (09/2006 - 11/2018),09/2006,11/2018,16061,MITSUBISHI Pajero,MITSUBISHI Pajero 4 Largo Wagon (V9) 3.0 i Familiar 180cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1519,4 Largo Wagon (V9) (09/2006 - 11/2018),09/2006,11/2018,16062,MITSUBISHI Pajero,MITSUBISHI Pajero 4 Largo Wagon (V9) 3.8 i Familiar 252cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1519,4 Largo Wagon (V9) (09/2006 - 11/2018),09/2006,11/2018,36716,MITSUBISHI Pajero,MITSUBISHI Pajero 4 Largo Wagon (V9) 3.2 DI-D DPF 4WD Familiar 16V 200 cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1519,4 Largo Wagon (V9) (09/2006 - 11/2018),09/2006,11/2018,58376,MITSUBISHI Pajero,MITSUBISHI Pajero 4 Largo Wagon (V9) 3.2 DI-D DPF 4WD familiar 16V 190 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1519,4 Largo Wagon (V9) (09/2006 - 11/2018),09/2006,11/2018,5938,MITSUBISHI Pajero,MITSUBISHI Pajero 4 Largo Wagon (V9) 3.2 DI-D Familiar 160cv,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1519,4 Largo Wagon (V9) (09/2006 - 11/2018),09/2006,11/2018,8481,MITSUBISHI Pajero,MITSUBISHI Pajero 4 Largo Wagon (V9) 3.2 DI-D Familiar 160cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1519,4 Largo Wagon (V9) (09/2006 - 11/2018),09/2006,11/2018,8482,MITSUBISHI Pajero,MITSUBISHI Pajero 4 Largo Wagon (V9) 3.2 DI-D Familiar 170cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1519,4 Largo Wagon (V9) (09/2006 - 11/2018),09/2006,11/2018,36715,MITSUBISHI Pajero,MITSUBISHI Pajero 4 Largo Wagon (V9) 3.2 DI-D DPF 4WD Familiar 16V 200 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-1519,4 Largo Wagon (V9) (09/2006 - 11/2018),09/2006,11/2018,36131,MITSUBISHI Pajero,MITSUBISHI Pajero 4 Largo Wagon (V9) 3.8 i V6 4WD Familiar 24V 252 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-4634,Sport (KH) (07/2008 - Hoy),07/2008,,33705,MITSUBISHI Pajero,MITSUBISHI Pajero Sport (KH) 3500 V6 4WD 203 cv,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-4634,Sport (KH) (07/2008 - Hoy),07/2008,,33704,MITSUBISHI Pajero,MITSUBISHI Pajero Sport (KH) 3500 V6 4WD 203 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-527,Pajero,mo-4634,Sport (KH) (07/2008 - Hoy),07/2008,,33702,MITSUBISHI Pajero,MITSUBISHI Pajero Sport (KH) 3200D 4WD 165 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-527,Pajero,mo-4634,Sport (KH) (07/2008 - Hoy),07/2008,,33703,MITSUBISHI Pajero,MITSUBISHI Pajero Sport (KH) 3200D 4WD 165 cv,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,32545,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.0 i 2WD 5 places 16V 147 cv,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,32549,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.2 DI-D 156 4WD 5 places 16V 156 cv,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,30576,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.4 i 4WD 16V CVT 170 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,33692,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.4 i 2WD 16V 170 cv,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,65615,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.2 DI-D 16V 4WD 177 cv 7pl,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,35452,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.2 DI-D DPF LP 4WD 16V 140 cv,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,35451,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.2 DI-D DPF 177 4WD 16V 177 cv,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,65613,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.2 DI-D 16V DPF 4WD TC-SST 156 cv 5pl Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,65610,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.2 DI-D 16V DPF 2WD AS&G 177 cv 7pl,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,32548,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.2 DI-D 156 2WD 5 places 16V AS&G 156 cv,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,65617,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.0 DI-D 16V 4WD 140 cv 7pl,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,65619,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.0 DI-D 16V DPF 4WD 140 cv 7pl,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,65607,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.4 i 16V 4WD 170 cv 7pl,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,8392,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.0 DI-D SUV 140cv,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,33693,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 3.0 V6 4WD 220 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,65614,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.2 DI-D 16V DPF 4WD TC-SST 156 cv 7pl Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,32547,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.2 DI-D 156 2WD 5 places 16V 156 cv,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,65606,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.4 i 16V 4WD S-CVT 170 cv 7pl Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,30577,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.4 i 4WD 16V 170 cv,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,65612,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.2 DI-D 16V 4WD TC-SST 156 cv 7pl Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,65616,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.2 DI-D 16V DPF LP 4WD 140 cv 7pl,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,32550,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.2 DI-D 4WD 5 places 16V TC-SST 156 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,65611,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.2 DI-D 16V 4WD 156 cv 7pl,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,65618,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.0 DI-D 16V DPF 4WD 140 cv 5pl,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,32546,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.0 i 2WD 5 places 16V S-CVT 147 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,65608,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.0 i 16V 4WD S-CVT 147 cv 5pl Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1512,2 (CW) Man. Japón (11/2006 - 06/2012),11/2006,06/2012,65609,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Japón 2.2 DI-D 16V DPF 2WD 177 cv 7pl,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,59126,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.4 PHEV 4WD 16V S&S 135 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,38491,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.0 MIVEC 4WD 16V S-CVT S&S 150 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,65630,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.2 DI-D 16V S&S 150 cv 7pl,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,38492,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.2 DI-D 2WD 16V 150 cv,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,67646,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.0 MIVEC 16V LPG 2WD S&S 146 cv 7pl,Flex Fuel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,38497,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.4 MIVEC 4WD 16V S-CVT 170 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,38489,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.0 MIVEC 2WD 16V S-CVT S&S 150 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,46444,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.0 PHEV 4WD 16V S&S 118 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,38495,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.2 DI-D 4WD 16V 150 cv,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,38496,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.2 DI-D 4WD 16V S&S 150 cv,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,38494,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.2 DI-D 4WD 16V 150 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,65629,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.0 MIVEC 16V 4WD S-CVT S&S 150 cv 7pl Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,38488,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.0 MIVEC 2WD 16V S-CVT 150 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,38493,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.2 DI-D 2WD 16V S&S 150 cv,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,65628,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.0 MIVEC 16V S-CVT S&S 150 cv 7pl Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,65633,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.2 DI-D 16V 4WD S&S 150 cv 7pl,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,65631,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.2 DI-D 16V 4WD 150 cv 5pl Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,38487,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.0 MIVEC 2WD 16V S&S 150 cv,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,38490,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.0 MIVEC 4WD 16V S-CVT 150 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5368,3 (GF) EU (04/2012 - Hoy),04/2012,,65632,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) EU 2.2 DI-D 16V 4WD 150 cv 7pl,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-4589,2 (CW) Man. Países Bajos (08/2008 - 07/2012),08/2008,07/2012,38486,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Países Bajos 2.2 DI-D 2WD 16V S&S 177 cv,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-4589,2 (CW) Man. Países Bajos (08/2008 - 07/2012),08/2008,07/2012,33697,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Países Bajos 2.0 i 2WD 16V S-CVT 147 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-4589,2 (CW) Man. Países Bajos (08/2008 - 07/2012),08/2008,07/2012,33694,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Países Bajos 2.0 DI-D 4WD 140 cv,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-4589,2 (CW) Man. Países Bajos (08/2008 - 07/2012),08/2008,07/2012,33699,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Países Bajos 2.4 i 2WD 16V 170 cv,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-4589,2 (CW) Man. Países Bajos (08/2008 - 07/2012),08/2008,07/2012,65621,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Países Bajos 2.0 DI-D 16V DPF 4WD 140 cv 7pl,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-4589,2 (CW) Man. Países Bajos (08/2008 - 07/2012),08/2008,07/2012,65622,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Países Bajos 2.2 DI-D 16V 4WD 156 cv 7pl,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-4589,2 (CW) Man. Países Bajos (08/2008 - 07/2012),08/2008,07/2012,65627,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Países Bajos 2.2 DI-D 16V 2WD S&S 177 cv 7pl,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-4589,2 (CW) Man. Países Bajos (08/2008 - 07/2012),08/2008,07/2012,33701,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Países Bajos 2.4 i 4WD 16V S-CVT 170 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-4589,2 (CW) Man. Países Bajos (08/2008 - 07/2012),08/2008,07/2012,65625,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Países Bajos 2.4 i 16V 4WD S-CVT 170 cv 7pl Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-4589,2 (CW) Man. Países Bajos (08/2008 - 07/2012),08/2008,07/2012,65620,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Países Bajos 2.0 DI-D 16V 4WD 140 cv 7pl,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-4589,2 (CW) Man. Países Bajos (08/2008 - 07/2012),08/2008,07/2012,33696,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Países Bajos 2.0 i 2WD 16V 147 cv,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-4589,2 (CW) Man. Países Bajos (08/2008 - 07/2012),08/2008,07/2012,65623,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Países Bajos 2.4 i 16V 4WD 170 cv 7pl,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-4589,2 (CW) Man. Países Bajos (08/2008 - 07/2012),08/2008,07/2012,38485,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Países Bajos 2.2 DI-D 2WD 16V 177 cv,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-4589,2 (CW) Man. Países Bajos (08/2008 - 07/2012),08/2008,07/2012,33698,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Países Bajos 2.2 DI-D 4WD 16V 156 cv,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-4589,2 (CW) Man. Países Bajos (08/2008 - 07/2012),08/2008,07/2012,33695,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Países Bajos 2.0 DI-D DPF 4WD 140 cv,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-4589,2 (CW) Man. Países Bajos (08/2008 - 07/2012),08/2008,07/2012,33700,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Países Bajos 2.4 i 4WD 16V 170 cv,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-4589,2 (CW) Man. Países Bajos (08/2008 - 07/2012),08/2008,07/2012,65626,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Países Bajos 2.2 DI-D 16V 2WD 177 cv 7pl,Diesel
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1511,1 (CU) (06/2003 - 12/2008),06/2003,12/2008,16050,MITSUBISHI Outlander,MITSUBISHI Outlander 1 (CU) 2.4 i Familiar 160cv,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1511,1 (CU) (06/2003 - 12/2008),06/2003,12/2008,21443,MITSUBISHI Outlander,MITSUBISHI Outlander 1 (CU) 2.0 i Turbo Familiar202cv,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1511,1 (CU) (06/2003 - 12/2008),06/2003,12/2008,5781,MITSUBISHI Outlander,MITSUBISHI Outlander 1 (CU) 2.0 i Familiar 136cv,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1511,1 (CU) (06/2003 - 12/2008),06/2003,12/2008,24652,MITSUBISHI Outlander,MITSUBISHI Outlander 1 (CU) 2.0 i 4x4 Familiar 136cv,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1511,1 (CU) (06/2003 - 12/2008),06/2003,12/2008,5782,MITSUBISHI Outlander,MITSUBISHI Outlander 1 (CU) 2.4 i Familiar 160cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1511,1 (CU) (06/2003 - 12/2008),06/2003,12/2008,29036,MITSUBISHI Outlander,MITSUBISHI Outlander 1 (CU) 2.0 i 4WD Familiar 241 cv,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1511,1 (CU) (06/2003 - 12/2008),06/2003,12/2008,29035,MITSUBISHI Outlander,MITSUBISHI Outlander 1 (CU) 2.0 i 4WD Familiar 126 cv,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-1511,1 (CU) (06/2003 - 12/2008),06/2003,12/2008,29037,MITSUBISHI Outlander,MITSUBISHI Outlander 1 (CU) 2.4 i 4WD Familiar 139 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5369,3 (GF) RU (11/2012 - Hoy),11/2012,,65605,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) RU 3.0 i V6 24V 4WD 24V 220 cv 5pl Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5369,3 (GF) RU (11/2012 - Hoy),11/2012,,65604,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) RU 2.0 MIVEC 16V 4WD S-CVT 147 cv 5pl Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5369,3 (GF) RU (11/2012 - Hoy),11/2012,,48590,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) RU 2.0 MIVEC 2WD 16V S-CVT 150 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5369,3 (GF) RU (11/2012 - Hoy),11/2012,,65634,MITSUBISHI Outlander,MITSUBISHI Outlander 3 (GF) RU 2.4 MIVEC 16V 4WD S-CVT 170 cv 5pl Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5108,2 (CW) Man. Rusia (06/2010 - 04/2012),06/2010,04/2012,65599,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Rusia 2.0 i 16V 4WD S-CVT 147 cv 5pl Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5108,2 (CW) Man. Rusia (06/2010 - 04/2012),06/2010,04/2012,65600,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Rusia 2.4 i 16V 4WD 170 cv 5pl,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5108,2 (CW) Man. Rusia (06/2010 - 04/2012),06/2010,04/2012,65597,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Rusia 2.0 i 16V 2WD 147 cv 5pl,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5108,2 (CW) Man. Rusia (06/2010 - 04/2012),06/2010,04/2012,65598,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Rusia 2.0 i 16V 2WD S-CVT 147 cv 5pl Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5108,2 (CW) Man. Rusia (06/2010 - 04/2012),06/2010,04/2012,65601,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Rusia 2.4 i 16V 4WD S-CVT 170 cv 5pl Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-526,Outlander,mo-5108,2 (CW) Man. Rusia (06/2010 - 04/2012),06/2010,04/2012,65603,MITSUBISHI Outlander,MITSUBISHI Outlander 2 (CW) Man. Rusia 3.0 i V6 24V 4WD 220 cv 5pl Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,8358,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 TD Pickup Doble Cabina 95cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,8359,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 TD Pickup Doble Cabina 95cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,16015,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 TD Pickup Doble Cabina 133cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,67647,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.0 i 16V Pickup 106cv,Gasolina
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,24913,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 TD 4x4 Pickup Doble Cabina 99cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,16014,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 TD Pickup 115cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,16012,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 D Chasis Cabina mediano 75cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,24646,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 TD 4x4 Pickup Doble Cabina 99cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,8357,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 TD Chasis Cabina mediano 95cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,25087,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 D 4x4 Pickup 75cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,8354,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.0 i Pickup Doble Cabina 122cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,8356,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 D Chasis Doble Cabina mediano 75cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,24645,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 D 4x4 Pickup Doble Cabina 75cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,5744,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 TD Pickup Doble Cabina 99cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,5743,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 TD Pickup 133cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,16016,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 TD Pickup Doble Cabina 90cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,5742,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 D Pickup Doble Cabina 75cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,16013,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 TD Pickup 90cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,21388,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 TD Pickup 95cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,21386,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.0 i Pickup 122cv,Gasolina
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,21387,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 D Pickup 75cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,67648,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.0 i 16V Pickup doble cabina 106cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,5741,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.4 i Pickup 132cv,Gasolina
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,32538,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 TD 4WD Pickup 99 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,8355,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.4 i Pickup Doble Cabina 132cv,Gasolina
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,5745,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 TD Pickup Doble Cabina 115cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1185,(K6/7) (01/1996 - 12/2007),01/1996,12/2007,32539,MITSUBISHI L200,MITSUBISHI L200 (K6/7) 2.5 TD 4WD Pickup doble cabina 99 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1182,II (KB4T/KA4T) (01/2006 - 09/2015),01/2006,09/2015,33712,MITSUBISHI L200,MITSUBISHI L200 II (KB4T/KA4T) 2.5 DI-D 2WD Pickup doble cabina 128 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1182,II (KB4T/KA4T) (01/2006 - 09/2015),01/2006,09/2015,32536,MITSUBISHI L200,MITSUBISHI L200 II (KB4T/KA4T) 2.5 TD Hi-Power 4WD Pickup doble cabina 178 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1182,II (KB4T/KA4T) (01/2006 - 09/2015),01/2006,09/2015,8353,MITSUBISHI L200,MITSUBISHI L200 II (KB4T/KA4T) 2.5 TD 4WD Pickup Doble Cabina 136cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1182,II (KB4T/KA4T) (01/2006 - 09/2015),01/2006,09/2015,32537,MITSUBISHI L200,MITSUBISHI L200 II (KB4T/KA4T) 2.5 TD Hi-Power 4WD Pickup Single-Cab 178 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1182,II (KB4T/KA4T) (01/2006 - 09/2015),01/2006,09/2015,33711,MITSUBISHI L200,MITSUBISHI L200 II (KB4T/KA4T) 2.5 DI-D 2WD Pickup doble cabina128 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1182,II (KB4T/KA4T) (01/2006 - 09/2015),01/2006,09/2015,51066,MITSUBISHI L200,MITSUBISHI L200 II (KB4T/KA4T) 2.5 DI-D 2WD Pickup doble cabina 136 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1182,II (KB4T/KA4T) (01/2006 - 09/2015),01/2006,09/2015,51068,MITSUBISHI L200,MITSUBISHI L200 II (KB4T/KA4T) 2.5 TD Hi-Power 4WD Pickup doble cabina Double-Cab 167 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1182,II (KB4T/KA4T) (01/2006 - 09/2015),01/2006,09/2015,8352,MITSUBISHI L200,MITSUBISHI L200 II (KB4T/KA4T) 2.5 TD 4WD Pickup 136cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1182,II (KB4T/KA4T) (01/2006 - 09/2015),01/2006,09/2015,51065,MITSUBISHI L200,MITSUBISHI L200 II (KB4T/KA4T) 2.5 DI-D 2WD Pickup doble cabina 136 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1182,II (KB4T/KA4T) (01/2006 - 09/2015),01/2006,09/2015,8351,MITSUBISHI L200,MITSUBISHI L200 II (KB4T/KA4T) 2.5 DI-D 2WD Pickup Doble Cabina 136cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1182,II (KB4T/KA4T) (01/2006 - 09/2015),01/2006,09/2015,5740,MITSUBISHI L200,MITSUBISHI L200 II (KB4T/KA4T) 2.5 DI-D 4WD Pickup Doble Cabina 136cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1182,II (KB4T/KA4T) (01/2006 - 09/2015),01/2006,09/2015,32535,MITSUBISHI L200,MITSUBISHI L200 II (KB4T/KA4T) 2.5 TD Hi-Power 4WD Pickup Club-Cab 178 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1182,II (KB4T/KA4T) (01/2006 - 09/2015),01/2006,09/2015,51067,MITSUBISHI L200,MITSUBISHI L200 II (KB4T/KA4T) 2.5 TD Hi-Power 4WD Pickup Club-Cab 167 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1182,II (KB4T/KA4T) (01/2006 - 09/2015),01/2006,09/2015,57988,MITSUBISHI L200,MITSUBISHI L200 II (KB4T/KA4T) 2.5 TD Hi-Power 4WD Pickup doble cabina 178 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1182,II (KB4T/KA4T) (01/2006 - 09/2015),01/2006,09/2015,16011,MITSUBISHI L200,MITSUBISHI L200 II (KB4T/KA4T) 2.5 TD 4WD Pickup Doble Cabina 136cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1184,(K1/2/3) (11/1986 - 03/2001),11/1986,03/2001,16006,MITSUBISHI L200,MITSUBISHI L200 (K1/2/3) 1.6 Pickup 82cv,Gasolina
+ma-142,MITSUBISHI,fa-520,L200,mo-1184,(K1/2/3) (11/1986 - 03/2001),11/1986,03/2001,40914,MITSUBISHI L200,MITSUBISHI L200 (K1/2/3) 2.5 TD 4WD Pickup doble cabina 87 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1184,(K1/2/3) (11/1986 - 03/2001),11/1986,03/2001,8350,MITSUBISHI L200,MITSUBISHI L200 (K1/2/3) 2.6 Pickup Doble Cabina 103cv,Gasolina
+ma-142,MITSUBISHI,fa-520,L200,mo-1184,(K1/2/3) (11/1986 - 03/2001),11/1986,03/2001,24912,MITSUBISHI L200,MITSUBISHI L200 (K1/2/3) 2.0 4x4 Pickup Doble Cabina 102cv,Gasolina
+ma-142,MITSUBISHI,fa-520,L200,mo-1184,(K1/2/3) (11/1986 - 03/2001),11/1986,03/2001,24731,MITSUBISHI L200,MITSUBISHI L200 (K1/2/3) 2.5 D 4x4 Pickup largo 75cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1184,(K1/2/3) (11/1986 - 03/2001),11/1986,03/2001,8349,MITSUBISHI L200,MITSUBISHI L200 (K1/2/3) 2.5 D Pickup largo 75cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1184,(K1/2/3) (11/1986 - 03/2001),11/1986,03/2001,16009,MITSUBISHI L200,MITSUBISHI L200 (K1/2/3) 2.5 D Pickup 75cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1184,(K1/2/3) (11/1986 - 03/2001),11/1986,03/2001,16007,MITSUBISHI L200,MITSUBISHI L200 (K1/2/3) 2.0 Pickup Doble Cabina 102cv,Gasolina
+ma-142,MITSUBISHI,fa-520,L200,mo-1184,(K1/2/3) (11/1986 - 03/2001),11/1986,03/2001,5737,MITSUBISHI L200,MITSUBISHI L200 (K1/2/3) 2.0 Pickup 102cv,Gasolina
+ma-142,MITSUBISHI,fa-520,L200,mo-1184,(K1/2/3) (11/1986 - 03/2001),11/1986,03/2001,21385,MITSUBISHI L200,MITSUBISHI L200 (K1/2/3) 2.5 D Pickup Doble Cabina 75cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1184,(K1/2/3) (11/1986 - 03/2001),11/1986,03/2001,25086,MITSUBISHI L200,MITSUBISHI L200 (K1/2/3) 2.5 D 4x4 Pickup Doble Cabina 75cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1184,(K1/2/3) (11/1986 - 03/2001),11/1986,03/2001,5739,MITSUBISHI L200,MITSUBISHI L200 (K1/2/3) 2.5 D Chasis Cabina largo 75cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1184,(K1/2/3) (11/1986 - 03/2001),11/1986,03/2001,21383,MITSUBISHI L200,MITSUBISHI L200 (K1/2/3) 2.0 Pickup largo 102cv,Gasolina
+ma-142,MITSUBISHI,fa-520,L200,mo-1184,(K1/2/3) (11/1986 - 03/2001),11/1986,03/2001,24644,MITSUBISHI L200,MITSUBISHI L200 (K1/2/3) 2.5 D 4x4 Chasis Cabina largo 75cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1184,(K1/2/3) (11/1986 - 03/2001),11/1986,03/2001,24642,MITSUBISHI L200,MITSUBISHI L200 (K1/2/3) 2.0 4x4 Pickup 102cv,Gasolina
+ma-142,MITSUBISHI,fa-520,L200,mo-5964,III (KK/KL) (10/2015 - 07/2019),10/2015,07/2019,46249,MITSUBISHI L200,MITSUBISHI L200 III (KK/KL) 2.5 DI-D 4WD Pickup doble cabina 181 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-5964,III (KK/KL) (10/2015 - 07/2019),10/2015,07/2019,56475,MITSUBISHI L200,MITSUBISHI L200 III (KK/KL) 2.4 DI-D 154 2WD Pickup doble cabina doble Cab 154 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-5964,III (KK/KL) (10/2015 - 07/2019),10/2015,07/2019,47510,MITSUBISHI L200,MITSUBISHI L200 III (KK/KL) 2.5 DI-D 4WD Pickup Club cab AS&G 181 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-5964,III (KK/KL) (10/2015 - 07/2019),10/2015,07/2019,47511,MITSUBISHI L200,MITSUBISHI L200 III (KK/KL) 2.5 DI-D 4WD Pickup doble cabina 181 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-5964,III (KK/KL) (10/2015 - 07/2019),10/2015,07/2019,56478,MITSUBISHI L200,MITSUBISHI L200 III (KK/KL) 2.4 DI-D 181 4WD Pickup Club cab 181 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-5964,III (KK/KL) (10/2015 - 07/2019),10/2015,07/2019,46250,MITSUBISHI L200,MITSUBISHI L200 III (KK/KL) 2.5 DI-D 4WD Pickup doble cabina 181 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-5964,III (KK/KL) (10/2015 - 07/2019),10/2015,07/2019,46247,MITSUBISHI L200,MITSUBISHI L200 III (KK/KL) 2.5 DI-D 4WD Pickup doble cabina 154 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-5964,III (KK/KL) (10/2015 - 07/2019),10/2015,07/2019,46246,MITSUBISHI L200,MITSUBISHI L200 III (KK/KL) 2.5 DI-D 4WD Pickup 154 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-5964,III (KK/KL) (10/2015 - 07/2019),10/2015,07/2019,47512,MITSUBISHI L200,MITSUBISHI L200 III (KK/KL) 2.5 DI-D 4WD Pickup doble cabina AS&G 181 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-5964,III (KK/KL) (10/2015 - 07/2019),10/2015,07/2019,47508,MITSUBISHI L200,MITSUBISHI L200 III (KK/KL) 2.5 DI-D 4WD Pickup doble cabina AS&G 154 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-5964,III (KK/KL) (10/2015 - 07/2019),10/2015,07/2019,56476,MITSUBISHI L200,MITSUBISHI L200 III (KK/KL) 2.4 DI-D 154 2WD Pickup doble cabina doble Cab AS&G 154 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-5964,III (KK/KL) (10/2015 - 07/2019),10/2015,07/2019,47507,MITSUBISHI L200,MITSUBISHI L200 III (KK/KL) 2.5 DI-D 4WD Pickup Club cab 154 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-7166,III (KK/KL) Fase 2 (07/2019 - Hoy),07/2019,,67140,MITSUBISHI L200,MITSUBISHI L200 III (KK/KL) Fase 2 2.2 DI-D 16V Pickup doble cabina 4WD 150 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-7166,III (KK/KL) Fase 2 (07/2019 - Hoy),07/2019,,67138,MITSUBISHI L200,MITSUBISHI L200 III (KK/KL) Fase 2 2.2 DI-D 16V Pickup Club cab 4WD 150 cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-7166,III (KK/KL) Fase 2 (07/2019 - Hoy),07/2019,,67139,MITSUBISHI L200,MITSUBISHI L200 III (KK/KL) Fase 2 2.2 DI-D 16V Pickup doble cabina 4WD 150 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1186,(L020) (09/1979 - 10/1986),09/1979,10/1986,21380,MITSUBISHI L200,MITSUBISHI L200 (L020) 2.3 D Furgón 67cv,Diesel
+ma-142,MITSUBISHI,fa-520,L200,mo-1186,(L020) (09/1979 - 10/1986),09/1979,10/1986,5733,MITSUBISHI L200,MITSUBISHI L200 (L020) 1.6 Furgón 79cv,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5667,(EUR) Fase 2 (07/2012 - 10/2021),07/2012,10/2021,38480,MITSUBISHI ASX,MITSUBISHI ASX (EUR) Fase 2 1.8 DI-D DPF HP 4WD 16V ClearTec/AS&G 150 cv,Diesel
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5667,(EUR) Fase 2 (07/2012 - 10/2021),07/2012,10/2021,52325,MITSUBISHI ASX,MITSUBISHI ASX (EUR) Fase 2 1.6 DI-D DPF 4WD 16V 114 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5667,(EUR) Fase 2 (07/2012 - 10/2021),07/2012,10/2021,38483,MITSUBISHI ASX,MITSUBISHI ASX (EUR) Fase 2 1.8 DI-D DPF LP 4WD 16V 115 cv,Diesel
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5667,(EUR) Fase 2 (07/2012 - 10/2021),07/2012,10/2021,38481,MITSUBISHI ASX,MITSUBISHI ASX (EUR) Fase 2 1.8 DI-D DPF LP 2WD 16V 115 cv,Diesel
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5667,(EUR) Fase 2 (07/2012 - 10/2021),07/2012,10/2021,42033,MITSUBISHI ASX,MITSUBISHI ASX (EUR) Fase 2 2.2 DI-D DPF 4WD 16V 150 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5667,(EUR) Fase 2 (07/2012 - 10/2021),07/2012,10/2021,38482,MITSUBISHI ASX,MITSUBISHI ASX (EUR) Fase 2 1.8 DI-D DPF LP 2WD 16V ClearTec/AS&G 115 cv,Diesel
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5667,(EUR) Fase 2 (07/2012 - 10/2021),07/2012,10/2021,65587,MITSUBISHI ASX,MITSUBISHI ASX (EUR) Fase 2 1.6 i MIVEC 16V 2WD 115 cv,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5667,(EUR) Fase 2 (07/2012 - 10/2021),07/2012,10/2021,38484,MITSUBISHI ASX,MITSUBISHI ASX (EUR) Fase 2 1.8 DI-D DPF LP 4WD 16V ClearTec/AS&G 115 cv,Diesel
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5667,(EUR) Fase 2 (07/2012 - 10/2021),07/2012,10/2021,38479,MITSUBISHI ASX,MITSUBISHI ASX (EUR) Fase 2 1.8 DI-D DPF HP 4WD 16V 150 cv,Diesel
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5667,(EUR) Fase 2 (07/2012 - 10/2021),07/2012,10/2021,52324,MITSUBISHI ASX,MITSUBISHI ASX (EUR) Fase 2 1.6 DI-D DPF 2WD 16V 114 cv,Diesel
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5667,(EUR) Fase 2 (07/2012 - 10/2021),07/2012,10/2021,38477,MITSUBISHI ASX,MITSUBISHI ASX (EUR) Fase 2 1.8 DI-D DPF HP 2WD 16V 150 cv,Diesel
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5667,(EUR) Fase 2 (07/2012 - 10/2021),07/2012,10/2021,56474,MITSUBISHI ASX,MITSUBISHI ASX (EUR) Fase 2 1.6 i MIVEC 2WD 16V 115 cv,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5667,(EUR) Fase 2 (07/2012 - 10/2021),07/2012,10/2021,38478,MITSUBISHI ASX,MITSUBISHI ASX (EUR) Fase 2 1.8 DI-D DPF HP 2WD 16V ClearTec/AS&G 150 cv,Diesel
+ma-142,MITSUBISHI,fa-1998,ASX,mo-4635,(EUR) (04/2010 - 06/2012),04/2010,06/2012,32519,MITSUBISHI ASX,MITSUBISHI ASX (EUR) 1.8 i MIVEC 4WD 16V S-CVT 140 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-4635,(EUR) (04/2010 - 06/2012),04/2010,06/2012,32513,MITSUBISHI ASX,MITSUBISHI ASX (EUR) 1.6 i MIVEC 2WD 16V ClearTec/AS&G 115 cv,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-4635,(EUR) (04/2010 - 06/2012),04/2010,06/2012,32512,MITSUBISHI ASX,MITSUBISHI ASX (EUR) 1.6 i MIVEC 2WD 16V 115 cv,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-4635,(EUR) (04/2010 - 06/2012),04/2010,06/2012,32522,MITSUBISHI ASX,MITSUBISHI ASX (EUR) 2.0 i MIVEC 4WD 16V S-CVT 150 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-4635,(EUR) (04/2010 - 06/2012),04/2010,06/2012,32521,MITSUBISHI ASX,MITSUBISHI ASX (EUR) 2.0 i MIVEC 4WD 16V 150 cv,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-4635,(EUR) (04/2010 - 06/2012),04/2010,06/2012,32514,MITSUBISHI ASX,MITSUBISHI ASX (EUR) 1.8 DI-D HP 2WD 16V 150 cv,Diesel
+ma-142,MITSUBISHI,fa-1998,ASX,mo-4635,(EUR) (04/2010 - 06/2012),04/2010,06/2012,32518,MITSUBISHI ASX,MITSUBISHI ASX (EUR) 1.8 DI-D LP 4WD 16V ClearTec/AS&G 115 cv,Diesel
+ma-142,MITSUBISHI,fa-1998,ASX,mo-4635,(EUR) (04/2010 - 06/2012),04/2010,06/2012,32520,MITSUBISHI ASX,MITSUBISHI ASX (EUR) 2.0 i MIVEC 2WD 16V 150 cv,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-4635,(EUR) (04/2010 - 06/2012),04/2010,06/2012,32515,MITSUBISHI ASX,MITSUBISHI ASX (EUR) 1.8 DI-D HP 2WD 16V ClearTec/AS&G 150 cv,Diesel
+ma-142,MITSUBISHI,fa-1998,ASX,mo-4635,(EUR) (04/2010 - 06/2012),04/2010,06/2012,54449,MITSUBISHI ASX,MITSUBISHI ASX (EUR) 1.8 DI-D DPF HP 4WD furgón 16V 150 cv,Diesel
+ma-142,MITSUBISHI,fa-1998,ASX,mo-4635,(EUR) (04/2010 - 06/2012),04/2010,06/2012,32517,MITSUBISHI ASX,MITSUBISHI ASX (EUR) 1.8 DI-D LP 2WD 16V ClearTec/AS&G 115 cv,Diesel
+ma-142,MITSUBISHI,fa-1998,ASX,mo-4635,(EUR) (04/2010 - 06/2012),04/2010,06/2012,32516,MITSUBISHI ASX,MITSUBISHI ASX (EUR) 1.8 DI-D HP 4WD 16V ClearTec/AS&G 150 cv,Diesel
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5666,(MMNA) Fase 2 (09/2012 - 10/2021),09/2012,10/2021,65590,MITSUBISHI ASX,MITSUBISHI ASX (MMNA) Fase 2 2.0 i MIVEC 16V 2WD 150 cv,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5666,(MMNA) Fase 2 (09/2012 - 10/2021),09/2012,10/2021,65592,MITSUBISHI ASX,MITSUBISHI ASX (MMNA) Fase 2 2.0 i S-MIVEC 16V 2WD CVT ASG 150 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5666,(MMNA) Fase 2 (09/2012 - 10/2021),09/2012,10/2021,65595,MITSUBISHI ASX,MITSUBISHI ASX (MMNA) Fase 2 2.0 i S-MIVEC 16V 4WD CVT ASG 150 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5666,(MMNA) Fase 2 (09/2012 - 10/2021),09/2012,10/2021,65593,MITSUBISHI ASX,MITSUBISHI ASX (MMNA) Fase 2 2.0 i S-MIVEC 16V 2WD 150 cv,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5666,(MMNA) Fase 2 (09/2012 - 10/2021),09/2012,10/2021,65589,MITSUBISHI ASX,MITSUBISHI ASX (MMNA) Fase 2 1.8 i MIVEC 16V S-CVT 139 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5666,(MMNA) Fase 2 (09/2012 - 10/2021),09/2012,10/2021,65591,MITSUBISHI ASX,MITSUBISHI ASX (MMNA) Fase 2 2.0 i MIVEC 16V 4WD S-CVT 150 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5666,(MMNA) Fase 2 (09/2012 - 10/2021),09/2012,10/2021,65588,MITSUBISHI ASX,MITSUBISHI ASX (MMNA) Fase 2 1.6 i MIVEC 16V 2WD 115 cv,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-5666,(MMNA) Fase 2 (09/2012 - 10/2021),09/2012,10/2021,65594,MITSUBISHI ASX,MITSUBISHI ASX (MMNA) Fase 2 2.0 i S-MIVEC 16V 2WD ASG 150 cv,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-7744,II (VSX_, VSE_) (01/2023 - Hoy),01/2023,,69512,MITSUBISHI ASX,MITSUBISHI ASX II (VSX_, VSE_) 1.6 PHEV 159 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-7744,II (VSX_, VSE_) (01/2023 - Hoy),01/2023,,69508,MITSUBISHI ASX,MITSUBISHI ASX II (VSX_, VSE_) 1.0 MPi-T 91 cv,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-7744,II (VSX_, VSE_) (01/2023 - Hoy),01/2023,,69510,MITSUBISHI ASX,MITSUBISHI ASX II (VSX_, VSE_) 1.3 DI-T MHEV DCT7 158 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-7744,II (VSX_, VSE_) (01/2023 - Hoy),01/2023,,69511,MITSUBISHI ASX,MITSUBISHI ASX II (VSX_, VSE_) 1.6 Hybrid 143 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-1998,ASX,mo-7744,II (VSX_, VSE_) (01/2023 - Hoy),01/2023,,69509,MITSUBISHI ASX,MITSUBISHI ASX II (VSX_, VSE_) 1.3 DI-T MHEV 140 cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-716,VI (Z30) CZ3 (01/2005 - 09/2008),01/2005,09/2008,21422,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZ3 1.5 i 109cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-716,VI (Z30) CZ3 (01/2005 - 09/2008),01/2005,09/2008,8381,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZ3 1.5 i Turbo 150cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-716,VI (Z30) CZ3 (01/2005 - 09/2008),01/2005,09/2008,69322,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZ3 1.1 i Bifuel 75cv,GPL
+ma-142,MITSUBISHI,fa-513,Colt,mo-716,VI (Z30) CZ3 (01/2005 - 09/2008),01/2005,09/2008,16034,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZ3 1.5 DI-D 68cv,Diesel
+ma-142,MITSUBISHI,fa-513,Colt,mo-716,VI (Z30) CZ3 (01/2005 - 09/2008),01/2005,09/2008,21421,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZ3 1.5 DI-D 95cv,Diesel
+ma-142,MITSUBISHI,fa-513,Colt,mo-716,VI (Z30) CZ3 (01/2005 - 09/2008),01/2005,09/2008,8380,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZ3 1.1 i 75cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-716,VI (Z30) CZ3 (01/2005 - 09/2008),01/2005,09/2008,69323,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZ3 1.3 i BVR 95cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-716,VI (Z30) CZ3 (01/2005 - 09/2008),01/2005,09/2008,21420,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZ3 1.5 DI-D Furgón 95cv,Diesel
+ma-142,MITSUBISHI,fa-513,Colt,mo-716,VI (Z30) CZ3 (01/2005 - 09/2008),01/2005,09/2008,16033,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZ3 1.3 i 95cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-717,VI (Z30) CZ5 (04/2004 - 09/2008),04/2004,09/2008,16032,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZ5 1.5 DI-D 95cv,Diesel
+ma-142,MITSUBISHI,fa-513,Colt,mo-717,VI (Z30) CZ5 (04/2004 - 09/2008),04/2004,09/2008,8377,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZ5 1.5 i 109cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-717,VI (Z30) CZ5 (04/2004 - 09/2008),04/2004,09/2008,69325,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZ5 1.3 i BVR 95cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-717,VI (Z30) CZ5 (04/2004 - 09/2008),04/2004,09/2008,5766,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZ5 1.5 DI-D 68cv,Diesel
+ma-142,MITSUBISHI,fa-513,Colt,mo-717,VI (Z30) CZ5 (04/2004 - 09/2008),04/2004,09/2008,69326,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZ5 1.5 DI-D BVR 95cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-513,Colt,mo-717,VI (Z30) CZ5 (04/2004 - 09/2008),04/2004,09/2008,21418,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZ5 1.1 i 75cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-717,VI (Z30) CZ5 (04/2004 - 09/2008),04/2004,09/2008,69327,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZ5 1.5 i BVR 109cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-717,VI (Z30) CZ5 (04/2004 - 09/2008),04/2004,09/2008,21419,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZ5 1.3 i 95cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-717,VI (Z30) CZ5 (04/2004 - 09/2008),04/2004,09/2008,69324,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZ5 1.1 i Bifuel 75cv,GPL
+ma-142,MITSUBISHI,fa-513,Colt,mo-715,V (CJ) (11/1995 - 06/2003),11/1995,06/2003,5765,MITSUBISHI Colt,MITSUBISHI Colt V (CJ) 1.5 91cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-715,V (CJ) (11/1995 - 06/2003),11/1995,06/2003,8375,MITSUBISHI Colt,MITSUBISHI Colt V (CJ) 1.6 i 90cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-715,V (CJ) (11/1995 - 06/2003),11/1995,06/2003,16031,MITSUBISHI Colt,MITSUBISHI Colt V (CJ) 1.6 i 103cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-715,V (CJ) (11/1995 - 06/2003),11/1995,06/2003,21417,MITSUBISHI Colt,MITSUBISHI Colt V (CJ) 1.3 i 75cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-715,V (CJ) (11/1995 - 06/2003),11/1995,06/2003,8374,MITSUBISHI Colt,MITSUBISHI Colt V (CJ) 1.3 i 75cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-715,V (CJ) (11/1995 - 06/2003),11/1995,06/2003,5764,MITSUBISHI Colt,MITSUBISHI Colt V (CJ) 1.3 i 82cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-715,V (CJ) (11/1995 - 06/2003),11/1995,06/2003,8376,MITSUBISHI Colt,MITSUBISHI Colt V (CJ) 1.6 i 103cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-715,V (CJ) (11/1995 - 06/2003),11/1995,06/2003,16030,MITSUBISHI Colt,MITSUBISHI Colt V (CJ) 1.6 i 90cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-4632,VI Fase 2 (Z30) CZ3 (10/2008 - 03/2013),10/2008,03/2013,32525,MITSUBISHI Colt,MITSUBISHI Colt VI Fase 2 (Z30) CZ3 1.5 i Mivec 16V 109 cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-4632,VI Fase 2 (Z30) CZ3 (10/2008 - 03/2013),10/2008,03/2013,69328,MITSUBISHI Colt,MITSUBISHI Colt VI Fase 2 (Z30) CZ3 1.1 i Bifuel 75 cv,GPL
+ma-142,MITSUBISHI,fa-513,Colt,mo-4632,VI Fase 2 (Z30) CZ3 (10/2008 - 03/2013),10/2008,03/2013,69329,MITSUBISHI Colt,MITSUBISHI Colt VI Fase 2 (Z30) CZ3 1.3 i Mivec FFV 95 cv,Flex Fuel
+ma-142,MITSUBISHI,fa-513,Colt,mo-4632,VI Fase 2 (Z30) CZ3 (10/2008 - 03/2013),10/2008,03/2013,32527,MITSUBISHI Colt,MITSUBISHI Colt VI Fase 2 (Z30) CZ3 Clear Tec 1.1 i AS&G 75 cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-4632,VI Fase 2 (Z30) CZ3 (10/2008 - 03/2013),10/2008,03/2013,32526,MITSUBISHI Colt,MITSUBISHI Colt VI Fase 2 (Z30) CZ3 1.5 i Turbo 150 cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-4632,VI Fase 2 (Z30) CZ3 (10/2008 - 03/2013),10/2008,03/2013,32523,MITSUBISHI Colt,MITSUBISHI Colt VI Fase 2 (Z30) CZ3 1.1 i 75 cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-4632,VI Fase 2 (Z30) CZ3 (10/2008 - 03/2013),10/2008,03/2013,32524,MITSUBISHI Colt,MITSUBISHI Colt VI Fase 2 (Z30) CZ3 1.3 i 95 cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-4632,VI Fase 2 (Z30) CZ3 (10/2008 - 03/2013),10/2008,03/2013,32528,MITSUBISHI Colt,MITSUBISHI Colt VI Fase 2 (Z30) CZ3 Clear Tec 1.3 i Mivec AS&G 95 cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-718,VI (Z30) CZC (03/2006 - 07/2008),03/2006,07/2008,8379,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZC 1.5 i Coupe Descapotable Turbo 150cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-718,VI (Z30) CZC (03/2006 - 07/2008),03/2006,07/2008,8378,MITSUBISHI Colt,MITSUBISHI Colt VI (Z30) CZC 1.5 i Coupe Descapotable 109cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-4633,VI Fase 2 (Z30) CZ5 (10/2008 - 03/2013),10/2008,03/2013,32532,MITSUBISHI Colt,MITSUBISHI Colt VI Fase 2 (Z30) CZ5 1.5 i Mivec 16V 109 cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-4633,VI Fase 2 (Z30) CZ5 (10/2008 - 03/2013),10/2008,03/2013,42034,MITSUBISHI Colt,MITSUBISHI Colt VI Fase 2 (Z30) CZ5 1.3 i Mivec FFV 95 cv,Flex Fuel
+ma-142,MITSUBISHI,fa-513,Colt,mo-4633,VI Fase 2 (Z30) CZ5 (10/2008 - 03/2013),10/2008,03/2013,32533,MITSUBISHI Colt,MITSUBISHI Colt VI Fase 2 (Z30) CZ5 Clear Tec 1.1 i AS&G 75 cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-4633,VI Fase 2 (Z30) CZ5 (10/2008 - 03/2013),10/2008,03/2013,42037,MITSUBISHI Colt,MITSUBISHI Colt VI Fase 2 (Z30) CZ5 1.5 i Turbo 150 cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-4633,VI Fase 2 (Z30) CZ5 (10/2008 - 03/2013),10/2008,03/2013,32531,MITSUBISHI Colt,MITSUBISHI Colt VI Fase 2 (Z30) CZ5 1.5 i Mivec 16V BVR 109 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-4633,VI Fase 2 (Z30) CZ5 (10/2008 - 03/2013),10/2008,03/2013,69330,MITSUBISHI Colt,MITSUBISHI Colt VI Fase 2 (Z30) CZ5 1.1 i Bifuel 75 cv,GPL
+ma-142,MITSUBISHI,fa-513,Colt,mo-4633,VI Fase 2 (Z30) CZ5 (10/2008 - 03/2013),10/2008,03/2013,32530,MITSUBISHI Colt,MITSUBISHI Colt VI Fase 2 (Z30) CZ5 1.3 i Mivec 95 cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-4633,VI Fase 2 (Z30) CZ5 (10/2008 - 03/2013),10/2008,03/2013,32529,MITSUBISHI Colt,MITSUBISHI Colt VI Fase 2 (Z30) CZ5 1.1 i 75 cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-4633,VI Fase 2 (Z30) CZ5 (10/2008 - 03/2013),10/2008,03/2013,32534,MITSUBISHI Colt,MITSUBISHI Colt VI Fase 2 (Z30) CZ5 Clear Tec 1.3 MIVEC AS&G 95 cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-714,IV (CA*) (12/1991 - 12/1996),12/1991,12/1996,5760,MITSUBISHI Colt,MITSUBISHI Colt IV (CA*) 1.6 16V 113cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-714,IV (CA*) (12/1991 - 12/1996),12/1991,12/1996,21412,MITSUBISHI Colt,MITSUBISHI Colt IV (CA*) 1.6 16V 113cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-714,IV (CA*) (12/1991 - 12/1996),12/1991,12/1996,5759,MITSUBISHI Colt,MITSUBISHI Colt IV (CA*) 1.3 75cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-714,IV (CA*) (12/1991 - 12/1996),12/1991,12/1996,24648,MITSUBISHI Colt,MITSUBISHI Colt IV (CA*) 1.6 16V 4x4 113cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-714,IV (CA*) (12/1991 - 12/1996),12/1991,12/1996,8373,MITSUBISHI Colt,MITSUBISHI Colt IV (CA*) 1.8 16V 140cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-713,III (C5*) (04/1988 - 05/1992),04/1988,05/1992,16029,MITSUBISHI Colt,MITSUBISHI Colt III (C5*) 1600 16V 125cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-713,III (C5*) (04/1988 - 05/1992),04/1988,05/1992,16028,MITSUBISHI Colt,MITSUBISHI Colt III (C5*) 1500 91cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-713,III (C5*) (04/1988 - 05/1992),04/1988,05/1992,8372,MITSUBISHI Colt,MITSUBISHI Colt III (C5*) 1800 16V 134cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-713,III (C5*) (04/1988 - 05/1992),04/1988,05/1992,8370,MITSUBISHI Colt,MITSUBISHI Colt III (C5*) 1500 90cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-713,III (C5*) (04/1988 - 05/1992),04/1988,05/1992,5756,MITSUBISHI Colt,MITSUBISHI Colt III (C5*) 1500 91cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-713,III (C5*) (04/1988 - 05/1992),04/1988,05/1992,21409,MITSUBISHI Colt,MITSUBISHI Colt III (C5*) 1300 Furgón 75cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-713,III (C5*) (04/1988 - 05/1992),04/1988,05/1992,69321,MITSUBISHI Colt,MITSUBISHI Colt III (C5*) 1300 70cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-713,III (C5*) (04/1988 - 05/1992),04/1988,05/1992,8371,MITSUBISHI Colt,MITSUBISHI Colt III (C5*) 1500 90cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-713,III (C5*) (04/1988 - 05/1992),04/1988,05/1992,21410,MITSUBISHI Colt,MITSUBISHI Colt III (C5*) 1300 75cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-713,III (C5*) (04/1988 - 05/1992),04/1988,05/1992,21411,MITSUBISHI Colt,MITSUBISHI Colt III (C5*) 1800 16V 136cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-713,III (C5*) (04/1988 - 05/1992),04/1988,05/1992,69320,MITSUBISHI Colt,MITSUBISHI Colt III (C5*) 1300 60cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-713,III (C5*) (04/1988 - 05/1992),04/1988,05/1992,5757,MITSUBISHI Colt,MITSUBISHI Colt III (C5*) 1800 D Furgón 61cv,Diesel
+ma-142,MITSUBISHI,fa-513,Colt,mo-713,III (C5*) (04/1988 - 05/1992),04/1988,05/1992,5758,MITSUBISHI Colt,MITSUBISHI Colt III (C5*) 1800 D 61cv,Diesel
+ma-142,MITSUBISHI,fa-513,Colt,mo-7743,VII (09/2023 - Hoy),09/2023,,69506,MITSUBISHI Colt,MITSUBISHI Colt VII 1.0 MPi-T 91 cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-7743,VII (09/2023 - Hoy),09/2023,,69507,MITSUBISHI Colt,MITSUBISHI Colt VII 1.6 Hybrid 143 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-7743,VII (09/2023 - Hoy),09/2023,,69505,MITSUBISHI Colt,MITSUBISHI Colt VII 1.0 MPi 67 cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-711,I (A15*) (03/1978 - 04/1983),03/1978,04/1983,21344,MITSUBISHI Colt,MITSUBISHI Colt I (A15*) 1200 55cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-711,I (A15*) (03/1978 - 04/1983),03/1978,04/1983,15973,MITSUBISHI Colt,MITSUBISHI Colt I (A15*) 1400 70cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-711,I (A15*) (03/1978 - 04/1983),03/1978,04/1983,21345,MITSUBISHI Colt,MITSUBISHI Colt I (A15*) 1400 70cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-711,I (A15*) (03/1978 - 04/1983),03/1978,04/1983,15972,MITSUBISHI Colt,MITSUBISHI Colt I (A15*) 1200 55cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-711,I (A15*) (03/1978 - 04/1983),03/1978,04/1983,5632,MITSUBISHI Colt,MITSUBISHI Colt I (A15*) 1400 Turbo 105cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-712,II (C1*) (01/1984 - 02/1989),01/1984,02/1989,69319,MITSUBISHI Colt,MITSUBISHI Colt II (C1*) 1600 Turbo 125cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-712,II (C1*) (01/1984 - 02/1989),01/1984,02/1989,15986,MITSUBISHI Colt,MITSUBISHI Colt II (C1*) 1.5 75cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-712,II (C1*) (01/1984 - 02/1989),01/1984,02/1989,15985,MITSUBISHI Colt,MITSUBISHI Colt II (C1*) 1300 67cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-712,II (C1*) (01/1984 - 02/1989),01/1984,02/1989,8258,MITSUBISHI Colt,MITSUBISHI Colt II (C1*) 1600 Turbo 105cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-712,II (C1*) (01/1984 - 02/1989),01/1984,02/1989,21353,MITSUBISHI Colt,MITSUBISHI Colt II (C1*) 1500 91cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-712,II (C1*) (01/1984 - 02/1989),01/1984,02/1989,5646,MITSUBISHI Colt,MITSUBISHI Colt II (C1*) 1200 54cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-712,II (C1*) (01/1984 - 02/1989),01/1984,02/1989,69318,MITSUBISHI Colt,MITSUBISHI Colt II (C1*) 1500 70cv,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-712,II (C1*) (01/1984 - 02/1989),01/1984,02/1989,21354,MITSUBISHI Colt,MITSUBISHI Colt II (C1*) 1800 D 61cv,Diesel
+ma-142,MITSUBISHI,fa-513,Colt,mo-712,II (C1*) (01/1984 - 02/1989),01/1984,02/1989,69317,MITSUBISHI Colt,MITSUBISHI Colt II (C1*) 1500 70cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-513,Colt,mo-2465,LANCER Station Wagon (A7_K) (01/1978 - 09/1979),01/1978,09/1979,25490,MITSUBISHI Colt,MITSUBISHI Colt LANCER Station Wagon (A7_K) 1.4 68 cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3725,Sportback (CX) (07/2008 - 08/2017),07/2008,08/2017,29843,MITSUBISHI Lancer,MITSUBISHI Lancer Sportback (CX) 1.8 MIVEC 16V 143 cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3725,Sportback (CX) (07/2008 - 08/2017),07/2008,08/2017,33719,MITSUBISHI Lancer,MITSUBISHI Lancer Sportback (CX) 1.8 MIVEC 16V S-CVT 140 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3725,Sportback (CX) (07/2008 - 08/2017),07/2008,08/2017,33715,MITSUBISHI Lancer,MITSUBISHI Lancer Sportback (CX) 1.8 DI-D DPF 16V AS&G 117 cv,Diesel
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3725,Sportback (CX) (07/2008 - 08/2017),07/2008,08/2017,33713,MITSUBISHI Lancer,MITSUBISHI Lancer Sportback (CX) 1.6 MIVEC 16V 117 cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3725,Sportback (CX) (07/2008 - 08/2017),07/2008,08/2017,29844,MITSUBISHI Lancer,MITSUBISHI Lancer Sportback (CX) 1.8 MIVEC 16V S-CVT 143 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3725,Sportback (CX) (07/2008 - 08/2017),07/2008,08/2017,32540,MITSUBISHI Lancer,MITSUBISHI Lancer Sportback (CX) 1.5 MIVEC 16V 109 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3725,Sportback (CX) (07/2008 - 08/2017),07/2008,08/2017,29845,MITSUBISHI Lancer,MITSUBISHI Lancer Sportback (CX) 2.0 DI-D 16V 140 cv,Diesel
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3725,Sportback (CX) (07/2008 - 08/2017),07/2008,08/2017,33716,MITSUBISHI Lancer,MITSUBISHI Lancer Sportback (CX) 1.8 DI-D DPF 16V 150 cv,Diesel
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3725,Sportback (CX) (07/2008 - 08/2017),07/2008,08/2017,32542,MITSUBISHI Lancer,MITSUBISHI Lancer Sportback (CX) 2.0 Ti-MIVEC AWD 16V 235 cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3725,Sportback (CX) (07/2008 - 08/2017),07/2008,08/2017,33718,MITSUBISHI Lancer,MITSUBISHI Lancer Sportback (CX) 1.8 MIVEC 16V 140 cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3725,Sportback (CX) (07/2008 - 08/2017),07/2008,08/2017,33714,MITSUBISHI Lancer,MITSUBISHI Lancer Sportback (CX) 1.6 MIVEC 16V AS&G 117 cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3725,Sportback (CX) (07/2008 - 08/2017),07/2008,08/2017,33717,MITSUBISHI Lancer,MITSUBISHI Lancer Sportback (CX) 1.8 DI-D DPF 16V AS&G 150 cv,Diesel
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3725,Sportback (CX) (07/2008 - 08/2017),07/2008,08/2017,32541,MITSUBISHI Lancer,MITSUBISHI Lancer Sportback (CX) 1.5 MIVEC 16V 109 cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3474,IX (CY) (03/2007 - 08/2017),03/2007,08/2017,36136,MITSUBISHI Lancer,MITSUBISHI Lancer IX (CY) 1.8 DI-D DPF 16V 150 cv,Diesel
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3474,IX (CY) (03/2007 - 08/2017),03/2007,08/2017,36137,MITSUBISHI Lancer,MITSUBISHI Lancer IX (CY) 1.8 DI-D DPF 16V AS&G 150 cv,Diesel
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3474,IX (CY) (03/2007 - 08/2017),03/2007,08/2017,50376,MITSUBISHI Lancer,MITSUBISHI Lancer IX (CY) 1.8 MIVEC 16V CVT 140 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3474,IX (CY) (03/2007 - 08/2017),03/2007,08/2017,29033,MITSUBISHI Lancer,MITSUBISHI Lancer IX (CY) 1.8 MIVEC 143 cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3474,IX (CY) (03/2007 - 08/2017),03/2007,08/2017,29848,MITSUBISHI Lancer,MITSUBISHI Lancer IX (CY) 2.0 MIVEC 4WD 16V TC-SST 235 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3474,IX (CY) (03/2007 - 08/2017),03/2007,08/2017,50377,MITSUBISHI Lancer,MITSUBISHI Lancer IX (CY) 1.8 MIVEC 16V 140 cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3474,IX (CY) (03/2007 - 08/2017),03/2007,08/2017,32544,MITSUBISHI Lancer,MITSUBISHI Lancer IX (CY) 2.0 MIVEC 16V S-CVT 155 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3474,IX (CY) (03/2007 - 08/2017),03/2007,08/2017,30573,MITSUBISHI Lancer,MITSUBISHI Lancer IX (CY) 1.5 MIVEC 16V 109 cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3474,IX (CY) (03/2007 - 08/2017),03/2007,08/2017,30575,MITSUBISHI Lancer,MITSUBISHI Lancer IX (CY) 2.0 MIVEC 16V S-CVT 154 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3474,IX (CY) (03/2007 - 08/2017),03/2007,08/2017,29847,MITSUBISHI Lancer,MITSUBISHI Lancer IX (CY) 2.0 MIVEC 4WD 16V S-CVT 154 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3474,IX (CY) (03/2007 - 08/2017),03/2007,08/2017,36135,MITSUBISHI Lancer,MITSUBISHI Lancer IX (CY) 1.8 DI-D DPF 16V AS&G 116 cv,Diesel
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3474,IX (CY) (03/2007 - 08/2017),03/2007,08/2017,32543,MITSUBISHI Lancer,MITSUBISHI Lancer IX (CY) 1.8 MIVEC GPL 16V 143 cv,Flex Fuel
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3474,IX (CY) (03/2007 - 08/2017),03/2007,08/2017,30572,MITSUBISHI Lancer,MITSUBISHI Lancer IX (CY) 1.5 MIVEC 16V 109 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3474,IX (CY) (03/2007 - 08/2017),03/2007,08/2017,29034,MITSUBISHI Lancer,MITSUBISHI Lancer IX (CY) 1.8 MIVEC CVT 143 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3474,IX (CY) (03/2007 - 08/2017),03/2007,08/2017,36134,MITSUBISHI Lancer,MITSUBISHI Lancer IX (CY) 1.6 MIVEC 16V AS&G 117 cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3474,IX (CY) (03/2007 - 08/2017),03/2007,08/2017,29846,MITSUBISHI Lancer,MITSUBISHI Lancer IX (CY) 2.0 MIVEC 4WD16V 154 cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3474,IX (CY) (03/2007 - 08/2017),03/2007,08/2017,36133,MITSUBISHI Lancer,MITSUBISHI Lancer IX (CY) 1.6 MIVEC 16V 117 cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3474,IX (CY) (03/2007 - 08/2017),03/2007,08/2017,29032,MITSUBISHI Lancer,MITSUBISHI Lancer IX (CY) 2.0 DI-D 140 cv,Diesel
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3474,IX (CY) (03/2007 - 08/2017),03/2007,08/2017,30574,MITSUBISHI Lancer,MITSUBISHI Lancer IX (CY) 2.0 MIVEC 16V 154 cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1207,Evolution VII-IX (CT9A) (12/2000 - 07/2007),12/2000,07/2007,16026,MITSUBISHI Lancer,MITSUBISHI Lancer Evolution VII-IX (CT9A) IX 2.0 i Turbo 280cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1207,Evolution VII-IX (CT9A) (12/2000 - 07/2007),12/2000,07/2007,21405,MITSUBISHI Lancer,MITSUBISHI Lancer Evolution VII-IX (CT9A) VIII 2.0 i Turbo 265cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1207,Evolution VII-IX (CT9A) (12/2000 - 07/2007),12/2000,07/2007,16027,MITSUBISHI Lancer,MITSUBISHI Lancer Evolution VII-IX (CT9A) VII 2.0 i Turbo 280cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3689,Evolution X (CZ4A) (08/2007 - 12/2014),08/2007,12/2014,29851,MITSUBISHI Lancer,MITSUBISHI Lancer Evolution X (CZ4A) 2.0 MIVEC Turbo 4WD Berlina 16V 359 cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3689,Evolution X (CZ4A) (08/2007 - 12/2014),08/2007,12/2014,29852,MITSUBISHI Lancer,MITSUBISHI Lancer Evolution X (CZ4A) 2.0 MIVEC Turbo 4WD Berlina 16V TC-SST 295 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3689,Evolution X (CZ4A) (08/2007 - 12/2014),08/2007,12/2014,29849,MITSUBISHI Lancer,MITSUBISHI Lancer Evolution X (CZ4A) 2.0 MIVEC Turbo 4WD Berlina 16V 295 cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-3689,Evolution X (CZ4A) (08/2007 - 12/2014),08/2007,12/2014,29850,MITSUBISHI Lancer,MITSUBISHI Lancer Evolution X (CZ4A) 2.0 MIVEC Turbo 4WD Berlina 16V 329 cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1208,Evolution V-VI (CP9A) (01/1998 - 09/2000),01/1998,09/2000,16025,MITSUBISHI Lancer,MITSUBISHI Lancer Evolution V-VI (CP9A) VI 2.0 i Turbo 280cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1208,Evolution V-VI (CP9A) (01/1998 - 09/2000),01/1998,09/2000,8367,MITSUBISHI Lancer,MITSUBISHI Lancer Evolution V-VI (CP9A) V 2.0 i Turbo 280cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1206,Evolution IV (CN9A) (08/1996 - 06/1997),08/1996,06/1997,5752,MITSUBISHI Lancer,MITSUBISHI Lancer Evolution IV (CN9A) IV 2.0 i Turbo 280cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1215,VI (CK1*) (11/1995 - 12/2001),11/1995,12/2001,21356,MITSUBISHI Lancer,MITSUBISHI Lancer VI (CK1*) 1.5 i 90cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1215,VI (CK1*) (11/1995 - 12/2001),11/1995,12/2001,21358,MITSUBISHI Lancer,MITSUBISHI Lancer VI (CK1*) 1.6 i 90cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1215,VI (CK1*) (11/1995 - 12/2001),11/1995,12/2001,15987,MITSUBISHI Lancer,MITSUBISHI Lancer VI (CK1*) 1.3 i 75cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1215,VI (CK1*) (11/1995 - 12/2001),11/1995,12/2001,5647,MITSUBISHI Lancer,MITSUBISHI Lancer VI (CK1*) 1.3 i 75cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1215,VI (CK1*) (11/1995 - 12/2001),11/1995,12/2001,21357,MITSUBISHI Lancer,MITSUBISHI Lancer VI (CK1*) 1.5 i 90cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1204,(CS/CT) Berlina (06/2003 - 03/2011),06/2003,03/2011,15988,MITSUBISHI Lancer,MITSUBISHI Lancer (CS/CT) Berlina 2.0 i 135cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1204,(CS/CT) Berlina (06/2003 - 03/2011),06/2003,03/2011,8333,MITSUBISHI Lancer,MITSUBISHI Lancer (CS/CT) Berlina 1.6 i 98cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1204,(CS/CT) Berlina (06/2003 - 03/2011),06/2003,03/2011,5649,MITSUBISHI Lancer,MITSUBISHI Lancer (CS/CT) Berlina 1.3 82cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1204,(CS/CT) Berlina (06/2003 - 03/2011),06/2003,03/2011,8262,MITSUBISHI Lancer,MITSUBISHI Lancer (CS/CT) Berlina 1.6 i 98cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1204,(CS/CT) Berlina (06/2003 - 03/2011),06/2003,03/2011,5650,MITSUBISHI Lancer,MITSUBISHI Lancer (CS/CT) Berlina 2.0 i 135cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1205,(CS/CT) Familiar (06/2003 - 06/2008),06/2003,06/2008,21362,MITSUBISHI Lancer,MITSUBISHI Lancer (CS/CT) Familiar 1.6 i 98cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1205,(CS/CT) Familiar (06/2003 - 06/2008),06/2003,06/2008,5651,MITSUBISHI Lancer,MITSUBISHI Lancer (CS/CT) Familiar 2.0 i 135cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1205,(CS/CT) Familiar (06/2003 - 06/2008),06/2003,06/2008,21361,MITSUBISHI Lancer,MITSUBISHI Lancer (CS/CT) Familiar 1.6 i 98cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1214,V (CB/CD4*) (06/1992 - 12/2000),06/1992,12/2000,21404,MITSUBISHI Lancer,MITSUBISHI Lancer V (CB/CD4*) 2.0 D Familiar 68cv,Diesel
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1214,V (CB/CD4*) (06/1992 - 12/2000),06/1992,12/2000,25090,MITSUBISHI Lancer,MITSUBISHI Lancer V (CB/CD4*) 1.6 i 4x4 Familiar 113cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1214,V (CB/CD4*) (06/1992 - 12/2000),06/1992,12/2000,21403,MITSUBISHI Lancer,MITSUBISHI Lancer V (CB/CD4*) 1.6 i Familiar 113cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1214,V (CB/CD4*) (06/1992 - 12/2000),06/1992,12/2000,16024,MITSUBISHI Lancer,MITSUBISHI Lancer V (CB/CD4*) 1.6 i Familiar 113cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1202,(A17*) (03/1979 - 02/1983),03/1979,02/1983,16023,MITSUBISHI Lancer,MITSUBISHI Lancer (A17*) 1600 75cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1202,(A17*) (03/1979 - 02/1983),03/1979,02/1983,8364,MITSUBISHI Lancer,MITSUBISHI Lancer (A17*) 1200 55cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1202,(A17*) (03/1979 - 02/1983),03/1979,02/1983,21400,MITSUBISHI Lancer,MITSUBISHI Lancer (A17*) 1400 55cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1202,(A17*) (03/1979 - 02/1983),03/1979,02/1983,8365,MITSUBISHI Lancer,MITSUBISHI Lancer (A17*) 2000 Turbo 150cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1203,(A7*) (02/1973 - 02/1979),02/1973,02/1979,21402,MITSUBISHI Lancer,MITSUBISHI Lancer (A7*) 1.6 79cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1203,(A7*) (02/1973 - 02/1979),02/1973,02/1979,8366,MITSUBISHI Lancer,MITSUBISHI Lancer (A7*) 1.2 55cv,Gasolina
+ma-142,MITSUBISHI,fa-523,Lancer,mo-1203,(A7*) (02/1973 - 02/1979),02/1973,02/1979,21401,MITSUBISHI Lancer,MITSUBISHI Lancer (A7*) 1.4 68cv,Gasolina
+ma-142,MITSUBISHI,fa-534,Space Star,mo-1917,I (DG) (06/1998 - 12/2004),06/1998,12/2004,16090,MITSUBISHI Space Star,MITSUBISHI Space Star I (DG) 1.9 DI-D 115cv,Diesel
+ma-142,MITSUBISHI,fa-534,Space Star,mo-1917,I (DG) (06/1998 - 12/2004),06/1998,12/2004,43846,MITSUBISHI Space Star,MITSUBISHI Space Star I (DG) 1.3 i 16V 82 cv,Gasolina
+ma-142,MITSUBISHI,fa-534,Space Star,mo-1917,I (DG) (06/1998 - 12/2004),06/1998,12/2004,5958,MITSUBISHI Space Star,MITSUBISHI Space Star I (DG) 1.8 GDi 122cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-534,Space Star,mo-1917,I (DG) (06/1998 - 12/2004),06/1998,12/2004,8501,MITSUBISHI Space Star,MITSUBISHI Space Star I (DG) 1.6 i 101cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-534,Space Star,mo-1917,I (DG) (06/1998 - 12/2004),06/1998,12/2004,8500,MITSUBISHI Space Star,MITSUBISHI Space Star I (DG) 1.6 i 98cv,Gasolina
+ma-142,MITSUBISHI,fa-534,Space Star,mo-1917,I (DG) (06/1998 - 12/2004),06/1998,12/2004,70647,MITSUBISHI Space Star,MITSUBISHI Space Star I (DG) 1.8 GDi 16V 112 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-534,Space Star,mo-1917,I (DG) (06/1998 - 12/2004),06/1998,12/2004,16089,MITSUBISHI Space Star,MITSUBISHI Space Star I (DG) 1.9 DI-D 102cv,Diesel
+ma-142,MITSUBISHI,fa-534,Space Star,mo-1917,I (DG) (06/1998 - 12/2004),06/1998,12/2004,70648,MITSUBISHI Space Star,MITSUBISHI Space Star I (DG) 1.8 GDi 16V 112 cv,Gasolina
+ma-142,MITSUBISHI,fa-534,Space Star,mo-1917,I (DG) (06/1998 - 12/2004),06/1998,12/2004,16087,MITSUBISHI Space Star,MITSUBISHI Space Star I (DG) 1.3 i 86cv,Gasolina
+ma-142,MITSUBISHI,fa-534,Space Star,mo-1917,I (DG) (06/1998 - 12/2004),06/1998,12/2004,16088,MITSUBISHI Space Star,MITSUBISHI Space Star I (DG) 1.8 GDi 122cv,Gasolina
+ma-142,MITSUBISHI,fa-534,Space Star,mo-6393,II (A00) Fase 2 (11/2015 - Hoy),11/2015,,55488,MITSUBISHI Space Star,MITSUBISHI Space Star II (A00) Fase 2 1.2 i CVT 12V AS&G 80 cv,Gasolina
+ma-142,MITSUBISHI,fa-534,Space Star,mo-6393,II (A00) Fase 2 (11/2015 - Hoy),11/2015,,55485,MITSUBISHI Space Star,MITSUBISHI Space Star II (A00) Fase 2 1.0 i 12V 70 cv,Gasolina
+ma-142,MITSUBISHI,fa-534,Space Star,mo-6393,II (A00) Fase 2 (11/2015 - Hoy),11/2015,,55487,MITSUBISHI Space Star,MITSUBISHI Space Star II (A00) Fase 2 1.2 i 12V AS&G 80 cv,Gasolina
+ma-142,MITSUBISHI,fa-534,Space Star,mo-6393,II (A00) Fase 2 (11/2015 - Hoy),11/2015,,55486,MITSUBISHI Space Star,MITSUBISHI Space Star II (A00) Fase 2 1.0 i 12V AS&G 70 cv,Gasolina
+ma-142,MITSUBISHI,fa-534,Space Star,mo-6393,II (A00) Fase 2 (11/2015 - Hoy),11/2015,,55484,MITSUBISHI Space Star,MITSUBISHI Space Star II (A00) Fase 2 1.0 i 12V CVT AS&G 70 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-534,Space Star,mo-5510,II (A00) (02/2013 - 10/2015),02/2013,10/2015,42042,MITSUBISHI Space Star,MITSUBISHI Space Star II (A00) 1.2 i CVT 80 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-534,Space Star,mo-5510,II (A00) (02/2013 - 10/2015),02/2013,10/2015,42041,MITSUBISHI Space Star,MITSUBISHI Space Star II (A00) 1.2 i AS&G 80 cv,Gasolina
+ma-142,MITSUBISHI,fa-534,Space Star,mo-5510,II (A00) (02/2013 - 10/2015),02/2013,10/2015,42040,MITSUBISHI Space Star,MITSUBISHI Space Star II (A00) 1.2 i 80 cv,Gasolina
+ma-142,MITSUBISHI,fa-534,Space Star,mo-5510,II (A00) (02/2013 - 10/2015),02/2013,10/2015,42043,MITSUBISHI Space Star,MITSUBISHI Space Star II (A00) 1.2 i CVT AS&G 80 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-534,Space Star,mo-5510,II (A00) (02/2013 - 10/2015),02/2013,10/2015,42039,MITSUBISHI Space Star,MITSUBISHI Space Star II (A00) 1.0 i AS&G 70 cv,Gasolina
+ma-142,MITSUBISHI,fa-534,Space Star,mo-5510,II (A00) (02/2013 - 10/2015),02/2013,10/2015,42038,MITSUBISHI Space Star,MITSUBISHI Space Star II (A00) 1.0 i 70 cv,Gasolina
+ma-142,MITSUBISHI,fa-517,Grandis,mo-1062, (01/2004 - 11/2010),01/2004,11/2010,21374,MITSUBISHI Grandis,MITSUBISHI Grandis 2.4 i 165cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-517,Grandis,mo-1062, (01/2004 - 11/2010),01/2004,11/2010,8343,MITSUBISHI Grandis,MITSUBISHI Grandis 2.0 DI-D 136cv,Diesel
+ma-142,MITSUBISHI,fa-517,Grandis,mo-1062, (01/2004 - 11/2010),01/2004,11/2010,29841,MITSUBISHI Grandis,MITSUBISHI Grandis 2.0 DI-D Monospace 140 cv,Diesel
+ma-142,MITSUBISHI,fa-517,Grandis,mo-1062, (01/2004 - 11/2010),01/2004,11/2010,21373,MITSUBISHI Grandis,MITSUBISHI Grandis 2.4 i 165cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-577,2 (DA) (03/1999 - 12/2003),03/1999,12/2003,5635,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) 1.6 i 100cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-577,2 (DA) (03/1999 - 12/2003),03/1999,12/2003,21347,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) 1.6 i 100cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-577,2 (DA) (03/1999 - 12/2003),03/1999,12/2003,15974,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) 1.8 GDI 122cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-577,2 (DA) (03/1999 - 12/2003),03/1999,12/2003,15977,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) 1.9 DI-D 115cv,Diesel
+ma-142,MITSUBISHI,fa-511,Carisma,mo-577,2 (DA) (03/1999 - 12/2003),03/1999,12/2003,5636,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) 1.6 i 103cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-577,2 (DA) (03/1999 - 12/2003),03/1999,12/2003,50302,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) 1.6 i 16V 95 cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-577,2 (DA) (03/1999 - 12/2003),03/1999,12/2003,8249,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) 1.8 GDI 125cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-577,2 (DA) (03/1999 - 12/2003),03/1999,12/2003,15976,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) 1.9 DI-D 102cv,Diesel
+ma-142,MITSUBISHI,fa-511,Carisma,mo-577,2 (DA) (03/1999 - 12/2003),03/1999,12/2003,15975,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) 1.8 i 116cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-577,2 (DA) (03/1999 - 12/2003),03/1999,12/2003,8251,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) 1.9 TD 90cv,Diesel
+ma-142,MITSUBISHI,fa-511,Carisma,mo-577,2 (DA) (03/1999 - 12/2003),03/1999,12/2003,8250,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) 1.8 i 116cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-575,(DA) (05/1995 - 02/1999),05/1995,02/1999,5641,MITSUBISHI Carisma,MITSUBISHI Carisma (DA) 1.8 16V GDI 125cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-575,(DA) (05/1995 - 02/1999),05/1995,02/1999,15981,MITSUBISHI Carisma,MITSUBISHI Carisma (DA) 1.9 TD 90cv,Diesel
+ma-142,MITSUBISHI,fa-511,Carisma,mo-575,(DA) (05/1995 - 02/1999),05/1995,02/1999,8255,MITSUBISHI Carisma,MITSUBISHI Carisma (DA) 1.8 i 116cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-575,(DA) (05/1995 - 02/1999),05/1995,02/1999,5642,MITSUBISHI Carisma,MITSUBISHI Carisma (DA) 1.8 i 16V 140cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-575,(DA) (05/1995 - 02/1999),05/1995,02/1999,15980,MITSUBISHI Carisma,MITSUBISHI Carisma (DA) 1.8 16V GDI 125cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-575,(DA) (05/1995 - 02/1999),05/1995,02/1999,8254,MITSUBISHI Carisma,MITSUBISHI Carisma (DA) 1.8 i 116cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-575,(DA) (05/1995 - 02/1999),05/1995,02/1999,21351,MITSUBISHI Carisma,MITSUBISHI Carisma (DA) 1.6 i 100cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-575,(DA) (05/1995 - 02/1999),05/1995,02/1999,21350,MITSUBISHI Carisma,MITSUBISHI Carisma (DA) 1.6 i 100cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-575,(DA) (05/1995 - 02/1999),05/1995,02/1999,5640,MITSUBISHI Carisma,MITSUBISHI Carisma (DA) 1.6 i 90cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-575,(DA) (05/1995 - 02/1999),05/1995,02/1999,15979,MITSUBISHI Carisma,MITSUBISHI Carisma (DA) 1.6 i 90cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-574,(DA) Berlina (05/1996 - 02/1999),05/1996,02/1999,5643,MITSUBISHI Carisma,MITSUBISHI Carisma (DA) Berlina 1.8 16V GDI 125cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-574,(DA) Berlina (05/1996 - 02/1999),05/1996,02/1999,5645,MITSUBISHI Carisma,MITSUBISHI Carisma (DA) Berlina 1.9 TD 90cv,Diesel
+ma-142,MITSUBISHI,fa-511,Carisma,mo-574,(DA) Berlina (05/1996 - 02/1999),05/1996,02/1999,15983,MITSUBISHI Carisma,MITSUBISHI Carisma (DA) Berlina 1.6 i 100cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-574,(DA) Berlina (05/1996 - 02/1999),05/1996,02/1999,8256,MITSUBISHI Carisma,MITSUBISHI Carisma (DA) Berlina 1.8 16V GDI 125cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-574,(DA) Berlina (05/1996 - 02/1999),05/1996,02/1999,21352,MITSUBISHI Carisma,MITSUBISHI Carisma (DA) Berlina 1.6 i 100cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-574,(DA) Berlina (05/1996 - 02/1999),05/1996,02/1999,15982,MITSUBISHI Carisma,MITSUBISHI Carisma (DA) Berlina 1.6 i 90cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-574,(DA) Berlina (05/1996 - 02/1999),05/1996,02/1999,5644,MITSUBISHI Carisma,MITSUBISHI Carisma (DA) Berlina 1.8 i 116cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-574,(DA) Berlina (05/1996 - 02/1999),05/1996,02/1999,8257,MITSUBISHI Carisma,MITSUBISHI Carisma (DA) Berlina 1.8 i 116cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-576,2 (DA) Berlina (03/1999 - 12/2003),03/1999,12/2003,21348,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) Berlina 1.6 i Berlina 103cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-576,2 (DA) Berlina (03/1999 - 12/2003),03/1999,12/2003,15978,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) Berlina 1.6 i 100cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-576,2 (DA) Berlina (03/1999 - 12/2003),03/1999,12/2003,21349,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) Berlina 1.6 i 100cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-576,2 (DA) Berlina (03/1999 - 12/2003),03/1999,12/2003,50303,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) Berlina 1.6 i 95 cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-576,2 (DA) Berlina (03/1999 - 12/2003),03/1999,12/2003,50304,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) Berlina 1.8 GDI 16V 122 cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-576,2 (DA) Berlina (03/1999 - 12/2003),03/1999,12/2003,8253,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) Berlina 1.9 DI-D 115cv,Diesel
+ma-142,MITSUBISHI,fa-511,Carisma,mo-576,2 (DA) Berlina (03/1999 - 12/2003),03/1999,12/2003,8252,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) Berlina 1.8 i 116cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-576,2 (DA) Berlina (03/1999 - 12/2003),03/1999,12/2003,5639,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) Berlina 1.9 TD 90cv,Diesel
+ma-142,MITSUBISHI,fa-511,Carisma,mo-576,2 (DA) Berlina (03/1999 - 12/2003),03/1999,12/2003,5637,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) Berlina 1.8 i 116cv,Gasolina
+ma-142,MITSUBISHI,fa-511,Carisma,mo-576,2 (DA) Berlina (03/1999 - 12/2003),03/1999,12/2003,5638,MITSUBISHI Carisma,MITSUBISHI Carisma 2 (DA) Berlina 1.9 DI-D 102cv,Diesel
+ma-142,MITSUBISHI,fa-1138,GALLOPER,mo-2801,(JK-01) (02/1999 - Hoy),02/1999,,26547,MITSUBISHI GALLOPER,MITSUBISHI GALLOPER (JK-01) 2.5 TD 88 cv,Diesel
+ma-142,MITSUBISHI,fa-1138,GALLOPER,mo-2801,(JK-01) (02/1999 - Hoy),02/1999,,26216,MITSUBISHI GALLOPER,MITSUBISHI GALLOPER (JK-01) 3.0 V6 141 cv,Gasolina
+ma-142,MITSUBISHI,fa-1138,GALLOPER,mo-2801,(JK-01) (02/1999 - Hoy),02/1999,,26215,MITSUBISHI GALLOPER,MITSUBISHI GALLOPER (JK-01) 2.5 TD intercooler 99 cv,Diesel
+ma-142,MITSUBISHI,fa-2256,Eclipse Cross,mo-6701, (07/2017 - 10/2020),07/2017,10/2020,57997,MITSUBISHI Eclipse Cross,MITSUBISHI Eclipse Cross 1.5 MIVEC 2WD 16V CVT AS&S 163 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-2256,Eclipse Cross,mo-6701, (07/2017 - 10/2020),07/2017,10/2020,62484,MITSUBISHI Eclipse Cross,MITSUBISHI Eclipse Cross 2.2 DiD 4WD 16V AS&S 150 cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-2256,Eclipse Cross,mo-6701, (07/2017 - 10/2020),07/2017,10/2020,57999,MITSUBISHI Eclipse Cross,MITSUBISHI Eclipse Cross 1.5 MIVEC 4WD 16V CVT AS&S 163 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-2256,Eclipse Cross,mo-6701, (07/2017 - 10/2020),07/2017,10/2020,57998,MITSUBISHI Eclipse Cross,MITSUBISHI Eclipse Cross 1.5 MIVEC 2WD 16V AS&S 163 cv,Gasolina
+ma-142,MITSUBISHI,fa-2256,Eclipse Cross,mo-7248,Fase 2 (10/2020 - Hoy),10/2020,,62485,MITSUBISHI Eclipse Cross,MITSUBISHI Eclipse Cross Fase 2 1.5 MIVEC 2WD 16V CVT AS&S 163 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-2256,Eclipse Cross,mo-7248,Fase 2 (10/2020 - Hoy),10/2020,,62486,MITSUBISHI Eclipse Cross,MITSUBISHI Eclipse Cross Fase 2 1.5 MIVEC 2WD 16V AS&S 163 cv,Gasolina
+ma-142,MITSUBISHI,fa-2256,Eclipse Cross,mo-7248,Fase 2 (10/2020 - Hoy),10/2020,,62488,MITSUBISHI Eclipse Cross,MITSUBISHI Eclipse Cross Fase 2 2.4 PHEV 4WD 16V S&S 98 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-2256,Eclipse Cross,mo-7248,Fase 2 (10/2020 - Hoy),10/2020,,62487,MITSUBISHI Eclipse Cross,MITSUBISHI Eclipse Cross Fase 2 1.5 MIVEC 4WD 16V CVT AS&S 163 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-510,Canter,mo-556,(FB63) (01/1986 - 07/2005),01/1986,07/2005,37063,MITSUBISHI Canter,MITSUBISHI Canter (FB63) 3.0 TDi chasis doble cabina largo 125 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-556,(FB63) (01/1986 - 07/2005),01/1986,07/2005,37061,MITSUBISHI Canter,MITSUBISHI Canter (FB63) 3.0 TDi chasis cabina largo 125 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-556,(FB63) (01/1986 - 07/2005),01/1986,07/2005,5634,MITSUBISHI Canter,MITSUBISHI Canter (FB63) 2.8 TDi chasis cabina corto 116cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-556,(FB63) (01/1986 - 07/2005),01/1986,07/2005,37058,MITSUBISHI Canter,MITSUBISHI Canter (FB63) 2.8 TDi chasis cabina mediano 116 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-556,(FB63) (01/1986 - 07/2005),01/1986,07/2005,37062,MITSUBISHI Canter,MITSUBISHI Canter (FB63) 3.0 TDi chasis cabina mediano 125 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-556,(FB63) (01/1986 - 07/2005),01/1986,07/2005,37059,MITSUBISHI Canter,MITSUBISHI Canter (FB63) 2.8 TDi chasis doble cabina largo 116 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-556,(FB63) (01/1986 - 07/2005),01/1986,07/2005,37057,MITSUBISHI Canter,MITSUBISHI Canter (FB63) 2.8 TDi chasis cabina largo 116 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-556,(FB63) (01/1986 - 07/2005),01/1986,07/2005,37060,MITSUBISHI Canter,MITSUBISHI Canter (FB63) 3.0 TDi chasis cabina corto 125 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57401,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3S13 3.0 TDi chasis cabina mediano 2950 mm 16V 125 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,37064,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C13 3.0 TDi DPF chasis cabina corto 2500 mm 130 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57398,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3S13 3.0 TDi chasis cabina corto 2500 mm 16V 125 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57402,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3S13 3.0 TDi chasis cabina mediano 2950 mm 16V 130 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57386,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C13 3.0 TDi chasis cabina corto 2500 mm 16V 125 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57400,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3S13 3.0 TDi chasis cabina largo 3850 mm 16V 125 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,68884,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C15D 3.0 TDi chasis doble cabina mediano 3850 mm 16V 143 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,68882,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C15 3.0 TDi chasis cabina mediano 2950 mm 16V 143 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,68883,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C15 3.0 TDi chasis cabina mediano 3350 mm 16V 143 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,68891,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3S13 3.0 TDi chasis cabina mediano 3350 mm 16V 125 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57394,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3S11 3.0 TDi chasis cabina corto 2500 mm 16V 110 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,37068,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C13D 3.0 TDi DPF chasis doble cabina mediano 3350 mm 130 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57390,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C15 3.0 TDi chasis cabina corto 2500 mm 16V 143 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,37066,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C13 3.0 TDi DPF chasis cabina mediano 2950 mm 130 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57387,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C13 3.0 TDi chasis cabina largo 3850 mm 16V 125 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,68881,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C15 3.0 TDi chasis cabina largo 3850 mm 16V 143 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57396,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3S11 3.0 TDi chasis cabina mediano 2950 mm 16V 110 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,68888,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C13 3.0 TDi chasis cabina mediano 3350 mm 16V 125 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57388,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C13 3.0 TDi chasis cabina mediano 2950 mm 16V 125 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,68887,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C11 3.0 TDi chasis cabina mediano 3350 mm 16V 110 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,37067,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C13 3.0 TDi DPF chasis cabina mediano 3350 mm 130 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57391,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C15 3.0 TDi chasis cabina corto 2500 mm 16V 146 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57393,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C15 3.0 TDi chasis cabina mediano 2950 mm 16V 146 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57397,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3S11D 3.0 TDi chasis doble cabina mediano 3850 mm 16V 110 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,68890,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3S11 3.0 TDi chasis cabina mediano 3350 mm 16V 110 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57399,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3S13 3.0 TDi chasis cabina corto 2500 mm 16V 130 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,68889,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C15 3.0 TDi chasis cabina mediano 3350 mm 16V 146 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57392,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C15 3.0 TDi chasis cabina largo 3850 mm 16V 146 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,37065,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C13 3.0 TDi DPF chasis cabina largo 3850 mm 130 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57389,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C13D 3.0 TDi chasis doble cabina mediano 3850 mm 16V 125 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,68885,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3S13D 3.0 TDi chasis doble cabina mediano 3350 mm 16V 130 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57395,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3S11 3.0 TDi chasis cabina largo 3850 mm 16V 110 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,68886,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3S13D 3.0 TDi chasis doble cabina mediano 3850 mm 16V 125 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57382,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C11 3.0 TDi chasis cabina corto 2500 mm 16V 110 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57384,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C11 3.0 TDi chasis cabina mediano 2950 mm 16V 110 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57383,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C11 3.0 TDi chasis cabina largo 3850 mm 16V 110 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,57385,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3C11D 3.0 TDi chasis doble cabina mediano 3850 mm 16V 110 cv,Diesel
+ma-142,MITSUBISHI,fa-510,Canter,mo-5359,(FB83) (08/2005 - Hoy),08/2005,,68892,MITSUBISHI Canter,MITSUBISHI Canter (FB83) 3S13 3.0 TDi chasis cabina mediano 3350 mm 16V 130 cv,Diesel
+ma-142,MITSUBISHI,fa-515,Eclipse,mo-883,(D2/3) (12/1989 - 04/1999),12/1989,04/1999,5728,MITSUBISHI Eclipse,MITSUBISHI Eclipse (D2/3) 1.8 i Coupe 86cv,Gasolina
+ma-142,MITSUBISHI,fa-515,Eclipse,mo-883,(D2/3) (12/1989 - 04/1999),12/1989,04/1999,15997,MITSUBISHI Eclipse,MITSUBISHI Eclipse (D2/3) 2.0 i 16V Coupe 150cv,Gasolina
+ma-142,MITSUBISHI,fa-515,Eclipse,mo-883,(D2/3) (12/1989 - 04/1999),12/1989,04/1999,5729,MITSUBISHI Eclipse,MITSUBISHI Eclipse (D2/3) 2.0 i 16V Coupe 150cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-515,Eclipse,mo-883,(D2/3) (12/1989 - 04/1999),12/1989,04/1999,15998,MITSUBISHI Eclipse,MITSUBISHI Eclipse (D2/3) 2.0 i Turbo 16V Coupe 213cv,Gasolina
+ma-142,MITSUBISHI,fa-515,Eclipse,mo-883,(D2/3) (12/1989 - 04/1999),12/1989,04/1999,21371,MITSUBISHI Eclipse,MITSUBISHI Eclipse (D2/3) 2.0 i 16V Coupe 144cv,Gasolina
+ma-142,MITSUBISHI,fa-515,Eclipse,mo-883,(D2/3) (12/1989 - 04/1999),12/1989,04/1999,8342,MITSUBISHI Eclipse,MITSUBISHI Eclipse (D2/3) 2.0 i 16V Coupe 142cv,Gasolina
+ma-142,MITSUBISHI,fa-515,Eclipse,mo-883,(D2/3) (12/1989 - 04/1999),12/1989,04/1999,24910,MITSUBISHI Eclipse,MITSUBISHI Eclipse (D2/3) 2.0 i 16V 4x4 Coupe 150cv,Gasolina
+ma-142,MITSUBISHI,fa-515,Eclipse,mo-2466, (04/1999 - 06/2005),04/1999,06/2005,26687,MITSUBISHI Eclipse,MITSUBISHI Eclipse 2.4 150 cv,Gasolina
+ma-142,MITSUBISHI,fa-515,Eclipse,mo-2466, (04/1999 - 06/2005),04/1999,06/2005,26690,MITSUBISHI Eclipse,MITSUBISHI Eclipse 3.0 213 cv,Gasolina
+ma-142,MITSUBISHI,fa-515,Eclipse,mo-2466, (04/1999 - 06/2005),04/1999,06/2005,26689,MITSUBISHI Eclipse,MITSUBISHI Eclipse 3.0 203 cv,Gasolina
+ma-142,MITSUBISHI,fa-515,Eclipse,mo-2467, (07/2005 - Hoy),07/2005,,26691,MITSUBISHI Eclipse,MITSUBISHI Eclipse 3.8 GT 261 cv,Gasolina
+ma-142,MITSUBISHI,fa-515,Eclipse,mo-2467, (07/2005 - Hoy),07/2005,,26688,MITSUBISHI Eclipse,MITSUBISHI Eclipse 2.4 GS 163 cv,Gasolina
+ma-142,MITSUBISHI,fa-515,Eclipse,mo-2468,Descapotable (05/1999 - Hoy),05/1999,,26686,MITSUBISHI Eclipse,MITSUBISHI Eclipse Descapotable 2.4 RS 144 cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1012,(EA) Berlina (10/1996 - 05/2003),10/1996,05/2003,8338,MITSUBISHI Galant,MITSUBISHI Galant (EA) Berlina 2.5 i V6 163cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1012,(EA) Berlina (10/1996 - 05/2003),10/1996,05/2003,15991,MITSUBISHI Galant,MITSUBISHI Galant (EA) Berlina 2.0 i 133cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1012,(EA) Berlina (10/1996 - 05/2003),10/1996,05/2003,5723,MITSUBISHI Galant,MITSUBISHI Galant (EA) Berlina 2.4 i 150cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1012,(EA) Berlina (10/1996 - 05/2003),10/1996,05/2003,8337,MITSUBISHI Galant,MITSUBISHI Galant (EA) Berlina 2.4 GDI 144cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1012,(EA) Berlina (10/1996 - 05/2003),10/1996,05/2003,8335,MITSUBISHI Galant,MITSUBISHI Galant (EA) Berlina 2.0 i 113cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1012,(EA) Berlina (10/1996 - 05/2003),10/1996,05/2003,21366,MITSUBISHI Galant,MITSUBISHI Galant (EA) Berlina 2.5 i V6 161cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1012,(EA) Berlina (10/1996 - 05/2003),10/1996,05/2003,8336,MITSUBISHI Galant,MITSUBISHI Galant (EA) Berlina 2.4 GDI 144cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1012,(EA) Berlina (10/1996 - 05/2003),10/1996,05/2003,21365,MITSUBISHI Galant,MITSUBISHI Galant (EA) Berlina 2.0 TD 90cv,Diesel
+ma-142,MITSUBISHI,fa-516,Galant,mo-1012,(EA) Berlina (10/1996 - 05/2003),10/1996,05/2003,5722,MITSUBISHI Galant,MITSUBISHI Galant (EA) Berlina 2.0 i 136cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1012,(EA) Berlina (10/1996 - 05/2003),10/1996,05/2003,15992,MITSUBISHI Galant,MITSUBISHI Galant (EA) Berlina 2.4 i 150cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1012,(EA) Berlina (10/1996 - 05/2003),10/1996,05/2003,5653,MITSUBISHI Galant,MITSUBISHI Galant (EA) Berlina 2.0 i 133cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1012,(EA) Berlina (10/1996 - 05/2003),10/1996,05/2003,5724,MITSUBISHI Galant,MITSUBISHI Galant (EA) Berlina 2.5 i V6 163cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1012,(EA) Berlina (10/1996 - 05/2003),10/1996,05/2003,15993,MITSUBISHI Galant,MITSUBISHI Galant (EA) Berlina 2.5 i V6 161cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1013,(EA) Familiar (10/1996 - 09/2002),10/1996,09/2002,21367,MITSUBISHI Galant,MITSUBISHI Galant (EA) Familiar 2.0 i 136cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1013,(EA) Familiar (10/1996 - 09/2002),10/1996,09/2002,21368,MITSUBISHI Galant,MITSUBISHI Galant (EA) Familiar 2.4 i 150cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1013,(EA) Familiar (10/1996 - 09/2002),10/1996,09/2002,5726,MITSUBISHI Galant,MITSUBISHI Galant (EA) Familiar 2.0 TD 90cv,Diesel
+ma-142,MITSUBISHI,fa-516,Galant,mo-1013,(EA) Familiar (10/1996 - 09/2002),10/1996,09/2002,15994,MITSUBISHI Galant,MITSUBISHI Galant (EA) Familiar 2.0 i 136cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1013,(EA) Familiar (10/1996 - 09/2002),10/1996,09/2002,5727,MITSUBISHI Galant,MITSUBISHI Galant (EA) Familiar 2.4 GDI 144cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1013,(EA) Familiar (10/1996 - 09/2002),10/1996,09/2002,8341,MITSUBISHI Galant,MITSUBISHI Galant (EA) Familiar 2.5 i V6 161cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1013,(EA) Familiar (10/1996 - 09/2002),10/1996,09/2002,15995,MITSUBISHI Galant,MITSUBISHI Galant (EA) Familiar 2.4 GDI 144cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1013,(EA) Familiar (10/1996 - 09/2002),10/1996,09/2002,8339,MITSUBISHI Galant,MITSUBISHI Galant (EA) Familiar 2.0 i 133cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1013,(EA) Familiar (10/1996 - 09/2002),10/1996,09/2002,5725,MITSUBISHI Galant,MITSUBISHI Galant (EA) Familiar 2.0 i 133cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1013,(EA) Familiar (10/1996 - 09/2002),10/1996,09/2002,21369,MITSUBISHI Galant,MITSUBISHI Galant (EA) Familiar 2.5 i V6 163cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1013,(EA) Familiar (10/1996 - 09/2002),10/1996,09/2002,8340,MITSUBISHI Galant,MITSUBISHI Galant (EA) Familiar 2.5 i V6 161cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1013,(EA) Familiar (10/1996 - 09/2002),10/1996,09/2002,21370,MITSUBISHI Galant,MITSUBISHI Galant (EA) Familiar 2.5 i V6 163cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1013,(EA) Familiar (10/1996 - 09/2002),10/1996,09/2002,15996,MITSUBISHI Galant,MITSUBISHI Galant (EA) Familiar 2.4 i 150cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1008,(E3*) Berlina (12/1987 - 10/1992),12/1987,10/1992,16041,MITSUBISHI Galant,MITSUBISHI Galant (E3*) Berlina 2.0 16V 144cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1008,(E3*) Berlina (12/1987 - 10/1992),12/1987,10/1992,5769,MITSUBISHI Galant,MITSUBISHI Galant (E3*) Berlina 1.8 90cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1008,(E3*) Berlina (12/1987 - 10/1992),12/1987,10/1992,8383,MITSUBISHI Galant,MITSUBISHI Galant (E3*) Berlina 1.8 86cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1008,(E3*) Berlina (12/1987 - 10/1992),12/1987,10/1992,25091,MITSUBISHI Galant,MITSUBISHI Galant (E3*) Berlina 2.0 4x4 108cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1008,(E3*) Berlina (12/1987 - 10/1992),12/1987,10/1992,5768,MITSUBISHI Galant,MITSUBISHI Galant (E3*) Berlina 1.6 75cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1008,(E3*) Berlina (12/1987 - 10/1992),12/1987,10/1992,16042,MITSUBISHI Galant,MITSUBISHI Galant (E3*) Berlina 2.0 110cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1008,(E3*) Berlina (12/1987 - 10/1992),12/1987,10/1992,5771,MITSUBISHI Galant,MITSUBISHI Galant (E3*) Berlina 2.0 16V 146cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1008,(E3*) Berlina (12/1987 - 10/1992),12/1987,10/1992,21427,MITSUBISHI Galant,MITSUBISHI Galant (E3*) Berlina 1.8 TD 75cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-516,Galant,mo-1008,(E3*) Berlina (12/1987 - 10/1992),12/1987,10/1992,24916,MITSUBISHI Galant,MITSUBISHI Galant (E3*) Berlina 2.0 16V 4x4 144cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1008,(E3*) Berlina (12/1987 - 10/1992),12/1987,10/1992,8384,MITSUBISHI Galant,MITSUBISHI Galant (E3*) Berlina 1.8 86cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1008,(E3*) Berlina (12/1987 - 10/1992),12/1987,10/1992,16038,MITSUBISHI Galant,MITSUBISHI Galant (E3*) Berlina 1.6 75cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1008,(E3*) Berlina (12/1987 - 10/1992),12/1987,10/1992,21429,MITSUBISHI Galant,MITSUBISHI Galant (E3*) Berlina 2.0 108cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1008,(E3*) Berlina (12/1987 - 10/1992),12/1987,10/1992,16039,MITSUBISHI Galant,MITSUBISHI Galant (E3*) Berlina 1.8 90cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1008,(E3*) Berlina (12/1987 - 10/1992),12/1987,10/1992,5770,MITSUBISHI Galant,MITSUBISHI Galant (E3*) Berlina 2.0 110cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1008,(E3*) Berlina (12/1987 - 10/1992),12/1987,10/1992,16040,MITSUBISHI Galant,MITSUBISHI Galant (E3*) Berlina 1.8 TD 75cv,Diesel
+ma-142,MITSUBISHI,fa-516,Galant,mo-1008,(E3*) Berlina (12/1987 - 10/1992),12/1987,10/1992,21428,MITSUBISHI Galant,MITSUBISHI Galant (E3*) Berlina 2.0 108cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1011,(E5*) (11/1992 - 09/1996),11/1992,09/1996,8390,MITSUBISHI Galant,MITSUBISHI Galant (E5*) 2.0 TD 90cv,Diesel
+ma-142,MITSUBISHI,fa-516,Galant,mo-1011,(E5*) (11/1992 - 09/1996),11/1992,09/1996,16048,MITSUBISHI Galant,MITSUBISHI Galant (E5*) 1.8 116cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1011,(E5*) (11/1992 - 09/1996),11/1992,09/1996,24651,MITSUBISHI Galant,MITSUBISHI Galant (E5*) 2.0 4x4 137cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1011,(E5*) (11/1992 - 09/1996),11/1992,09/1996,21441,MITSUBISHI Galant,MITSUBISHI Galant (E5*) 2.0 V6 150cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1011,(E5*) (11/1992 - 09/1996),11/1992,09/1996,21438,MITSUBISHI Galant,MITSUBISHI Galant (E5*) 1.8 125cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1011,(E5*) (11/1992 - 09/1996),11/1992,09/1996,8391,MITSUBISHI Galant,MITSUBISHI Galant (E5*) 2.5 V6 175cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1011,(E5*) (11/1992 - 09/1996),11/1992,09/1996,16047,MITSUBISHI Galant,MITSUBISHI Galant (E5*) 1.8 125cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1011,(E5*) (11/1992 - 09/1996),11/1992,09/1996,21437,MITSUBISHI Galant,MITSUBISHI Galant (E5*) 1.8 116cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1011,(E5*) (11/1992 - 09/1996),11/1992,09/1996,21440,MITSUBISHI Galant,MITSUBISHI Galant (E5*) 2.0 V6 150cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1011,(E5*) (11/1992 - 09/1996),11/1992,09/1996,5779,MITSUBISHI Galant,MITSUBISHI Galant (E5*) 2.0 137cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1010,(E5*) Berlina (11/1992 - 09/1996),11/1992,09/1996,5776,MITSUBISHI Galant,MITSUBISHI Galant (E5*) Berlina 1.8 116cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1010,(E5*) Berlina (11/1992 - 09/1996),11/1992,09/1996,21435,MITSUBISHI Galant,MITSUBISHI Galant (E5*) Berlina 2.5 V6 175cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1010,(E5*) Berlina (11/1992 - 09/1996),11/1992,09/1996,16046,MITSUBISHI Galant,MITSUBISHI Galant (E5*) Berlina 1.8 116cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1010,(E5*) Berlina (11/1992 - 09/1996),11/1992,09/1996,5777,MITSUBISHI Galant,MITSUBISHI Galant (E5*) Berlina 2.0 V6 150cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1010,(E5*) Berlina (11/1992 - 09/1996),11/1992,09/1996,8387,MITSUBISHI Galant,MITSUBISHI Galant (E5*) Berlina 1.8 125cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1010,(E5*) Berlina (11/1992 - 09/1996),11/1992,09/1996,21434,MITSUBISHI Galant,MITSUBISHI Galant (E5*) Berlina 2.0 137cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1010,(E5*) Berlina (11/1992 - 09/1996),11/1992,09/1996,5778,MITSUBISHI Galant,MITSUBISHI Galant (E5*) Berlina 2.0 TD 90cv,Diesel
+ma-142,MITSUBISHI,fa-516,Galant,mo-1010,(E5*) Berlina (11/1992 - 09/1996),11/1992,09/1996,25092,MITSUBISHI Galant,MITSUBISHI Galant (E5*) Berlina 2.0 4x4 137cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1010,(E5*) Berlina (11/1992 - 09/1996),11/1992,09/1996,8389,MITSUBISHI Galant,MITSUBISHI Galant (E5*) Berlina 2.0 V6 150cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1010,(E5*) Berlina (11/1992 - 09/1996),11/1992,09/1996,21436,MITSUBISHI Galant,MITSUBISHI Galant (E5*) Berlina VR 2.0 150cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1010,(E5*) Berlina (11/1992 - 09/1996),11/1992,09/1996,8386,MITSUBISHI Galant,MITSUBISHI Galant (E5*) Berlina 1.8 125cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1009,(E3*) (11/1988 - 10/1992),11/1988,10/1992,21432,MITSUBISHI Galant,MITSUBISHI Galant (E3*) 2.0 110cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1009,(E3*) (11/1988 - 10/1992),11/1988,10/1992,16045,MITSUBISHI Galant,MITSUBISHI Galant (E3*) 2.0 108cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1009,(E3*) (11/1988 - 10/1992),11/1988,10/1992,5772,MITSUBISHI Galant,MITSUBISHI Galant (E3*) 1.8 86cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1009,(E3*) (11/1988 - 10/1992),11/1988,10/1992,16044,MITSUBISHI Galant,MITSUBISHI Galant (E3*) 1.8 TD 75cv,Diesel
+ma-142,MITSUBISHI,fa-516,Galant,mo-1009,(E3*) (11/1988 - 10/1992),11/1988,10/1992,21431,MITSUBISHI Galant,MITSUBISHI Galant (E3*) 1.8 90cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1009,(E3*) (11/1988 - 10/1992),11/1988,10/1992,8385,MITSUBISHI Galant,MITSUBISHI Galant (E3*) 2.0 16V 144cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1009,(E3*) (11/1988 - 10/1992),11/1988,10/1992,5775,MITSUBISHI Galant,MITSUBISHI Galant (E3*) 2.0 16V 146cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1009,(E3*) (11/1988 - 10/1992),11/1988,10/1992,16043,MITSUBISHI Galant,MITSUBISHI Galant (E3*) 1.8 86cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1009,(E3*) (11/1988 - 10/1992),11/1988,10/1992,24732,MITSUBISHI Galant,MITSUBISHI Galant (E3*) 2.0 16V 4x4 144cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1009,(E3*) (11/1988 - 10/1992),11/1988,10/1992,5773,MITSUBISHI Galant,MITSUBISHI Galant (E3*) 1.8 TD 75cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-516,Galant,mo-1009,(E3*) (11/1988 - 10/1992),11/1988,10/1992,5774,MITSUBISHI Galant,MITSUBISHI Galant (E3*) 2.0 108cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1009,(E3*) (11/1988 - 10/1992),11/1988,10/1992,21430,MITSUBISHI Galant,MITSUBISHI Galant (E3*) 1.8 90cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1009,(E3*) (11/1988 - 10/1992),11/1988,10/1992,21433,MITSUBISHI Galant,MITSUBISHI Galant (E3*) 2.0 110cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1009,(E3*) (11/1988 - 10/1992),11/1988,10/1992,24650,MITSUBISHI Galant,MITSUBISHI Galant (E3*) 2.0 4x4 108cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1007,(E1*) (05/1984 - 11/1987),05/1984,11/1987,21424,MITSUBISHI Galant,MITSUBISHI Galant (E1*) 1.8 TD Berlina 76cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-516,Galant,mo-1007,(E1*) (05/1984 - 11/1987),05/1984,11/1987,16035,MITSUBISHI Galant,MITSUBISHI Galant (E1*) 2.0 Berlina 90cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1007,(E1*) (05/1984 - 11/1987),05/1984,11/1987,21425,MITSUBISHI Galant,MITSUBISHI Galant (E1*) 2.0 Berlina 102cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1007,(E1*) (05/1984 - 11/1987),05/1984,11/1987,8382,MITSUBISHI Galant,MITSUBISHI Galant (E1*) 1.6 Berlina 79cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1007,(E1*) (05/1984 - 11/1987),05/1984,11/1987,21426,MITSUBISHI Galant,MITSUBISHI Galant (E1*) 2.0 Berlina 102cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1007,(E1*) (05/1984 - 11/1987),05/1984,11/1987,21423,MITSUBISHI Galant,MITSUBISHI Galant (E1*) 1.8 TD Berlina 76cv,Diesel
+ma-142,MITSUBISHI,fa-516,Galant,mo-1007,(E1*) (05/1984 - 11/1987),05/1984,11/1987,16037,MITSUBISHI Galant,MITSUBISHI Galant (E1*) 2.4 Berlina 112cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1007,(E1*) (05/1984 - 11/1987),05/1984,11/1987,16036,MITSUBISHI Galant,MITSUBISHI Galant (E1*) 2.0 Turbo Berlina 150cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1007,(E1*) (05/1984 - 11/1987),05/1984,11/1987,5767,MITSUBISHI Galant,MITSUBISHI Galant (E1*) 2.4 Berlina 112cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-2469, (10/2003 - Hoy),10/2003,,26664,MITSUBISHI Galant,MITSUBISHI Galant 2.0 GDi G 145 cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-2469, (10/2003 - Hoy),10/2003,,26668,MITSUBISHI Galant,MITSUBISHI Galant 3.8 GDi 232 cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-2469, (10/2003 - Hoy),10/2003,,26666,MITSUBISHI Galant,MITSUBISHI Galant 2.4 GDi Sport 165 cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-2469, (10/2003 - Hoy),10/2003,,26669,MITSUBISHI Galant,MITSUBISHI Galant 3.8 GDi 232 cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-2469, (10/2003 - Hoy),10/2003,,26665,MITSUBISHI Galant,MITSUBISHI Galant 2.0 GDi V 4x4 145 cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-2469, (10/2003 - Hoy),10/2003,,26667,MITSUBISHI Galant,MITSUBISHI Galant 2.4 GDi Sport 165 cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1005,(A16*) (05/1980 - 05/1984),05/1980,05/1984,21408,MITSUBISHI Galant,MITSUBISHI Galant (A16*) 2000 Turbo Berlina 150cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1005,(A16*) (05/1980 - 05/1984),05/1980,05/1984,5755,MITSUBISHI Galant,MITSUBISHI Galant (A16*) 2300 TD Berlina 84cv,Diesel
+ma-142,MITSUBISHI,fa-516,Galant,mo-1005,(A16*) (05/1980 - 05/1984),05/1980,05/1984,21406,MITSUBISHI Galant,MITSUBISHI Galant (A16*) 2000 Berlina 102cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1005,(A16*) (05/1980 - 05/1984),05/1980,05/1984,21407,MITSUBISHI Galant,MITSUBISHI Galant (A16*) 2000 Berlina 102cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1005,(A16*) (05/1980 - 05/1984),05/1980,05/1984,8369,MITSUBISHI Galant,MITSUBISHI Galant (A16*) 1600 Berlina 79cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1006,(A5/6/12) (12/1969 - 04/1980),12/1969,04/1980,8368,MITSUBISHI Galant,MITSUBISHI Galant (A5/6/12) Sigma 1600 Berlina 79cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-1006,(A5/6/12) (12/1969 - 04/1980),12/1969,04/1980,5753,MITSUBISHI Galant,MITSUBISHI Galant (A5/6/12) Sigma 2000 Berlina 110cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-2471,II Familiar (A16_V) (09/1980 - 05/1984),09/1980,05/1984,25495,MITSUBISHI Galant,MITSUBISHI Galant II Familiar (A16_V) 1.6 GLX (A161V) 75 cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-2471,II Familiar (A16_V) (09/1980 - 05/1984),09/1980,05/1984,25498,MITSUBISHI Galant,MITSUBISHI Galant II Familiar (A16_V) 2.0 GLX (A163V) 102 cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-2471,II Familiar (A16_V) (09/1980 - 05/1984),09/1980,05/1984,25499,MITSUBISHI Galant,MITSUBISHI Galant II Familiar (A16_V) 2.3 Turbo-D (A167V) 84 cv,Diesel
+ma-142,MITSUBISHI,fa-516,Galant,mo-3777,(DJ/DM) (07/2006 - 07/2010),07/2006,07/2010,30407,MITSUBISHI Galant,MITSUBISHI Galant (DJ/DM) 2.4 i Berlina 16V 162 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-2470,I Familiar (A12_V) (01/1979 - 08/1980),01/1979,08/1980,25496,MITSUBISHI Galant,MITSUBISHI Galant I Familiar (A12_V) 1.6 GL (A121V) 75 cv,Gasolina
+ma-142,MITSUBISHI,fa-516,Galant,mo-2470,I Familiar (A12_V) (01/1979 - 08/1980),01/1979,08/1980,25497,MITSUBISHI Galant,MITSUBISHI Galant I Familiar (A12_V) 2.0 GLX (A123V) 98 cv,Gasolina
+ma-142,MITSUBISHI,fa-518,3000 GT,mo-117,(Z1*) (04/1990 - 03/2000),04/1990,03/2000,21375,MITSUBISHI 3000 GT,MITSUBISHI 3000 GT (Z1*) 3.0 i Turbo Coupe 286cv,Gasolina
+ma-142,MITSUBISHI,fa-518,3000 GT,mo-117,(Z1*) (04/1990 - 03/2000),04/1990,03/2000,29842,MITSUBISHI 3000 GT,MITSUBISHI 3000 GT (Z1*) 3.0 i 2WD Coupe 225 cv,Gasolina
+ma-142,MITSUBISHI,fa-518,3000 GT,mo-117,(Z1*) (04/1990 - 03/2000),04/1990,03/2000,8344,MITSUBISHI 3000 GT,MITSUBISHI 3000 GT (Z1*) 3.0 i Turbo Coupe 224cv,Gasolina
+ma-142,MITSUBISHI,fa-518,3000 GT,mo-117,(Z1*) (04/1990 - 03/2000),04/1990,03/2000,5730,MITSUBISHI 3000 GT,MITSUBISHI 3000 GT (Z1*) 3.0 i Turbo Coupe 286cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1920,(N8) (07/1998 - 01/2004),07/1998,01/2004,8497,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N8) 2.4 GDi 150cv,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1920,(N8) (07/1998 - 01/2004),07/1998,01/2004,21478,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N8) 2.0 i 136cv,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1920,(N8) (07/1998 - 01/2004),07/1998,01/2004,16080,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N8) 2.4 GDi 147cv,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1920,(N8) (07/1998 - 01/2004),07/1998,01/2004,24735,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N8) 2.4 GDi 4x4 150cv,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1920,(N8) (07/1998 - 01/2004),07/1998,01/2004,21479,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N8) 2.4 GDi 150cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1920,(N8) (07/1998 - 01/2004),07/1998,01/2004,5957,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N8) 2.4 GDi 147cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1920,(N8) (07/1998 - 01/2004),07/1998,01/2004,8498,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N8) 2.4 GDi 150cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1919,(N3) (05/1991 - 11/2000),05/1991,11/2000,24733,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N3) 1.8 4x4 122cv,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1919,(N3) (05/1991 - 11/2000),05/1991,11/2000,8494,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N3) 2.0 133cv,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1919,(N3) (05/1991 - 11/2000),05/1991,11/2000,21477,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N3) 1.8 TD 76cv,Diesel
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1919,(N3) (05/1991 - 11/2000),05/1991,11/2000,5954,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N3) 1.8 122cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1919,(N3) (05/1991 - 11/2000),05/1991,11/2000,8495,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N3) 2.0 TD 82cv,Diesel
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1919,(N3) (05/1991 - 11/2000),05/1991,11/2000,24662,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N3) 2.0 4x4 133cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1919,(N3) (05/1991 - 11/2000),05/1991,11/2000,24734,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N3) 2.0 4x4 133cv,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1919,(N3) (05/1991 - 11/2000),05/1991,11/2000,5955,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N3) 2.0 133cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1919,(N3) (05/1991 - 11/2000),05/1991,11/2000,8496,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N3) 2.4i 139 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1919,(N3) (05/1991 - 11/2000),05/1991,11/2000,24661,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N3) 1.8 4x4 122cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1919,(N3) (05/1991 - 11/2000),05/1991,11/2000,8493,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N3) 1.8 125cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1919,(N3) (05/1991 - 11/2000),05/1991,11/2000,5956,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N3) 2.4i 139 cv,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1919,(N3) (05/1991 - 11/2000),05/1991,11/2000,8492,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N3) 1.8 122cv,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1919,(N3) (05/1991 - 11/2000),05/1991,11/2000,5953,MITSUBISHI Space wagon,MITSUBISHI Space wagon (N3) 1.8 125cv,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1918,(D0) (10/1983 - 04/1991),10/1983,04/1991,21481,MITSUBISHI Space wagon,MITSUBISHI Space wagon (D0) 1.8 90cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1918,(D0) (10/1983 - 04/1991),10/1983,04/1991,21480,MITSUBISHI Space wagon,MITSUBISHI Space wagon (D0) 1.8 90cv,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1918,(D0) (10/1983 - 04/1991),10/1983,04/1991,21482,MITSUBISHI Space wagon,MITSUBISHI Space wagon (D0) 2.0 101cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1918,(D0) (10/1983 - 04/1991),10/1983,04/1991,16081,MITSUBISHI Space wagon,MITSUBISHI Space wagon (D0) 1.8 90cv,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1918,(D0) (10/1983 - 04/1991),10/1983,04/1991,16082,MITSUBISHI Space wagon,MITSUBISHI Space wagon (D0) 1.8 TD 76cv,Diesel
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1918,(D0) (10/1983 - 04/1991),10/1983,04/1991,16084,MITSUBISHI Space wagon,MITSUBISHI Space wagon (D0) 2.0 101cv,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1918,(D0) (10/1983 - 04/1991),10/1983,04/1991,24917,MITSUBISHI Space wagon,MITSUBISHI Space wagon (D0) 2.0 4x4 101cv,Gasolina
+ma-142,MITSUBISHI,fa-531,Space wagon,mo-1918,(D0) (10/1983 - 04/1991),10/1983,04/1991,16083,MITSUBISHI Space wagon,MITSUBISHI Space wagon (D0) 1.8 TD 76cv,Diesel
+ma-142,MITSUBISHI,fa-532,Space Gear,mo-1915,(PA/PD) (12/1994 - 11/1998),12/1994,11/1998,21483,MITSUBISHI Space Gear,MITSUBISHI Space Gear (PA/PD) 2.0 i 113cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-532,Space Gear,mo-1915,(PA/PD) (12/1994 - 11/1998),12/1994,11/1998,25093,MITSUBISHI Space Gear,MITSUBISHI Space Gear (PA/PD) 2.4 i 4x4 132cv,Gasolina
+ma-142,MITSUBISHI,fa-532,Space Gear,mo-1915,(PA/PD) (12/1994 - 11/1998),12/1994,11/1998,16085,MITSUBISHI Space Gear,MITSUBISHI Space Gear (PA/PD) 2.0 i 115cv,Gasolina
+ma-142,MITSUBISHI,fa-532,Space Gear,mo-1915,(PA/PD) (12/1994 - 11/1998),12/1994,11/1998,8499,MITSUBISHI Space Gear,MITSUBISHI Space Gear (PA/PD) 2.5 TD 87cv,Diesel
+ma-142,MITSUBISHI,fa-532,Space Gear,mo-1915,(PA/PD) (12/1994 - 11/1998),12/1994,11/1998,21484,MITSUBISHI Space Gear,MITSUBISHI Space Gear (PA/PD) 2.4 i 132cv,Gasolina
+ma-142,MITSUBISHI,fa-532,Space Gear,mo-1915,(PA/PD) (12/1994 - 11/1998),12/1994,11/1998,24918,MITSUBISHI Space Gear,MITSUBISHI Space Gear (PA/PD) 2.5 TD 4x4 99cv,Diesel
+ma-142,MITSUBISHI,fa-532,Space Gear,mo-1915,(PA/PD) (12/1994 - 11/1998),12/1994,11/1998,16086,MITSUBISHI Space Gear,MITSUBISHI Space Gear (PA/PD) 2.5 TD 99cv,Diesel
+ma-142,MITSUBISHI,fa-532,Space Gear,mo-1915,(PA/PD) (12/1994 - 11/1998),12/1994,11/1998,21485,MITSUBISHI Space Gear,MITSUBISHI Space Gear (PA/PD) 2.4 i 132cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,16021,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.5 D Furgón 75cv,Diesel
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,16020,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.0 Furgón 110cv,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,21389,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 1.6 Furgón 79cv,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,21395,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.5 D Ambulancia 75cv,Diesel
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,16017,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 1.4 Furgón,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,24915,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.0 4x4 Furgón 110cv,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,21396,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.5 TD minibús 95cv,Diesel
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,67649,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.5 D Ambulance 69 cv,Diesel
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,5746,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.0 minibús 110cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,24914,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.0 4x4 minibús 110cv,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,21393,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.4 i minibús 112cv,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,21392,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.0 i Furgón 110cv,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,67654,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.4 i 4x4 furgón corto vitré 112cv,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,21391,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.0 minibús largo 110cv,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,21390,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.0 minibús 90cv,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,8360,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.0 Furgón 90cv,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,67655,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.4 i 16V 4x4 minibús 130cv,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,67650,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.5 D furgón corto 69cv,Diesel
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,16018,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 1.6 Ambulancia 79cv,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,16019,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.0 minibús 110cv,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,5748,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.5 TD Furgón 95cv,Diesel
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,67652,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.5 D furgón corto largo 69cv,Diesel
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,67653,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.5 D minibús 69cv,Diesel
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,67651,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.5 D furgón corto vitré 69cv,Diesel
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,25088,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.4 i 4x4 minibús 112cv,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1188,(P0/1/3) (11/1986 - 05/2004),11/1986,05/2004,5747,MITSUBISHI L300,MITSUBISHI L300 (P0/1/3) 2.5 D minibús 75cv,Diesel
+ma-142,MITSUBISHI,fa-521,L300,mo-1187,(L030) (09/1979 - 05/1986),09/1979,05/1986,16004,MITSUBISHI L300,MITSUBISHI L300 (L030) 2.0 Furgón 90cv,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1187,(L030) (09/1979 - 05/1986),09/1979,05/1986,21381,MITSUBISHI L300,MITSUBISHI L300 (L030) 1.6 Furgón 75cv,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1187,(L030) (09/1979 - 05/1986),09/1979,05/1986,8348,MITSUBISHI L300,MITSUBISHI L300 (L030) 1.6 minibús 79cv,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1187,(L030) (09/1979 - 05/1986),09/1979,05/1986,5736,MITSUBISHI L300,MITSUBISHI L300 (L030) 1.8 Furgón,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1187,(L030) (09/1979 - 05/1986),09/1979,05/1986,21382,MITSUBISHI L300,MITSUBISHI L300 (L030) 2.3 D Furgón 67cv,Diesel
+ma-142,MITSUBISHI,fa-521,L300,mo-1187,(L030) (09/1979 - 05/1986),09/1979,05/1986,16005,MITSUBISHI L300,MITSUBISHI L300 (L030) 2.5 D Chasis Cabina corto 75cv,Diesel
+ma-142,MITSUBISHI,fa-521,L300,mo-1187,(L030) (09/1979 - 05/1986),09/1979,05/1986,5735,MITSUBISHI L300,MITSUBISHI L300 (L030) 1.6 Furgón 79cv,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1183,(Truck) (01/1994 - 04/2000),01/1994,04/2000,5749,MITSUBISHI L300,MITSUBISHI L300 (Truck) 2.5 D Chasis Cabina largo 87cv,Diesel
+ma-142,MITSUBISHI,fa-521,L300,mo-1183,(Truck) (01/1994 - 04/2000),01/1994,04/2000,21397,MITSUBISHI L300,MITSUBISHI L300 (Truck) 2.0 Chasis Cabina largo 115cv,Gasolina
+ma-142,MITSUBISHI,fa-521,L300,mo-1183,(Truck) (01/1994 - 04/2000),01/1994,04/2000,21398,MITSUBISHI L300,MITSUBISHI L300 (Truck) 2.5 D Chasis Cabina largo 87cv,Diesel
+ma-142,MITSUBISHI,fa-533,Space Runner,mo-1916,(N1/2) (06/1991 - 12/2002),06/1991,12/2002,16092,MITSUBISHI Space Runner,MITSUBISHI Space Runner (N1/2) 1.8 i 125cv,Gasolina
+ma-142,MITSUBISHI,fa-533,Space Runner,mo-1916,(N1/2) (06/1991 - 12/2002),06/1991,12/2002,21486,MITSUBISHI Space Runner,MITSUBISHI Space Runner (N1/2) 2.0 TD 82cv,Diesel
+ma-142,MITSUBISHI,fa-533,Space Runner,mo-1916,(N1/2) (06/1991 - 12/2002),06/1991,12/2002,21487,MITSUBISHI Space Runner,MITSUBISHI Space Runner (N1/2) 2.4 GDi 150cv,Gasolina
+ma-142,MITSUBISHI,fa-533,Space Runner,mo-1916,(N1/2) (06/1991 - 12/2002),06/1991,12/2002,5961,MITSUBISHI Space Runner,MITSUBISHI Space Runner (N1/2) 2.0 i 136cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-533,Space Runner,mo-1916,(N1/2) (06/1991 - 12/2002),06/1991,12/2002,5959,MITSUBISHI Space Runner,MITSUBISHI Space Runner (N1/2) 1.8 i 122cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-533,Space Runner,mo-1916,(N1/2) (06/1991 - 12/2002),06/1991,12/2002,24919,MITSUBISHI Space Runner,MITSUBISHI Space Runner (N1/2) 1.8 i 4x4 122cv,Gasolina
+ma-142,MITSUBISHI,fa-533,Space Runner,mo-1916,(N1/2) (06/1991 - 12/2002),06/1991,12/2002,16091,MITSUBISHI Space Runner,MITSUBISHI Space Runner (N1/2) 1.8 i 122cv,Gasolina
+ma-142,MITSUBISHI,fa-533,Space Runner,mo-1916,(N1/2) (06/1991 - 12/2002),06/1991,12/2002,5960,MITSUBISHI Space Runner,MITSUBISHI Space Runner (N1/2) 1.8 i 125cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-533,Space Runner,mo-1916,(N1/2) (06/1991 - 12/2002),06/1991,12/2002,59987,MITSUBISHI Space Runner,MITSUBISHI Space Runner (N1/2) 1.8 i 16V 116 cv,Gasolina
+ma-142,MITSUBISHI,fa-533,Space Runner,mo-1916,(N1/2) (06/1991 - 12/2002),06/1991,12/2002,21488,MITSUBISHI Space Runner,MITSUBISHI Space Runner (N1/2) 2.4 GDi 150cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-533,Space Runner,mo-1916,(N1/2) (06/1991 - 12/2002),06/1991,12/2002,16093,MITSUBISHI Space Runner,MITSUBISHI Space Runner (N1/2) 2.0 i 136cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,15967,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1200 Berlina 54cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,21342,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1800 136cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,69316,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1300 berlina 70 cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,5628,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1600 125cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,8246,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1600 Berlina 125cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,15970,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1800 Berlina 136cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,5629,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1600 Berlina 113cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,5627,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1500 Berlina 91cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,15971,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1800 D 61cv,Diesel
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,15968,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1500 91cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,5625,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1500 91cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,8245,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1600 113cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,8247,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1800 134cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,21343,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1800 D Berlina 61cv,Diesel
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,8242,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1500 90cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,8248,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 2000 D 68cv,Diesel
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,21340,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1500 Berlina 91cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,5626,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1500 Berlina 90cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,5631,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1800 140cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,15969,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1500 86cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,5630,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1800 95cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,21339,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1300 75cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,8244,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1600 113cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,8240,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) Lancer F 1300 0cv Hatchback,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,8241,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1500 90cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,5624,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1300 75cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,21341,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1500 Berlina 90cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,69315,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1300 berlina 60 cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1212,iV (C6/7*) (04/1988 - 07/1995),04/1988,07/1995,8243,MITSUBISHI Lancer F,MITSUBISHI Lancer F iV (C6/7*) 1500 86cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1213,V (CB*/CD*) (12/1991 - 12/1996),12/1991,12/1996,21414,MITSUBISHI Lancer F,MITSUBISHI Lancer F V (CB*/CD*) 1.5 90cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1213,V (CB*/CD*) (12/1991 - 12/1996),12/1991,12/1996,5762,MITSUBISHI Lancer F,MITSUBISHI Lancer F V (CB*/CD*) 1.6 113cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1213,V (CB*/CD*) (12/1991 - 12/1996),12/1991,12/1996,21415,MITSUBISHI Lancer F,MITSUBISHI Lancer F V (CB*/CD*) 1.6 113cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1213,V (CB*/CD*) (12/1991 - 12/1996),12/1991,12/1996,5761,MITSUBISHI Lancer F,MITSUBISHI Lancer F V (CB*/CD*) 1.5 90cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1213,V (CB*/CD*) (12/1991 - 12/1996),12/1991,12/1996,5763,MITSUBISHI Lancer F,MITSUBISHI Lancer F V (CB*/CD*) 1.8 140cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1213,V (CB*/CD*) (12/1991 - 12/1996),12/1991,12/1996,21416,MITSUBISHI Lancer F,MITSUBISHI Lancer F V (CB*/CD*) 2.0 D 68cv,Diesel
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1213,V (CB*/CD*) (12/1991 - 12/1996),12/1991,12/1996,24649,MITSUBISHI Lancer F,MITSUBISHI Lancer F V (CB*/CD*) 1.6 4x4 113cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1213,V (CB*/CD*) (12/1991 - 12/1996),12/1991,12/1996,21413,MITSUBISHI Lancer F,MITSUBISHI Lancer F V (CB*/CD*) 1.3 Berlina 75cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1211,III (CV*) Familiar (07/1985 - 03/1992),07/1985,03/1992,21364,MITSUBISHI Lancer F,MITSUBISHI Lancer F III (CV*) Familiar 1800 Familiar 90cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1211,III (CV*) Familiar (07/1985 - 03/1992),07/1985,03/1992,5652,MITSUBISHI Lancer F,MITSUBISHI Lancer F III (CV*) Familiar 1500 Familiar 90cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1211,III (CV*) Familiar (07/1985 - 03/1992),07/1985,03/1992,8334,MITSUBISHI Lancer F,MITSUBISHI Lancer F III (CV*) Familiar 1500 Familiar 91cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1211,III (CV*) Familiar (07/1985 - 03/1992),07/1985,03/1992,21363,MITSUBISHI Lancer F,MITSUBISHI Lancer F III (CV*) Familiar 1500 Familiar 90cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1211,III (CV*) Familiar (07/1985 - 03/1992),07/1985,03/1992,15989,MITSUBISHI Lancer F,MITSUBISHI Lancer F III (CV*) Familiar 1500 Familiar 91cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1211,III (CV*) Familiar (07/1985 - 03/1992),07/1985,03/1992,15990,MITSUBISHI Lancer F,MITSUBISHI Lancer F III (CV*) Familiar 1800 D Familiar 61cv,Diesel
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1210,III (C1*) Berlina (01/1984 - 06/1988),01/1984,06/1988,15966,MITSUBISHI Lancer F,MITSUBISHI Lancer F III (C1*) Berlina 1.5 75cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1210,III (C1*) Berlina (01/1984 - 06/1988),01/1984,06/1988,21338,MITSUBISHI Lancer F,MITSUBISHI Lancer F III (C1*) Berlina 1200 54cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1210,III (C1*) Berlina (01/1984 - 06/1988),01/1984,06/1988,8239,MITSUBISHI Lancer F,MITSUBISHI Lancer F III (C1*) Berlina 1800 D 61cv,Diesel
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1210,III (C1*) Berlina (01/1984 - 06/1988),01/1984,06/1988,8238,MITSUBISHI Lancer F,MITSUBISHI Lancer F III (C1*) Berlina 1.5 75cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1209,(A15*) Berlina (01/1982 - 12/1983),01/1982,12/1983,5751,MITSUBISHI Lancer F,MITSUBISHI Lancer F (A15*) Berlina 1.4 70cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1209,(A15*) Berlina (01/1982 - 12/1983),01/1982,12/1983,8363,MITSUBISHI Lancer F,MITSUBISHI Lancer F (A15*) Berlina 1200 55cv,Gasolina
+ma-142,MITSUBISHI,fa-524,Lancer F,mo-1209,(A15*) Berlina (01/1982 - 12/1983),01/1982,12/1983,16022,MITSUBISHI Lancer F,MITSUBISHI Lancer F (A15*) Berlina 1400 70cv,Gasolina
+ma-142,MITSUBISHI,fa-2115,SpaceStar,mo-7745,(A00) (08/2020 - Hoy),08/2020,,69514,MITSUBISHI SpaceStar,MITSUBISHI SpaceStar (A00) 1.2 i 12V CVT 71 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-2115,SpaceStar,mo-7745,(A00) (08/2020 - Hoy),08/2020,,69513,MITSUBISHI SpaceStar,MITSUBISHI SpaceStar (A00) 1.2 i 12V 71 cv,Gasolina
+ma-142,MITSUBISHI,fa-2115,SpaceStar,mo-7745,(A00) (08/2020 - Hoy),08/2020,,69517,MITSUBISHI SpaceStar,MITSUBISHI SpaceStar (A00) 1.2 i 12V ClearTec CVT 80 cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-2115,SpaceStar,mo-7745,(A00) (08/2020 - Hoy),08/2020,,69516,MITSUBISHI SpaceStar,MITSUBISHI SpaceStar (A00) 1.2 i 12V ClearTec 80 cv,Gasolina
+ma-142,MITSUBISHI,fa-2115,SpaceStar,mo-7745,(A00) (08/2020 - Hoy),08/2020,,69515,MITSUBISHI SpaceStar,MITSUBISHI SpaceStar (A00) 1.0 i 12V 71 cv,Gasolina
+ma-142,MITSUBISHI,fa-535,Starion,mo-1979,(A18*) (02/1982 - 03/1990),02/1982,03/1990,21489,MITSUBISHI Starion,MITSUBISHI Starion (A18*) 2.0 i Turbo Coupe 179cv,Gasolina
+ma-142,MITSUBISHI,fa-535,Starion,mo-1979,(A18*) (02/1982 - 03/1990),02/1982,03/1990,16095,MITSUBISHI Starion,MITSUBISHI Starion (A18*) 2.6 i Turbo Coupe 155cv,Gasolina
+ma-142,MITSUBISHI,fa-535,Starion,mo-1979,(A18*) (02/1982 - 03/1990),02/1982,03/1990,16094,MITSUBISHI Starion,MITSUBISHI Starion (A18*) 2.0 i Turbo Coupe 170cv,Gasolina
+ma-142,MITSUBISHI,fa-2032,i-MiEV,mo-5008, (06/2009 - 12/2015),06/2009,12/2015,33690,MITSUBISHI i-MiEV,MITSUBISHI i-MiEV 67 cv Transmisión automática,Electrico
+ma-142,MITSUBISHI,fa-2032,i-MiEV,mo-5008, (06/2009 - 12/2015),06/2009,12/2015,54450,MITSUBISHI i-MiEV,MITSUBISHI i-MiEV 69 cv Transmisión automática,Electrico
+ma-142,MITSUBISHI,fa-529,Shogun,mo-1874,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,21468,MITSUBISHI Shogun,MITSUBISHI Shogun 1 (L0/1) 2.5 TD Familiar 94cv,Diesel
+ma-142,MITSUBISHI,fa-529,Shogun,mo-1874,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,16075,MITSUBISHI Shogun,MITSUBISHI Shogun 1 (L0/1) 2.6 Familiar 103cv,Gasolina
+ma-142,MITSUBISHI,fa-529,Shogun,mo-1874,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,16074,MITSUBISHI Shogun,MITSUBISHI Shogun 1 (L0/1) 2.5 TD Familiar 94cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-529,Shogun,mo-1874,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,5948,MITSUBISHI Shogun,MITSUBISHI Shogun 1 (L0/1) 2.6 LWB Familiar 103cv,Gasolina
+ma-142,MITSUBISHI,fa-529,Shogun,mo-1874,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,21469,MITSUBISHI Shogun,MITSUBISHI Shogun 1 (L0/1) 2.5 TD Familiar 94cv,Diesel
+ma-142,MITSUBISHI,fa-529,Shogun,mo-1874,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,8487,MITSUBISHI Shogun,MITSUBISHI Shogun 1 (L0/1) 3.0 i V6 Familiar 139cv,Gasolina
+ma-142,MITSUBISHI,fa-529,Shogun,mo-1874,1 (L0/1) (01/1983 - 06/1991),01/1983,06/1991,8488,MITSUBISHI Shogun,MITSUBISHI Shogun 1 (L0/1) 3.0 i V6 Familiar 139cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-529,Shogun,mo-1875,2 (V2/4) (12/1990 - 05/2001),12/1990,05/2001,5945,MITSUBISHI Shogun,MITSUBISHI Shogun 2 (V2/4) 2.8 TD Familiar 125cv,Diesel
+ma-142,MITSUBISHI,fa-529,Shogun,mo-1875,2 (V2/4) (12/1990 - 05/2001),12/1990,05/2001,16069,MITSUBISHI Shogun,MITSUBISHI Shogun 2 (V2/4) 2.8 TD Familiar 125cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-529,Shogun,mo-1877,4 Largo Wagon (09/2006 - 11/2018),09/2006,11/2018,5942,MITSUBISHI Shogun,MITSUBISHI Shogun 4 Largo Wagon 3.2 DI-D Familiar 160cv,Diesel
+ma-142,MITSUBISHI,fa-529,Shogun,mo-1877,4 Largo Wagon (09/2006 - 11/2018),09/2006,11/2018,5943,MITSUBISHI Shogun,MITSUBISHI Shogun 4 Largo Wagon 3.2 DI-D Familiar 170cv Transmisión automática,Diesel
+ma-142,MITSUBISHI,fa-529,Shogun,mo-1878,4 Short Wagon/Van (09/2006 - 11/2018),09/2006,11/2018,50406,MITSUBISHI Shogun,MITSUBISHI Shogun 4 Short Wagon/Van 3.2 DI-D 4WD furgón/van corto vitré 16V 160 cv,Diesel
+ma-142,MITSUBISHI,fa-529,Shogun,mo-1876,3 (V6/7) (02/2000 - 08/2006),02/2000,08/2006,5951,MITSUBISHI Shogun,MITSUBISHI Shogun 3 (V6/7) 3.2 DI-D Familiar 165cv,Diesel
+ma-142,MITSUBISHI,fa-1139,L 400,mo-2802,Autobus/Autocar (PAOV) (06/1996 - Hoy),06/1996,,26762,MITSUBISHI L 400,MITSUBISHI L 400 Autobus/Autocar (PAOV) 2.0 113 cv,Gasolina
+ma-142,MITSUBISHI,fa-1139,L 400,mo-2802,Autobus/Autocar (PAOV) (06/1996 - Hoy),06/1996,,26763,MITSUBISHI L 400,MITSUBISHI L 400 Autobus/Autocar (PAOV) 2.4 132 cv,Gasolina
+ma-142,MITSUBISHI,fa-1139,L 400,mo-2802,Autobus/Autocar (PAOV) (06/1996 - Hoy),06/1996,,26296,MITSUBISHI L 400,MITSUBISHI L 400 Autobus/Autocar (PAOV) 2500 TD 87 cv,Diesel
+ma-142,MITSUBISHI,fa-522,L400,mo-1189,(PA/PB/PD) (12/1994 - 12/2001),12/1994,12/2001,8361,MITSUBISHI L400,MITSUBISHI L400 (PA/PB/PD) 2.0 i Furgón 113cv,Gasolina
+ma-142,MITSUBISHI,fa-522,L400,mo-1189,(PA/PB/PD) (12/1994 - 12/2001),12/1994,12/2001,5750,MITSUBISHI L400,MITSUBISHI L400 (PA/PB/PD) 2.5 TD Furgón 87cv,Diesel
+ma-142,MITSUBISHI,fa-522,L400,mo-1189,(PA/PB/PD) (12/1994 - 12/2001),12/1994,12/2001,21399,MITSUBISHI L400,MITSUBISHI L400 (PA/PB/PD) 2.0 i Furgón 115cv,Gasolina
+ma-142,MITSUBISHI,fa-522,L400,mo-1189,(PA/PB/PD) (12/1994 - 12/2001),12/1994,12/2001,24647,MITSUBISHI L400,MITSUBISHI L400 (PA/PB/PD) 2.5 TD 4x4 Furgón 87cv,Diesel
+ma-142,MITSUBISHI,fa-530,Sigma,mo-1890,(F16) Berlina (12/1990 - 03/1996),12/1990,03/1996,5952,MITSUBISHI Sigma,MITSUBISHI Sigma (F16) Berlina 3.0 i V6 205cv,Gasolina
+ma-142,MITSUBISHI,fa-530,Sigma,mo-1890,(F16) Berlina (12/1990 - 03/1996),12/1990,03/1996,21474,MITSUBISHI Sigma,MITSUBISHI Sigma (F16) Berlina 3.0 i V6 177cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-530,Sigma,mo-1890,(F16) Berlina (12/1990 - 03/1996),12/1990,03/1996,16079,MITSUBISHI Sigma,MITSUBISHI Sigma (F16) Berlina 3.0 i V6 205cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-530,Sigma,mo-1890,(F16) Berlina (12/1990 - 03/1996),12/1990,03/1996,21473,MITSUBISHI Sigma,MITSUBISHI Sigma (F16) Berlina 3.0 i V6 177cv,Gasolina
+ma-142,MITSUBISHI,fa-530,Sigma,mo-1891,(F16) Familiar (10/1992 - 10/1994),10/1992,10/1994,21476,MITSUBISHI Sigma,MITSUBISHI Sigma (F16) Familiar 3.0 i V6 177cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-530,Sigma,mo-1891,(F16) Familiar (10/1992 - 10/1994),10/1992,10/1994,21475,MITSUBISHI Sigma,MITSUBISHI Sigma (F16) Familiar 3.0 i V6 177cv,Gasolina
+ma-142,MITSUBISHI,fa-528,Sapporo,mo-1792, (11/1976 - 12/1990),11/1976,12/1990,8484,MITSUBISHI Sapporo,MITSUBISHI Sapporo 2000 Coupe 90cv,Gasolina
+ma-142,MITSUBISHI,fa-528,Sapporo,mo-1792, (11/1976 - 12/1990),11/1976,12/1990,21458,MITSUBISHI Sapporo,MITSUBISHI Sapporo 2400 i Berlina 124cv,Gasolina
+ma-142,MITSUBISHI,fa-528,Sapporo,mo-1792, (11/1976 - 12/1990),11/1976,12/1990,21457,MITSUBISHI Sapporo,MITSUBISHI Sapporo 2000 Turbo Coupe 150cv,Gasolina
+ma-142,MITSUBISHI,fa-528,Sapporo,mo-1792, (11/1976 - 12/1990),11/1976,12/1990,16065,MITSUBISHI Sapporo,MITSUBISHI Sapporo 2000 Coupe 102cv,Gasolina
+ma-142,MITSUBISHI,fa-528,Sapporo,mo-1792, (11/1976 - 12/1990),11/1976,12/1990,5940,MITSUBISHI Sapporo,MITSUBISHI Sapporo 1600 Coupe 75cv,Gasolina
+ma-142,MITSUBISHI,fa-2033,FTO,mo-5009, (09/1994 - 07/2001),09/1994,07/2001,33708,MITSUBISHI FTO,MITSUBISHI FTO 2.0 i V6 24V 170 cv,Gasolina
+ma-142,MITSUBISHI,fa-2033,FTO,mo-5009, (09/1994 - 07/2001),09/1994,07/2001,33707,MITSUBISHI FTO,MITSUBISHI FTO 1.8 i 16V 125 cv,Gasolina
+ma-142,MITSUBISHI,fa-2033,FTO,mo-5009, (09/1994 - 07/2001),09/1994,07/2001,33710,MITSUBISHI FTO,MITSUBISHI FTO 2.0 MIVEC V6 24V 200 cv,Gasolina
+ma-142,MITSUBISHI,fa-2033,FTO,mo-5009, (09/1994 - 07/2001),09/1994,07/2001,33709,MITSUBISHI FTO,MITSUBISHI FTO 2.0 i V6 24V 180 cv,Gasolina
+ma-142,MITSUBISHI,fa-514,Cordia,mo-732,(A21*) (11/1981 - 12/1985),11/1981,12/1985,21359,MITSUBISHI Cordia,MITSUBISHI Cordia (A21*) 1600 75cv,Gasolina
+ma-142,MITSUBISHI,fa-514,Cordia,mo-732,(A21*) (11/1981 - 12/1985),11/1981,12/1985,5648,MITSUBISHI Cordia,MITSUBISHI Cordia (A21*) 1600 Turbo 114cv,Gasolina
+ma-142,MITSUBISHI,fa-514,Cordia,mo-732,(A21*) (11/1981 - 12/1985),11/1981,12/1985,8261,MITSUBISHI Cordia,MITSUBISHI Cordia (A21*) 1800 Turbo 136cv,Gasolina
+ma-142,MITSUBISHI,fa-514,Cordia,mo-732,(A21*) (11/1981 - 12/1985),11/1981,12/1985,21360,MITSUBISHI Cordia,MITSUBISHI Cordia (A21*) Cordia 1800 0cv Liftback,Gasolina
+ma-142,MITSUBISHI,fa-1141,SANTAMO,mo-2804, (03/1999 - Hoy),03/1999,,26221,MITSUBISHI SANTAMO,MITSUBISHI SANTAMO 2.0 16V 139 cv,Gasolina
+ma-142,MITSUBISHI,fa-1141,SANTAMO,mo-2804, (03/1999 - Hoy),03/1999,,26222,MITSUBISHI SANTAMO,MITSUBISHI SANTAMO 2.0 16V 4x4 139 cv,Gasolina
+ma-142,MITSUBISHI,fa-1135,DEBONAIR,mo-2799, (04/1986 - 08/1992),04/1986,08/1992,26923,MITSUBISHI DEBONAIR,MITSUBISHI DEBONAIR 2.0 120 cv,Gasolina
+ma-142,MITSUBISHI,fa-1135,DEBONAIR,mo-2799, (04/1986 - 08/1992),04/1986,08/1992,26924,MITSUBISHI DEBONAIR,MITSUBISHI DEBONAIR 2.0 Supercharged 150 cv,Gasolina
+ma-142,MITSUBISHI,fa-1135,DEBONAIR,mo-2799, (04/1986 - 08/1992),04/1986,08/1992,26927,MITSUBISHI DEBONAIR,MITSUBISHI DEBONAIR 3.0 200 cv,Gasolina
+ma-142,MITSUBISHI,fa-1135,DEBONAIR,mo-2799, (04/1986 - 08/1992),04/1986,08/1992,26926,MITSUBISHI DEBONAIR,MITSUBISHI DEBONAIR 3.0 155 cv,Gasolina
+ma-142,MITSUBISHI,fa-1135,DEBONAIR,mo-2799, (04/1986 - 08/1992),04/1986,08/1992,26925,MITSUBISHI DEBONAIR,MITSUBISHI DEBONAIR 3.0 150 cv,Gasolina
+ma-142,MITSUBISHI,fa-1135,DEBONAIR,mo-2800, (09/1992 - 10/1997),09/1992,10/1997,26929,MITSUBISHI DEBONAIR,MITSUBISHI DEBONAIR 3.5 260 cv,Gasolina
+ma-142,MITSUBISHI,fa-1135,DEBONAIR,mo-2800, (09/1992 - 10/1997),09/1992,10/1997,26928,MITSUBISHI DEBONAIR,MITSUBISHI DEBONAIR 3.0 170 cv,Gasolina
+ma-142,MITSUBISHI,fa-1132,380,mo-2797, (04/2005 - Hoy),04/2005,,26773,MITSUBISHI 380,MITSUBISHI 380 3.8 233 cv,Gasolina
+ma-142,MITSUBISHI,fa-519,i,mo-1095,(HA) (02/2007 - 11/2007),02/2007,11/2007,8345,MITSUBISHI i,MITSUBISHI i (HA) 0.7 i Turbo 64cv Transmisión automática,Gasolina
+ma-142,MITSUBISHI,fa-536,Tredia,mo-2113,(A21*) (02/1982 - 12/1985),02/1982,12/1985,8504,MITSUBISHI Tredia,MITSUBISHI Tredia (A21*) 1800 Turbo 136cv,Gasolina
+ma-142,MITSUBISHI,fa-536,Tredia,mo-2113,(A21*) (02/1982 - 12/1985),02/1982,12/1985,8502,MITSUBISHI Tredia,MITSUBISHI Tredia (A21*) 1400 70cv,Gasolina
+ma-142,MITSUBISHI,fa-536,Tredia,mo-2113,(A21*) (02/1982 - 12/1985),02/1982,12/1985,16096,MITSUBISHI Tredia,MITSUBISHI Tredia (A21*) 1600 Turbo 116cv,Gasolina
+ma-142,MITSUBISHI,fa-536,Tredia,mo-2113,(A21*) (02/1982 - 12/1985),02/1982,12/1985,8503,MITSUBISHI Tredia,MITSUBISHI Tredia (A21*) 1800 90cv,Gasolina
+ma-142,MITSUBISHI,fa-536,Tredia,mo-2113,(A21*) (02/1982 - 12/1985),02/1982,12/1985,21490,MITSUBISHI Tredia,MITSUBISHI Tredia (A21*) 1600 70cv,Gasolina
+ma-142,MITSUBISHI,fa-1133,CELESTE,mo-2798,(A7_) (10/1975 - 06/1981),10/1975,06/1981,25494,MITSUBISHI CELESTE,MITSUBISHI CELESTE (A7_) 2.0 GSR (A78) 105 cv,Gasolina
+ma-142,MITSUBISHI,fa-1133,CELESTE,mo-2798,(A7_) (10/1975 - 06/1981),10/1975,06/1981,25492,MITSUBISHI CELESTE,MITSUBISHI CELESTE (A7_) 2.0 GSR (A78) 90 cv,Gasolina
+ma-142,MITSUBISHI,fa-1133,CELESTE,mo-2798,(A7_) (10/1975 - 06/1981),10/1975,06/1981,25491,MITSUBISHI CELESTE,MITSUBISHI CELESTE (A7_) 1.6 ST (A73) 73 cv,Gasolina
+ma-142,MITSUBISHI,fa-1133,CELESTE,mo-2798,(A7_) (10/1975 - 06/1981),10/1975,06/1981,25493,MITSUBISHI CELESTE,MITSUBISHI CELESTE (A7_) 2.0 GSR (A78) 97 cv,Gasolina
+ma-142,MITSUBISHI,fa-1140,PROUDIA,mo-2803,/DIGNITY (10/1999 - Hoy),10/1999,,26361,MITSUBISHI PROUDIA,MITSUBISHI PROUDIA /DIGNITY 3.5 24V 241 cv,Gasolina
+ma-142,MITSUBISHI,fa-1140,PROUDIA,mo-2803,/DIGNITY (10/1999 - Hoy),10/1999,,26362,MITSUBISHI PROUDIA,MITSUBISHI PROUDIA /DIGNITY 4.5 32V 280 cv,Gasolina
+ma-142,MITSUBISHI,fa-537,Valley,mo-2144, (01/1988 - 12/1996),01/1988,12/1996,8506,MITSUBISHI Valley,MITSUBISHI Valley 2.5 D minibús 75cv,Diesel
+ma-142,MITSUBISHI,fa-537,Valley,mo-2144, (01/1988 - 12/1996),01/1988,12/1996,8505,MITSUBISHI Valley,MITSUBISHI Valley 2.0 minibús 102cv,Gasolina

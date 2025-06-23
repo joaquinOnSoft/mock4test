@@ -1,0 +1,5 @@
+brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
+ma-414,INEOS,fa-2442,Grenadier,mo-7774,Véhicule tout terrain fermé (08/2022 - Aujourd'hui),08/2022,,69798,INEOS Grenadier,INEOS Grenadier Véhicule tout terrain fermé 3.0 TTD 4x4 249 cv Boîte auto,Diesel
+ma-414,INEOS,fa-2442,Grenadier,mo-7774,Véhicule tout terrain fermé (08/2022 - Aujourd'hui),08/2022,,69797,INEOS Grenadier,INEOS Grenadier Véhicule tout terrain fermé 3.0 Ti 4x4 286 cv Boîte auto,Essence
+ma-414,INEOS,fa-2442,Grenadier,mo-7773,Quartermaster (07/2023 - Aujourd'hui),07/2023,,69795,INEOS Grenadier,INEOS Grenadier Quartermaster 3.0 Ti 4x4 286 cv Boîte auto,Essence
+ma-414,INEOS,fa-2442,Grenadier,mo-7773,Quartermaster (07/2023 - Aujourd'hui),07/2023,,69796,INEOS Grenadier,INEOS Grenadier Quartermaster 3.0 TTD 4x4 249 cv Boîte auto,Diesel

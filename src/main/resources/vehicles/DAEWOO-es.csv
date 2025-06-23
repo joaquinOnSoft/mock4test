@@ -1,0 +1,181 @@
+brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
+ma-55,DAEWOO,fa-164,Kalos,mo-5461,(T200) Hatchback (09/2002 - 07/2005),09/2002,07/2005,18256,DAEWOO Kalos,DAEWOO Kalos (T200) Hatchback 1.4 i 83cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-164,Kalos,mo-5461,(T200) Hatchback (09/2002 - 07/2005),09/2002,07/2005,18255,DAEWOO Kalos,DAEWOO Kalos (T200) Hatchback 1.4 i 83cv,Gasolina
+ma-55,DAEWOO,fa-164,Kalos,mo-5461,(T200) Hatchback (09/2002 - 07/2005),09/2002,07/2005,12015,DAEWOO Kalos,DAEWOO Kalos (T200) Hatchback 1.4 i 16V 93cv,Gasolina
+ma-55,DAEWOO,fa-164,Kalos,mo-5461,(T200) Hatchback (09/2002 - 07/2005),09/2002,07/2005,18254,DAEWOO Kalos,DAEWOO Kalos (T200) Hatchback 1.2 i 72cv,Gasolina
+ma-55,DAEWOO,fa-164,Kalos,mo-5461,(T200) Hatchback (09/2002 - 07/2005),09/2002,07/2005,2165,DAEWOO Kalos,DAEWOO Kalos (T200) Hatchback 1.4 i 16V 93cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-164,Kalos,mo-5461,(T200) Hatchback (09/2002 - 07/2005),09/2002,07/2005,2166,DAEWOO Kalos,DAEWOO Kalos (T200) Hatchback 1.4 i GPL 93cv,GPL
+ma-55,DAEWOO,fa-164,Kalos,mo-5460,(T200) Berlina (09/2002 - 07/2005),09/2002,07/2005,37372,DAEWOO Kalos,DAEWOO Kalos (T200) Berlina 1.4 i Berlina 16V 93 cv,Gasolina
+ma-55,DAEWOO,fa-164,Kalos,mo-5460,(T200) Berlina (09/2002 - 07/2005),09/2002,07/2005,37749,DAEWOO Kalos,DAEWOO Kalos (T200) Berlina 1.4 i 83 cv,Gasolina
+ma-55,DAEWOO,fa-164,Kalos,mo-5460,(T200) Berlina (09/2002 - 07/2005),09/2002,07/2005,37371,DAEWOO Kalos,DAEWOO Kalos (T200) Berlina 1.4 i Berlina 16V 93 cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-164,Kalos,mo-5460,(T200) Berlina (09/2002 - 07/2005),09/2002,07/2005,37748,DAEWOO Kalos,DAEWOO Kalos (T200) Berlina 1.4 i 83 cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-170,Matiz,mo-1335,Fase 2 (M100) (10/2000 - 01/2005),10/2000,01/2005,3175,DAEWOO Matiz,DAEWOO Matiz Fase 2 (M100) 0.8 i 50cv,Gasolina
+ma-55,DAEWOO,fa-170,Matiz,mo-1335,Fase 2 (M100) (10/2000 - 01/2005),10/2000,01/2005,12089,DAEWOO Matiz,DAEWOO Matiz Fase 2 (M100) 1.0 i 64cv,Gasolina
+ma-55,DAEWOO,fa-170,Matiz,mo-1333,(M100) (03/1998 - 09/2000),03/1998,09/2000,3176,DAEWOO Matiz,DAEWOO Matiz (M100) 0.8 i 50cv,Gasolina
+ma-55,DAEWOO,fa-170,Matiz,mo-1333,(M100) (03/1998 - 09/2000),03/1998,09/2000,18263,DAEWOO Matiz,DAEWOO Matiz (M100) 0.8 i 50cv Sensonic Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-167,Lanos,mo-5154,(T100) 5p (09/1997 - 07/2005),09/1997,07/2005,59444,DAEWOO Lanos,DAEWOO Lanos (T100) 5p 1.5 i 16V 99 cv,Gasolina
+ma-55,DAEWOO,fa-167,Lanos,mo-5154,(T100) 5p (09/1997 - 07/2005),09/1997,07/2005,18262,DAEWOO Lanos,DAEWOO Lanos (T100) 5p 1.6 i 16V 106cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-167,Lanos,mo-5154,(T100) 5p (09/1997 - 07/2005),09/1997,07/2005,12019,DAEWOO Lanos,DAEWOO Lanos (T100) 5p 1.5 i 86cv,Gasolina
+ma-55,DAEWOO,fa-167,Lanos,mo-5154,(T100) 5p (09/1997 - 07/2005),09/1997,07/2005,2171,DAEWOO Lanos,DAEWOO Lanos (T100) 5p 1.5 i 86cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-167,Lanos,mo-5154,(T100) 5p (09/1997 - 07/2005),09/1997,07/2005,2170,DAEWOO Lanos,DAEWOO Lanos (T100) 5p 1.3 i 75cv,Gasolina
+ma-55,DAEWOO,fa-167,Lanos,mo-5154,(T100) 5p (09/1997 - 07/2005),09/1997,07/2005,18261,DAEWOO Lanos,DAEWOO Lanos (T100) 5p 1.6 i 16V 106cv,Gasolina
+ma-55,DAEWOO,fa-167,Lanos,mo-5153,(T100) 3p (09/1997 - 07/2005),09/1997,07/2005,35747,DAEWOO Lanos,DAEWOO Lanos (T100) 3p 1.3 i 75 cv,Gasolina
+ma-55,DAEWOO,fa-167,Lanos,mo-5153,(T100) 3p (09/1997 - 07/2005),09/1997,07/2005,35750,DAEWOO Lanos,DAEWOO Lanos (T100) 3p 1.6 i 16V 106 cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-167,Lanos,mo-5153,(T100) 3p (09/1997 - 07/2005),09/1997,07/2005,35751,DAEWOO Lanos,DAEWOO Lanos (T100) 3p 1.6 i 16V 106 cv,Gasolina
+ma-55,DAEWOO,fa-167,Lanos,mo-5153,(T100) 3p (09/1997 - 07/2005),09/1997,07/2005,35748,DAEWOO Lanos,DAEWOO Lanos (T100) 3p 1.5 i 86 cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-167,Lanos,mo-5153,(T100) 3p (09/1997 - 07/2005),09/1997,07/2005,35749,DAEWOO Lanos,DAEWOO Lanos (T100) 3p 1.5 i 86 cv,Gasolina
+ma-55,DAEWOO,fa-167,Lanos,mo-5155,(T100) Berlina 4p (09/1997 - 07/2005),09/1997,07/2005,2173,DAEWOO Lanos,DAEWOO Lanos (T100) Berlina 4p 1.6 i 16V Berlina 106cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-167,Lanos,mo-5155,(T100) Berlina 4p (09/1997 - 07/2005),09/1997,07/2005,3171,DAEWOO Lanos,DAEWOO Lanos (T100) Berlina 4p 1.3 i Berlina 75cv,Gasolina
+ma-55,DAEWOO,fa-167,Lanos,mo-5155,(T100) Berlina 4p (09/1997 - 07/2005),09/1997,07/2005,12021,DAEWOO Lanos,DAEWOO Lanos (T100) Berlina 4p 1.6 i 16V Berlina 106cv,Gasolina
+ma-55,DAEWOO,fa-167,Lanos,mo-5155,(T100) Berlina 4p (09/1997 - 07/2005),09/1997,07/2005,2172,DAEWOO Lanos,DAEWOO Lanos (T100) Berlina 4p 1.5 i Berlina 86cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-167,Lanos,mo-5155,(T100) Berlina 4p (09/1997 - 07/2005),09/1997,07/2005,58364,DAEWOO Lanos,DAEWOO Lanos (T100) Berlina 4p 1.5 i 16V 99 cv,Gasolina
+ma-55,DAEWOO,fa-167,Lanos,mo-5155,(T100) Berlina 4p (09/1997 - 07/2005),09/1997,07/2005,12020,DAEWOO Lanos,DAEWOO Lanos (T100) Berlina 4p 1.5 i Berlina 86cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1486,(J150) II Berlina (06/1999 - 06/2003),06/1999,06/2003,2314,DAEWOO Nubira,DAEWOO Nubira (J150) II Berlina 2.0 i 110cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1486,(J150) II Berlina (06/1999 - 06/2003),06/1999,06/2003,18267,DAEWOO Nubira,DAEWOO Nubira (J150) II Berlina 2.0 i 110cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1486,(J150) II Berlina (06/1999 - 06/2003),06/1999,06/2003,3318,DAEWOO Nubira,DAEWOO Nubira (J150) II Berlina 2.0 i 16V 133cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1486,(J150) II Berlina (06/1999 - 06/2003),06/1999,06/2003,3316,DAEWOO Nubira,DAEWOO Nubira (J150) II Berlina 1.6 i 16V 105cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1486,(J150) II Berlina (06/1999 - 06/2003),06/1999,06/2003,2313,DAEWOO Nubira,DAEWOO Nubira (J150) II Berlina 1.6 i 16V 90cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1486,(J150) II Berlina (06/1999 - 06/2003),06/1999,06/2003,12095,DAEWOO Nubira,DAEWOO Nubira (J150) II Berlina 1.6 i 16V 105cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1486,(J150) II Berlina (06/1999 - 06/2003),06/1999,06/2003,3317,DAEWOO Nubira,DAEWOO Nubira (J150) II Berlina 2.0 i 16V 127cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1486,(J150) II Berlina (06/1999 - 06/2003),06/1999,06/2003,12097,DAEWOO Nubira,DAEWOO Nubira (J150) II Berlina 2.0 i 16V 133cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1486,(J150) II Berlina (06/1999 - 06/2003),06/1999,06/2003,12096,DAEWOO Nubira,DAEWOO Nubira (J150) II Berlina 2.0 i 16V 127cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1489,III (J200) Berlina (07/2003 - 07/2005),07/2003,07/2005,27819,DAEWOO Nubira,DAEWOO Nubira III (J200) Berlina 1.6 i 105 cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1489,III (J200) Berlina (07/2003 - 07/2005),07/2003,07/2005,18270,DAEWOO Nubira,DAEWOO Nubira III (J200) Berlina 1.8 i GPL 122cv,GPL
+ma-55,DAEWOO,fa-173,Nubira,mo-1489,III (J200) Berlina (07/2003 - 07/2005),07/2003,07/2005,3324,DAEWOO Nubira,DAEWOO Nubira III (J200) Berlina 1.8 i 122cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1489,III (J200) Berlina (07/2003 - 07/2005),07/2003,07/2005,12102,DAEWOO Nubira,DAEWOO Nubira III (J200) Berlina 1.8 i 122cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1489,III (J200) Berlina (07/2003 - 07/2005),07/2003,07/2005,18269,DAEWOO Nubira,DAEWOO Nubira III (J200) Berlina 1.6 i 109cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1489,III (J200) Berlina (07/2003 - 07/2005),07/2003,07/2005,3323,DAEWOO Nubira,DAEWOO Nubira III (J200) Berlina 1.6 i GPL 109cv,GPL
+ma-55,DAEWOO,fa-173,Nubira,mo-1483,(J100) (09/1997 - 05/1999),09/1997,05/1999,2321,DAEWOO Nubira,DAEWOO Nubira (J100) 2.0 i 16V 133cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1483,(J100) (09/1997 - 05/1999),09/1997,05/1999,12107,DAEWOO Nubira,DAEWOO Nubira (J100) 2.0 i 16V 133cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1483,(J100) (09/1997 - 05/1999),09/1997,05/1999,12106,DAEWOO Nubira,DAEWOO Nubira (J100) 2.0 i 16V 110cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1483,(J100) (09/1997 - 05/1999),09/1997,05/1999,3327,DAEWOO Nubira,DAEWOO Nubira (J100) 1.6 i 16V 105cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1483,(J100) (09/1997 - 05/1999),09/1997,05/1999,3328,DAEWOO Nubira,DAEWOO Nubira (J100) 1.6 i 16V 105cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1481,(J100) Berlina (09/1997 - 05/1999),09/1997,05/1999,12104,DAEWOO Nubira,DAEWOO Nubira (J100) Berlina 2.0 i 16V 110cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1481,(J100) Berlina (09/1997 - 05/1999),09/1997,05/1999,18272,DAEWOO Nubira,DAEWOO Nubira (J100) Berlina 1.6 i 16V 105cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1481,(J100) Berlina (09/1997 - 05/1999),09/1997,05/1999,12105,DAEWOO Nubira,DAEWOO Nubira (J100) Berlina 2.0 i 16V 133cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1481,(J100) Berlina (09/1997 - 05/1999),09/1997,05/1999,12103,DAEWOO Nubira,DAEWOO Nubira (J100) Berlina 1.6 i 16V 105cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1481,(J100) Berlina (09/1997 - 05/1999),09/1997,05/1999,18273,DAEWOO Nubira,DAEWOO Nubira (J100) Berlina 2.0 i 16V 133cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1488,(J150) II (06/1999 - 06/2003),06/1999,06/2003,12101,DAEWOO Nubira,DAEWOO Nubira (J150) II 2.0 i 16V 110cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1488,(J150) II (06/1999 - 06/2003),06/1999,06/2003,3320,DAEWOO Nubira,DAEWOO Nubira (J150) II 1.6 i 16V 105cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1488,(J150) II (06/1999 - 06/2003),06/1999,06/2003,12100,DAEWOO Nubira,DAEWOO Nubira (J150) II 1.6 i 16V 105cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1488,(J150) II (06/1999 - 06/2003),06/1999,06/2003,2318,DAEWOO Nubira,DAEWOO Nubira (J150) II 2.0 i 110cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1488,(J150) II (06/1999 - 06/2003),06/1999,06/2003,3321,DAEWOO Nubira,DAEWOO Nubira (J150) II 2.0 i 16V 133cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1488,(J150) II (06/1999 - 06/2003),06/1999,06/2003,3322,DAEWOO Nubira,DAEWOO Nubira (J150) II 2.0 i 16V 133cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1488,(J150) II (06/1999 - 06/2003),06/1999,06/2003,34312,DAEWOO Nubira,DAEWOO Nubira (J150) II 1.6 i 16V 90 cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1490,III (J200) Familiar (10/2004 - 07/2005),10/2004,07/2005,27820,DAEWOO Nubira,DAEWOO Nubira III (J200) Familiar 1.6 i 105 cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1490,III (J200) Familiar (10/2004 - 07/2005),10/2004,07/2005,2319,DAEWOO Nubira,DAEWOO Nubira III (J200) Familiar 1.8 i 122cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1490,III (J200) Familiar (10/2004 - 07/2005),10/2004,07/2005,18271,DAEWOO Nubira,DAEWOO Nubira III (J200) Familiar 1.6 i 109cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1490,III (J200) Familiar (10/2004 - 07/2005),10/2004,07/2005,3325,DAEWOO Nubira,DAEWOO Nubira III (J200) Familiar 1.6 i GPL 109cv,GPL
+ma-55,DAEWOO,fa-173,Nubira,mo-1490,III (J200) Familiar (10/2004 - 07/2005),10/2004,07/2005,2320,DAEWOO Nubira,DAEWOO Nubira III (J200) Familiar 1.8 i GPL 122cv,GPL
+ma-55,DAEWOO,fa-173,Nubira,mo-1490,III (J200) Familiar (10/2004 - 07/2005),10/2004,07/2005,3326,DAEWOO Nubira,DAEWOO Nubira III (J200) Familiar 1.8 i 122cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1487,(J150) II Familiar (06/1999 - 09/2004),06/1999,09/2004,2317,DAEWOO Nubira,DAEWOO Nubira (J150) II Familiar 2.0 i 16V 133cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1487,(J150) II Familiar (06/1999 - 09/2004),06/1999,09/2004,18268,DAEWOO Nubira,DAEWOO Nubira (J150) II Familiar 1.6 i 16V 90cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1487,(J150) II Familiar (06/1999 - 09/2004),06/1999,09/2004,12098,DAEWOO Nubira,DAEWOO Nubira (J150) II Familiar 2.0 i 16V 127cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1487,(J150) II Familiar (06/1999 - 09/2004),06/1999,09/2004,3319,DAEWOO Nubira,DAEWOO Nubira (J150) II Familiar 1.6 i 16V 105cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1487,(J150) II Familiar (06/1999 - 09/2004),06/1999,09/2004,12099,DAEWOO Nubira,DAEWOO Nubira (J150) II Familiar 2.0 i 16V 133cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1487,(J150) II Familiar (06/1999 - 09/2004),06/1999,09/2004,2315,DAEWOO Nubira,DAEWOO Nubira (J150) II Familiar 1.6 i 16V 105cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1487,(J150) II Familiar (06/1999 - 09/2004),06/1999,09/2004,2316,DAEWOO Nubira,DAEWOO Nubira (J150) II Familiar 2.0 i 16V 127cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1482,(J100) Familiar (09/1997 - 05/1999),09/1997,05/1999,2322,DAEWOO Nubira,DAEWOO Nubira (J100) Familiar 2.0 i 16V 110cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1482,(J100) Familiar (09/1997 - 05/1999),09/1997,05/1999,18275,DAEWOO Nubira,DAEWOO Nubira (J100) Familiar 1.6 i 16V 105cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1482,(J100) Familiar (09/1997 - 05/1999),09/1997,05/1999,18277,DAEWOO Nubira,DAEWOO Nubira (J100) Familiar 2.0 i 16V 133cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1482,(J100) Familiar (09/1997 - 05/1999),09/1997,05/1999,18276,DAEWOO Nubira,DAEWOO Nubira (J100) Familiar 2.0 i 16V 133cv,Gasolina
+ma-55,DAEWOO,fa-173,Nubira,mo-1482,(J100) Familiar (09/1997 - 05/1999),09/1997,05/1999,18274,DAEWOO Nubira,DAEWOO Nubira (J100) Familiar 1.6 i 16V 105cv,Gasolina
+ma-55,DAEWOO,fa-166,Lacetti,mo-1190, (10/2003 - 12/2004),10/2003,12/2004,48748,DAEWOO Lacetti,DAEWOO Lacetti 1.8 i GPL 16V 122 cv Transmisión automática,Flex Fuel
+ma-55,DAEWOO,fa-166,Lacetti,mo-1190, (10/2003 - 12/2004),10/2003,12/2004,3167,DAEWOO Lacetti,DAEWOO Lacetti 1.4 i 92cv,Gasolina
+ma-55,DAEWOO,fa-166,Lacetti,mo-1190, (10/2003 - 12/2004),10/2003,12/2004,18259,DAEWOO Lacetti,DAEWOO Lacetti 1.6 i 109cv,Gasolina
+ma-55,DAEWOO,fa-166,Lacetti,mo-1190, (10/2003 - 12/2004),10/2003,12/2004,31800,DAEWOO Lacetti,DAEWOO Lacetti 1.4 i 16V GPL 93 cv,GPL
+ma-55,DAEWOO,fa-166,Lacetti,mo-1190, (10/2003 - 12/2004),10/2003,12/2004,12018,DAEWOO Lacetti,DAEWOO Lacetti 1.6 i GPL 109cv,GPL
+ma-55,DAEWOO,fa-166,Lacetti,mo-1190, (10/2003 - 12/2004),10/2003,12/2004,3170,DAEWOO Lacetti,DAEWOO Lacetti 1.8 i 112cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-166,Lacetti,mo-1190, (10/2003 - 12/2004),10/2003,12/2004,18260,DAEWOO Lacetti,DAEWOO Lacetti 1.6 i 109cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-166,Lacetti,mo-1190, (10/2003 - 12/2004),10/2003,12/2004,2169,DAEWOO Lacetti,DAEWOO Lacetti 1.8 i GPL 122cv,GPL
+ma-55,DAEWOO,fa-166,Lacetti,mo-1190, (10/2003 - 12/2004),10/2003,12/2004,3169,DAEWOO Lacetti,DAEWOO Lacetti 1.8 i 112cv,Gasolina
+ma-55,DAEWOO,fa-166,Lacetti,mo-1190, (10/2003 - 12/2004),10/2003,12/2004,3168,DAEWOO Lacetti,DAEWOO Lacetti 1.4 i 92cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-166,Lacetti,mo-2369, (08/2003 - 12/2004),08/2003,12/2004,26989,DAEWOO Lacetti,DAEWOO Lacetti 1.8 CDX 91 cv,Diesel
+ma-55,DAEWOO,fa-166,Lacetti,mo-2369, (08/2003 - 12/2004),08/2003,12/2004,26990,DAEWOO Lacetti,DAEWOO Lacetti 1.8 CDX 122 cv,Gasolina
+ma-55,DAEWOO,fa-166,Lacetti,mo-2368, (06/1999 - 07/2003),06/1999,07/2003,26988,DAEWOO Lacetti,DAEWOO Lacetti 2.0 133 cv,Gasolina
+ma-55,DAEWOO,fa-166,Lacetti,mo-2368, (06/1999 - 07/2003),06/1999,07/2003,26987,DAEWOO Lacetti,DAEWOO Lacetti 2.0 110 cv,Gasolina
+ma-55,DAEWOO,fa-166,Lacetti,mo-2368, (06/1999 - 07/2003),06/1999,07/2003,26986,DAEWOO Lacetti,DAEWOO Lacetti 1.6 106 cv,Gasolina
+ma-55,DAEWOO,fa-166,Lacetti,mo-2367, (04/1997 - 05/1999),04/1997,05/1999,26981,DAEWOO Lacetti,DAEWOO Lacetti 1.8 SX 95 cv,Gasolina
+ma-55,DAEWOO,fa-166,Lacetti,mo-2367, (04/1997 - 05/1999),04/1997,05/1999,26982,DAEWOO Lacetti,DAEWOO Lacetti 2.0 133 cv,Gasolina
+ma-55,DAEWOO,fa-166,Lacetti,mo-2367, (04/1997 - 05/1999),04/1997,05/1999,26980,DAEWOO Lacetti,DAEWOO Lacetti 1.5 SE 110 cv,Gasolina
+ma-55,DAEWOO,fa-166,Lacetti,mo-2367, (04/1997 - 05/1999),04/1997,05/1999,26979,DAEWOO Lacetti,DAEWOO Lacetti 1.5 SX 86 cv,Gasolina
+ma-55,DAEWOO,fa-166,Lacetti,mo-2370,Familiar (04/1997 - 05/1999),04/1997,05/1999,26985,DAEWOO Lacetti,DAEWOO Lacetti Familiar 1.8 SX 95 cv,Gasolina
+ma-55,DAEWOO,fa-166,Lacetti,mo-2370,Familiar (04/1997 - 05/1999),04/1997,05/1999,26983,DAEWOO Lacetti,DAEWOO Lacetti Familiar 1.5 SX 86 cv,Gasolina
+ma-55,DAEWOO,fa-166,Lacetti,mo-2370,Familiar (04/1997 - 05/1999),04/1997,05/1999,26984,DAEWOO Lacetti,DAEWOO Lacetti Familiar 1.5 SE 110 cv,Gasolina
+ma-55,DAEWOO,fa-176,Tacuma,mo-2035,(U100) (06/2000 - 07/2005),06/2000,07/2005,18286,DAEWOO Tacuma,DAEWOO Tacuma (U100) 2.0 i 127cv,Gasolina
+ma-55,DAEWOO,fa-176,Tacuma,mo-2035,(U100) (06/2000 - 07/2005),06/2000,07/2005,12110,DAEWOO Tacuma,DAEWOO Tacuma (U100) 1.8 i 100cv,Gasolina
+ma-55,DAEWOO,fa-176,Tacuma,mo-2035,(U100) (06/2000 - 07/2005),06/2000,07/2005,18285,DAEWOO Tacuma,DAEWOO Tacuma (U100) 2.0 i 121cv,Gasolina
+ma-55,DAEWOO,fa-176,Tacuma,mo-2035,(U100) (06/2000 - 07/2005),06/2000,07/2005,12112,DAEWOO Tacuma,DAEWOO Tacuma (U100) 2.0 i 127cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-176,Tacuma,mo-2035,(U100) (06/2000 - 07/2005),06/2000,07/2005,12109,DAEWOO Tacuma,DAEWOO Tacuma (U100) 1.8 i 90cv,Gasolina
+ma-55,DAEWOO,fa-176,Tacuma,mo-2035,(U100) (06/2000 - 07/2005),06/2000,07/2005,3333,DAEWOO Tacuma,DAEWOO Tacuma (U100) 1.6 i 104cv,Gasolina
+ma-55,DAEWOO,fa-176,Tacuma,mo-2035,(U100) (06/2000 - 07/2005),06/2000,07/2005,12111,DAEWOO Tacuma,DAEWOO Tacuma (U100) 2.0 i 121cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-176,Tacuma,mo-2035,(U100) (06/2000 - 07/2005),06/2000,07/2005,18284,DAEWOO Tacuma,DAEWOO Tacuma (U100) 1.8 i 100cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-175,Rezzo,mo-1719,(U100) (04/2000 - 07/2005),04/2000,07/2005,2324,DAEWOO Rezzo,DAEWOO Rezzo (U100) 2.0 i 121cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-175,Rezzo,mo-1719,(U100) (04/2000 - 07/2005),04/2000,07/2005,18283,DAEWOO Rezzo,DAEWOO Rezzo (U100) 2.0 i 127cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-175,Rezzo,mo-1719,(U100) (04/2000 - 07/2005),04/2000,07/2005,18282,DAEWOO Rezzo,DAEWOO Rezzo (U100) 2.0 i 127cv,Gasolina
+ma-55,DAEWOO,fa-175,Rezzo,mo-1719,(U100) (04/2000 - 07/2005),04/2000,07/2005,27821,DAEWOO Rezzo,DAEWOO Rezzo (U100) 1.8 i Monospace 90 cv,Gasolina
+ma-55,DAEWOO,fa-175,Rezzo,mo-1719,(U100) (04/2000 - 07/2005),04/2000,07/2005,18281,DAEWOO Rezzo,DAEWOO Rezzo (U100) 1.8 i 100cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-175,Rezzo,mo-1719,(U100) (04/2000 - 07/2005),04/2000,07/2005,39537,DAEWOO Rezzo,DAEWOO Rezzo (U100) 1.6 i 16V 90 cv,Gasolina
+ma-55,DAEWOO,fa-175,Rezzo,mo-1719,(U100) (04/2000 - 07/2005),04/2000,07/2005,12108,DAEWOO Rezzo,DAEWOO Rezzo (U100) 2.0 i 121cv,Gasolina
+ma-55,DAEWOO,fa-175,Rezzo,mo-1719,(U100) (04/2000 - 07/2005),04/2000,07/2005,18280,DAEWOO Rezzo,DAEWOO Rezzo (U100) 1.8 i 100cv,Gasolina
+ma-55,DAEWOO,fa-175,Rezzo,mo-1719,(U100) (04/2000 - 07/2005),04/2000,07/2005,18279,DAEWOO Rezzo,DAEWOO Rezzo (U100) 1.8 i 90cv,Gasolina
+ma-55,DAEWOO,fa-175,Rezzo,mo-1719,(U100) (04/2000 - 07/2005),04/2000,07/2005,3331,DAEWOO Rezzo,DAEWOO Rezzo (U100) 1.6 i GPL 109cv,GPL
+ma-55,DAEWOO,fa-175,Rezzo,mo-1719,(U100) (04/2000 - 07/2005),04/2000,07/2005,3332,DAEWOO Rezzo,DAEWOO Rezzo (U100) 2.0 i GPL 121cv,GPL
+ma-55,DAEWOO,fa-175,Rezzo,mo-1719,(U100) (04/2000 - 07/2005),04/2000,07/2005,2323,DAEWOO Rezzo,DAEWOO Rezzo (U100) 1.6 i 104cv,Gasolina
+ma-55,DAEWOO,fa-168,Leganza,mo-1251,(V100) (09/1997 - 01/2003),09/1997,01/2003,3172,DAEWOO Leganza,DAEWOO Leganza (V100) 2.2 i 16V 136cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-168,Leganza,mo-1251,(V100) (09/1997 - 01/2003),09/1997,01/2003,2174,DAEWOO Leganza,DAEWOO Leganza (V100) 2.0 i 16V 127cv,Gasolina
+ma-55,DAEWOO,fa-168,Leganza,mo-1251,(V100) (09/1997 - 01/2003),09/1997,01/2003,12087,DAEWOO Leganza,DAEWOO Leganza (V100) 2.0 i 16V 133cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-168,Leganza,mo-1251,(V100) (09/1997 - 01/2003),09/1997,01/2003,2175,DAEWOO Leganza,DAEWOO Leganza (V100) 2.0 i 16V 133cv,Gasolina
+ma-55,DAEWOO,fa-168,Leganza,mo-1251,(V100) (09/1997 - 01/2003),09/1997,01/2003,12088,DAEWOO Leganza,DAEWOO Leganza (V100) 2.2 i 16V 136cv,Gasolina
+ma-55,DAEWOO,fa-168,Leganza,mo-1251,(V100) (09/1997 - 01/2003),09/1997,01/2003,12022,DAEWOO Leganza,DAEWOO Leganza (V100) 2.0 i 16V 127cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-163,Evanda,mo-920,(V200) (08/2002 - 05/2005),08/2002,05/2005,18253,DAEWOO Evanda,DAEWOO Evanda (V200) 2.0 i GPL 131cv,Gasolina
+ma-55,DAEWOO,fa-163,Evanda,mo-920,(V200) (08/2002 - 05/2005),08/2002,05/2005,2163,DAEWOO Evanda,DAEWOO Evanda (V200) 2.0 i 131cv,Gasolina
+ma-55,DAEWOO,fa-163,Evanda,mo-920,(V200) (08/2002 - 05/2005),08/2002,05/2005,2164,DAEWOO Evanda,DAEWOO Evanda (V200) 2.0 i GPL 131cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-163,Evanda,mo-920,(V200) (08/2002 - 05/2005),08/2002,05/2005,12014,DAEWOO Evanda,DAEWOO Evanda (V200) 2.0 i 131cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-172,Nexia,mo-1473, (03/1995 - 06/2008),03/1995,06/2008,43416,DAEWOO Nexia,DAEWOO Nexia 1.5 Berlina 75 cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-172,Nexia,mo-1473, (03/1995 - 06/2008),03/1995,06/2008,12094,DAEWOO Nexia,DAEWOO Nexia 1.8 101cv,Gasolina
+ma-55,DAEWOO,fa-172,Nexia,mo-1473, (03/1995 - 06/2008),03/1995,06/2008,69164,DAEWOO Nexia,DAEWOO Nexia 1.5 71 cv,Gasolina
+ma-55,DAEWOO,fa-172,Nexia,mo-1473, (03/1995 - 06/2008),03/1995,06/2008,2312,DAEWOO Nexia,DAEWOO Nexia 1.8 101cv,Gasolina
+ma-55,DAEWOO,fa-172,Nexia,mo-1473, (03/1995 - 06/2008),03/1995,06/2008,43417,DAEWOO Nexia,DAEWOO Nexia 1.5 75 cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-172,Nexia,mo-1473, (03/1995 - 06/2008),03/1995,06/2008,18265,DAEWOO Nexia,DAEWOO Nexia 1.5 16V Berlina 90cv,Gasolina
+ma-55,DAEWOO,fa-172,Nexia,mo-1473, (03/1995 - 06/2008),03/1995,06/2008,12093,DAEWOO Nexia,DAEWOO Nexia 1.5 16V 90cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-172,Nexia,mo-1473, (03/1995 - 06/2008),03/1995,06/2008,18266,DAEWOO Nexia,DAEWOO Nexia 1.5 16V Berlina 90cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-172,Nexia,mo-1473, (03/1995 - 06/2008),03/1995,06/2008,2310,DAEWOO Nexia,DAEWOO Nexia 1.5 16V 90cv,Gasolina
+ma-55,DAEWOO,fa-172,Nexia,mo-1473, (03/1995 - 06/2008),03/1995,06/2008,12092,DAEWOO Nexia,DAEWOO Nexia 1.5 75cv,Gasolina
+ma-55,DAEWOO,fa-172,Nexia,mo-1473, (03/1995 - 06/2008),03/1995,06/2008,69163,DAEWOO Nexia,DAEWOO Nexia 1.5 berlina 71 cv,Gasolina
+ma-55,DAEWOO,fa-172,Nexia,mo-1473, (03/1995 - 06/2008),03/1995,06/2008,2311,DAEWOO Nexia,DAEWOO Nexia 1.5 Berlina 75cv,Gasolina
+ma-55,DAEWOO,fa-162,Espero,mo-917, (09/1993 - 05/1999),09/1993,05/1999,2162,DAEWOO Espero,DAEWOO Espero 2.0 i 105cv,Gasolina
+ma-55,DAEWOO,fa-162,Espero,mo-917, (09/1993 - 05/1999),09/1993,05/1999,18251,DAEWOO Espero,DAEWOO Espero 1.8 i 95cv,Gasolina
+ma-55,DAEWOO,fa-162,Espero,mo-917, (09/1993 - 05/1999),09/1993,05/1999,12013,DAEWOO Espero,DAEWOO Espero 1.5 i 16V 90cv,Gasolina
+ma-55,DAEWOO,fa-162,Espero,mo-917, (09/1993 - 05/1999),09/1993,05/1999,18252,DAEWOO Espero,DAEWOO Espero 2.0 i 105cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-160,Aranos,mo-412, (02/1995 - 07/2005),02/1995,07/2005,2160,DAEWOO Aranos,DAEWOO Aranos 1.8 i 95cv,Gasolina
+ma-55,DAEWOO,fa-160,Aranos,mo-412, (02/1995 - 07/2005),02/1995,07/2005,3161,DAEWOO Aranos,DAEWOO Aranos 1.5 i 90cv,Gasolina
+ma-55,DAEWOO,fa-160,Aranos,mo-412, (02/1995 - 07/2005),02/1995,07/2005,2161,DAEWOO Aranos,DAEWOO Aranos 2.0 i 105cv,Gasolina
+ma-55,DAEWOO,fa-177,Tico,mo-2067, (08/1995 - 07/2005),08/1995,07/2005,49328,DAEWOO Tico,DAEWOO Tico 0.8 52 cv,Gasolina
+ma-55,DAEWOO,fa-177,Tico,mo-2067, (08/1995 - 07/2005),08/1995,07/2005,2325,DAEWOO Tico,DAEWOO Tico 0.8 41cv,Gasolina
+ma-55,DAEWOO,fa-177,Tico,mo-2371, (05/1989 - 03/1996),05/1989,03/1996,27073,DAEWOO Tico,DAEWOO Tico 0.5 S 30 cv,Gasolina
+ma-55,DAEWOO,fa-165,Korando,mo-1177,KJ (02/1999 - 07/2005),02/1999,07/2005,3165,DAEWOO Korando,DAEWOO Korando KJ 2.9 TD Familiar 120cv,Diesel
+ma-55,DAEWOO,fa-165,Korando,mo-1177,KJ (02/1999 - 07/2005),02/1999,07/2005,3163,DAEWOO Korando,DAEWOO Korando KJ 2.3 i Familiar 140cv,Gasolina
+ma-55,DAEWOO,fa-165,Korando,mo-1177,KJ (02/1999 - 07/2005),02/1999,07/2005,12017,DAEWOO Korando,DAEWOO Korando KJ 3.2 i Familiar 211cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-165,Korando,mo-1177,KJ (02/1999 - 07/2005),02/1999,07/2005,18257,DAEWOO Korando,DAEWOO Korando KJ 2.0 i 16V Familiar 128cv,Gasolina
+ma-55,DAEWOO,fa-165,Korando,mo-1177,KJ (02/1999 - 07/2005),02/1999,07/2005,3166,DAEWOO Korando,DAEWOO Korando KJ 2.9 TD Familiar 120cv Transmisión automática,Diesel
+ma-55,DAEWOO,fa-165,Korando,mo-1177,KJ (02/1999 - 07/2005),02/1999,07/2005,2167,DAEWOO Korando,DAEWOO Korando KJ 2.9 D Familiar 98cv,Diesel
+ma-55,DAEWOO,fa-165,Korando,mo-1177,KJ (02/1999 - 07/2005),02/1999,07/2005,18258,DAEWOO Korando,DAEWOO Korando KJ 2.9 D Familiar entoldado 98cv Transmisión automática,Diesel
+ma-55,DAEWOO,fa-165,Korando,mo-1177,KJ (02/1999 - 07/2005),02/1999,07/2005,3162,DAEWOO Korando,DAEWOO Korando KJ 2.3 i Familiar entoldado 140cv,Gasolina
+ma-55,DAEWOO,fa-165,Korando,mo-1177,KJ (02/1999 - 07/2005),02/1999,07/2005,3164,DAEWOO Korando,DAEWOO Korando KJ 2.3 i Familiar 140cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-165,Korando,mo-1177,KJ (02/1999 - 07/2005),02/1999,07/2005,2168,DAEWOO Korando,DAEWOO Korando KJ 2.9 TD Familiar entoldado 120cv Transmisión automática,Diesel
+ma-55,DAEWOO,fa-171,Musso,mo-1452, (01/1999 - 07/2005),01/1999,07/2005,3315,DAEWOO Musso,DAEWOO Musso 2.9 TD Familiar 120cv Transmisión automática,Diesel
+ma-55,DAEWOO,fa-171,Musso,mo-1452, (01/1999 - 07/2005),01/1999,07/2005,2308,DAEWOO Musso,DAEWOO Musso 2.3 i Familiar 140cv,Gasolina
+ma-55,DAEWOO,fa-171,Musso,mo-1452, (01/1999 - 07/2005),01/1999,07/2005,2309,DAEWOO Musso,DAEWOO Musso 3.2 i Familiar 220cv,Gasolina
+ma-55,DAEWOO,fa-171,Musso,mo-1452, (01/1999 - 07/2005),01/1999,07/2005,3314,DAEWOO Musso,DAEWOO Musso 2.9 D Familiar 98cv Transmisión automática,Diesel
+ma-55,DAEWOO,fa-171,Musso,mo-1452, (01/1999 - 07/2005),01/1999,07/2005,3177,DAEWOO Musso,DAEWOO Musso 2.3 TD Familiar 100cv,Diesel
+ma-55,DAEWOO,fa-171,Musso,mo-1452, (01/1999 - 07/2005),01/1999,07/2005,3178,DAEWOO Musso,DAEWOO Musso 2.9 D Familiar 98cv,Diesel
+ma-55,DAEWOO,fa-171,Musso,mo-1452, (01/1999 - 07/2005),01/1999,07/2005,12091,DAEWOO Musso,DAEWOO Musso 2.9 TD Familiar 120cv,Diesel
+ma-55,DAEWOO,fa-171,Musso,mo-1452, (01/1999 - 07/2005),01/1999,07/2005,12090,DAEWOO Musso,DAEWOO Musso 2.3 i Familiar 140cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-171,Musso,mo-1452, (01/1999 - 07/2005),01/1999,07/2005,18264,DAEWOO Musso,DAEWOO Musso 3.2 i Familiar 220cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-174,Rexton,mo-1716, (06/2002 - 07/2005),06/2002,07/2005,3330,DAEWOO Rexton,DAEWOO Rexton 2.9 TD 120cv Transmisión automática,Diesel
+ma-55,DAEWOO,fa-174,Rexton,mo-1716, (06/2002 - 07/2005),06/2002,07/2005,18278,DAEWOO Rexton,DAEWOO Rexton 3.2 i 220cv Transmisión automática,Gasolina
+ma-55,DAEWOO,fa-174,Rexton,mo-1716, (06/2002 - 07/2005),06/2002,07/2005,3329,DAEWOO Rexton,DAEWOO Rexton 2.9 TD 120cv,Diesel
+ma-55,DAEWOO,fa-1026,GENTRA,mo-2670, (05/2005 - Hoy),05/2005,,26965,DAEWOO GENTRA,DAEWOO GENTRA 1.4 94 cv,Gasolina
+ma-55,DAEWOO,fa-1031,PRINCE,mo-2675, (08/1990 - 08/1999),08/1990,08/1999,26735,DAEWOO PRINCE,DAEWOO PRINCE 3.0 177 cv,Gasolina
+ma-55,DAEWOO,fa-1033,SUPER SALOON,mo-2677, (04/1989 - 08/1995),04/1989,08/1995,27063,DAEWOO SUPER SALOON,DAEWOO SUPER SALOON 1.8 DX 101 cv,Gasolina

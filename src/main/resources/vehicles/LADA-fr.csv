@@ -1,0 +1,147 @@
+brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
+ma-119,LADA,fa-399,Niva 4x4,mo-5356,Niva (01/1993 - 01/2006),01/1993,01/2006,6375,LADA Niva 4x4,LADA Niva 4x4 Niva 1.9 D 4x4 75 cv,Diesel
+ma-119,LADA,fa-399,Niva 4x4,mo-5356,Niva (01/1993 - 01/2006),01/1993,01/2006,15221,LADA Niva 4x4,LADA Niva 4x4 Niva 1.9 D 4x4 64 cv,Diesel
+ma-119,LADA,fa-399,Niva 4x4,mo-5356,Niva (01/1993 - 01/2006),01/1993,01/2006,37072,LADA Niva 4x4,LADA Niva 4x4 Niva 1.7 i 4x4 83 cv,Essence
+ma-119,LADA,fa-399,Niva 4x4,mo-5356,Niva (01/1993 - 01/2006),01/1993,01/2006,4510,LADA Niva 4x4,LADA Niva 4x4 Niva 1.9 D 4x4 64 cv,Diesel
+ma-119,LADA,fa-399,Niva 4x4,mo-5356,Niva (01/1993 - 01/2006),01/1993,01/2006,37073,LADA Niva 4x4,LADA Niva 4x4 Niva 1.7 i 4x4 79 cv,Essence
+ma-119,LADA,fa-399,Niva 4x4,mo-5356,Niva (01/1993 - 01/2006),01/1993,01/2006,4509,LADA Niva 4x4,LADA Niva 4x4 Niva 1.7 4x4 80 cv,Essence
+ma-119,LADA,fa-399,Niva 4x4,mo-1474,Niva (03/1976 - 03/1999),03/1976,03/1999,20593,LADA Niva 4x4,LADA Niva 4x4 Niva 1.6 4x4 76 cv,Essence
+ma-119,LADA,fa-399,Niva 4x4,mo-1474,Niva (03/1976 - 03/1999),03/1976,03/1999,6374,LADA Niva 4x4,LADA Niva 4x4 Niva 1.7 i 4x4 82 cv,Essence
+ma-119,LADA,fa-399,Niva 4x4,mo-1474,Niva (03/1976 - 03/1999),03/1976,03/1999,69244,LADA Niva 4x4,LADA Niva 4x4 Niva 1900 D Break 4x4 65 cv,Diesel
+ma-119,LADA,fa-399,Niva 4x4,mo-1474,Niva (03/1976 - 03/1999),03/1976,03/1999,15220,LADA Niva 4x4,LADA Niva 4x4 Niva 1.6 4x4 73 cv,Essence
+ma-119,LADA,fa-399,Niva 4x4,mo-5357,Niva (01/2006 - 12/2019),01/2006,12/2019,37071,LADA Niva 4x4,LADA Niva 4x4 Niva 1.7 i 4x4 83 cv,Essence
+ma-119,LADA,fa-399,Niva 4x4,mo-5357,Niva (01/2006 - 12/2019),01/2006,12/2019,69245,LADA Niva 4x4,LADA Niva 4x4 Niva Urban 1700 i 4x4 83 cv,Essence
+ma-119,LADA,fa-399,Niva 4x4,mo-2460,Niva II (2123) (09/2002 - Aujourd'hui),09/2002,,68083,LADA Niva 4x4,LADA Niva 4x4 Niva II (2123) 1.7 83 cv,Essence
+ma-119,LADA,fa-399,Niva 4x4,mo-2460,Niva II (2123) (09/2002 - Aujourd'hui),09/2002,,26656,LADA Niva 4x4,LADA Niva 4x4 Niva II (2123) 1.7 80 cv,Essence
+ma-119,LADA,fa-399,Niva 4x4,mo-7645,Niva II (GM-AvtoVAZ) (08/1998 - Aujourd'hui),08/1998,,69246,LADA Niva 4x4,LADA Niva 4x4 Niva II (GM-AvtoVAZ) 1.7 i-LPG 4x4 78 cv,GPL
+ma-119,LADA,fa-1792,Kalina,mo-5349,1119 Hatchback (10/2004 - Aujourd'hui),10/2004,,69235,LADA Kalina,LADA Kalina 1119 Hatchback 1.6 i 16V 98 cv,Essence
+ma-119,LADA,fa-1792,Kalina,mo-5349,1119 Hatchback (10/2004 - Aujourd'hui),10/2004,,29612,LADA Kalina,LADA Kalina 1119 Hatchback 1.4 i 90 cv,Essence
+ma-119,LADA,fa-1792,Kalina,mo-5349,1119 Hatchback (10/2004 - Aujourd'hui),10/2004,,69234,LADA Kalina,LADA Kalina 1119 Hatchback 1.4 i LPG 16V 90 cv,GPL
+ma-119,LADA,fa-1792,Kalina,mo-5349,1119 Hatchback (10/2004 - Aujourd'hui),10/2004,,69236,LADA Kalina,LADA Kalina 1119 Hatchback 1.6 i 90 cv,Essence
+ma-119,LADA,fa-1792,Kalina,mo-5349,1119 Hatchback (10/2004 - Aujourd'hui),10/2004,,28217,LADA Kalina,LADA Kalina 1119 Hatchback 1.6 i 82 cv,Essence
+ma-119,LADA,fa-1792,Kalina,mo-5347,1117 Break (10/2004 - Aujourd'hui),10/2004,,69228,LADA Kalina,LADA Kalina 1117 Break 1.6 i 84 cv,Essence
+ma-119,LADA,fa-1792,Kalina,mo-5347,1117 Break (10/2004 - Aujourd'hui),10/2004,,38272,LADA Kalina,LADA Kalina 1117 Break 1.4 i 16V LPG 90 cv,GPL
+ma-119,LADA,fa-1792,Kalina,mo-5347,1117 Break (10/2004 - Aujourd'hui),10/2004,,30734,LADA Kalina,LADA Kalina 1117 Break 1.6 i 82 cv,Essence
+ma-119,LADA,fa-1792,Kalina,mo-5347,1117 Break (10/2004 - Aujourd'hui),10/2004,,69229,LADA Kalina,LADA Kalina 1117 Break 1.6 i 87 cv,Essence
+ma-119,LADA,fa-1792,Kalina,mo-5347,1117 Break (10/2004 - Aujourd'hui),10/2004,,69227,LADA Kalina,LADA Kalina 1117 Break 1.6 i 16V 98 cv,Essence
+ma-119,LADA,fa-1792,Kalina,mo-5347,1117 Break (10/2004 - Aujourd'hui),10/2004,,29613,LADA Kalina,LADA Kalina 1117 Break 1.4 i 16V 90 cv,Essence
+ma-119,LADA,fa-1792,Kalina,mo-5348,1118 Berline (10/2004 - Aujourd'hui),10/2004,,69232,LADA Kalina,LADA Kalina 1118 Berline 1.6 i 16V 98 cv,Essence
+ma-119,LADA,fa-1792,Kalina,mo-5348,1118 Berline (10/2004 - Aujourd'hui),10/2004,,69233,LADA Kalina,LADA Kalina 1118 Berline 1.6 i 90 cv,Essence
+ma-119,LADA,fa-1792,Kalina,mo-5348,1118 Berline (10/2004 - Aujourd'hui),10/2004,,69230,LADA Kalina,LADA Kalina 1118 Berline 1.4 i 16V 90 cv,Essence
+ma-119,LADA,fa-1792,Kalina,mo-5348,1118 Berline (10/2004 - Aujourd'hui),10/2004,,69231,LADA Kalina,LADA Kalina 1118 Berline 1.4 i LPG 16V 90 cv,GPL
+ma-119,LADA,fa-1792,Kalina,mo-5348,1118 Berline (10/2004 - Aujourd'hui),10/2004,,26654,LADA Kalina,LADA Kalina 1118 Berline 1.6 i 82 cv,Essence
+ma-119,LADA,fa-402,Samara,mo-1783,I (07/1986 - 12/1999),07/1986,12/1999,6381,LADA Samara,LADA Samara I 1500 71cv,Essence
+ma-119,LADA,fa-402,Samara,mo-1783,I (07/1986 - 12/1999),07/1986,12/1999,6379,LADA Samara,LADA Samara I 1300 61cv,Essence
+ma-119,LADA,fa-402,Samara,mo-1783,I (07/1986 - 12/1999),07/1986,12/1999,4514,LADA Samara,LADA Samara I 1100 53cv,Essence
+ma-119,LADA,fa-402,Samara,mo-1783,I (07/1986 - 12/1999),07/1986,12/1999,6378,LADA Samara,LADA Samara I 1300 Utilitaire 65cv,Essence
+ma-119,LADA,fa-402,Samara,mo-1783,I (07/1986 - 12/1999),07/1986,12/1999,6380,LADA Samara,LADA Samara I 1500 68cv,Essence
+ma-119,LADA,fa-402,Samara,mo-1783,I (07/1986 - 12/1999),07/1986,12/1999,4515,LADA Samara,LADA Samara I 1300 65cv,Essence
+ma-119,LADA,fa-402,Samara,mo-1783,I (07/1986 - 12/1999),07/1986,12/1999,6382,LADA Samara,LADA Samara I 1500 i 70cv,Essence
+ma-119,LADA,fa-402,Samara,mo-3720,II Sedan (05/1997 - 12/2012),05/1997,12/2012,69260,LADA Samara,LADA Samara II Sedan 1.6 i 82 cv,Essence
+ma-119,LADA,fa-402,Samara,mo-3720,II Sedan (05/1997 - 12/2012),05/1997,12/2012,69258,LADA Samara,LADA Samara II Sedan 1.5 76 cv,Essence
+ma-119,LADA,fa-402,Samara,mo-3720,II Sedan (05/1997 - 12/2012),05/1997,12/2012,69259,LADA Samara,LADA Samara II Sedan 1.5 i 80 cv,Essence
+ma-119,LADA,fa-402,Samara,mo-3720,II Sedan (05/1997 - 12/2012),05/1997,12/2012,69254,LADA Samara,LADA Samara II Sedan 1.1 53 cv,Essence
+ma-119,LADA,fa-402,Samara,mo-3720,II Sedan (05/1997 - 12/2012),05/1997,12/2012,69255,LADA Samara,LADA Samara II Sedan 1.3 65 cv,Essence
+ma-119,LADA,fa-402,Samara,mo-3720,II Sedan (05/1997 - 12/2012),05/1997,12/2012,69256,LADA Samara,LADA Samara II Sedan 1.3 68 cv,Essence
+ma-119,LADA,fa-402,Samara,mo-3719,II HB 5 portes (10/2001 - 12/2013),10/2001,12/2013,69252,LADA Samara,LADA Samara II HB 5 portes 1.5 i 77 cv,Essence
+ma-119,LADA,fa-402,Samara,mo-3719,II HB 5 portes (10/2001 - 12/2013),10/2001,12/2013,69253,LADA Samara,LADA Samara II HB 5 portes 1.6 i 82 cv,Essence
+ma-119,LADA,fa-402,Samara,mo-3718,II HB 3 portes (09/2004 - 12/2013),09/2004,12/2013,69250,LADA Samara,LADA Samara II HB 3 portes 1.5 i 77 cv,Essence
+ma-119,LADA,fa-402,Samara,mo-3718,II HB 3 portes (09/2004 - 12/2013),09/2004,12/2013,69251,LADA Samara,LADA Samara II HB 3 portes 1.6 i 82 cv,Essence
+ma-119,LADA,fa-1957,Priora,mo-6194,Break 5 portes (10/2009 - 12/2012),10/2009,12/2012,68056,LADA Priora,LADA Priora Break 5 portes 1.6 i 82 cv,Essence
+ma-119,LADA,fa-1957,Priora,mo-6194,Break 5 portes (10/2009 - 12/2012),10/2009,12/2012,31974,LADA Priora,LADA Priora Break 5 portes 1.6 i 98 cv,Essence
+ma-119,LADA,fa-1957,Priora,mo-6193,Berline 5 portes (04/2007 - 12/2012),04/2007,12/2012,68054,LADA Priora,LADA Priora Berline 5 portes 1.6 i 82 cv,Essence
+ma-119,LADA,fa-1957,Priora,mo-6193,Berline 5 portes (04/2007 - 12/2012),04/2007,12/2012,68055,LADA Priora,LADA Priora Berline 5 portes 1.6 i LPG 16V 97 cv,Flex Fuel
+ma-119,LADA,fa-1957,Priora,mo-6193,Berline 5 portes (04/2007 - 12/2012),04/2007,12/2012,29615,LADA Priora,LADA Priora Berline 5 portes 1.6 i 98 cv,Essence
+ma-119,LADA,fa-1957,Priora,mo-6196,Phase 2 (01/2013 - Aujourd'hui),01/2013,,68059,LADA Priora,LADA Priora Phase 2 1.6 i Berline 106 cv Boîte auto,Essence
+ma-119,LADA,fa-1957,Priora,mo-6196,Phase 2 (01/2013 - Aujourd'hui),01/2013,,68058,LADA Priora,LADA Priora Phase 2 1.6 i Hatchback 106 cv,Essence
+ma-119,LADA,fa-1957,Priora,mo-6196,Phase 2 (01/2013 - Aujourd'hui),01/2013,,68060,LADA Priora,LADA Priora Phase 2 1.6 i Berline 106 cv,Essence
+ma-119,LADA,fa-1957,Priora,mo-6196,Phase 2 (01/2013 - Aujourd'hui),01/2013,,68068,LADA Priora,LADA Priora Phase 2 1.6 i Break 98 cv,Essence
+ma-119,LADA,fa-1957,Priora,mo-6196,Phase 2 (01/2013 - Aujourd'hui),01/2013,,68067,LADA Priora,LADA Priora Phase 2 1.6 i Berline 98 cv,Essence
+ma-119,LADA,fa-1957,Priora,mo-6196,Phase 2 (01/2013 - Aujourd'hui),01/2013,,68066,LADA Priora,LADA Priora Phase 2 1.6 i Hatchback 98 cv,Essence
+ma-119,LADA,fa-1957,Priora,mo-6196,Phase 2 (01/2013 - Aujourd'hui),01/2013,,68062,LADA Priora,LADA Priora Phase 2 1.6 i Break 106 cv,Essence
+ma-119,LADA,fa-1957,Priora,mo-6196,Phase 2 (01/2013 - Aujourd'hui),01/2013,,68063,LADA Priora,LADA Priora Phase 2 1.6 i Berline 87 cv,Essence
+ma-119,LADA,fa-1957,Priora,mo-6196,Phase 2 (01/2013 - Aujourd'hui),01/2013,,68064,LADA Priora,LADA Priora Phase 2 1.6 i Hatchback 87 cv,Essence
+ma-119,LADA,fa-1957,Priora,mo-6196,Phase 2 (01/2013 - Aujourd'hui),01/2013,,68065,LADA Priora,LADA Priora Phase 2 1.6 i Break 87 cv,Essence
+ma-119,LADA,fa-1957,Priora,mo-6196,Phase 2 (01/2013 - Aujourd'hui),01/2013,,68057,LADA Priora,LADA Priora Phase 2 1.6 i Hatchback 106 cv Boîte auto,Essence
+ma-119,LADA,fa-1957,Priora,mo-6196,Phase 2 (01/2013 - Aujourd'hui),01/2013,,68061,LADA Priora,LADA Priora Phase 2 1.6 i Break 106 cv Boîte auto,Essence
+ma-119,LADA,fa-1957,Priora,mo-6192,Berline 4 portes (04/2007 - 12/2012),04/2007,12/2012,68052,LADA Priora,LADA Priora Berline 4 portes 1.6 i 82 cv,Essence
+ma-119,LADA,fa-1957,Priora,mo-6192,Berline 4 portes (04/2007 - 12/2012),04/2007,12/2012,29614,LADA Priora,LADA Priora Berline 4 portes 1.6 i 98 cv,Essence
+ma-119,LADA,fa-1957,Priora,mo-6192,Berline 4 portes (04/2007 - 12/2012),04/2007,12/2012,33273,LADA Priora,LADA Priora Berline 4 portes 1.6 i LPG Berline 98 cv,GPL
+ma-119,LADA,fa-1957,Priora,mo-6195,Coupé 3 portes (01/2010 - 12/2012),01/2010,12/2012,68069,LADA Priora,LADA Priora Coupé 3 portes 1.6 i 98 cv,Essence
+ma-119,LADA,fa-391,1200,mo-28,(2102-2105) (01/1973 - 04/2012),01/1973,04/2012,6372,LADA 1200,LADA 1200 (2102-2105) 1.2 Break 60cv,Essence
+ma-119,LADA,fa-391,1200,mo-28,(2102-2105) (01/1973 - 04/2012),01/1973,04/2012,4502,LADA 1200,LADA 1200 (2102-2105) 1.2 Berline 60cv,Essence
+ma-119,LADA,fa-395,110,mo-23,112 (01/1995 - 12/2008),01/1995,12/2008,20590,LADA 110,LADA 110 112 1.5 76 cv,Essence
+ma-119,LADA,fa-395,110,mo-23,112 (01/1995 - 12/2008),01/1995,12/2008,55565,LADA 110,LADA 110 112 1.6 i 81 cv,Essence
+ma-119,LADA,fa-395,110,mo-23,112 (01/1995 - 12/2008),01/1995,12/2008,43991,LADA 110,LADA 110 112 1.6 i 90 cv,Essence
+ma-119,LADA,fa-395,110,mo-23,112 (01/1995 - 12/2008),01/1995,12/2008,6373,LADA 110,LADA 110 112 1.5 75 cv,Essence
+ma-119,LADA,fa-395,110,mo-23,112 (01/1995 - 12/2008),01/1995,12/2008,68080,LADA 110,LADA 110 112 1.5 91 cv,Essence
+ma-119,LADA,fa-395,110,mo-23,112 (01/1995 - 12/2008),01/1995,12/2008,20591,LADA 110,LADA 110 112 1.5 79 cv,Essence
+ma-119,LADA,fa-395,110,mo-23,112 (01/1995 - 12/2008),01/1995,12/2008,15218,LADA 110,LADA 110 112 1.5 i 94 cv,Essence
+ma-119,LADA,fa-395,110,mo-19, (01/1995 - 12/2012),01/1995,12/2012,68075,LADA 110,LADA 110 2.0 i 150 cv,Essence
+ma-119,LADA,fa-395,110,mo-19, (01/1995 - 12/2012),01/1995,12/2012,55564,LADA 110,LADA 110 1.5 i 91 cv,Essence
+ma-119,LADA,fa-395,110,mo-19, (01/1995 - 12/2012),01/1995,12/2012,68073,LADA 110,LADA 110 1.6 i 91 cv,Essence
+ma-119,LADA,fa-395,110,mo-19, (01/1995 - 12/2012),01/1995,12/2012,15214,LADA 110,LADA 110 1.5 73 cv,Essence
+ma-119,LADA,fa-395,110,mo-19, (01/1995 - 12/2012),01/1995,12/2012,4505,LADA 110,LADA 110 1.5 i 94 cv,Essence
+ma-119,LADA,fa-395,110,mo-19, (01/1995 - 12/2012),01/1995,12/2012,68072,LADA 110,LADA 110 1.5 i 79 cv,Essence
+ma-119,LADA,fa-395,110,mo-19, (01/1995 - 12/2012),01/1995,12/2012,20589,LADA 110,LADA 110 1.5 i 71 cv,Essence
+ma-119,LADA,fa-395,110,mo-19, (01/1995 - 12/2012),01/1995,12/2012,68074,LADA 110,LADA 110 1.6 i 82 cv,Essence
+ma-119,LADA,fa-395,110,mo-19, (01/1995 - 12/2012),01/1995,12/2012,68071,LADA 110,LADA 110 1.5 71 cv,Essence
+ma-119,LADA,fa-395,110,mo-19, (01/1995 - 12/2012),01/1995,12/2012,4504,LADA 110,LADA 110 1.5 76 cv,Essence
+ma-119,LADA,fa-395,110,mo-19, (01/1995 - 12/2012),01/1995,12/2012,68070,LADA 110,LADA 110 1.3 120 cv,Essence
+ma-119,LADA,fa-395,110,mo-21,111 (01/1995 - 12/2009),01/1995,12/2009,68078,LADA 110,LADA 110 111 1.5 i 79 cv,Essence
+ma-119,LADA,fa-395,110,mo-21,111 (01/1995 - 12/2009),01/1995,12/2009,15216,LADA 110,LADA 110 111 1.5 94 cv,Essence
+ma-119,LADA,fa-395,110,mo-21,111 (01/1995 - 12/2009),01/1995,12/2009,15217,LADA 110,LADA 110 111 1.6 i 90 cv,Essence
+ma-119,LADA,fa-395,110,mo-21,111 (01/1995 - 12/2009),01/1995,12/2009,43990,LADA 110,LADA 110 111 1.6 i 81 cv,Essence
+ma-119,LADA,fa-395,110,mo-21,111 (01/1995 - 12/2009),01/1995,12/2009,4506,LADA 110,LADA 110 111 1.5 76 cv,Essence
+ma-119,LADA,fa-395,110,mo-21,111 (01/1995 - 12/2009),01/1995,12/2009,68079,LADA 110,LADA 110 111 1.5 i 78 cv,Essence
+ma-119,LADA,fa-395,110,mo-21,111 (01/1995 - 12/2009),01/1995,12/2009,15215,LADA 110,LADA 110 111 1.5 71 cv,Essence
+ma-119,LADA,fa-395,110,mo-21,111 (01/1995 - 12/2009),01/1995,12/2009,68077,LADA 110,LADA 110 111 1.5 i 91 cv,Essence
+ma-119,LADA,fa-394,1600,mo-67, (08/1978 - 10/1983),08/1978,10/1983,15213,LADA 1600,LADA 1600 1.6 Berline 78cv,Essence
+ma-119,LADA,fa-2183,Largus,mo-6197, (03/2012 - Aujourd'hui),03/2012,,69243,LADA Largus,LADA Largus MCV 1.6 MPI Break 87 cv,Essence
+ma-119,LADA,fa-2183,Largus,mo-6197, (03/2012 - Aujourd'hui),03/2012,,69240,LADA Largus,LADA Largus MCV 1.6 MPI 16V Break 105 cv,Essence
+ma-119,LADA,fa-2183,Largus,mo-6197, (03/2012 - Aujourd'hui),03/2012,,60241,LADA Largus,LADA Largus Van 1.6 MPI Fourgon 84 cv,Essence
+ma-119,LADA,fa-2183,Largus,mo-6197, (03/2012 - Aujourd'hui),03/2012,,69242,LADA Largus,LADA Largus MCV Cross 1.6 MPI 16V Break 105 cv,Essence
+ma-119,LADA,fa-2183,Largus,mo-6197, (03/2012 - Aujourd'hui),03/2012,,60240,LADA Largus,LADA Largus Van 1.6 MPI 16V Fourgon 105 cv,Essence
+ma-119,LADA,fa-2183,Largus,mo-6197, (03/2012 - Aujourd'hui),03/2012,,69241,LADA Largus,LADA Largus MCV 1.6 MPI Break 84 cv,Essence
+ma-119,LADA,fa-393,1500,mo-54,-2107 (01/1974 - 10/1986),01/1974,10/1986,20588,LADA 1500,LADA 1500 -2107 1.5 Break 67cv,Essence
+ma-119,LADA,fa-393,1500,mo-54,-2107 (01/1974 - 10/1986),01/1974,10/1986,15212,LADA 1500,LADA 1500 -2107 1.5 Berline 67cv,Essence
+ma-119,LADA,fa-392,1300,mo-39,-2105 (01/1976 - 12/1986),01/1976,12/1986,69237,LADA 1300,LADA 1300 -2105 1.3 Berline 67 cv,Essence
+ma-119,LADA,fa-392,1300,mo-39,-2105 (01/1976 - 12/1986),01/1976,12/1986,69238,LADA 1300,LADA 1300 -2105 1.3 Berline 69 cv,Essence
+ma-119,LADA,fa-392,1300,mo-39,-2105 (01/1976 - 12/1986),01/1976,12/1986,4503,LADA 1300,LADA 1300 -2105 1.3 Berline 65 cv,Essence
+ma-119,LADA,fa-2129,Granta,mo-5642, (05/2011 - Aujourd'hui),05/2011,,46202,LADA Granta,LADA Granta 1.6 i Berline 82 cv,Essence
+ma-119,LADA,fa-2129,Granta,mo-5642, (05/2011 - Aujourd'hui),05/2011,,46201,LADA Granta,LADA Granta 1.6 i Berline 98 cv,Essence
+ma-119,LADA,fa-2129,Granta,mo-5642, (05/2011 - Aujourd'hui),05/2011,,56454,LADA Granta,LADA Granta 1.6 i Berline 87 cv,Essence
+ma-119,LADA,fa-2129,Granta,mo-5642, (05/2011 - Aujourd'hui),05/2011,,69239,LADA Granta,LADA Granta 1.6 i Hatchback 87 cv,Essence
+ma-119,LADA,fa-397,Kalinka,mo-1164, (10/1995 - 12/1998),10/1995,12/1998,4507,LADA Kalinka,LADA Kalinka 1.7 i 84 cv,Essence
+ma-119,LADA,fa-397,Kalinka,mo-1164, (10/1995 - 12/1998),10/1995,12/1998,20592,LADA Kalinka,LADA Kalinka 1.5 67 cv,Essence
+ma-119,LADA,fa-2225,Vesta,mo-6561, (10/2015 - Aujourd'hui),10/2015,,67512,LADA Vesta,LADA Vesta SW 1.6 i 16V Break 106 cv,Essence
+ma-119,LADA,fa-2225,Vesta,mo-6561, (10/2015 - Aujourd'hui),10/2015,,67511,LADA Vesta,LADA Vesta SW 1.6 i 16V Break BVR 106 cv Boîte auto,Essence
+ma-119,LADA,fa-2225,Vesta,mo-6561, (10/2015 - Aujourd'hui),10/2015,,67515,LADA Vesta,LADA Vesta SW 1.8 i 16V Break BVR 122 cv Boîte auto,Essence
+ma-119,LADA,fa-2225,Vesta,mo-6561, (10/2015 - Aujourd'hui),10/2015,,67513,LADA Vesta,LADA Vesta SW CROSS 1.6 i 16V Break 106 cv,Essence
+ma-119,LADA,fa-2225,Vesta,mo-6561, (10/2015 - Aujourd'hui),10/2015,,67514,LADA Vesta,LADA Vesta SW CROSS 1.8 i 16V Break BVR 122 cv Boîte auto,Essence
+ma-119,LADA,fa-2225,Vesta,mo-6561, (10/2015 - Aujourd'hui),10/2015,,67509,LADA Vesta,LADA Vesta SW 1.6 i 16V Break 113 cv,Essence
+ma-119,LADA,fa-2225,Vesta,mo-6561, (10/2015 - Aujourd'hui),10/2015,,56452,LADA Vesta,LADA Vesta 1.6 i 16V Berline BVR 106 cv Boîte auto,Essence
+ma-119,LADA,fa-2225,Vesta,mo-6561, (10/2015 - Aujourd'hui),10/2015,,67516,LADA Vesta,LADA Vesta SW CROSS 1.6 i 16V Break BVR 106 cv Boîte auto,Essence
+ma-119,LADA,fa-2225,Vesta,mo-6561, (10/2015 - Aujourd'hui),10/2015,,56453,LADA Vesta,LADA Vesta 1.6 i 16V Berline 106 cv,Essence
+ma-119,LADA,fa-2225,Vesta,mo-6561, (10/2015 - Aujourd'hui),10/2015,,67510,LADA Vesta,LADA Vesta 1.8 i 16V Berline BVR 122 cv Boîte auto,Essence
+ma-119,LADA,fa-2225,Vesta,mo-6561, (10/2015 - Aujourd'hui),10/2015,,67508,LADA Vesta,LADA Vesta 1.6 i 16V Berline 113 cv,Essence
+ma-119,LADA,fa-396,Forma,mo-987, (09/1991 - 08/1996),09/1991,08/1996,6383,LADA Forma,LADA Forma 1.1 53cv,Essence
+ma-119,LADA,fa-396,Forma,mo-987, (09/1991 - 08/1996),09/1991,08/1996,15223,LADA Forma,LADA Forma 1.3 61cv,Essence
+ma-119,LADA,fa-396,Forma,mo-987, (09/1991 - 08/1996),09/1991,08/1996,20597,LADA Forma,LADA Forma 1.5 71cv,Essence
+ma-119,LADA,fa-396,Forma,mo-987, (09/1991 - 08/1996),09/1991,08/1996,20596,LADA Forma,LADA Forma 1.5 68cv,Essence
+ma-119,LADA,fa-396,Forma,mo-987, (09/1991 - 08/1996),09/1991,08/1996,20595,LADA Forma,LADA Forma 1.3 65cv,Essence
+ma-119,LADA,fa-401,Sagona,mo-1782, (09/1991 - 12/1999),09/1991,12/1999,4511,LADA Sagona,LADA Sagona 1500 71cv,Essence
+ma-119,LADA,fa-401,Sagona,mo-1782, (09/1991 - 12/1999),09/1991,12/1999,6377,LADA Sagona,LADA Sagona 1500 68cv,Essence
+ma-119,LADA,fa-401,Sagona,mo-1782, (09/1991 - 12/1999),09/1991,12/1999,4512,LADA Sagona,LADA Sagona 1500 i 70cv,Essence
+ma-119,LADA,fa-400,Nova,mo-1477, (10/1986 - 12/2011),10/1986,12/2011,6376,LADA Nova,LADA Nova 1.7 i Break 84cv,Essence
+ma-119,LADA,fa-400,Nova,mo-1477, (10/1986 - 12/2011),10/1986,12/2011,69247,LADA Nova,LADA Nova 1.6 Berline 78 cv,Essence
+ma-119,LADA,fa-400,Nova,mo-1477, (10/1986 - 12/2011),10/1986,12/2011,20594,LADA Nova,LADA Nova 1.7 i Berline 84cv,Essence
+ma-119,LADA,fa-1111,TOSCANA,mo-2771, (09/1983 - Aujourd'hui),09/1983,,25842,LADA TOSCANA,LADA TOSCANA 1300 65 cv,Essence
+ma-119,LADA,fa-1111,TOSCANA,mo-2771, (09/1983 - Aujourd'hui),09/1983,,25443,LADA TOSCANA,LADA TOSCANA 1500 75 cv,Essence
+ma-119,LADA,fa-398,Natacha,mo-1461,Cabriolet (05/1993 - 12/1997),05/1993,12/1997,4508,LADA Natacha,LADA Natacha Cabriolet 1.5 68 cv,Essence
+ma-119,LADA,fa-1109,NADESCHDA,mo-2770,(2120) (12/1997 - Aujourd'hui),12/1997,,26228,LADA NADESCHDA,LADA NADESCHDA (2120) 1.8 82 cv,Essence
+ma-119,LADA,fa-1109,NADESCHDA,mo-2770,(2120) (12/1997 - Aujourd'hui),12/1997,,26226,LADA NADESCHDA,LADA NADESCHDA (2120) 1.7 i 80 cv,Essence
+ma-119,LADA,fa-1109,NADESCHDA,mo-2770,(2120) (12/1997 - Aujourd'hui),12/1997,,26225,LADA NADESCHDA,LADA NADESCHDA (2120) 1.7 82 cv,Essence
+ma-119,LADA,fa-1109,NADESCHDA,mo-2770,(2120) (12/1997 - Aujourd'hui),12/1997,,26227,LADA NADESCHDA,LADA NADESCHDA (2120) 1.8 i 91 cv,Essence
+ma-119,LADA,fa-2226,X Ray,mo-6562, (02/2016 - Aujourd'hui),02/2016,,69248,LADA X Ray,LADA X Ray 1.6 i 16V 106 cv,Essence
+ma-119,LADA,fa-2226,X Ray,mo-6562, (02/2016 - Aujourd'hui),02/2016,,69249,LADA X Ray,LADA X Ray 1.6 i 16V 109 cv,Essence

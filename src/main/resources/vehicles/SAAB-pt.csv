@@ -1,0 +1,391 @@
+brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
+ma-181,SAAB,fa-711,9-3,mo-274,Berline (04/1998 - 08/2002),04/1998,08/2002,22920,SAAB 9-3,SAAB 9-3 Berline 2.0 i 131cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-274,Berline (04/1998 - 08/2002),04/1998,08/2002,8585,SAAB 9-3,SAAB 9-3 Berline 2.0 i Turbo 185cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-274,Berline (04/1998 - 08/2002),04/1998,08/2002,17761,SAAB 9-3,SAAB 9-3 Berline 2.0 i Turbo 150cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-274,Berline (04/1998 - 08/2002),04/1998,08/2002,8586,SAAB 9-3,SAAB 9-3 Berline 2.0 i Turbo 205cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-274,Berline (04/1998 - 08/2002),04/1998,08/2002,8588,SAAB 9-3,SAAB 9-3 Berline 2.3 i Turbo 224cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-274,Berline (04/1998 - 08/2002),04/1998,08/2002,8587,SAAB 9-3,SAAB 9-3 Berline 2.0 SE Turbo 200cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-274,Berline (04/1998 - 08/2002),04/1998,08/2002,12036,SAAB 9-3,SAAB 9-3 Berline 2.2 TiD 115cv,Diesel
+ma-181,SAAB,fa-711,9-3,mo-274,Berline (04/1998 - 08/2002),04/1998,08/2002,22924,SAAB 9-3,SAAB 9-3 Berline 2.3 i 149cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-274,Berline (04/1998 - 08/2002),04/1998,08/2002,12037,SAAB 9-3,SAAB 9-3 Berline 2.2 TiD 125cv,Diesel
+ma-181,SAAB,fa-711,9-3,mo-274,Berline (04/1998 - 08/2002),04/1998,08/2002,58316,SAAB 9-3,SAAB 9-3 Berline 2.3 i Turbo 230 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-274,Berline (04/1998 - 08/2002),04/1998,08/2002,12035,SAAB 9-3,SAAB 9-3 Berline 2.0 i Turbo 185cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-274,Berline (04/1998 - 08/2002),04/1998,08/2002,17762,SAAB 9-3,SAAB 9-3 Berline 2.0 i Turbo 205cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-274,Berline (04/1998 - 08/2002),04/1998,08/2002,22922,SAAB 9-3,SAAB 9-3 Berline 2.0 i Turbo 154cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-274,Berline (04/1998 - 08/2002),04/1998,08/2002,8584,SAAB 9-3,SAAB 9-3 Berline 2.0 i Turbo 150cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-274,Berline (04/1998 - 08/2002),04/1998,08/2002,22921,SAAB 9-3,SAAB 9-3 Berline 2.0 i Turbo 154cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-274,Berline (04/1998 - 08/2002),04/1998,08/2002,22923,SAAB 9-3,SAAB 9-3 Berline 2.0 SE Turbo 200cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-274,Berline (04/1998 - 08/2002),04/1998,08/2002,22919,SAAB 9-3,SAAB 9-3 Berline 2.0 i 131cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-274,Berline (04/1998 - 08/2002),04/1998,08/2002,22925,SAAB 9-3,SAAB 9-3 Berline 2.3 i 149cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46509,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo BioPower XWD 163 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46512,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo BioPower XWD Sentronic 210 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,22937,SAAB 9-3,SAAB 9-3 Berline Phase 2 1.9 TiD 150cv Caixa Automática,Diesel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,12049,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo 175cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46490,SAAB 9-3,SAAB 9-3 Berline Phase 2 1.9 TiD 160 cv Caixa Automática,Diesel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46503,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo BioPower 163 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,12047,SAAB 9-3,SAAB 9-3 Berline Phase 2 1.9 TiD 120cv,Diesel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,29755,SAAB 9-3,SAAB 9-3 Berline Phase 2 1.8 t Turbo BioPower 175 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46511,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo BioPower XWD 220 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,12046,SAAB 9-3,SAAB 9-3 Berline Phase 2 1.8 i 122cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46496,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo Sentronic 220 cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,22935,SAAB 9-3,SAAB 9-3 Berline Phase 2 1.8 t Turbo 150cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,29756,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo BioPower Sentronic 200 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,12048,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo 175cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,29751,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo XWD Sentronic 210 cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,30951,SAAB 9-3,SAAB 9-3 Berline Phase 2 1.9 TTiD 180 cv,Diesel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,43989,SAAB 9-3,SAAB 9-3 Berline Phase 2 1.8 t Turbo BioPower 150 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46508,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo BioPower Sentronic 220 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,29752,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.8 t V6 XWD 280 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46513,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo BioPower XWD Sentronic 220 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,29753,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.8 t V6 XWD Sentronic 280 cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46506,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo BioPower 220 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,8599,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo 210cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46492,SAAB 9-3,SAAB 9-3 Berline Phase 2 1.9 TiD 160 cv,Diesel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,29754,SAAB 9-3,SAAB 9-3 Berline Phase 2 1.8 t Turbo BioPower Sentronic 175 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,43987,SAAB 9-3,SAAB 9-3 Berline Phase 2 1.8 t Turbo BioPower 150 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46498,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo XWD 220 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,17772,SAAB 9-3,SAAB 9-3 Berline Phase 2 1.9 TiD 150cv,Diesel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46494,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo 163 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46507,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo BioPower Sentronic 210 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,29750,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo XWD 210 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46502,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo BioPower 163 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,22939,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.8 turbo V6 250cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,29757,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo BioPower 200 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,17773,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo 210cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,30950,SAAB 9-3,SAAB 9-3 Berline Phase 2 1.9 TTiD 180 cv Caixa Automática,Diesel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46504,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo BioPower 175 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46495,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo 220 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46505,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo BioPower 210 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46500,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.8 t V6 24V 256 cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,22936,SAAB 9-3,SAAB 9-3 Berline Phase 2 1.8 t Turbo 150cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46491,SAAB 9-3,SAAB 9-3 Berline Phase 2 1.9 TiD 130 cv,Diesel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,22938,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.2 TiD 125cv,Diesel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46499,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo XWD Sentronic 220 cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46501,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.8 t V6 24V 256 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46510,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo BioPower XWD 210 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46497,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo XWD 163 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,22940,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.8 turbo V6 250cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,46493,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo 163 cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-277,Berline Phase 2 (09/2002 - 03/2012),09/2002,03/2012,43986,SAAB 9-3,SAAB 9-3 Berline Phase 2 2.0 t Turbo BioPower Sentronic 175 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,46488,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo BioPower XWD 210 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,46479,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo XWD 163 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,46474,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo BioPower Sentronic 150 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,46480,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.8 t V6 24V 256 cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,46481,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.8 t V6 24V 256 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,8598,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.8 turbo V6 250cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,22934,SAAB 9-3,SAAB 9-3 Estate Phase 2 1.9 TiD 120cv,Diesel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,43988,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo BioPower 150 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,46478,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo 163 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,46476,SAAB 9-3,SAAB 9-3 Estate Phase 2 1.9 TTiD 160 cv Caixa Automática,Diesel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,17771,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.8 turbo V6 250cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,17769,SAAB 9-3,SAAB 9-3 Estate Phase 2 1.9 TiD 150cv,Diesel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,46477,SAAB 9-3,SAAB 9-3 Estate Phase 2 1.9 TTiD 160 cv,Diesel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,29747,SAAB 9-3,SAAB 9-3 Estate Phase 2 1.8 t Turbo BioPower Sentronic 175 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,30948,SAAB 9-3,SAAB 9-3 Estate Phase 2 1.9 TTiD 180 cv Caixa Automática,Diesel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,8595,SAAB 9-3,SAAB 9-3 Estate Phase 2 1.8 t Turbo 150cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,29749,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo BioPower 200 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,12044,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo 210cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,46484,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo BioPower 220 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,29748,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo BioPower Sentronic 200 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,8594,SAAB 9-3,SAAB 9-3 Estate Phase 2 1.8 i 122cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,46483,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo BioPower 163 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,8596,SAAB 9-3,SAAB 9-3 Estate Phase 2 1.9 TiD 150cv Caixa Automática,Diesel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,12045,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo 210cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,29746,SAAB 9-3,SAAB 9-3 Estate Phase 2 1.8 t Turbo BioPower 175 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,46487,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo BioPower XWD 163 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,29743,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.8 t V6 XWD Sentronic 280 cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,30949,SAAB 9-3,SAAB 9-3 Estate Phase 2 1.9 TTiD 180 cv,Diesel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,29742,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.8 t V6 XWD 280 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,17768,SAAB 9-3,SAAB 9-3 Estate Phase 2 1.8 t Turbo 150cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,17770,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo 175cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,46486,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo BioPower XWD 220 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,46475,SAAB 9-3,SAAB 9-3 Estate Phase 2 1.9 TiD 130 cv,Diesel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,29745,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo XWD Sentronic 210 cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,46482,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo BioPower 220 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,46489,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo BioPower XWD 220 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,29744,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo XWD 210 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,46485,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo BioPower XWD 210 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-276,Estate Phase 2 (01/2005 - 03/2012),01/2005,03/2012,8597,SAAB 9-3,SAAB 9-3 Estate Phase 2 2.0 t Turbo 175cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,51079,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 1.9 TiD 120 cv,Diesel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46466,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.0 t Turbo BioPower 163 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,12040,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 1.9 TiD 150cv,Diesel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,30946,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 1.9 TTiD 180 cv Caixa Automática,Diesel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46473,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 Performance 2.0 t Turbo 252 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,51078,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 1.9 TiD 16V 130 cv,Diesel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46456,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.0 t Turbo 163 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46463,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.8 t V6 24V 256 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46453,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 1.9 TiD DPF 160 cv,Diesel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46470,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.0 t Turbo BioPower 175 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46472,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 Performance 2.0 t Turbo 252 cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,8593,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 1.8 t Turbo 150cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46471,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.0 t Turbo BioPower 220 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,29738,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 1.8 t Turbo BioPower 175 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46461,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.8 t V6 24V 280 cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,29740,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.0 t Turbo BioPower 200 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,17767,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.0 t Turbo 175cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46457,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.0 t Turbo 220 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,12042,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.8 t V6 250cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46455,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.0 t Turbo 220 cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46458,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.8 t V6 24V 230 cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46468,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.0 t Turbo BioPower 220 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,12041,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 1.9 TiD 150cv Caixa Automática,Diesel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46449,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 1.8 t Turbo BioPower 150 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46452,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 1.9 TiD DPF 160 cv Caixa Automática,Diesel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46459,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.8 t V6 24V 256 cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,17766,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.0 t Turbo 210cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46465,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.8 t V6 24V 280 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46469,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.0 t Turbo BioPower 163 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,29739,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 1.8 t Turbo BioPower Sentronic 175 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,22933,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.0 t Turbo 210cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46464,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.8 t V6 24V 275 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46454,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.0 t Turbo 163 cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46462,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.8 t V6 24V 230 cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46467,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.0 t Turbo BioPower 175 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,12043,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.8 t V6 250cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,43985,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 1.8 t Turbo BioPower 150 cv,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,22932,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.0 t Turbo 175cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,30947,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 1.9 TTiD 180 cv,Diesel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,29741,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.0 t Turbo BioPower Sentronic 200 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,46460,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 2.8 t V6 24V 275 cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-275,Cabriolet Phase 2 (06/2003 - 03/2012),06/2003,03/2012,12039,SAAB 9-3,SAAB 9-3 Cabriolet Phase 2 1.8 t Turbo 150cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-273,Cabriolet (04/1998 - 05/2003),04/1998,05/2003,8590,SAAB 9-3,SAAB 9-3 Cabriolet 2.0 i Turbo 205cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-273,Cabriolet (04/1998 - 05/2003),04/1998,05/2003,12038,SAAB 9-3,SAAB 9-3 Cabriolet 2.3 i 149cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-273,Cabriolet (04/1998 - 05/2003),04/1998,05/2003,22927,SAAB 9-3,SAAB 9-3 Cabriolet 2.0 i Turbo 150cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-273,Cabriolet (04/1998 - 05/2003),04/1998,05/2003,33857,SAAB 9-3,SAAB 9-3 Cabriolet 2.0 i Turbo 150 cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-273,Cabriolet (04/1998 - 05/2003),04/1998,05/2003,22929,SAAB 9-3,SAAB 9-3 Cabriolet 2.0 i Turbo 185cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-273,Cabriolet (04/1998 - 05/2003),04/1998,05/2003,8589,SAAB 9-3,SAAB 9-3 Cabriolet 2.0 i Turbo 154cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-273,Cabriolet (04/1998 - 05/2003),04/1998,05/2003,22930,SAAB 9-3,SAAB 9-3 Cabriolet 2.0 SE Turbo 200cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-273,Cabriolet (04/1998 - 05/2003),04/1998,05/2003,22928,SAAB 9-3,SAAB 9-3 Cabriolet 2.0 i Turbo 185cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-273,Cabriolet (04/1998 - 05/2003),04/1998,05/2003,22926,SAAB 9-3,SAAB 9-3 Cabriolet 2.0 i 131cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-273,Cabriolet (04/1998 - 05/2003),04/1998,05/2003,17763,SAAB 9-3,SAAB 9-3 Cabriolet 2.0 i 131cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-273,Cabriolet (04/1998 - 05/2003),04/1998,05/2003,17765,SAAB 9-3,SAAB 9-3 Cabriolet 2.0 i Turbo 205cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-273,Cabriolet (04/1998 - 05/2003),04/1998,05/2003,8591,SAAB 9-3,SAAB 9-3 Cabriolet 2.3 i 149cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-273,Cabriolet (04/1998 - 05/2003),04/1998,05/2003,22931,SAAB 9-3,SAAB 9-3 Cabriolet 2.0 SE Turbo 200cv Caixa Automática,Essence
+ma-181,SAAB,fa-711,9-3,mo-273,Cabriolet (04/1998 - 05/2003),04/1998,05/2003,8592,SAAB 9-3,SAAB 9-3 Cabriolet 2.3 i Turbo 224cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-273,Cabriolet (04/1998 - 05/2003),04/1998,05/2003,17764,SAAB 9-3,SAAB 9-3 Cabriolet 2.0 i Turbo 154cv,Essence
+ma-181,SAAB,fa-711,9-3,mo-273,Cabriolet (04/1998 - 05/2003),04/1998,05/2003,58315,SAAB 9-3,SAAB 9-3 Cabriolet 2.3 i Turbo 230 cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-280,Berline (09/1997 - 08/2001),09/1997,08/2001,12050,SAAB 9-5,SAAB 9-5 Berline 2.0 i Turbo 150cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-280,Berline (09/1997 - 08/2001),09/1997,08/2001,22944,SAAB 9-5,SAAB 9-5 Berline 2.3 i Turbo 230cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-280,Berline (09/1997 - 08/2001),09/1997,08/2001,51081,SAAB 9-5,SAAB 9-5 Berline 2.0 i Turbo 185cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-280,Berline (09/1997 - 08/2001),09/1997,08/2001,17774,SAAB 9-5,SAAB 9-5 Berline 2.3 i Turbo 170cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-280,Berline (09/1997 - 08/2001),09/1997,08/2001,22942,SAAB 9-5,SAAB 9-5 Berline 2.3 i Turbo 230cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-280,Berline (09/1997 - 08/2001),09/1997,08/2001,22941,SAAB 9-5,SAAB 9-5 Berline 2.3 i Turbo 185cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-280,Berline (09/1997 - 08/2001),09/1997,08/2001,51080,SAAB 9-5,SAAB 9-5 Berline 2.0 i Turbo 185cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-280,Berline (09/1997 - 08/2001),09/1997,08/2001,12052,SAAB 9-5,SAAB 9-5 Berline 2.0 i Turbo 150cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-280,Berline (09/1997 - 08/2001),09/1997,08/2001,22943,SAAB 9-5,SAAB 9-5 Berline 2.3 i Turbo 185cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-280,Berline (09/1997 - 08/2001),09/1997,08/2001,12051,SAAB 9-5,SAAB 9-5 Berline 2.0 i Turbo 192cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-280,Berline (09/1997 - 08/2001),09/1997,08/2001,12053,SAAB 9-5,SAAB 9-5 Berline 2.0 i Turbo 192cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-280,Berline (09/1997 - 08/2001),09/1997,08/2001,8600,SAAB 9-5,SAAB 9-5 Berline 2.3 i Turbo 170cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-280,Berline (09/1997 - 08/2001),09/1997,08/2001,17775,SAAB 9-5,SAAB 9-5 Berline 3.0 i V6 Turbo 200cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-285,Break Phase 3 (11/2005 - 06/2010),11/2005,06/2010,22958,SAAB 9-5,SAAB 9-5 Break Phase 3 2.3 i Turbo 185cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-285,Break Phase 3 (11/2005 - 06/2010),11/2005,06/2010,17786,SAAB 9-5,SAAB 9-5 Break Phase 3 2.0 i Turbo 150cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-285,Break Phase 3 (11/2005 - 06/2010),11/2005,06/2010,8752,SAAB 9-5,SAAB 9-5 Break Phase 3 2.3 i Turbo 260cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-285,Break Phase 3 (11/2005 - 06/2010),11/2005,06/2010,22956,SAAB 9-5,SAAB 9-5 Break Phase 3 2.0 i Turbo BioPower 180cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-707,9-5,mo-285,Break Phase 3 (11/2005 - 06/2010),11/2005,06/2010,33864,SAAB 9-5,SAAB 9-5 Break Phase 3 2.0 i Turbo BioPower 150cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-707,9-5,mo-285,Break Phase 3 (11/2005 - 06/2010),11/2005,06/2010,12066,SAAB 9-5,SAAB 9-5 Break Phase 3 1.9 TiD Turbo 150cv Caixa Automática,Diesel
+ma-181,SAAB,fa-707,9-5,mo-285,Break Phase 3 (11/2005 - 06/2010),11/2005,06/2010,12067,SAAB 9-5,SAAB 9-5 Break Phase 3 2.0 i Turbo 150cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-285,Break Phase 3 (11/2005 - 06/2010),11/2005,06/2010,33865,SAAB 9-5,SAAB 9-5 Break Phase 3 2.0 i Turbo BioPower 150cv,Flex Fuel
+ma-181,SAAB,fa-707,9-5,mo-285,Break Phase 3 (11/2005 - 06/2010),11/2005,06/2010,22957,SAAB 9-5,SAAB 9-5 Break Phase 3 2.3 i Turbo 260cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-285,Break Phase 3 (11/2005 - 06/2010),11/2005,06/2010,8750,SAAB 9-5,SAAB 9-5 Break Phase 3 2.0 i Turbo BioPower 180cv,Flex Fuel
+ma-181,SAAB,fa-707,9-5,mo-285,Break Phase 3 (11/2005 - 06/2010),11/2005,06/2010,30943,SAAB 9-5,SAAB 9-5 Break Phase 3 2.3 i Turbo BioPower 209cv,Flex Fuel
+ma-181,SAAB,fa-707,9-5,mo-285,Break Phase 3 (11/2005 - 06/2010),11/2005,06/2010,8751,SAAB 9-5,SAAB 9-5 Break Phase 3 2.3 i Turbo 185cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-285,Break Phase 3 (11/2005 - 06/2010),11/2005,06/2010,30942,SAAB 9-5,SAAB 9-5 Break Phase 3 2.3 i Turbo BioPower 209cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-707,9-5,mo-285,Break Phase 3 (11/2005 - 06/2010),11/2005,06/2010,67896,SAAB 9-5,SAAB 9-5 Break Phase 3 2.3 i Turbo BioPower 185 cv,Flex Fuel
+ma-181,SAAB,fa-707,9-5,mo-285,Break Phase 3 (11/2005 - 06/2010),11/2005,06/2010,12065,SAAB 9-5,SAAB 9-5 Break Phase 3 1.9 TiD Turbo 150cv,Diesel
+ma-181,SAAB,fa-707,9-5,mo-282,Berline Phase 2 (09/2001 - 11/2005),09/2001,11/2005,8603,SAAB 9-5,SAAB 9-5 Berline Phase 2 2.0 i Turbo 150cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-282,Berline Phase 2 (09/2001 - 11/2005),09/2001,11/2005,17781,SAAB 9-5,SAAB 9-5 Berline Phase 2 3.0 i V6 Turbo 200cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-282,Berline Phase 2 (09/2001 - 11/2005),09/2001,11/2005,8604,SAAB 9-5,SAAB 9-5 Berline Phase 2 2.2 TiD 120cv Caixa Automática,Diesel
+ma-181,SAAB,fa-707,9-5,mo-282,Berline Phase 2 (09/2001 - 11/2005),09/2001,11/2005,8606,SAAB 9-5,SAAB 9-5 Berline Phase 2 2.3 T Turbo 220cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-282,Berline Phase 2 (09/2001 - 11/2005),09/2001,11/2005,17777,SAAB 9-5,SAAB 9-5 Berline Phase 2 2.0 i Turbo 150cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-282,Berline Phase 2 (09/2001 - 11/2005),09/2001,11/2005,8743,SAAB 9-5,SAAB 9-5 Berline Phase 2 3.0 TiD V6 176cv,Diesel
+ma-181,SAAB,fa-707,9-5,mo-282,Berline Phase 2 (09/2001 - 11/2005),09/2001,11/2005,17780,SAAB 9-5,SAAB 9-5 Berline Phase 2 2.3 T Turbo 220cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-282,Berline Phase 2 (09/2001 - 11/2005),09/2001,11/2005,17778,SAAB 9-5,SAAB 9-5 Berline Phase 2 2.2 TiD 120cv,Diesel
+ma-181,SAAB,fa-707,9-5,mo-282,Berline Phase 2 (09/2001 - 11/2005),09/2001,11/2005,8605,SAAB 9-5,SAAB 9-5 Berline Phase 2 2.3 i Turbo 185cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-282,Berline Phase 2 (09/2001 - 11/2005),09/2001,11/2005,17779,SAAB 9-5,SAAB 9-5 Berline Phase 2 2.3 i Turbo 185cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-282,Berline Phase 2 (09/2001 - 11/2005),09/2001,11/2005,12059,SAAB 9-5,SAAB 9-5 Berline Phase 2 2.3 i Turbo 250cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-282,Berline Phase 2 (09/2001 - 11/2005),09/2001,11/2005,12058,SAAB 9-5,SAAB 9-5 Berline Phase 2 2.3 i Turbo 250cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-283,Break Phase 2 (09/2001 - 11/2005),09/2001,11/2005,17782,SAAB 9-5,SAAB 9-5 Break Phase 2 2.0 i Turbo 150cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-283,Break Phase 2 (09/2001 - 11/2005),09/2001,11/2005,8745,SAAB 9-5,SAAB 9-5 Break Phase 2 2.3 i Turbo 185cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-283,Break Phase 2 (09/2001 - 11/2005),09/2001,11/2005,22950,SAAB 9-5,SAAB 9-5 Break Phase 2 2.3 i Turbo 250cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-283,Break Phase 2 (09/2001 - 11/2005),09/2001,11/2005,12060,SAAB 9-5,SAAB 9-5 Break Phase 2 2.0 i Turbo 150cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-283,Break Phase 2 (09/2001 - 11/2005),09/2001,11/2005,12061,SAAB 9-5,SAAB 9-5 Break Phase 2 2.2 TiD 120cv,Diesel
+ma-181,SAAB,fa-707,9-5,mo-283,Break Phase 2 (09/2001 - 11/2005),09/2001,11/2005,8744,SAAB 9-5,SAAB 9-5 Break Phase 2 2.2 TiD 120cv Caixa Automática,Diesel
+ma-181,SAAB,fa-707,9-5,mo-283,Break Phase 2 (09/2001 - 11/2005),09/2001,11/2005,8746,SAAB 9-5,SAAB 9-5 Break Phase 2 2.3 i Turbo 250cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-283,Break Phase 2 (09/2001 - 11/2005),09/2001,11/2005,17783,SAAB 9-5,SAAB 9-5 Break Phase 2 3.0 TiD V6 176cv,Diesel
+ma-181,SAAB,fa-707,9-5,mo-283,Break Phase 2 (09/2001 - 11/2005),09/2001,11/2005,12062,SAAB 9-5,SAAB 9-5 Break Phase 2 3.0 i V6 Turbo 200cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-283,Break Phase 2 (09/2001 - 11/2005),09/2001,11/2005,22951,SAAB 9-5,SAAB 9-5 Break Phase 2 2.3 i Turbo 220cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-283,Break Phase 2 (09/2001 - 11/2005),09/2001,11/2005,8747,SAAB 9-5,SAAB 9-5 Break Phase 2 2.3 i Turbo 220cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-283,Break Phase 2 (09/2001 - 11/2005),09/2001,11/2005,22949,SAAB 9-5,SAAB 9-5 Break Phase 2 2.3 i Turbo 185cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-5118,II Sedan (05/2010 - Hoje),05/2010,,33871,SAAB 9-5,SAAB 9-5 II Sedan 2.0 T 16V AWD 220 cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-5118,II Sedan (05/2010 - Hoje),05/2010,,33877,SAAB 9-5,SAAB 9-5 II Sedan 2.8 T V6 24V AWD 300 cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-5118,II Sedan (05/2010 - Hoje),05/2010,,33868,SAAB 9-5,SAAB 9-5 II Sedan 1.6 T 16V 180 cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-5118,II Sedan (05/2010 - Hoje),05/2010,,33870,SAAB 9-5,SAAB 9-5 II Sedan 2.0 T 16V 220 cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-5118,II Sedan (05/2010 - Hoje),05/2010,,33875,SAAB 9-5,SAAB 9-5 II Sedan 2.0 TTiD 16V 190 cv,Diesel
+ma-181,SAAB,fa-707,9-5,mo-5118,II Sedan (05/2010 - Hoje),05/2010,,33874,SAAB 9-5,SAAB 9-5 II Sedan 2.0 TiD 16V 160 cv,Diesel
+ma-181,SAAB,fa-707,9-5,mo-5118,II Sedan (05/2010 - Hoje),05/2010,,33876,SAAB 9-5,SAAB 9-5 II Sedan 2.0 TTiD 16V AWD 190 cv,Diesel
+ma-181,SAAB,fa-707,9-5,mo-5118,II Sedan (05/2010 - Hoje),05/2010,,33881,SAAB 9-5,SAAB 9-5 II Sedan 2.0 T 16V BioPower AWD 220 cv,Flex Fuel
+ma-181,SAAB,fa-707,9-5,mo-5118,II Sedan (05/2010 - Hoje),05/2010,,33872,SAAB 9-5,SAAB 9-5 II Sedan 2.0 T 16V AWD 220 cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-5118,II Sedan (05/2010 - Hoje),05/2010,,33879,SAAB 9-5,SAAB 9-5 II Sedan 2.0 T 16V BioPower 220 cv,Flex Fuel
+ma-181,SAAB,fa-707,9-5,mo-5118,II Sedan (05/2010 - Hoje),05/2010,,33869,SAAB 9-5,SAAB 9-5 II Sedan 2.0 T 16V 220 cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-5118,II Sedan (05/2010 - Hoje),05/2010,,33873,SAAB 9-5,SAAB 9-5 II Sedan 2.0 TiD 16V 160 cv Caixa Automática,Diesel
+ma-181,SAAB,fa-707,9-5,mo-5118,II Sedan (05/2010 - Hoje),05/2010,,33880,SAAB 9-5,SAAB 9-5 II Sedan 2.0 T 16V BioPower AWD 220 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-707,9-5,mo-5118,II Sedan (05/2010 - Hoje),05/2010,,33878,SAAB 9-5,SAAB 9-5 II Sedan 2.0 T 16V BioPower 220 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-707,9-5,mo-281,Break/Estate (10/1998 - 08/2001),10/1998,08/2001,17776,SAAB 9-5,SAAB 9-5 Break/Estate 2.3 i Turbo 170cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-281,Break/Estate (10/1998 - 08/2001),10/1998,08/2001,12055,SAAB 9-5,SAAB 9-5 Break/Estate 2.0 i Turbo 192cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-281,Break/Estate (10/1998 - 08/2001),10/1998,08/2001,51083,SAAB 9-5,SAAB 9-5 Break/Estate 2.0 i Turbo 185cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-281,Break/Estate (10/1998 - 08/2001),10/1998,08/2001,12054,SAAB 9-5,SAAB 9-5 Break/Estate 2.0 i Turbo 150cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-281,Break/Estate (10/1998 - 08/2001),10/1998,08/2001,8601,SAAB 9-5,SAAB 9-5 Break/Estate 2.3 i Turbo 170cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-281,Break/Estate (10/1998 - 08/2001),10/1998,08/2001,22945,SAAB 9-5,SAAB 9-5 Break/Estate 2.3 i Turbo 185cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-281,Break/Estate (10/1998 - 08/2001),10/1998,08/2001,22948,SAAB 9-5,SAAB 9-5 Break/Estate 2.3 i Turbo 230cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-281,Break/Estate (10/1998 - 08/2001),10/1998,08/2001,12056,SAAB 9-5,SAAB 9-5 Break/Estate 2.0 i Turbo 150cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-281,Break/Estate (10/1998 - 08/2001),10/1998,08/2001,22946,SAAB 9-5,SAAB 9-5 Break/Estate 2.3 i Turbo 230cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-281,Break/Estate (10/1998 - 08/2001),10/1998,08/2001,22947,SAAB 9-5,SAAB 9-5 Break/Estate 2.3 i Turbo 185cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-281,Break/Estate (10/1998 - 08/2001),10/1998,08/2001,51082,SAAB 9-5,SAAB 9-5 Break/Estate 2.0 i Turbo 185cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-281,Break/Estate (10/1998 - 08/2001),10/1998,08/2001,12057,SAAB 9-5,SAAB 9-5 Break/Estate 2.0 i Turbo 192cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-281,Break/Estate (10/1998 - 08/2001),10/1998,08/2001,8602,SAAB 9-5,SAAB 9-5 Break/Estate 3.0 i V6 Turbo 200cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-284,Berline Phase 3 (11/2005 - 07/2009),11/2005,07/2009,8749,SAAB 9-5,SAAB 9-5 Berline Phase 3 2.3 i Turbo 185cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-284,Berline Phase 3 (11/2005 - 07/2009),11/2005,07/2009,22955,SAAB 9-5,SAAB 9-5 Berline Phase 3 2.3 i Turbo 260cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-284,Berline Phase 3 (11/2005 - 07/2009),11/2005,07/2009,22952,SAAB 9-5,SAAB 9-5 Berline Phase 3 1.9 TiD Turbo 150cv,Diesel
+ma-181,SAAB,fa-707,9-5,mo-284,Berline Phase 3 (11/2005 - 07/2009),11/2005,07/2009,33866,SAAB 9-5,SAAB 9-5 Berline Phase 3 2.0 i Turbo BioPower 150cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-707,9-5,mo-284,Berline Phase 3 (11/2005 - 07/2009),11/2005,07/2009,30941,SAAB 9-5,SAAB 9-5 Berline Phase 3 2.3 i Turbo BioPower 209cv,Flex Fuel
+ma-181,SAAB,fa-707,9-5,mo-284,Berline Phase 3 (11/2005 - 07/2009),11/2005,07/2009,8748,SAAB 9-5,SAAB 9-5 Berline Phase 3 2.0 i Turbo BioPower 180cv,Flex Fuel
+ma-181,SAAB,fa-707,9-5,mo-284,Berline Phase 3 (11/2005 - 07/2009),11/2005,07/2009,30940,SAAB 9-5,SAAB 9-5 Berline Phase 3 2.3 i Turbo BioPower 209cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-707,9-5,mo-284,Berline Phase 3 (11/2005 - 07/2009),11/2005,07/2009,22953,SAAB 9-5,SAAB 9-5 Berline Phase 3 1.9 TiD Turbo 150cv Caixa Automática,Diesel
+ma-181,SAAB,fa-707,9-5,mo-284,Berline Phase 3 (11/2005 - 07/2009),11/2005,07/2009,12064,SAAB 9-5,SAAB 9-5 Berline Phase 3 2.3 i Turbo 185cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-284,Berline Phase 3 (11/2005 - 07/2009),11/2005,07/2009,33867,SAAB 9-5,SAAB 9-5 Berline Phase 3 2.0 i Turbo BioPower 150cv,Flex Fuel
+ma-181,SAAB,fa-707,9-5,mo-284,Berline Phase 3 (11/2005 - 07/2009),11/2005,07/2009,22954,SAAB 9-5,SAAB 9-5 Berline Phase 3 2.0 i Turbo 150cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-284,Berline Phase 3 (11/2005 - 07/2009),11/2005,07/2009,17785,SAAB 9-5,SAAB 9-5 Berline Phase 3 2.3 i Turbo 260cv,Essence
+ma-181,SAAB,fa-707,9-5,mo-284,Berline Phase 3 (11/2005 - 07/2009),11/2005,07/2009,17784,SAAB 9-5,SAAB 9-5 Berline Phase 3 2.0 i Turbo 150cv Caixa Automática,Essence
+ma-181,SAAB,fa-707,9-5,mo-284,Berline Phase 3 (11/2005 - 07/2009),11/2005,07/2009,12063,SAAB 9-5,SAAB 9-5 Berline Phase 3 2.0 i Turbo BioPower 180cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-710,9000,mo-262,5 portes (06/1984 - 07/1998),06/1984,07/1998,51076,SAAB 9000,SAAB 9000 5 portes 2.0 i 16V 131 cv Caixa Automática,Essence
+ma-181,SAAB,fa-710,9000,mo-262,5 portes (06/1984 - 07/1998),06/1984,07/1998,33856,SAAB 9000,SAAB 9000 5 portes 2.3 T Turbo 16V 170 cv,Essence
+ma-181,SAAB,fa-710,9000,mo-262,5 portes (06/1984 - 07/1998),06/1984,07/1998,30944,SAAB 9000,SAAB 9000 5 portes EcoPower 2.0 Turbo Hatchback 16V 154 cv Caixa Automática,Essence
+ma-181,SAAB,fa-710,9000,mo-262,5 portes (06/1984 - 07/1998),06/1984,07/1998,36926,SAAB 9000,SAAB 9000 5 portes 2.3 T Turbo 16V 200 cv Caixa Automática,Essence
+ma-181,SAAB,fa-710,9000,mo-262,5 portes (06/1984 - 07/1998),06/1984,07/1998,11856,SAAB 9000,SAAB 9000 5 portes 2.0-16 Turbo 175cv,Essence
+ma-181,SAAB,fa-710,9000,mo-262,5 portes (06/1984 - 07/1998),06/1984,07/1998,17753,SAAB 9000,SAAB 9000 5 portes 2.3-16 i 145cv,Essence
+ma-181,SAAB,fa-710,9000,mo-262,5 portes (06/1984 - 07/1998),06/1984,07/1998,22915,SAAB 9000,SAAB 9000 5 portes 2.3 i-16 145cv Caixa Automática,Essence
+ma-181,SAAB,fa-710,9000,mo-262,5 portes (06/1984 - 07/1998),06/1984,07/1998,35701,SAAB 9000,SAAB 9000 5 portes 2.3 T Turbo 16V 220 cv,Essence
+ma-181,SAAB,fa-710,9000,mo-262,5 portes (06/1984 - 07/1998),06/1984,07/1998,17755,SAAB 9000,SAAB 9000 5 portes 2.3-16 T Turbo 194cv Caixa Automática,Essence
+ma-181,SAAB,fa-710,9000,mo-262,5 portes (06/1984 - 07/1998),06/1984,07/1998,51077,SAAB 9000,SAAB 9000 5 portes 2.0 i 16V 131 cv,Essence
+ma-181,SAAB,fa-710,9000,mo-262,5 portes (06/1984 - 07/1998),06/1984,07/1998,30945,SAAB 9000,SAAB 9000 5 portes EcoPower 2.0 Turbo Hatchback 16V 154 cv,Essence
+ma-181,SAAB,fa-710,9000,mo-262,5 portes (06/1984 - 07/1998),06/1984,07/1998,12024,SAAB 9000,SAAB 9000 5 portes 2.0 i 130cv,Essence
+ma-181,SAAB,fa-710,9000,mo-262,5 portes (06/1984 - 07/1998),06/1984,07/1998,8579,SAAB 9000,SAAB 9000 5 portes 2.3-16 T Turbo 170cv Caixa Automática,Essence
+ma-181,SAAB,fa-710,9000,mo-262,5 portes (06/1984 - 07/1998),06/1984,07/1998,12025,SAAB 9000,SAAB 9000 5 portes 2.0 i-16 130cv Caixa Automática,Essence
+ma-181,SAAB,fa-710,9000,mo-262,5 portes (06/1984 - 07/1998),06/1984,07/1998,12023,SAAB 9000,SAAB 9000 5 portes 2.0-16 Turbo 175cv Caixa Automática,Essence
+ma-181,SAAB,fa-710,9000,mo-262,5 portes (06/1984 - 07/1998),06/1984,07/1998,22916,SAAB 9000,SAAB 9000 5 portes 2.3-16 T Turbo 224cv,Essence
+ma-181,SAAB,fa-710,9000,mo-262,5 portes (06/1984 - 07/1998),06/1984,07/1998,8578,SAAB 9000,SAAB 9000 5 portes 2.3-16 T Turbo 194cv,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,17752,SAAB 9000,SAAB 9000 Berline 2.3-16 T Turbo 194cv Caixa Automática,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,17754,SAAB 9000,SAAB 9000 Berline 2.3-16 T Turbo 170cv Caixa Automática,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,22910,SAAB 9000,SAAB 9000 Berline 2.0 i 130cv Caixa Automática,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,36925,SAAB 9000,SAAB 9000 Berline 2.3 T Turbo 16V 200 cv Caixa Automática,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,22913,SAAB 9000,SAAB 9000 Berline 2.0 i-16 131cv,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,17751,SAAB 9000,SAAB 9000 Berline 2.3-16 i 145cv,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,22909,SAAB 9000,SAAB 9000 Berline 2.0 i 130cv,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,8576,SAAB 9000,SAAB 9000 Berline 2.3-16 i 145cv Caixa Automática,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,58313,SAAB 9000,SAAB 9000 Berline EcoPower 2.0 Turbo 16V 150 cv Caixa Automática,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,36898,SAAB 9000,SAAB 9000 Berline 2.3 T Turbo 16V 225 cv,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,8577,SAAB 9000,SAAB 9000 Berline 3.0 i-24 V6 210cv,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,11855,SAAB 9000,SAAB 9000 Berline 2.3-16 T Turbo 170cv,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,17750,SAAB 9000,SAAB 9000 Berline 2.0 i-16 131cv,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,22914,SAAB 9000,SAAB 9000 Berline 2.0 i 131cv Caixa Automática,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,22912,SAAB 9000,SAAB 9000 Berline 3.0 i-24 V6 210cv Caixa Automática,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,22911,SAAB 9000,SAAB 9000 Berline 2.3-16 T Turbo 194cv,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,12027,SAAB 9000,SAAB 9000 Berline 3.0 i-24 V6 210cv Caixa Automática,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,8575,SAAB 9000,SAAB 9000 Berline 2.0 i 131cv Caixa Automática,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,12026,SAAB 9000,SAAB 9000 Berline 3.0 i-24 V6 210cv,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,58314,SAAB 9000,SAAB 9000 Berline EcoPower 2.0 Turbo 16V 150 cv,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,22907,SAAB 9000,SAAB 9000 Berline 2.0-16 Turbo 175cv,Essence
+ma-181,SAAB,fa-710,9000,mo-261,Berline (01/1988 - 07/1998),01/1988,07/1998,22908,SAAB 9000,SAAB 9000 Berline 2.0-16 Turbo 175cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-259,série 2 Cabriolet (07/1993 - 02/1998),07/1993,02/1998,28626,SAAB 900,SAAB 900 série 2 Cabriolet 2.0 131 cv,Essence
+ma-181,SAAB,fa-709,900,mo-259,série 2 Cabriolet (07/1993 - 02/1998),07/1993,02/1998,28629,SAAB 900,SAAB 900 série 2 Cabriolet 2.5 V6 170 cv,Essence
+ma-181,SAAB,fa-709,900,mo-259,série 2 Cabriolet (07/1993 - 02/1998),07/1993,02/1998,28628,SAAB 900,SAAB 900 série 2 Cabriolet 2.0 Turbo 185 cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-259,série 2 Cabriolet (07/1993 - 02/1998),07/1993,02/1998,17760,SAAB 900,SAAB 900 série 2 Cabriolet 2.3-16 145cv,Essence
+ma-181,SAAB,fa-709,900,mo-259,série 2 Cabriolet (07/1993 - 02/1998),07/1993,02/1998,28630,SAAB 900,SAAB 900 série 2 Cabriolet 2.5 V6 170 cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-259,série 2 Cabriolet (07/1993 - 02/1998),07/1993,02/1998,8583,SAAB 900,SAAB 900 série 2 Cabriolet 2.0-16 Turbo 185cv,Essence
+ma-181,SAAB,fa-709,900,mo-259,série 2 Cabriolet (07/1993 - 02/1998),07/1993,02/1998,28627,SAAB 900,SAAB 900 série 2 Cabriolet 2.0 131 cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-258,série 2 hatchback (07/1993 - 02/1998),07/1993,02/1998,8581,SAAB 900,SAAB 900 série 2 hatchback 2.0 131cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-258,série 2 hatchback (07/1993 - 02/1998),07/1993,02/1998,17756,SAAB 900,SAAB 900 série 2 hatchback 2.0 131cv,Essence
+ma-181,SAAB,fa-709,900,mo-258,série 2 hatchback (07/1993 - 02/1998),07/1993,02/1998,12028,SAAB 900,SAAB 900 série 2 hatchback 2.0-16 Turbo 185cv,Essence
+ma-181,SAAB,fa-709,900,mo-258,série 2 hatchback (07/1993 - 02/1998),07/1993,02/1998,12031,SAAB 900,SAAB 900 série 2 hatchback 2.5-16 V6 170cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-258,série 2 hatchback (07/1993 - 02/1998),07/1993,02/1998,17757,SAAB 900,SAAB 900 série 2 hatchback 2.0 133cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-258,série 2 hatchback (07/1993 - 02/1998),07/1993,02/1998,8580,SAAB 900,SAAB 900 série 2 hatchback 2.0 133cv,Essence
+ma-181,SAAB,fa-709,900,mo-258,série 2 hatchback (07/1993 - 02/1998),07/1993,02/1998,12029,SAAB 900,SAAB 900 série 2 hatchback 2.3-16 145cv,Essence
+ma-181,SAAB,fa-709,900,mo-258,série 2 hatchback (07/1993 - 02/1998),07/1993,02/1998,12030,SAAB 900,SAAB 900 série 2 hatchback 2.3-16 145cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-258,série 2 hatchback (07/1993 - 02/1998),07/1993,02/1998,17758,SAAB 900,SAAB 900 série 2 hatchback 2.5-24 V6 170cv,Essence
+ma-181,SAAB,fa-709,900,mo-5319,série 1 (10/1980 - 06/1993),10/1980,06/1993,11850,SAAB 900,SAAB 900 série 1 2.0 i 110cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-5319,série 1 (10/1980 - 06/1993),10/1980,06/1993,11849,SAAB 900,SAAB 900 série 1 2.0 i 115cv,Essence
+ma-181,SAAB,fa-709,900,mo-5319,série 1 (10/1980 - 06/1993),10/1980,06/1993,11852,SAAB 900,SAAB 900 série 1 2.0 T Turbo 155cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-5319,série 1 (10/1980 - 06/1993),10/1980,06/1993,17747,SAAB 900,SAAB 900 série 1 2.0 i-16 130cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-5319,série 1 (10/1980 - 06/1993),10/1980,06/1993,8564,SAAB 900,SAAB 900 série 1 2.0 100cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-5319,série 1 (10/1980 - 06/1993),10/1980,06/1993,17745,SAAB 900,SAAB 900 série 1 2.0 T Turbo 145cv,Essence
+ma-181,SAAB,fa-709,900,mo-5319,série 1 (10/1980 - 06/1993),10/1980,06/1993,11848,SAAB 900,SAAB 900 série 1 2.0 110cv,Essence
+ma-181,SAAB,fa-709,900,mo-5319,série 1 (10/1980 - 06/1993),10/1980,06/1993,8573,SAAB 900,SAAB 900 série 1 2.0 i-16 130cv,Essence
+ma-181,SAAB,fa-709,900,mo-5319,série 1 (10/1980 - 06/1993),10/1980,06/1993,17743,SAAB 900,SAAB 900 série 1 2.0 i 118 cv,Essence
+ma-181,SAAB,fa-709,900,mo-5319,série 1 (10/1980 - 06/1993),10/1980,06/1993,8570,SAAB 900,SAAB 900 série 1 2.0 T Turbo 146cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-5319,série 1 (10/1980 - 06/1993),10/1980,06/1993,17741,SAAB 900,SAAB 900 série 1 2.0 100cv,Essence
+ma-181,SAAB,fa-709,900,mo-5319,série 1 (10/1980 - 06/1993),10/1980,06/1993,8569,SAAB 900,SAAB 900 série 1 2.0 T Turbo-16 S 175cv,Essence
+ma-181,SAAB,fa-709,900,mo-5319,série 1 (10/1980 - 06/1993),10/1980,06/1993,11851,SAAB 900,SAAB 900 série 1 2.0 T Turbo 155cv,Essence
+ma-181,SAAB,fa-709,900,mo-260,série 2 Coupé (07/1993 - 02/1998),07/1993,02/1998,22918,SAAB 900,SAAB 900 série 2 Coupé 2.0 131cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-260,série 2 Coupé (07/1993 - 02/1998),07/1993,02/1998,8582,SAAB 900,SAAB 900 série 2 Coupé 2.3-16 145cv,Essence
+ma-181,SAAB,fa-709,900,mo-260,série 2 Coupé (07/1993 - 02/1998),07/1993,02/1998,17759,SAAB 900,SAAB 900 série 2 Coupé 2.3-16 145cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-260,série 2 Coupé (07/1993 - 02/1998),07/1993,02/1998,12033,SAAB 900,SAAB 900 série 2 Coupé 2.0 133cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-260,série 2 Coupé (07/1993 - 02/1998),07/1993,02/1998,12032,SAAB 900,SAAB 900 série 2 Coupé 2.0 133cv,Essence
+ma-181,SAAB,fa-709,900,mo-260,série 2 Coupé (07/1993 - 02/1998),07/1993,02/1998,22917,SAAB 900,SAAB 900 série 2 Coupé 2.0 131cv,Essence
+ma-181,SAAB,fa-709,900,mo-260,série 2 Coupé (07/1993 - 02/1998),07/1993,02/1998,28624,SAAB 900,SAAB 900 série 2 Coupé 2.5 V6 170 cv,Essence
+ma-181,SAAB,fa-709,900,mo-260,série 2 Coupé (07/1993 - 02/1998),07/1993,02/1998,12034,SAAB 900,SAAB 900 série 2 Coupé 2.0-16 Turbo 185cv,Essence
+ma-181,SAAB,fa-709,900,mo-260,série 2 Coupé (07/1993 - 02/1998),07/1993,02/1998,28625,SAAB 900,SAAB 900 série 2 Coupé 2.5 V6 170 cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-260,série 2 Coupé (07/1993 - 02/1998),07/1993,02/1998,28623,SAAB 900,SAAB 900 série 2 Coupé 2.0 Turbo 185 cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-257,série 1 Cabriolet (08/1985 - 06/1993),08/1985,06/1993,17748,SAAB 900,SAAB 900 série 1 Cabriolet 2.0 T Turbo-16 141cv,Essence
+ma-181,SAAB,fa-709,900,mo-257,série 1 Cabriolet (08/1985 - 06/1993),08/1985,06/1993,8574,SAAB 900,SAAB 900 série 1 Cabriolet 2.0 T Turbo-16 175cv,Essence
+ma-181,SAAB,fa-709,900,mo-257,série 1 Cabriolet (08/1985 - 06/1993),08/1985,06/1993,22906,SAAB 900,SAAB 900 série 1 Cabriolet 2.0 i-16 130cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-257,série 1 Cabriolet (08/1985 - 06/1993),08/1985,06/1993,22905,SAAB 900,SAAB 900 série 1 Cabriolet 2.0 i-16 130cv,Essence
+ma-181,SAAB,fa-709,900,mo-257,série 1 Cabriolet (08/1985 - 06/1993),08/1985,06/1993,17749,SAAB 900,SAAB 900 série 1 Cabriolet 2.0 T Turbo-16 175cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-256,série 1 Berline (10/1980 - 06/1993),10/1980,06/1993,17746,SAAB 900,SAAB 900 série 1 Berline 2.0 T Turbo 146cv,Essence
+ma-181,SAAB,fa-709,900,mo-256,série 1 Berline (10/1980 - 06/1993),10/1980,06/1993,11853,SAAB 900,SAAB 900 série 1 Berline 2.0 i-16 130cv berline,Essence
+ma-181,SAAB,fa-709,900,mo-256,série 1 Berline (10/1980 - 06/1993),10/1980,06/1993,22900,SAAB 900,SAAB 900 série 1 Berline 2.0 i 118 cv,Essence
+ma-181,SAAB,fa-709,900,mo-256,série 1 Berline (10/1980 - 06/1993),10/1980,06/1993,8571,SAAB 900,SAAB 900 série 1 Berline 2.0 T Turbo-16 175cv,Essence
+ma-181,SAAB,fa-709,900,mo-256,série 1 Berline (10/1980 - 06/1993),10/1980,06/1993,35700,SAAB 900,SAAB 900 série 1 Berline 2.0 T Turbo 141 cv,Essence
+ma-181,SAAB,fa-709,900,mo-256,série 1 Berline (10/1980 - 06/1993),10/1980,06/1993,22902,SAAB 900,SAAB 900 série 1 Berline 2.0 T Turbo 155cv berline,Essence
+ma-181,SAAB,fa-709,900,mo-256,série 1 Berline (10/1980 - 06/1993),10/1980,06/1993,8566,SAAB 900,SAAB 900 série 1 Berline 2.0 100cv berline,Essence
+ma-181,SAAB,fa-709,900,mo-256,série 1 Berline (10/1980 - 06/1993),10/1980,06/1993,35699,SAAB 900,SAAB 900 série 1 Berline 2.0 T Turbo 141 cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-256,série 1 Berline (10/1980 - 06/1993),10/1980,06/1993,17744,SAAB 900,SAAB 900 série 1 Berline 2.0 i 108cv berline Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-256,série 1 Berline (10/1980 - 06/1993),10/1980,06/1993,11854,SAAB 900,SAAB 900 série 1 Berline 2.0 i-16 130cv berline Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-256,série 1 Berline (10/1980 - 06/1993),10/1980,06/1993,22901,SAAB 900,SAAB 900 série 1 Berline 2.0 i Berline Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-256,série 1 Berline (10/1980 - 06/1993),10/1980,06/1993,22903,SAAB 900,SAAB 900 série 1 Berline 2.0 T Turbo 155cv berline Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-256,série 1 Berline (10/1980 - 06/1993),10/1980,06/1993,8572,SAAB 900,SAAB 900 série 1 Berline 2.0 T Turbo 150cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-256,série 1 Berline (10/1980 - 06/1993),10/1980,06/1993,8565,SAAB 900,SAAB 900 série 1 Berline 2.0 Berline 115cv,Essence
+ma-181,SAAB,fa-709,900,mo-256,série 1 Berline (10/1980 - 06/1993),10/1980,06/1993,8568,SAAB 900,SAAB 900 série 1 Berline 2.0 i 115cv berline,Essence
+ma-181,SAAB,fa-709,900,mo-256,série 1 Berline (10/1980 - 06/1993),10/1980,06/1993,22904,SAAB 900,SAAB 900 série 1 Berline 2.0 T Allonge Turbo 155cv Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-6302,série 1 Coupé (09/1983 - 06/1993),09/1983,06/1993,17742,SAAB 900,SAAB 900 série 1 Coupé 2.0 i 115cv Coupé Caixa Automática,Essence
+ma-181,SAAB,fa-709,900,mo-6302,série 1 Coupé (09/1983 - 06/1993),09/1983,06/1993,8567,SAAB 900,SAAB 900 série 1 Coupé 2.0 i 118cv coupé,Essence
+ma-181,SAAB,fa-713,99,mo-289, (11/1967 - 12/1985),11/1967,12/1985,60246,SAAB 99,SAAB 99 1.9 Berline 86 cv,Essence
+ma-181,SAAB,fa-713,99,mo-289, (11/1967 - 12/1985),11/1967,12/1985,22959,SAAB 99,SAAB 99 2.0 Berline 100cv Caixa Automática,Essence
+ma-181,SAAB,fa-713,99,mo-289, (11/1967 - 12/1985),11/1967,12/1985,35702,SAAB 99,SAAB 99 2.0 Berline 108 cv,Essence
+ma-181,SAAB,fa-713,99,mo-289, (11/1967 - 12/1985),11/1967,12/1985,17788,SAAB 99,SAAB 99 2.0 Berline 107cv Caixa Automática,Essence
+ma-181,SAAB,fa-713,99,mo-289, (11/1967 - 12/1985),11/1967,12/1985,8756,SAAB 99,SAAB 99 2.0 i Berline 107cv,Essence
+ma-181,SAAB,fa-713,99,mo-289, (11/1967 - 12/1985),11/1967,12/1985,12070,SAAB 99,SAAB 99 2.0 Berline 100cv,Essence
+ma-181,SAAB,fa-713,99,mo-289, (11/1967 - 12/1985),11/1967,12/1985,17790,SAAB 99,SAAB 99 2.0 i Berline 100cv Caixa Automática,Essence
+ma-181,SAAB,fa-713,99,mo-289, (11/1967 - 12/1985),11/1967,12/1985,17789,SAAB 99,SAAB 99 2.0 Turbo Berline 146cv,Essence
+ma-181,SAAB,fa-1185,96,mo-2851, (10/1965 - 08/1980),10/1965,08/1980,25978,SAAB 96,SAAB 96 1.5 V4 68 cv,Essence
+ma-181,SAAB,fa-1185,96,mo-2851, (10/1965 - 08/1980),10/1965,08/1980,25977,SAAB 96,SAAB 96 1.5 V4 63 cv,Essence
+ma-181,SAAB,fa-1185,96,mo-2851, (10/1965 - 08/1980),10/1965,08/1980,25976,SAAB 96,SAAB 96 1.5 V4 65 cv,Essence
+ma-181,SAAB,fa-2020,9-3X,mo-4956, (05/2009 - 03/2012),05/2009,03/2012,46515,SAAB 9-3X,SAAB 9-3X 2.0 T 4WD 220 cv Caixa Automática,Essence
+ma-181,SAAB,fa-2020,9-3X,mo-4956, (05/2009 - 03/2012),05/2009,03/2012,33861,SAAB 9-3X,SAAB 9-3X 2.0 T 4WD 210 cv Caixa Automática,Essence
+ma-181,SAAB,fa-2020,9-3X,mo-4956, (05/2009 - 03/2012),05/2009,03/2012,67893,SAAB 9-3X,SAAB 9-3X 2.0 T BioPower 4WD 220 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-2020,9-3X,mo-4956, (05/2009 - 03/2012),05/2009,03/2012,33859,SAAB 9-3X,SAAB 9-3X 1.9 TTiD 2WD 180 cv,Diesel
+ma-181,SAAB,fa-2020,9-3X,mo-4956, (05/2009 - 03/2012),05/2009,03/2012,33862,SAAB 9-3X,SAAB 9-3X 2.0 T BioPower 4WD 210 cv Caixa Automática,Flex Fuel
+ma-181,SAAB,fa-2020,9-3X,mo-4956, (05/2009 - 03/2012),05/2009,03/2012,33858,SAAB 9-3X,SAAB 9-3X 1.9 TTiD 2WD 180 cv Caixa Automática,Diesel
+ma-181,SAAB,fa-2020,9-3X,mo-4956, (05/2009 - 03/2012),05/2009,03/2012,33863,SAAB 9-3X,SAAB 9-3X 2.0 T BioPower 4WD 210 cv,Flex Fuel
+ma-181,SAAB,fa-1184,95,mo-2850,Station Wagon (10/1965 - 12/1978),10/1965,12/1978,25979,SAAB 95,SAAB 95 Station Wagon 1.5 V4 65 cv,Essence
+ma-181,SAAB,fa-1184,95,mo-2850,Station Wagon (10/1965 - 12/1978),10/1965,12/1978,25980,SAAB 95,SAAB 95 Station Wagon 1.5 V4 63 cv,Essence
+ma-181,SAAB,fa-1184,95,mo-2850,Station Wagon (10/1965 - 12/1978),10/1965,12/1978,25981,SAAB 95,SAAB 95 Station Wagon 1.5 V4 68 cv,Essence
+ma-181,SAAB,fa-1885,97,mo-3579, (01/1966 - 12/1980),01/1966,12/1980,67891,SAAB 97,SAAB 97 Sonett 1.7 Coupé 76cv,Essence
+ma-181,SAAB,fa-2048,9-4X,mo-5119, (03/2011 - Hoje),03/2011,,67895,SAAB 9-4X,SAAB 9-4X 3.0 i V6 24V XWD 265 cv Caixa Automática,Essence
+ma-181,SAAB,fa-2048,9-4X,mo-5119, (03/2011 - Hoje),03/2011,,67894,SAAB 9-4X,SAAB 9-4X 2.8 T V6 24V XWD 300 cv Caixa Automática,Essence
+ma-181,SAAB,fa-712,9-7X,mo-288, (12/2005 - 05/2008),12/2005,05/2008,12069,SAAB 9-7X,SAAB 9-7X 5.3 i Break 300cv Caixa Automática,Essence
+ma-181,SAAB,fa-712,9-7X,mo-288, (12/2005 - 05/2008),12/2005,05/2008,8754,SAAB 9-7X,SAAB 9-7X 5.3 i Bi-Carburation Break 300cv Caixa Automática,GPL
+ma-181,SAAB,fa-712,9-7X,mo-288, (12/2005 - 05/2008),12/2005,05/2008,8753,SAAB 9-7X,SAAB 9-7X 4.2 i Break 290cv Caixa Automática,Essence
+ma-181,SAAB,fa-712,9-7X,mo-288, (12/2005 - 05/2008),12/2005,05/2008,17787,SAAB 9-7X,SAAB 9-7X 4.2 i GPL Break 290cv Caixa Automática,GPL
+ma-181,SAAB,fa-712,9-7X,mo-288, (12/2005 - 05/2008),12/2005,05/2008,8755,SAAB 9-7X,SAAB 9-7X 5.3 i GPL Break 300cv Caixa Automática,GPL
+ma-181,SAAB,fa-712,9-7X,mo-288, (12/2005 - 05/2008),12/2005,05/2008,12068,SAAB 9-7X,SAAB 9-7X 4.2 i Bi-Carburation Break 290cv Caixa Automática,GPL
+ma-181,SAAB,fa-708,90,mo-250, (01/1984 - 12/1987),01/1984,12/1987,11847,SAAB 90,SAAB 90 2.0 Berline 100cv,Essence

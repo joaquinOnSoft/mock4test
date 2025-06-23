@@ -1,0 +1,97 @@
+brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
+ma-138,SMART,fa-470,Fortwo,mo-3463,Coupé (451) (01/2007 - 11/2014),01/2007,11/2014,35292,SMART Fortwo,SMART Fortwo Coupé (451) ED 41 cv Caixa Automática,Electrique
+ma-138,SMART,fa-470,Fortwo,mo-3463,Coupé (451) (01/2007 - 11/2014),01/2007,11/2014,31663,SMART Fortwo,SMART Fortwo Coupé (451) Brabus 1.0 Turbo BR 98 cv Caixa Automática,Essence
+ma-138,SMART,fa-470,Fortwo,mo-3463,Coupé (451) (01/2007 - 11/2014),01/2007,11/2014,56653,SMART Fortwo,SMART Fortwo Coupé (451) Brabus ED 82 cv Caixa Automática,Electrique
+ma-138,SMART,fa-470,Fortwo,mo-3463,Coupé (451) (01/2007 - 11/2014),01/2007,11/2014,28241,SMART Fortwo,SMART Fortwo Coupé (451) 1.0 i BR 61 cv Caixa Automática,Essence
+ma-138,SMART,fa-470,Fortwo,mo-3463,Coupé (451) (01/2007 - 11/2014),01/2007,11/2014,28243,SMART Fortwo,SMART Fortwo Coupé (451) 1.0 Turbo BR 84 cv Caixa Automática,Essence
+ma-138,SMART,fa-470,Fortwo,mo-3463,Coupé (451) (01/2007 - 11/2014),01/2007,11/2014,35291,SMART Fortwo,SMART Fortwo Coupé (451) Brabus 1.0 12V Turbo 102 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-3463,Coupé (451) (01/2007 - 11/2014),01/2007,11/2014,35289,SMART Fortwo,SMART Fortwo Coupé (451) 1.0 i 12V MHD 61 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-3463,Coupé (451) (01/2007 - 11/2014),01/2007,11/2014,38865,SMART Fortwo,SMART Fortwo Coupé (451) ED 48 cv Caixa Automática,Electrique
+ma-138,SMART,fa-470,Fortwo,mo-3463,Coupé (451) (01/2007 - 11/2014),01/2007,11/2014,35288,SMART Fortwo,SMART Fortwo Coupé (451) 0.8 cdi BR 54 cv Caixa Automática,Diesel
+ma-138,SMART,fa-470,Fortwo,mo-3463,Coupé (451) (01/2007 - 11/2014),01/2007,11/2014,28240,SMART Fortwo,SMART Fortwo Coupé (451) 0.8 cdi BR 45 cv Caixa Automática,Diesel
+ma-138,SMART,fa-470,Fortwo,mo-3463,Coupé (451) (01/2007 - 11/2014),01/2007,11/2014,35290,SMART Fortwo,SMART Fortwo Coupé (451) 1.0 i 12V MHD 71 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-3463,Coupé (451) (01/2007 - 11/2014),01/2007,11/2014,28242,SMART Fortwo,SMART Fortwo Coupé (451) 1.0 i 12V 71 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-990,City Coupé (450) (10/1998 - 01/2004),10/1998,01/2004,15546,SMART Fortwo,SMART Fortwo City Coupé (450) 0.7 i 61 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-990,City Coupé (450) (10/1998 - 01/2004),10/1998,01/2004,5004,SMART Fortwo,SMART Fortwo City Coupé (450) 0.7 i 50 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-990,City Coupé (450) (10/1998 - 01/2004),10/1998,01/2004,15543,SMART Fortwo,SMART Fortwo City Coupé (450) 0.6 i 45 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-990,City Coupé (450) (10/1998 - 01/2004),10/1998,01/2004,20890,SMART Fortwo,SMART Fortwo City Coupé (450) 0.8 CDI 41cv Caixa Automática,Diesel
+ma-138,SMART,fa-470,Fortwo,mo-990,City Coupé (450) (10/1998 - 01/2004),10/1998,01/2004,7059,SMART Fortwo,SMART Fortwo City Coupé (450) Brabus 0.7 i 75 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-990,City Coupé (450) (10/1998 - 01/2004),10/1998,01/2004,15544,SMART Fortwo,SMART Fortwo City Coupé (450) 0.6 i 55 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-990,City Coupé (450) (10/1998 - 01/2004),10/1998,01/2004,35283,SMART Fortwo,SMART Fortwo City Coupé (450) Brabus 0.6 i 71 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-990,City Coupé (450) (10/1998 - 01/2004),10/1998,01/2004,5003,SMART Fortwo,SMART Fortwo City Coupé (450) 0.6 i 55 cv Caixa Automática,Essence
+ma-138,SMART,fa-470,Fortwo,mo-990,City Coupé (450) (10/1998 - 01/2004),10/1998,01/2004,15545,SMART Fortwo,SMART Fortwo City Coupé (450) 0.6 i 61 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-990,City Coupé (450) (10/1998 - 01/2004),10/1998,01/2004,5005,SMART Fortwo,SMART Fortwo City Coupé (450) 0.8 CDI 41 cv,Diesel
+ma-138,SMART,fa-470,Fortwo,mo-7581,Coupé (450) (01/2004 - 02/2007),01/2004,02/2007,67156,SMART Fortwo,SMART Fortwo Coupé (450) 0.8 CDi 41 cv Caixa Automática,Diesel
+ma-138,SMART,fa-470,Fortwo,mo-7581,Coupé (450) (01/2004 - 02/2007),01/2004,02/2007,67154,SMART Fortwo,SMART Fortwo Coupé (450) 0.7 i 50 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-7581,Coupé (450) (01/2004 - 02/2007),01/2004,02/2007,67155,SMART Fortwo,SMART Fortwo Coupé (450) 0.7 i 61 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-7581,Coupé (450) (01/2004 - 02/2007),01/2004,02/2007,67157,SMART Fortwo,SMART Fortwo Coupé (450) 0.7 i 75 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-989,Cabrio (450) (03/2000 - 01/2004),03/2000,01/2004,7058,SMART Fortwo,SMART Fortwo Cabrio (450) 0.7 i 61 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-989,Cabrio (450) (03/2000 - 01/2004),03/2000,01/2004,5002,SMART Fortwo,SMART Fortwo Cabrio (450) 0.8 CDI 41 cv,Diesel
+ma-138,SMART,fa-470,Fortwo,mo-989,Cabrio (450) (03/2000 - 01/2004),03/2000,01/2004,20889,SMART Fortwo,SMART Fortwo Cabrio (450) Brabus 0.7 i 75 cv Caixa Automática,Essence
+ma-138,SMART,fa-470,Fortwo,mo-989,Cabrio (450) (03/2000 - 01/2004),03/2000,01/2004,67149,SMART Fortwo,SMART Fortwo Cabrio (450) Brabus 0.6 i 71 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-989,Cabrio (450) (03/2000 - 01/2004),03/2000,01/2004,7057,SMART Fortwo,SMART Fortwo Cabrio (450) 0.6 i 61 cv Caixa Automática,Essence
+ma-138,SMART,fa-470,Fortwo,mo-989,Cabrio (450) (03/2000 - 01/2004),03/2000,01/2004,15542,SMART Fortwo,SMART Fortwo Cabrio (450) 0.6 i 55 cv Caixa Automática,Essence
+ma-138,SMART,fa-470,Fortwo,mo-5861,(453) (07/2014 - 09/2019),07/2014,09/2019,49068,SMART Fortwo,SMART Fortwo (453) 1.0 i 12V Cabriolet S&S 71 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-5861,(453) (07/2014 - 09/2019),07/2014,09/2019,49066,SMART Fortwo,SMART Fortwo (453) 0.9 TI 12V Cabriolet twinamic S&S 90 cv Caixa Automática,Essence
+ma-138,SMART,fa-470,Fortwo,mo-5861,(453) (07/2014 - 09/2019),07/2014,09/2019,50520,SMART Fortwo,SMART Fortwo (453) Brabus 0.9 TI 12V Coupé twinamic S&S 109 cv Caixa Automática,Essence
+ma-138,SMART,fa-470,Fortwo,mo-5861,(453) (07/2014 - 09/2019),07/2014,09/2019,50521,SMART Fortwo,SMART Fortwo (453) Brabus 0.9 TI 12V Cabriolet twinamic S&S 109 cv Caixa Automática,Essence
+ma-138,SMART,fa-470,Fortwo,mo-5861,(453) (07/2014 - 09/2019),07/2014,09/2019,44600,SMART Fortwo,SMART Fortwo (453) 0.9 TI 12V Coupé S&S 90 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-5861,(453) (07/2014 - 09/2019),07/2014,09/2019,44602,SMART Fortwo,SMART Fortwo (453) 1.0 i 12V Coupé S&S 71 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-5861,(453) (07/2014 - 09/2019),07/2014,09/2019,46592,SMART Fortwo,SMART Fortwo (453) 1.0 i 12V Coupé S&S 61 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-5861,(453) (07/2014 - 09/2019),07/2014,09/2019,49065,SMART Fortwo,SMART Fortwo (453) 0.9 TI 12V Cabriolet S&S 90 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-5861,(453) (07/2014 - 09/2019),07/2014,09/2019,49069,SMART Fortwo,SMART Fortwo (453) 1.0 i 12V Cabriolet twinamic S&S 71 cv Caixa Automática,Essence
+ma-138,SMART,fa-470,Fortwo,mo-5861,(453) (07/2014 - 09/2019),07/2014,09/2019,56897,SMART Fortwo,SMART Fortwo (453) ED/EQ Coupé 81 cv Caixa Automática,Electrique
+ma-138,SMART,fa-470,Fortwo,mo-5861,(453) (07/2014 - 09/2019),07/2014,09/2019,46590,SMART Fortwo,SMART Fortwo (453) 1.0 i 12V Coupé twinamic S&S 71 cv Caixa Automática,Essence
+ma-138,SMART,fa-470,Fortwo,mo-5861,(453) (07/2014 - 09/2019),07/2014,09/2019,49067,SMART Fortwo,SMART Fortwo (453) 0.9 TI 12V Coupé twinamic S&S 90 cv Caixa Automática,Essence
+ma-138,SMART,fa-470,Fortwo,mo-5861,(453) (07/2014 - 09/2019),07/2014,09/2019,56896,SMART Fortwo,SMART Fortwo (453) ED/EQ Cabriolet 81 cv Caixa Automática,Electrique
+ma-138,SMART,fa-470,Fortwo,mo-3462,Cabriolet (451) (01/2007 - 11/2014),01/2007,11/2014,35285,SMART Fortwo,SMART Fortwo Cabriolet (451) 1.0 i 12V MHD 71 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-3462,Cabriolet (451) (01/2007 - 11/2014),01/2007,11/2014,56652,SMART Fortwo,SMART Fortwo Cabriolet (451) Brabus ED 82 cv Caixa Automática,Electrique
+ma-138,SMART,fa-470,Fortwo,mo-3462,Cabriolet (451) (01/2007 - 11/2014),01/2007,11/2014,31662,SMART Fortwo,SMART Fortwo Cabriolet (451) Brabus 1.0 Turbo BR 98 cv Caixa Automática,Essence
+ma-138,SMART,fa-470,Fortwo,mo-3462,Cabriolet (451) (01/2007 - 11/2014),01/2007,11/2014,28238,SMART Fortwo,SMART Fortwo Cabriolet (451) 1.0 i BR 71 cv Caixa Automática,Essence
+ma-138,SMART,fa-470,Fortwo,mo-3462,Cabriolet (451) (01/2007 - 11/2014),01/2007,11/2014,28237,SMART Fortwo,SMART Fortwo Cabriolet (451) 0.8 cdi BR 45 cv Caixa Automática,Diesel
+ma-138,SMART,fa-470,Fortwo,mo-3462,Cabriolet (451) (01/2007 - 11/2014),01/2007,11/2014,35287,SMART Fortwo,SMART Fortwo Cabriolet (451) ED 41 cv Caixa Automática,Electrique
+ma-138,SMART,fa-470,Fortwo,mo-3462,Cabriolet (451) (01/2007 - 11/2014),01/2007,11/2014,38864,SMART Fortwo,SMART Fortwo Cabriolet (451) ED 48 cv Caixa Automática,Electrique
+ma-138,SMART,fa-470,Fortwo,mo-3462,Cabriolet (451) (01/2007 - 11/2014),01/2007,11/2014,28239,SMART Fortwo,SMART Fortwo Cabriolet (451) 1.0 Turbo BR 84 cv Caixa Automática,Essence
+ma-138,SMART,fa-470,Fortwo,mo-3462,Cabriolet (451) (01/2007 - 11/2014),01/2007,11/2014,35286,SMART Fortwo,SMART Fortwo Cabriolet (451) Brabus 1.0 12V Turbo 102 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-3462,Cabriolet (451) (01/2007 - 11/2014),01/2007,11/2014,35284,SMART Fortwo,SMART Fortwo Cabriolet (451) 0.8 cdi BR 54 cv Caixa Automática,Diesel
+ma-138,SMART,fa-470,Fortwo,mo-7580,Cabrio (450) (01/2004 - 01/2007),01/2004,01/2007,67153,SMART Fortwo,SMART Fortwo Cabrio (450) Brabus 0.7 i 75 cv Caixa Automática,Essence
+ma-138,SMART,fa-470,Fortwo,mo-7580,Cabrio (450) (01/2004 - 01/2007),01/2004,01/2007,67151,SMART Fortwo,SMART Fortwo Cabrio (450) 0.8 CDi 41 cv,Diesel
+ma-138,SMART,fa-470,Fortwo,mo-7580,Cabrio (450) (01/2004 - 01/2007),01/2004,01/2007,67150,SMART Fortwo,SMART Fortwo Cabrio (450) 0.7 i 61 cv,Essence
+ma-138,SMART,fa-470,Fortwo,mo-7219,(453) Phase 2 (09/2019 - Hoje),09/2019,,62187,SMART Fortwo,SMART Fortwo (453) Phase 2 EQ Coupé 81 cv Caixa Automática,Electrique
+ma-138,SMART,fa-470,Fortwo,mo-7219,(453) Phase 2 (09/2019 - Hoje),09/2019,,62186,SMART Fortwo,SMART Fortwo (453) Phase 2 EQ Cabriolet 81 cv Caixa Automática,Electrique
+ma-138,SMART,fa-468,Forfour,mo-986,(454) (04/2004 - 06/2006),04/2004,06/2006,7055,SMART Forfour,SMART Forfour (454) 1.5 i Softouch 109cv Caixa Automática,Essence
+ma-138,SMART,fa-468,Forfour,mo-986,(454) (04/2004 - 06/2006),04/2004,06/2006,4927,SMART Forfour,SMART Forfour (454) 1.1 i 64cv,Essence
+ma-138,SMART,fa-468,Forfour,mo-986,(454) (04/2004 - 06/2006),04/2004,06/2006,4931,SMART Forfour,SMART Forfour (454) 1.5 Cdi Softouch 95cv Caixa Automática,Diesel
+ma-138,SMART,fa-468,Forfour,mo-986,(454) (04/2004 - 06/2006),04/2004,06/2006,4929,SMART Forfour,SMART Forfour (454) 1.3 i 95cv,Essence
+ma-138,SMART,fa-468,Forfour,mo-986,(454) (04/2004 - 06/2006),04/2004,06/2006,15540,SMART Forfour,SMART Forfour (454) 1.5 Cdi Softouch 68cv Caixa Automática,Diesel
+ma-138,SMART,fa-468,Forfour,mo-986,(454) (04/2004 - 06/2006),04/2004,06/2006,7053,SMART Forfour,SMART Forfour (454) 1.1 i 75cv,Essence
+ma-138,SMART,fa-468,Forfour,mo-986,(454) (04/2004 - 06/2006),04/2004,06/2006,20886,SMART Forfour,SMART Forfour (454) 1.3 i Softouch 95cv Caixa Automática,Essence
+ma-138,SMART,fa-468,Forfour,mo-986,(454) (04/2004 - 06/2006),04/2004,06/2006,4930,SMART Forfour,SMART Forfour (454) 1.5 Cdi 68cv,Diesel
+ma-138,SMART,fa-468,Forfour,mo-986,(454) (04/2004 - 06/2006),04/2004,06/2006,4928,SMART Forfour,SMART Forfour (454) 1.1 i Softouch 75cv Caixa Automática,Essence
+ma-138,SMART,fa-468,Forfour,mo-986,(454) (04/2004 - 06/2006),04/2004,06/2006,39922,SMART Forfour,SMART Forfour (454) 1.5 i Brabus 122 cv,Essence
+ma-138,SMART,fa-468,Forfour,mo-986,(454) (04/2004 - 06/2006),04/2004,06/2006,4932,SMART Forfour,SMART Forfour (454) 1.5 i Brabus 177cv,Essence
+ma-138,SMART,fa-468,Forfour,mo-986,(454) (04/2004 - 06/2006),04/2004,06/2006,7054,SMART Forfour,SMART Forfour (454) 1.5 Cdi 95cv,Diesel
+ma-138,SMART,fa-468,Forfour,mo-986,(454) (04/2004 - 06/2006),04/2004,06/2006,20887,SMART Forfour,SMART Forfour (454) 1.5 i 109cv,Essence
+ma-138,SMART,fa-468,Forfour,mo-986,(454) (04/2004 - 06/2006),04/2004,06/2006,39923,SMART Forfour,SMART Forfour (454) 1.5 i Brabus Softouch 122 cv Caixa Automática,Essence
+ma-138,SMART,fa-468,Forfour,mo-5860,II (453) (07/2014 - 09/2019),07/2014,09/2019,59527,SMART Forfour,SMART Forfour II (453) EQ 56 cv Caixa Automática,Electrique
+ma-138,SMART,fa-468,Forfour,mo-5860,II (453) (07/2014 - 09/2019),07/2014,09/2019,50519,SMART Forfour,SMART Forfour II (453) 0.9 TI 12V twinamic S&S 109 cv Caixa Automática,Essence
+ma-138,SMART,fa-468,Forfour,mo-5860,II (453) (07/2014 - 09/2019),07/2014,09/2019,56895,SMART Forfour,SMART Forfour II (453) Electric Drive 81 cv Caixa Automática,Electrique
+ma-138,SMART,fa-468,Forfour,mo-5860,II (453) (07/2014 - 09/2019),07/2014,09/2019,44598,SMART Forfour,SMART Forfour II (453) 0.9 TI 12V S&S 90 cv,Essence
+ma-138,SMART,fa-468,Forfour,mo-5860,II (453) (07/2014 - 09/2019),07/2014,09/2019,44599,SMART Forfour,SMART Forfour II (453) 1.0 i 12V S&S 71 cv,Essence
+ma-138,SMART,fa-468,Forfour,mo-5860,II (453) (07/2014 - 09/2019),07/2014,09/2019,49064,SMART Forfour,SMART Forfour II (453) 1.0 i 12V twinamic S&S 71 cv Caixa Automática,Essence
+ma-138,SMART,fa-468,Forfour,mo-5860,II (453) (07/2014 - 09/2019),07/2014,09/2019,46591,SMART Forfour,SMART Forfour II (453) 1.0 i 12V S&S 61 cv,Essence
+ma-138,SMART,fa-468,Forfour,mo-5860,II (453) (07/2014 - 09/2019),07/2014,09/2019,49063,SMART Forfour,SMART Forfour II (453) 0.9 TI 12V twinamic S&S 90 cv Caixa Automática,Essence
+ma-138,SMART,fa-468,Forfour,mo-7290,II (453) Phase 2 (09/2019 - Hoje),09/2019,,67146,SMART Forfour,SMART Forfour II (453) Phase 2 Electric Drive 81 cv Caixa Automática,Electrique
+ma-138,SMART,fa-469,Roadster,mo-1727,Coupé (452) (05/2003 - 11/2005),05/2003,11/2005,4933,SMART Roadster,SMART Roadster Coupé (452) 0.7 i 82 cv Caixa Automática,Essence
+ma-138,SMART,fa-469,Roadster,mo-1727,Coupé (452) (05/2003 - 11/2005),05/2003,11/2005,35293,SMART Roadster,SMART Roadster Coupé (452) 0.7 i 61 cv Caixa Automática,Essence
+ma-138,SMART,fa-469,Roadster,mo-1727,Coupé (452) (05/2003 - 11/2005),05/2003,11/2005,15541,SMART Roadster,SMART Roadster Coupé (452) Brabus 0.7 i 100 cv Caixa Automática,Essence
+ma-138,SMART,fa-469,Roadster,mo-1726,(452) (05/2003 - 11/2005),05/2003,11/2005,7056,SMART Roadster,SMART Roadster (452) 0.7 i 61 cv Caixa Automática,Essence
+ma-138,SMART,fa-469,Roadster,mo-1726,(452) (05/2003 - 11/2005),05/2003,11/2005,20888,SMART Roadster,SMART Roadster (452) 0.7 i 82 cv Caixa Automática,Essence
+ma-138,SMART,fa-469,Roadster,mo-1726,(452) (05/2003 - 11/2005),05/2003,11/2005,5000,SMART Roadster,SMART Roadster (452) Brabus 0.7 i 100 cv Caixa Automática,Essence
+ma-138,SMART,fa-2437,#1,mo-7763,(HX11) (06/2022 - Hoje),06/2022,,69656,SMART #1,SMART #1 (HX11) EV (7.4 kW) 272 cv Caixa Automática,Electrique
+ma-138,SMART,fa-2437,#1,mo-7763,(HX11) (06/2022 - Hoje),06/2022,,69657,SMART #1,SMART #1 (HX11) EV (22 kW) Traction intégrale 428 cv Caixa Automática,Electrique
+ma-138,SMART,fa-2437,#1,mo-7763,(HX11) (06/2022 - Hoje),06/2022,,69658,SMART #1,SMART #1 (HX11) EV (22 kW) 272 cv Caixa Automática,Electrique
+ma-138,SMART,fa-467,Crossblade,mo-801,(450) (06/2002 - 12/2003),06/2002,12/2003,15539,SMART Crossblade,SMART Crossblade (450) 0.6 i Cabriolet 71 cv Caixa Automática,Essence
+ma-138,SMART,fa-2444,#3,mo-7779, (06/2023 - Hoje),06/2023,,69851,SMART #3,SMART #3 EV (7.4 kW) 272 cv Caixa Automática,Electrique
+ma-138,SMART,fa-2444,#3,mo-7779, (06/2023 - Hoje),06/2023,,69854,SMART #3,SMART #3 EV (22 kW) Traction intégrale 428 cv Caixa Automática,Electrique
+ma-138,SMART,fa-2444,#3,mo-7779, (06/2023 - Hoje),06/2023,,69853,SMART #3,SMART #3 EV (22 kW) 272 cv Caixa Automática,Electrique

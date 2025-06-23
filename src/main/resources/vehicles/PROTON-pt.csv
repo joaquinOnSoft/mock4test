@@ -1,0 +1,33 @@
+brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
+ma-172,PROTON,fa-1849,400 Series,mo-3528,400 berline (11/1993 - 01/2006),11/1993,01/2006,28134,PROTON 400 Series,PROTON 400 Series 400 berline 413 1.3 i 75 cv,Essence
+ma-172,PROTON,fa-1849,400 Series,mo-3528,400 berline (11/1993 - 01/2006),11/1993,01/2006,28140,PROTON 400 Series,PROTON 400 Series 400 berline 418 1.8 i 130 cv,Essence
+ma-172,PROTON,fa-1849,400 Series,mo-3528,400 berline (11/1993 - 01/2006),11/1993,01/2006,28139,PROTON 400 Series,PROTON 400 Series 400 berline 416 1.6 i 113 cv Caixa Automática,Essence
+ma-172,PROTON,fa-1849,400 Series,mo-3528,400 berline (11/1993 - 01/2006),11/1993,01/2006,28138,PROTON 400 Series,PROTON 400 Series 400 berline 415 1.5 i 90 cv,Essence
+ma-172,PROTON,fa-1849,400 Series,mo-3528,400 berline (11/1993 - 01/2006),11/1993,01/2006,28141,PROTON 400 Series,PROTON 400 Series 400 berline 418 1.8 i 130 cv Caixa Automática,Essence
+ma-172,PROTON,fa-1849,400 Series,mo-3528,400 berline (11/1993 - 01/2006),11/1993,01/2006,28136,PROTON 400 Series,PROTON 400 Series 400 berline 420 2.0 TD 84 cv,Diesel
+ma-172,PROTON,fa-1849,400 Series,mo-3528,400 berline (11/1993 - 01/2006),11/1993,01/2006,28135,PROTON 400 Series,PROTON 400 Series 400 berline 420 2.0 D 68 cv,Diesel
+ma-172,PROTON,fa-1849,400 Series,mo-3528,400 berline (11/1993 - 01/2006),11/1993,01/2006,28133,PROTON 400 Series,PROTON 400 Series 400 berline 416 1.6 i 113 cv,Essence
+ma-172,PROTON,fa-1849,400 Series,mo-3528,400 berline (11/1993 - 01/2006),11/1993,01/2006,28137,PROTON 400 Series,PROTON 400 Series 400 berline 415 1.5 i 90 cv Caixa Automática,Essence
+ma-172,PROTON,fa-1849,400 Series,mo-3529,400 hatchback (11/1993 - 01/2006),11/1993,01/2006,28150,PROTON 400 Series,PROTON 400 Series 400 hatchback 418 1.8 i 130 cv Caixa Automática,Essence
+ma-172,PROTON,fa-1849,400 Series,mo-3529,400 hatchback (11/1993 - 01/2006),11/1993,01/2006,28149,PROTON 400 Series,PROTON 400 Series 400 hatchback 418 1.8 i 130 cv,Essence
+ma-172,PROTON,fa-1849,400 Series,mo-3529,400 hatchback (11/1993 - 01/2006),11/1993,01/2006,28143,PROTON 400 Series,PROTON 400 Series 400 hatchback 416 1.6 i 113 cv,Essence
+ma-172,PROTON,fa-1849,400 Series,mo-3529,400 hatchback (11/1993 - 01/2006),11/1993,01/2006,28144,PROTON 400 Series,PROTON 400 Series 400 hatchback 416 1.6 i 113 cv Caixa Automática,Essence
+ma-172,PROTON,fa-1849,400 Series,mo-3529,400 hatchback (11/1993 - 01/2006),11/1993,01/2006,28142,PROTON 400 Series,PROTON 400 Series 400 hatchback 415 1.5 i 90 cv Caixa Automática,Essence
+ma-172,PROTON,fa-1849,400 Series,mo-3529,400 hatchback (11/1993 - 01/2006),11/1993,01/2006,28148,PROTON 400 Series,PROTON 400 Series 400 hatchback 415 1.5 i 90 cv,Essence
+ma-172,PROTON,fa-1849,400 Series,mo-3529,400 hatchback (11/1993 - 01/2006),11/1993,01/2006,28145,PROTON 400 Series,PROTON 400 Series 400 hatchback 413 1.3 i 75 cv,Essence
+ma-172,PROTON,fa-1849,400 Series,mo-3529,400 hatchback (11/1993 - 01/2006),11/1993,01/2006,28146,PROTON 400 Series,PROTON 400 Series 400 hatchback 420 2.0 D 68 cv,Diesel
+ma-172,PROTON,fa-1849,400 Series,mo-3529,400 hatchback (11/1993 - 01/2006),11/1993,01/2006,28147,PROTON 400 Series,PROTON 400 Series 400 hatchback 420 2.0 TD 84 cv,Diesel
+ma-172,PROTON,fa-1848,300 Series,mo-3527,300 (08/1996 - 12/2005),08/1996,12/2005,28130,PROTON 300 Series,PROTON 300 Series 300 315 1.5 i 90 cv Caixa Automática,Essence
+ma-172,PROTON,fa-1848,300 Series,mo-3527,300 (08/1996 - 12/2005),08/1996,12/2005,28132,PROTON 300 Series,PROTON 300 Series 300 316 1.6 i 111 cv Caixa Automática,Essence
+ma-172,PROTON,fa-1848,300 Series,mo-3527,300 (08/1996 - 12/2005),08/1996,12/2005,28131,PROTON 300 Series,PROTON 300 Series 300 316 1.6 i 111 cv,Essence
+ma-172,PROTON,fa-1848,300 Series,mo-3527,300 (08/1996 - 12/2005),08/1996,12/2005,28128,PROTON 300 Series,PROTON 300 Series 300 313 1.3 i 75 cv,Essence
+ma-172,PROTON,fa-1848,300 Series,mo-3527,300 (08/1996 - 12/2005),08/1996,12/2005,28129,PROTON 300 Series,PROTON 300 Series 300 315 1.5 i 90 cv,Essence
+ma-172,PROTON,fa-1852,Persona,mo-2840,400 (01/1994 - Hoje),01/1994,,26685,PROTON Persona,PROTON Persona 400 1.8 135 cv,Essence
+ma-172,PROTON,fa-1852,Persona,mo-2840,400 (01/1994 - Hoje),01/1994,,26684,PROTON Persona,PROTON Persona 400 1.6 95 cv,Essence
+ma-172,PROTON,fa-1852,Persona,mo-2839,300 (03/1996 - Hoje),03/1996,,26506,PROTON Persona,PROTON Persona 300 318 16V GTI 135 cv,Essence
+ma-172,PROTON,fa-1852,Persona,mo-2839,300 (03/1996 - Hoje),03/1996,,26695,PROTON Persona,PROTON Persona 300 1.8 GTi 140 cv,Essence
+ma-172,PROTON,fa-1852,Persona,mo-2839,300 (03/1996 - Hoje),03/1996,,26507,PROTON Persona,PROTON Persona 300 316 95 cv,Essence
+ma-172,PROTON,fa-1852,Persona,mo-3532, (11/1993 - 03/2000),11/1993,03/2000,28151,PROTON Persona,PROTON Persona 1.6 i Berline 113 cv,Essence
+ma-172,PROTON,fa-1852,Persona,mo-3532, (11/1993 - 03/2000),11/1993,03/2000,28152,PROTON Persona,PROTON Persona 1.5 i Berline 90 cv,Essence
+ma-172,PROTON,fa-1852,Persona,mo-2841,400 3/5 portes (01/1994 - Hoje),01/1994,,26195,PROTON Persona,PROTON Persona 400 3/5 portes 416 i 95 cv,Essence
+ma-172,PROTON,fa-1852,Persona,mo-2841,400 3/5 portes (01/1994 - Hoje),01/1994,,26683,PROTON Persona,PROTON Persona 400 3/5 portes 1.8 135 cv,Essence

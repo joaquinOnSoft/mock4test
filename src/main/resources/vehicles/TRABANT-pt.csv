@@ -1,0 +1,5 @@
+brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
+ma-296,TRABANT,fa-1912,1.1,mo-3621, (01/1990 - 12/1991),01/1990,12/1991,68869,TRABANT 1.1,TRABANT 1.1 1.0 Berline 40 cv,Essence
+ma-296,TRABANT,fa-1913,P 601,mo-3622, (01/1963 - 12/1991),01/1963,12/1991,68868,TRABANT P 601,TRABANT P 601 Tramp 0.6 Découvrable 26 cv,Essence
+ma-296,TRABANT,fa-1913,P 601,mo-3622, (01/1963 - 12/1991),01/1963,12/1991,60208,TRABANT P 601,TRABANT P 601 0.6 Berline 26 cv,Essence
+ma-296,TRABANT,fa-1913,P 601,mo-3622, (01/1963 - 12/1991),01/1963,12/1991,68867,TRABANT P 601,TRABANT P 601 Universal 0.6 Break 26 cv,Essence

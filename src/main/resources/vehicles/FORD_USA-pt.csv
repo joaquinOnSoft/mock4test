@@ -1,0 +1,102 @@
+brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
+ma-269,FORD USA,fa-1365,Mustang,mo-6366,V-2 Coupé (02/2011 - 06/2014),02/2011,06/2014,61780,FORD USA Mustang,FORD USA Mustang V-2 Coupé 3.7 i V6 24V 309 cv,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6366,V-2 Coupé (02/2011 - 06/2014),02/2011,06/2014,61779,FORD USA Mustang,FORD USA Mustang V-2 Coupé 3.7 i V6 24V Automatic 309 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6366,V-2 Coupé (02/2011 - 06/2014),02/2011,06/2014,63799,FORD USA Mustang,FORD USA Mustang V-2 Coupé 5.0 i V8 32V Automatic 418 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6366,V-2 Coupé (02/2011 - 06/2014),02/2011,06/2014,63800,FORD USA Mustang,FORD USA Mustang V-2 Coupé 5.0 i V8 32V 418 cv,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-7216,Mach-E (09/2020 - Hoje),09/2020,,63792,FORD USA Mustang,FORD USA Mustang Mach-E Extended Range AWD 351 cv Caixa Automática,Electrique
+ma-269,FORD USA,fa-1365,Mustang,mo-7216,Mach-E (09/2020 - Hoje),09/2020,,63795,FORD USA Mustang,FORD USA Mustang Mach-E Extended Range RWD 294 cv Caixa Automática,Electrique
+ma-269,FORD USA,fa-1365,Mustang,mo-7216,Mach-E (09/2020 - Hoje),09/2020,,63791,FORD USA Mustang,FORD USA Mustang Mach-E Standard Range AWD 269 cv Caixa Automática,Electrique
+ma-269,FORD USA,fa-1365,Mustang,mo-7216,Mach-E (09/2020 - Hoje),09/2020,,63794,FORD USA Mustang,FORD USA Mustang Mach-E Standard Range RWD 269 cv Caixa Automática,Electrique
+ma-269,FORD USA,fa-1365,Mustang,mo-7216,Mach-E (09/2020 - Hoje),09/2020,,63793,FORD USA Mustang,FORD USA Mustang Mach-E GT Extended Range AWD 487 cv Caixa Automática,Electrique
+ma-269,FORD USA,fa-1365,Mustang,mo-7216,Mach-E (09/2020 - Hoje),09/2020,,63796,FORD USA Mustang,FORD USA Mustang Mach-E Extended Range AWD 337 cv Caixa Automática,Electrique
+ma-269,FORD USA,fa-1365,Mustang,mo-6766,VI Phase 2 Coupé (02/2018 - Hoje),02/2018,,59041,FORD USA Mustang,FORD USA Mustang VI Phase 2 Coupé 2.3 Ti EcoBoost 24V 290 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6766,VI Phase 2 Coupé (02/2018 - Hoje),02/2018,,59042,FORD USA Mustang,FORD USA Mustang VI Phase 2 Coupé 2.3 Ti EcoBoost 24V 290 cv,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6766,VI Phase 2 Coupé (02/2018 - Hoje),02/2018,,59043,FORD USA Mustang,FORD USA Mustang VI Phase 2 Coupé GT 5.0 i V8 32V 450 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6766,VI Phase 2 Coupé (02/2018 - Hoje),02/2018,,68356,FORD USA Mustang,FORD USA Mustang VI Phase 2 Coupé Bullitt 5.0 V8 32V 460 cv,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6766,VI Phase 2 Coupé (02/2018 - Hoje),02/2018,,59044,FORD USA Mustang,FORD USA Mustang VI Phase 2 Coupé GT 5.0 i V8 32V 450 cv,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6368,VI Coupé (05/2014 - 02/2018),05/2014,02/2018,63803,FORD USA Mustang,FORD USA Mustang VI Coupé 3.7 i V6 24V 304 cv,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6368,VI Coupé (05/2014 - 02/2018),05/2014,02/2018,52329,FORD USA Mustang,FORD USA Mustang VI Coupé 2.3 Ti EcoBoost 24V 309 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6368,VI Coupé (05/2014 - 02/2018),05/2014,02/2018,52332,FORD USA Mustang,FORD USA Mustang VI Coupé 5.0 i V8 24V 419 cv,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6368,VI Coupé (05/2014 - 02/2018),05/2014,02/2018,52330,FORD USA Mustang,FORD USA Mustang VI Coupé 2.3 Ti EcoBoost 24V 309 cv,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6368,VI Coupé (05/2014 - 02/2018),05/2014,02/2018,63802,FORD USA Mustang,FORD USA Mustang VI Coupé 3.7 i V6 24V Automatic 304 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6368,VI Coupé (05/2014 - 02/2018),05/2014,02/2018,52331,FORD USA Mustang,FORD USA Mustang VI Coupé 5.0 i V8 24V 421 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6367,V-2 Cabriolet (02/2011 - 06/2014),02/2011,06/2014,63797,FORD USA Mustang,FORD USA Mustang V-2 Cabriolet 5.0 i V8 32V Automatic 418 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6367,V-2 Cabriolet (02/2011 - 06/2014),02/2011,06/2014,61778,FORD USA Mustang,FORD USA Mustang V-2 Cabriolet 3.7 i V6 24V 309 cv,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6367,V-2 Cabriolet (02/2011 - 06/2014),02/2011,06/2014,61777,FORD USA Mustang,FORD USA Mustang V-2 Cabriolet 3.7 i V6 24V Automatic 309 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6367,V-2 Cabriolet (02/2011 - 06/2014),02/2011,06/2014,63798,FORD USA Mustang,FORD USA Mustang V-2 Cabriolet 5.0 i V8 32V 418 cv,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6369,VI Cabriolet (05/2014 - 02/2018),05/2014,02/2018,52333,FORD USA Mustang,FORD USA Mustang VI Cabriolet 2.3 Ti EcoBoost 24V 309 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6369,VI Cabriolet (05/2014 - 02/2018),05/2014,02/2018,52336,FORD USA Mustang,FORD USA Mustang VI Cabriolet 5.0 i V8 24V 421 cv,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6369,VI Cabriolet (05/2014 - 02/2018),05/2014,02/2018,52335,FORD USA Mustang,FORD USA Mustang VI Cabriolet 5.0 i V8 24V 419 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6369,VI Cabriolet (05/2014 - 02/2018),05/2014,02/2018,52334,FORD USA Mustang,FORD USA Mustang VI Cabriolet 2.3 Ti EcoBoost 24V 309 cv,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6369,VI Cabriolet (05/2014 - 02/2018),05/2014,02/2018,63801,FORD USA Mustang,FORD USA Mustang VI Cabriolet 3.7 i V6 24V 304 cv,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-3134,Convertible (09/1993 - 12/2004),09/1993,12/2004,27347,FORD USA Mustang,FORD USA Mustang Convertible 4.9 V8 218 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-3134,Convertible (09/1993 - 12/2004),09/1993,12/2004,27112,FORD USA Mustang,FORD USA Mustang Convertible 3.8 V6 152 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-7724,Convertible (09/2005 - 02/2011),09/2005,02/2011,68912,FORD USA Mustang,FORD USA Mustang Convertible 4.6 V8 305 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-7724,Convertible (09/2005 - 02/2011),09/2005,02/2011,68913,FORD USA Mustang,FORD USA Mustang Convertible 3.7 309 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-7724,Convertible (09/2005 - 02/2011),09/2005,02/2011,68911,FORD USA Mustang,FORD USA Mustang Convertible 4.0 V6 214 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-7724,Convertible (09/2005 - 02/2011),09/2005,02/2011,68917,FORD USA Mustang,FORD USA Mustang Convertible 5.4 507 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-7724,Convertible (09/2005 - 02/2011),09/2005,02/2011,68916,FORD USA Mustang,FORD USA Mustang Convertible 5.0 426 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-7724,Convertible (09/2005 - 02/2011),09/2005,02/2011,68915,FORD USA Mustang,FORD USA Mustang Convertible 5.0 418 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-7724,Convertible (09/2005 - 02/2011),09/2005,02/2011,68914,FORD USA Mustang,FORD USA Mustang Convertible 4.6 V8 320 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-7724,Convertible (09/2005 - 02/2011),09/2005,02/2011,68919,FORD USA Mustang,FORD USA Mustang Convertible 5.8 670 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-7724,Convertible (09/2005 - 02/2011),09/2005,02/2011,68918,FORD USA Mustang,FORD USA Mustang Convertible 5.4 V8 558 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-7723,Coupé (12/2004 - 02/2011),12/2004,02/2011,68902,FORD USA Mustang,FORD USA Mustang Coupé 4.0 V6 214 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-7723,Coupé (12/2004 - 02/2011),12/2004,02/2011,68909,FORD USA Mustang,FORD USA Mustang Coupé 5.4 V8 548 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-7723,Coupé (12/2004 - 02/2011),12/2004,02/2011,68908,FORD USA Mustang,FORD USA Mustang Coupé 5.4 507 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-7723,Coupé (12/2004 - 02/2011),12/2004,02/2011,68910,FORD USA Mustang,FORD USA Mustang Coupé 5.4 V8 558 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-7723,Coupé (12/2004 - 02/2011),12/2004,02/2011,68903,FORD USA Mustang,FORD USA Mustang Coupé 4.6 V8 305 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-7723,Coupé (12/2004 - 02/2011),12/2004,02/2011,68905,FORD USA Mustang,FORD USA Mustang Coupé 4.6 V8 320 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-7723,Coupé (12/2004 - 02/2011),12/2004,02/2011,68904,FORD USA Mustang,FORD USA Mustang Coupé 3.7 309 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-7723,Coupé (12/2004 - 02/2011),12/2004,02/2011,68907,FORD USA Mustang,FORD USA Mustang Coupé 5.4 V8 483 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-7723,Coupé (12/2004 - 02/2011),12/2004,02/2011,68906,FORD USA Mustang,FORD USA Mustang Coupé 5.0 418 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6767,VI Phase 2 Cabriolet (02/2018 - Hoje),02/2018,,59037,FORD USA Mustang,FORD USA Mustang VI Phase 2 Cabriolet 2.3 Ti EcoBoost 24V 290 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6767,VI Phase 2 Cabriolet (02/2018 - Hoje),02/2018,,59040,FORD USA Mustang,FORD USA Mustang VI Phase 2 Cabriolet 5.0 i V8 32V 450 cv,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6767,VI Phase 2 Cabriolet (02/2018 - Hoje),02/2018,,59038,FORD USA Mustang,FORD USA Mustang VI Phase 2 Cabriolet 2.3 Ti EcoBoost 24V 290 cv,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-6767,VI Phase 2 Cabriolet (02/2018 - Hoje),02/2018,,59039,FORD USA Mustang,FORD USA Mustang VI Phase 2 Cabriolet 5.0 i V8 24V 450 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-3133,Coupé (09/1993 - 12/2004),09/1993,12/2004,27127,FORD USA Mustang,FORD USA Mustang Coupé 3.8 V6 152 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1365,Mustang,mo-3133,Coupé (09/1993 - 12/2004),09/1993,12/2004,27488,FORD USA Mustang,FORD USA Mustang Coupé 4.9 V8 218 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1770,Probe,mo-3142,I (08/1988 - 07/1993),08/1988,07/1993,27590,FORD USA Probe,FORD USA Probe I 2.2 112 cv,Essence
+ma-269,FORD USA,fa-1770,Probe,mo-3142,I (08/1988 - 07/1993),08/1988,07/1993,27588,FORD USA Probe,FORD USA Probe I 2.2 GT 147 cv,Essence
+ma-269,FORD USA,fa-1770,Probe,mo-3142,I (08/1988 - 07/1993),08/1988,07/1993,27572,FORD USA Probe,FORD USA Probe I 3.0 V6 141 cv,Essence
+ma-269,FORD USA,fa-1770,Probe,mo-3374, (10/1992 - 12/1997),10/1992,12/1997,28183,FORD USA Probe,FORD USA Probe 2.0 i Coupé 115 cv,Essence
+ma-269,FORD USA,fa-1770,Probe,mo-3374, (10/1992 - 12/1997),10/1992,12/1997,27436,FORD USA Probe,FORD USA Probe 2.5 V6 24V 162 cv,Essence
+ma-269,FORD USA,fa-1770,Probe,mo-3141,II (ECP) (07/1993 - 03/1998),07/1993,03/1998,27340,FORD USA Probe,FORD USA Probe II (ECP) 2.5 V6 24V 163 cv,Essence
+ma-269,FORD USA,fa-1769,Explorer,mo-3373, (01/1990 - 12/2000),01/1990,12/2000,65681,FORD USA Explorer,FORD USA Explorer 4.9 i 213 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1769,Explorer,mo-3373, (01/1990 - 12/2000),01/1990,12/2000,28178,FORD USA Explorer,FORD USA Explorer 4.0 i 164 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1769,Explorer,mo-3373, (01/1990 - 12/2000),01/1990,12/2000,28180,FORD USA Explorer,FORD USA Explorer 4.9 i 4WD 213 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1769,Explorer,mo-3373, (01/1990 - 12/2000),01/1990,12/2000,28182,FORD USA Explorer,FORD USA Explorer 4.0 i 4WD 204 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1769,Explorer,mo-3373, (01/1990 - 12/2000),01/1990,12/2000,28181,FORD USA Explorer,FORD USA Explorer 4.0 i 208 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1769,Explorer,mo-3373, (01/1990 - 12/2000),01/1990,12/2000,65679,FORD USA Explorer,FORD USA Explorer 4.0 i 4WD 208 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1769,Explorer,mo-3373, (01/1990 - 12/2000),01/1990,12/2000,28179,FORD USA Explorer,FORD USA Explorer 4.0 i 4WD 164 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1769,Explorer,mo-3373, (01/1990 - 12/2000),01/1990,12/2000,65680,FORD USA Explorer,FORD USA Explorer 4.0 i 204 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1769,Explorer,mo-7858,EV (CX740) (06/2024 - Hoje),06/2024,,70525,FORD USA Explorer,FORD USA Explorer EV (CX740) 77 kWh 286 cv Caixa Automática,Electrique
+ma-269,FORD USA,fa-1769,Explorer,mo-7858,EV (CX740) (06/2024 - Hoje),06/2024,,70526,FORD USA Explorer,FORD USA Explorer EV (CX740) 79 kWh 4WD 340 cv Caixa Automática,Electrique
+ma-269,FORD USA,fa-1769,Explorer,mo-7858,EV (CX740) (06/2024 - Hoje),06/2024,,70524,FORD USA Explorer,FORD USA Explorer EV (CX740) 52 kWh 170 cv Caixa Automática,Electrique
+ma-269,FORD USA,fa-1769,Explorer,mo-6695,III (U251) (09/2001 - 12/2005),09/2001,12/2005,58220,FORD USA Explorer,FORD USA Explorer III (U251) 4.6 V6 24V 4WD 242 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1769,Explorer,mo-5699,IV (11/2010 - Hoje),11/2010,,58221,FORD USA Explorer,FORD USA Explorer IV 3.5 Ti-VCT V6 24V AWD SelectShift 294 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1769,Explorer,mo-5699,IV (11/2010 - Hoje),11/2010,,58223,FORD USA Explorer,FORD USA Explorer IV Sport 3.5 Ti-VCT V6 EcoBoost 24V AWD SelectShift 370 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1769,Explorer,mo-5699,IV (11/2010 - Hoje),11/2010,,58222,FORD USA Explorer,FORD USA Explorer IV 3.5 Ti-VCT V6 24V FWD SelectShift 294 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1769,Explorer,mo-7458,VI (06/2020 - Hoje),06/2020,,65678,FORD USA Explorer,FORD USA Explorer VI 3.0 i V6 EcoBoost 24V 457 Plug-in Hybrid AWD BVA10 363 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1769,Explorer,mo-6694,II (U2) (10/1996 - 12/2001),10/1996,12/2001,58219,FORD USA Explorer,FORD USA Explorer II (U2) 4.0 V6 24V 4WD 197 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-2431,Ranger,mo-7748,IV Extended Cab Pickup (03/2022 - Hoje),03/2022,,69522,FORD USA Ranger,FORD USA Ranger IV Extended Cab Pickup 2.0 EcoBlue 170 cv Caixa Automática,Diesel
+ma-269,FORD USA,fa-2431,Ranger,mo-7748,IV Extended Cab Pickup (03/2022 - Hoje),03/2022,,70338,FORD USA Ranger,FORD USA Ranger IV Extended Cab Pickup 2.0 EcoBlue AWD 170 cv,Diesel
+ma-269,FORD USA,fa-2431,Ranger,mo-7748,IV Extended Cab Pickup (03/2022 - Hoje),03/2022,,69523,FORD USA Ranger,FORD USA Ranger IV Extended Cab Pickup 2.0 EcoBlue AWD 170 cv Caixa Automática,Diesel
+ma-269,FORD USA,fa-2431,Ranger,mo-7748,IV Extended Cab Pickup (03/2022 - Hoje),03/2022,,69524,FORD USA Ranger,FORD USA Ranger IV Extended Cab Pickup 2.0 EcoBlue e-AWD 205 cv Caixa Automática,Diesel
+ma-269,FORD USA,fa-2431,Ranger,mo-7747,IV Crew Cab Pickup (03/2022 - Hoje),03/2022,,69520,FORD USA Ranger,FORD USA Ranger IV Crew Cab Pickup 3.0 EcoBlue e-AWD 241 cv Caixa Automática,Diesel
+ma-269,FORD USA,fa-2431,Ranger,mo-7747,IV Crew Cab Pickup (03/2022 - Hoje),03/2022,,69519,FORD USA Ranger,FORD USA Ranger IV Crew Cab Pickup 2.0 EcoBlue e-AWD 205 cv Caixa Automática,Diesel
+ma-269,FORD USA,fa-2431,Ranger,mo-7747,IV Crew Cab Pickup (03/2022 - Hoje),03/2022,,69521,FORD USA Ranger,FORD USA Ranger IV Crew Cab Pickup Raptor 3.0 EcoBoost e-AWD 292 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-2431,Ranger,mo-7749,IV Standard Cab Pickup (03/2022 - Hoje),03/2022,,69525,FORD USA Ranger,FORD USA Ranger IV Standard Cab Pickup 2.0 EcoBlue AWD 170 cv,Diesel
+ma-269,FORD USA,fa-2431,Ranger,mo-7750,IV Cab & Châssis (03/2022 - Hoje),03/2022,,69526,FORD USA Ranger,FORD USA Ranger IV Cab & Châssis 2.0 EcoBlue AWD 170 cv Caixa Automática,Diesel
+ma-269,FORD USA,fa-1771,Windstar,mo-3375, (01/1994 - 12/1998),01/1994,12/1998,28184,FORD USA Windstar,FORD USA Windstar 3.0 V6 Monospace 148 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1771,Windstar,mo-3375, (01/1994 - 12/1998),01/1994,12/1998,27558,FORD USA Windstar,FORD USA Windstar 3.0 V6 147 cv,Essence
+ma-269,FORD USA,fa-1771,Windstar,mo-3375, (01/1994 - 12/1998),01/1994,12/1998,28185,FORD USA Windstar,FORD USA Windstar 3.8 V6 Monospace 203 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1303,BRONCO,mo-7816,Véhicule tout terrain à carrosserie ouverte (07/2019 - Hoje),07/2019,,70128,FORD USA BRONCO,FORD USA BRONCO Véhicule tout terrain à carrosserie ouverte 2.7 Ti-VCT EcoBoost 4x4 334 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1303,BRONCO,mo-3034,II (09/1983 - 08/1990),09/1983,08/1990,27168,FORD USA BRONCO,FORD USA BRONCO II 2.9 i V6 4x4 141 cv,Essence
+ma-269,FORD USA,fa-1768,Aerostar,mo-3372, (01/1990 - 12/1997),01/1990,12/1997,28177,FORD USA Aerostar,FORD USA Aerostar 3.0 Monospace 147 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1768,Aerostar,mo-3372, (01/1990 - 12/1997),01/1990,12/1997,28176,FORD USA Aerostar,FORD USA Aerostar 4.0 Monospace 157 cv Caixa Automática,Essence
+ma-269,FORD USA,fa-1380,TAURUS,mo-3157, (09/1996 - Hoje),09/1996,,27203,FORD USA TAURUS,FORD USA TAURUS 3.0 24V 203 cv,Essence
+ma-269,FORD USA,fa-1380,TAURUS,mo-3157, (09/1996 - Hoje),09/1996,,27383,FORD USA TAURUS,FORD USA TAURUS 3.0 147 cv,Essence
+ma-269,FORD USA,fa-1380,TAURUS,mo-3157, (09/1996 - Hoje),09/1996,,27216,FORD USA TAURUS,FORD USA TAURUS 3.0 V6 156 cv,Essence
+ma-269,FORD USA,fa-1380,TAURUS,mo-3158,Wagon (09/1996 - Hoje),09/1996,,27493,FORD USA TAURUS,FORD USA TAURUS Wagon 3.0 147 cv,Essence
+ma-269,FORD USA,fa-1380,TAURUS,mo-3158,Wagon (09/1996 - Hoje),09/1996,,27592,FORD USA TAURUS,FORD USA TAURUS Wagon 3.0 24V 203 cv,Essence
+ma-269,FORD USA,fa-1380,TAURUS,mo-3158,Wagon (09/1996 - Hoje),09/1996,,27538,FORD USA TAURUS,FORD USA TAURUS Wagon 3.0 V6 156 cv,Essence

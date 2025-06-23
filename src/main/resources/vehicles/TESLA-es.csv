@@ -1,0 +1,59 @@
+brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
+ma-307,TESLA,fa-2296,Model 3,mo-7253,FL (09/2020 - Hoy),09/2020,,69417,TESLA Model 3,TESLA Model 3 FL Performance AWD 513 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2296,Model 3,mo-7253,FL (09/2020 - Hoy),09/2020,,69414,TESLA Model 3,TESLA Model 3 FL Largo Range AWD 441 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2296,Model 3,mo-7253,FL (09/2020 - Hoy),09/2020,,64294,TESLA Model 3,TESLA Model 3 FL Largo Range Performance 465 AWD 275 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2296,Model 3,mo-7253,FL (09/2020 - Hoy),09/2020,,64295,TESLA Model 3,TESLA Model 3 FL Standard Plus 275 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2296,Model 3,mo-7253,FL (09/2020 - Hoy),09/2020,,64293,TESLA Model 3,TESLA Model 3 FL Largo Range 350 AWD 256 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2296,Model 3,mo-7253,FL (09/2020 - Hoy),09/2020,,69418,TESLA Model 3,TESLA Model 3 FL Standard Range 283 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2296,Model 3,mo-7253,FL (09/2020 - Hoy),09/2020,,69415,TESLA Model 3,TESLA Model 3 FL Maximum Range AWD 498 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2296,Model 3,mo-7253,FL (09/2020 - Hoy),09/2020,,70121,TESLA Model 3,TESLA Model 3 FL Performance AWD 460 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2296,Model 3,mo-7253,FL (09/2020 - Hoy),09/2020,,64292,TESLA Model 3,TESLA Model 3 FL Largo Range 275 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2296,Model 3,mo-7253,FL (09/2020 - Hoy),09/2020,,69498,TESLA Model 3,TESLA Model 3 FL Perfomance AWD 534 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2296,Model 3,mo-7044, (01/2019 - 09/2020),01/2019,09/2020,69413,TESLA Model 3,TESLA Model 3 Largo Range AWD 441 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2296,Model 3,mo-7044, (01/2019 - 09/2020),01/2019,09/2020,64291,TESLA Model 3,TESLA Model 3 Standard Plus 275 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2296,Model 3,mo-7044, (01/2019 - 09/2020),01/2019,09/2020,61090,TESLA Model 3,TESLA Model 3 Largo Range 350 AWD berlina 256 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2296,Model 3,mo-7044, (01/2019 - 09/2020),01/2019,09/2020,61089,TESLA Model 3,TESLA Model 3 Largo Range 275 berlina 275 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2296,Model 3,mo-7044, (01/2019 - 09/2020),01/2019,09/2020,64290,TESLA Model 3,TESLA Model 3 Largo Range Performance 465 AWD 275 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2296,Model 3,mo-7044, (01/2019 - 09/2020),01/2019,09/2020,69416,TESLA Model 3,TESLA Model 3 Performance AWD 513 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2296,Model 3,mo-7044, (01/2019 - 09/2020),01/2019,09/2020,69412,TESLA Model 3,TESLA Model 3 Standard Range Plus 306 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2364,Model Y,mo-7521, (08/2021 - Hoy),08/2021,,69503,TESLA Model Y,TESLA Model Y Standard 299 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2364,Model Y,mo-7521, (08/2021 - Hoy),08/2021,,65705,TESLA Model Y,TESLA Model Y Performance AWD 462 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2364,Model Y,mo-7521, (08/2021 - Hoy),08/2021,,65706,TESLA Model Y,TESLA Model Y Maximum Range AWD 514 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2364,Model Y,mo-7521, (08/2021 - Hoy),08/2021,,65703,TESLA Model Y,TESLA Model Y Performance AWD 534 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2364,Model Y,mo-7521, (08/2021 - Hoy),08/2021,,65704,TESLA Model Y,TESLA Model Y Largo Range 261 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-5608, (05/2013 - 04/2016),05/2013,04/2016,64384,TESLA Model S,TESLA Model S P85D AWD 801 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-5608, (05/2013 - 04/2016),05/2013,04/2016,64377,TESLA Model S,TESLA Model S 85D AWD 375 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-5608, (05/2013 - 04/2016),05/2013,04/2016,64372,TESLA Model S,TESLA Model S 85 385 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-5608, (05/2013 - 04/2016),05/2013,04/2016,64383,TESLA Model S,TESLA Model S P85D AWD 772 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-5608, (05/2013 - 04/2016),05/2013,04/2016,64380,TESLA Model S,TESLA Model S P85DL AWD 540 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-5608, (05/2013 - 04/2016),05/2013,04/2016,56666,TESLA Model S,TESLA Model S 70D AWD 525 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-5608, (05/2013 - 04/2016),05/2013,04/2016,64369,TESLA Model S,TESLA Model S 70D AWD berlina 333 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-5608, (05/2013 - 04/2016),05/2013,04/2016,64373,TESLA Model S,TESLA Model S 85 388 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-5608, (05/2013 - 04/2016),05/2013,04/2016,56665,TESLA Model S,TESLA Model S 70 388 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-5608, (05/2013 - 04/2016),05/2013,04/2016,64381,TESLA Model S,TESLA Model S P85D AWD 700 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-5608, (05/2013 - 04/2016),05/2013,04/2016,40923,TESLA Model S,TESLA Model S 60 306 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-5608, (05/2013 - 04/2016),05/2013,04/2016,40924,TESLA Model S,TESLA Model S 85 367 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-5608, (05/2013 - 04/2016),05/2013,04/2016,40925,TESLA Model S,TESLA Model S P85 Performance 421 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-5608, (05/2013 - 04/2016),05/2013,04/2016,56662,TESLA Model S,TESLA Model S 60 385 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-5608, (05/2013 - 04/2016),05/2013,04/2016,56664,TESLA Model S,TESLA Model S 60D AWD 375 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-7520,Fase 2 (04/2016 - Hoy),04/2016,,64385,TESLA Model S,TESLA Model S Fase 2 90D AWD 421 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-7520,Fase 2 (04/2016 - Hoy),04/2016,,56663,TESLA Model S,TESLA Model S Fase 2 60D AWD 322 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-7520,Fase 2 (04/2016 - Hoy),04/2016,,64370,TESLA Model S,TESLA Model S Fase 2 75 388 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-7520,Fase 2 (04/2016 - Hoy),04/2016,,64386,TESLA Model S,TESLA Model S Fase 2 P100D AWD 772 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-7520,Fase 2 (04/2016 - Hoy),04/2016,,69499,TESLA Model S,TESLA Model S Fase 2 Plaid AWD 1020 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-7520,Fase 2 (04/2016 - Hoy),04/2016,,64387,TESLA Model S,TESLA Model S Fase 2 P90D AWD 471 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-7520,Fase 2 (04/2016 - Hoy),04/2016,,64371,TESLA Model S,TESLA Model S Fase 2 75D AWD 525 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-7520,Fase 2 (04/2016 - Hoy),04/2016,,69501,TESLA Model S,TESLA Model S Fase 2 Largo Range AWD 670 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2124,Model S,mo-7520,Fase 2 (04/2016 - Hoy),04/2016,,64388,TESLA Model S,TESLA Model S Fase 2 P90DL AWD 540 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2215,Model X,mo-6390, (09/2013 - Hoy),09/2013,,70012,TESLA Model X,TESLA Model X EV AWD 670 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2215,Model X,mo-6390, (09/2013 - Hoy),09/2013,,69621,TESLA Model X,TESLA Model X Plaid AWD 1020 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2215,Model X,mo-6390, (09/2013 - Hoy),09/2013,,65172,TESLA Model X,TESLA Model X 60D AWD 525 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2215,Model X,mo-6390, (09/2013 - Hoy),09/2013,,61092,TESLA Model X,TESLA Model X 90D AWD 525 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2215,Model X,mo-6390, (09/2013 - Hoy),09/2013,,61093,TESLA Model X,TESLA Model X P100D AWD 772 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2215,Model X,mo-6390, (09/2013 - Hoy),09/2013,,69622,TESLA Model X,TESLA Model X 100D AWD 525 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2215,Model X,mo-6390, (09/2013 - Hoy),09/2013,,61094,TESLA Model X,TESLA Model X P90D AWD 772 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2215,Model X,mo-6390, (09/2013 - Hoy),09/2013,,69624,TESLA Model X,TESLA Model X EV AWD 573 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2215,Model X,mo-6390, (09/2013 - Hoy),09/2013,,69625,TESLA Model X,TESLA Model X EV AWD 562 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2215,Model X,mo-6390, (09/2013 - Hoy),09/2013,,61091,TESLA Model X,TESLA Model X 75D AWD 525 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2126,Roadster,mo-5617, (03/2008 - Hoy),03/2008,,43801,TESLA Roadster,TESLA Roadster Electric 252 cv Transmisión automática,Electrico
+ma-307,TESLA,fa-2126,Roadster,mo-5617, (03/2008 - Hoy),03/2008,,65171,TESLA Roadster,TESLA Roadster Electric 292 cv Transmisión automática,Electrico

@@ -1,0 +1,47 @@
+brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
+ma-398,CUPRA,fa-2340,Formentor,mo-7284, (07/2020 - 04/2024),07/2020,04/2024,64516,CUPRA Formentor,CUPRA Formentor V 1.5 TSI 16V GPF DSG7 150 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2340,Formentor,mo-7284, (07/2020 - 04/2024),07/2020,04/2024,66030,CUPRA Formentor,CUPRA Formentor V 2.0 TDI 16V DPF 4Drive DSG7 150 cv Boîte auto,Diesel
+ma-398,CUPRA,fa-2340,Formentor,mo-7284, (07/2020 - 04/2024),07/2020,04/2024,66029,CUPRA Formentor,CUPRA Formentor V 2.0 TDI 16V DPF 150 cv,Diesel
+ma-398,CUPRA,fa-2340,Formentor,mo-7284, (07/2020 - 04/2024),07/2020,04/2024,64520,CUPRA Formentor,CUPRA Formentor V e-Hybrid 1.4 TSI 16V GPF 204 Plug in Hybrid DSG6 150 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2340,Formentor,mo-7284, (07/2020 - 04/2024),07/2020,04/2024,67255,CUPRA Formentor,CUPRA Formentor VZ5 2.5 TSI 20V GPF 4Drive DSG7 390 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2340,Formentor,mo-7284, (07/2020 - 04/2024),07/2020,04/2024,64519,CUPRA Formentor,CUPRA Formentor VZ 2.0 TSI 16V GPF 4Drive DSG7 310 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2340,Formentor,mo-7284, (07/2020 - 04/2024),07/2020,04/2024,64518,CUPRA Formentor,CUPRA Formentor V 2.0 TSI 16V GPF 4Drive DSG7 190 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2340,Formentor,mo-7284, (07/2020 - 04/2024),07/2020,04/2024,66031,CUPRA Formentor,CUPRA Formentor VZ 2.0 TFSI 16V GPF DSG7 245 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2340,Formentor,mo-7284, (07/2020 - 04/2024),07/2020,04/2024,64517,CUPRA Formentor,CUPRA Formentor V 1.5 TSI 16V GPF 150 cv,Essence
+ma-398,CUPRA,fa-2340,Formentor,mo-7284, (07/2020 - 04/2024),07/2020,04/2024,64521,CUPRA Formentor,CUPRA Formentor VZ e-Hybrid 1.4 TSI 16V GPF 245 Plug n Hybrid DSG6 150 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2340,Formentor,mo-7839,Phase 2 (05/2024 - Aujourd'hui),05/2024,,70346,CUPRA Formentor,CUPRA Formentor Phase 2 VZ 2.0 TSI 16V 4Drive DSG7 333 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2340,Formentor,mo-7839,Phase 2 (05/2024 - Aujourd'hui),05/2024,,70345,CUPRA Formentor,CUPRA Formentor Phase 2 VZ e-Hybrid 1.5 TSI 16V 272 Plug in Hybrid DSG6 177 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2340,Formentor,mo-7839,Phase 2 (05/2024 - Aujourd'hui),05/2024,,70347,CUPRA Formentor,CUPRA Formentor Phase 2 V 2.0 TDI 16V DSG7 150 cv Boîte auto,Diesel
+ma-398,CUPRA,fa-2340,Formentor,mo-7839,Phase 2 (05/2024 - Aujourd'hui),05/2024,,70344,CUPRA Formentor,CUPRA Formentor Phase 2 V 1.5 eTSI 16V DSG7 150 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2335,Leon,mo-7283, (09/2020 - 06/2024),09/2020,06/2024,69556,CUPRA Leon,CUPRA Leon V Sportstourer 2.0 TDI 16V DSG7 150 cv Boîte auto,Diesel
+ma-398,CUPRA,fa-2335,Leon,mo-7283, (09/2020 - 06/2024),09/2020,06/2024,64522,CUPRA Leon,CUPRA Leon VZ Sportstourer 2.0 TSI 16V GPF DSG7 300 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2335,Leon,mo-7283, (09/2020 - 06/2024),09/2020,06/2024,66032,CUPRA Leon,CUPRA Leon V 2.0 TSI 16V GPF DSG7 245 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2335,Leon,mo-7283, (09/2020 - 06/2024),09/2020,06/2024,69555,CUPRA Leon,CUPRA Leon V Sportstourer 1.5 eTSI 16V GPF Mild Hybrid DSG7 150 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2335,Leon,mo-7283, (09/2020 - 06/2024),09/2020,06/2024,67251,CUPRA Leon,CUPRA Leon V Sportstourer 2.0 TSI 16V GPF DSG7 245 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2335,Leon,mo-7283, (09/2020 - 06/2024),09/2020,06/2024,67257,CUPRA Leon,CUPRA Leon V Sportstourer e-hybrid 1.4 TSI 16V GPF 204 Plug in Hybrid DSG6 150 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2335,Leon,mo-7283, (09/2020 - 06/2024),09/2020,06/2024,68960,CUPRA Leon,CUPRA Leon V 1.5 eTSI 16V GPF Mild Hybrid DSG7 150 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2335,Leon,mo-7283, (09/2020 - 06/2024),09/2020,06/2024,64525,CUPRA Leon,CUPRA Leon VZ Sportstourer 2.0 TSI 16V GPF 4Drive DSG7 310 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2335,Leon,mo-7283, (09/2020 - 06/2024),09/2020,06/2024,69557,CUPRA Leon,CUPRA Leon V 2.0 TDI 16V DSG7 150 cv Boîte auto,Diesel
+ma-398,CUPRA,fa-2335,Leon,mo-7283, (09/2020 - 06/2024),09/2020,06/2024,67253,CUPRA Leon,CUPRA Leon VZ 2.0 TSI 16V GPF DSG7 300 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2335,Leon,mo-7283, (09/2020 - 06/2024),09/2020,06/2024,64523,CUPRA Leon,CUPRA Leon VZ e-hybrid 1.4 TSI 16V GPF 245 Plug in Hybrid DSG6 150 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2335,Leon,mo-7283, (09/2020 - 06/2024),09/2020,06/2024,67256,CUPRA Leon,CUPRA Leon V e-hybrid 1.4 TSI 16V GPF 204 Plug in Hybrid DSG6 150 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2335,Leon,mo-7283, (09/2020 - 06/2024),09/2020,06/2024,64524,CUPRA Leon,CUPRA Leon VZ Sportstourer e-hybrid 1.4 TSI 16V GPF 245 Plug in Hybrid DSG6 150 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2335,Leon,mo-7872,Phase 2 (06/2024 - Aujourd'hui),06/2024,,70620,CUPRA Leon,CUPRA Leon Phase 2 V 1.5 eTSI 16V DSG7 150 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2335,Leon,mo-7872,Phase 2 (06/2024 - Aujourd'hui),06/2024,,70625,CUPRA Leon,CUPRA Leon Phase 2 V Sportstourer 1.5 eTSI 16V DSG7 150 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2335,Leon,mo-7872,Phase 2 (06/2024 - Aujourd'hui),06/2024,,70628,CUPRA Leon,CUPRA Leon Phase 2 VZ Sportstourer e-hybrid 1.5 TSI 16V 272 Plug in Hybrid DSG6 177 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2335,Leon,mo-7872,Phase 2 (06/2024 - Aujourd'hui),06/2024,,70623,CUPRA Leon,CUPRA Leon Phase 2 V e-hybrid 1.5 TSI 16V 204 Plug in Hybrid DSG6 150 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2335,Leon,mo-7872,Phase 2 (06/2024 - Aujourd'hui),06/2024,,70621,CUPRA Leon,CUPRA Leon Phase 2 VZ 2.0 TSI 16V DSG7 300 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2335,Leon,mo-7872,Phase 2 (06/2024 - Aujourd'hui),06/2024,,70626,CUPRA Leon,CUPRA Leon Phase 2 V Sportstourer 2.0 TDI 16V DSG7 150 cv Boîte auto,Diesel
+ma-398,CUPRA,fa-2335,Leon,mo-7872,Phase 2 (06/2024 - Aujourd'hui),06/2024,,70622,CUPRA Leon,CUPRA Leon Phase 2 V 2.0 TDI 16V DSG7 150 cv Boîte auto,Diesel
+ma-398,CUPRA,fa-2335,Leon,mo-7872,Phase 2 (06/2024 - Aujourd'hui),06/2024,,70624,CUPRA Leon,CUPRA Leon Phase 2 VZ e-hybrid 1.5 TSI 16V 272 Plug in Hybrid DSG6 177 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2335,Leon,mo-7872,Phase 2 (06/2024 - Aujourd'hui),06/2024,,70627,CUPRA Leon,CUPRA Leon Phase 2 V Sportstourer e-hybrid 1.5 TSI 16V 204 Plug in Hybrid DSG6 150 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2334,Ateca,mo-7281, (09/2018 - 09/2020),09/2018,09/2020,64514,CUPRA Ateca,CUPRA Ateca VZ 2.0 TSI 16V GPF 4Drive DSG7 300 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2334,Ateca,mo-7282,Phase 2 (09/2020 - Aujourd'hui),09/2020,,69947,CUPRA Ateca,CUPRA Ateca Phase 2 2.0 TSI 16V 4Drive DSG7 190 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2334,Ateca,mo-7282,Phase 2 (09/2020 - Aujourd'hui),09/2020,,69946,CUPRA Ateca,CUPRA Ateca Phase 2 1.5 TSI 16V DSG7 150 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2334,Ateca,mo-7282,Phase 2 (09/2020 - Aujourd'hui),09/2020,,64515,CUPRA Ateca,CUPRA Ateca Phase 2 VZ 2.0 TSI 16V GPF 4Drive DSG7 300 cv Boîte auto,Essence
+ma-398,CUPRA,fa-2366,Born,mo-7522, (08/2021 - Aujourd'hui),08/2021,,70349,CUPRA Born,CUPRA Born VZ 79 kWh 326 cv Boîte auto,Electrique
+ma-398,CUPRA,fa-2366,Born,mo-7522, (08/2021 - Aujourd'hui),08/2021,,69470,CUPRA Born,CUPRA Born VZ 58 kWh e-boost 231 cv Boîte auto,Electrique
+ma-398,CUPRA,fa-2366,Born,mo-7522, (08/2021 - Aujourd'hui),08/2021,,69471,CUPRA Born,CUPRA Born VZ 77 kWh e-boost 231 cv Boîte auto,Electrique
+ma-398,CUPRA,fa-2366,Born,mo-7522, (08/2021 - Aujourd'hui),08/2021,,66028,CUPRA Born,CUPRA Born V 58 kWh 204 cv Boîte auto,Electrique
+ma-398,CUPRA,fa-2465,Tavascan,mo-7835,(KR1) (03/2024 - Aujourd'hui),03/2024,,70336,CUPRA Tavascan,CUPRA Tavascan (KR1) V 286 cv Boîte auto,Electrique
+ma-398,CUPRA,fa-2465,Tavascan,mo-7835,(KR1) (03/2024 - Aujourd'hui),03/2024,,70337,CUPRA Tavascan,CUPRA Tavascan (KR1) VZ 4Drive 340 cv Boîte auto,Electrique

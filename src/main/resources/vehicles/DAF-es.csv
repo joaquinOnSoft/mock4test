@@ -1,0 +1,23 @@
+brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
+ma-56,DAF,fa-178,400,mo-171, (07/1986 - 04/1996),07/1986,04/1996,12113,DAF 400,DAF 400 2.5 D,Diesel
+ma-56,DAF,fa-178,400,mo-171, (07/1986 - 04/1996),07/1986,04/1996,35209,DAF 400,DAF 400 2.5 D 2.8T chasis cabina 96 cv,Diesel
+ma-56,DAF,fa-178,400,mo-171, (07/1986 - 04/1996),07/1986,04/1996,2327,DAF 400,DAF 400 2.5 TD,Diesel
+ma-56,DAF,fa-178,400,mo-2372,Camion plate-forme/chasis (11/1986 - 03/1989),11/1986,03/1989,26774,DAF 400,DAF 400 Camion plate-forme/chasis 2.5 D 69 cv,Diesel
+ma-56,DAF,fa-1743,44,mo-3330, (11/1966 - 09/1974),11/1966,09/1974,28909,DAF 44,DAF 44 0.8 Familiar 34 cv Transmisión automática,Gasolina
+ma-56,DAF,fa-1743,44,mo-3330, (11/1966 - 09/1974),11/1966,09/1974,28908,DAF 44,DAF 44 0.8 Berlina 34 cv Transmisión automática,Gasolina
+ma-56,DAF,fa-1746,66,mo-3333, (10/1972 - 08/1975),10/1972,08/1975,28919,DAF 66,DAF 66 1.1 Coupe 54 cv Transmisión automática,Gasolina
+ma-56,DAF,fa-1746,66,mo-3333, (10/1972 - 08/1975),10/1972,08/1975,28917,DAF 66,DAF 66 1.1 Berlina 45 cv Transmisión automática,Gasolina
+ma-56,DAF,fa-1746,66,mo-3333, (10/1972 - 08/1975),10/1972,08/1975,28924,DAF 66,DAF 66 1.3 Familiar 57 cv Transmisión automática,Gasolina
+ma-56,DAF,fa-1746,66,mo-3333, (10/1972 - 08/1975),10/1972,08/1975,28922,DAF 66,DAF 66 1.3 Berlina 57 cv Transmisión automática,Gasolina
+ma-56,DAF,fa-1746,66,mo-3333, (10/1972 - 08/1975),10/1972,08/1975,28920,DAF 66,DAF 66 1.1 Familiar 45 cv Transmisión automática,Gasolina
+ma-56,DAF,fa-1746,66,mo-3333, (10/1972 - 08/1975),10/1972,08/1975,28923,DAF 66,DAF 66 1.3 Coupe 57 cv Transmisión automática,Gasolina
+ma-56,DAF,fa-1746,66,mo-3333, (10/1972 - 08/1975),10/1972,08/1975,28918,DAF 66,DAF 66 1.1 Berlina 54 cv Transmisión automática,Gasolina
+ma-56,DAF,fa-1746,66,mo-3333, (10/1972 - 08/1975),10/1972,08/1975,28921,DAF 66,DAF 66 1.1 Familiar 54 cv Transmisión automática,Gasolina
+ma-56,DAF,fa-1744,46,mo-3331, (09/1974 - 08/1975),09/1974,08/1975,28910,DAF 46,DAF 46 0.8 Berlina 34 cv Transmisión automática,Gasolina
+ma-56,DAF,fa-1744,46,mo-3331, (09/1974 - 08/1975),09/1974,08/1975,28911,DAF 46,DAF 46 0.8 Familiar 34 cv Transmisión automática,Gasolina
+ma-56,DAF,fa-1742,33,mo-3329, (07/1967 - 09/1974),07/1967,09/1974,28907,DAF 33,DAF 33 0.8 Berlina Variomatic 29 cv Transmisión automática,Gasolina
+ma-56,DAF,fa-1745,55,mo-3332, (10/1967 - 09/1972),10/1967,09/1972,28916,DAF 55,DAF 55 1.1 Coupe 54 cv Transmisión automática,Gasolina
+ma-56,DAF,fa-1745,55,mo-3332, (10/1967 - 09/1972),10/1967,09/1972,28912,DAF 55,DAF 55 1.1 Berlina 45 cv Transmisión automática,Gasolina
+ma-56,DAF,fa-1745,55,mo-3332, (10/1967 - 09/1972),10/1967,09/1972,28915,DAF 55,DAF 55 1.1 Berlina 54 cv Transmisión automática,Gasolina
+ma-56,DAF,fa-1745,55,mo-3332, (10/1967 - 09/1972),10/1967,09/1972,28914,DAF 55,DAF 55 1.1 Coupe 45 cv Transmisión automática,Gasolina
+ma-56,DAF,fa-1745,55,mo-3332, (10/1967 - 09/1972),10/1967,09/1972,28913,DAF 55,DAF 55 1.1 Familiar 45 cv Transmisión automática,Gasolina

@@ -1,0 +1,8 @@
+brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
+ma-283,BUICK,fa-1730,Skylark,mo-3308, (04/1979 - 08/1984),04/1979,08/1984,27738,BUICK Skylark,BUICK Skylark 2.8 Berline 114 cv,Essence
+ma-283,BUICK,fa-1725,Electra,mo-3303, (04/1984 - 01/1990),04/1984,01/1990,27737,BUICK Electra,BUICK Electra 4.3 D Berline 86 cv,Diesel
+ma-283,BUICK,fa-1725,Electra,mo-3303, (04/1984 - 01/1990),04/1984,01/1990,27735,BUICK Electra,BUICK Electra 3.0 Berline 112 cv,Essence
+ma-283,BUICK,fa-1725,Electra,mo-3303, (04/1984 - 01/1990),04/1984,01/1990,27736,BUICK Electra,BUICK Electra 3.8 i Berline 127 cv,Essence
+ma-283,BUICK,fa-1724,Century,mo-3302, (11/1981 - 08/1986),11/1981,08/1986,27733,BUICK Century,BUICK Century 2.8 Berline 114 cv,Essence
+ma-283,BUICK,fa-1724,Century,mo-3302, (11/1981 - 08/1986),11/1981,08/1986,27734,BUICK Century,BUICK Century 3.8 i Berline 127 cv,Essence
+ma-283,BUICK,fa-1724,Century,mo-3302, (11/1981 - 08/1986),11/1981,08/1986,27732,BUICK Century,BUICK Century 2.5 i Berline 93 cv,Essence
