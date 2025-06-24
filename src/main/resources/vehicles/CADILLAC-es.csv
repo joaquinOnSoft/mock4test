@@ -1,152 +1,152 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-257,CADILLAC,fa-1964,Seville,mo-3738, (10/1987 - 03/2005),10/1987,03/2005,30209,CADILLAC Seville,CADILLAC Seville 4.5 i V8 Berlina 158 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-1964,Seville,mo-3738, (10/1987 - 03/2005),10/1987,03/2005,30211,CADILLAC Seville,CADILLAC Seville 4.9 i V8 Berlina 203 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-1964,Seville,mo-3738, (10/1987 - 03/2005),10/1987,03/2005,29927,CADILLAC Seville,CADILLAC Seville 4.6 i V8 STS Berlina 32V 305 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-1964,Seville,mo-3738, (10/1987 - 03/2005),10/1987,03/2005,30210,CADILLAC Seville,CADILLAC Seville 4.5 i V8 Berlina 183 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-1964,Seville,mo-3738, (10/1987 - 03/2005),10/1987,03/2005,57907,CADILLAC Seville,CADILLAC Seville STS 4.6 i V8 berlina 32V 299 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-1964,Seville,mo-3738, (10/1987 - 03/2005),10/1987,03/2005,29926,CADILLAC Seville,CADILLAC Seville 4.6 i V8 SLS Berlina 32V 279 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-80,SRX,mo-1976, (07/2004 - 12/2009),07/2004,12/2009,24533,CADILLAC SRX,CADILLAC SRX 3.6 i V6 4x4 258cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-80,SRX,mo-1976, (07/2004 - 12/2009),07/2004,12/2009,24707,CADILLAC SRX,CADILLAC SRX 4.6 i V8 4x4 325cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-80,SRX,mo-1976, (07/2004 - 12/2009),07/2004,12/2009,7949,CADILLAC SRX,CADILLAC SRX 4.6 i V8 325cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-80,SRX,mo-1976, (07/2004 - 12/2009),07/2004,12/2009,1624,CADILLAC SRX,CADILLAC SRX 3.6 i V6 258cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-80,SRX,mo-5178,II (09/2010 - Hoy),09/2010,,59442,CADILLAC SRX,CADILLAC SRX II 2.8 T V6 4WD familiar 24V Automatic 305 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-80,SRX,mo-5178,II (09/2010 - Hoy),09/2010,,41503,CADILLAC SRX,CADILLAC SRX II 3.6 i V6 Familiar 24V 313 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-80,SRX,mo-5178,II (09/2010 - Hoy),09/2010,,41500,CADILLAC SRX,CADILLAC SRX II 3.0 i V6 4WD Familiar 24V 271 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-80,SRX,mo-5178,II (09/2010 - Hoy),09/2010,,33522,CADILLAC SRX,CADILLAC SRX II 3.0 i V6 4WD 24V 268 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-80,SRX,mo-5178,II (09/2010 - Hoy),09/2010,,41502,CADILLAC SRX,CADILLAC SRX II 3.6 i V6 AWD Familiar 24V 318 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-80,SRX,mo-5178,II (09/2010 - Hoy),09/2010,,41501,CADILLAC SRX,CADILLAC SRX II 3.6 i V6 4WD Familiar 24V 313 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-80,SRX,mo-5178,II (09/2010 - Hoy),09/2010,,59443,CADILLAC SRX,CADILLAC SRX II 3.0 i V6 familiar 24V Automatic 268 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-2014,Escalade,mo-4864,III (05/2005 - 12/2015),05/2005,12/2015,32696,CADILLAC Escalade,CADILLAC Escalade III 6.2i V8 RWD 409 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-2014,Escalade,mo-4864,III (05/2005 - 12/2015),05/2005,12/2015,37144,CADILLAC Escalade,CADILLAC Escalade III 6.0 i V8 AWD 337 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-2014,Escalade,mo-4864,III (05/2005 - 12/2015),05/2005,12/2015,32362,CADILLAC Escalade,CADILLAC Escalade III 6.2i V8 409 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-2014,Escalade,mo-4864,III (05/2005 - 12/2015),05/2005,12/2015,67245,CADILLAC Escalade,CADILLAC Escalade III ESV 6.2 i V8 16V AWD 410 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-2014,Escalade,mo-6675,IV (09/2014 - Hoy),09/2014,,57859,CADILLAC Escalade,CADILLAC Escalade IV ESV 6.2 i V8 4x4 24V 426 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-2014,Escalade,mo-6675,IV (09/2014 - Hoy),09/2014,,67244,CADILLAC Escalade,CADILLAC Escalade IV 6.2 V8 16V AWD 426 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-2014,Escalade,mo-6689,II (10/2000 - 12/2006),10/2000,12/2006,57906,CADILLAC Escalade,CADILLAC Escalade II 6.0 i V8 AWD Pickup doble cabina 24V 349 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-2014,Escalade,mo-6689,II (10/2000 - 12/2006),10/2000,12/2006,57904,CADILLAC Escalade,CADILLAC Escalade II 6.0 i V8 AWD 24V 349 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-2014,Escalade,mo-6689,II (10/2000 - 12/2006),10/2000,12/2006,57905,CADILLAC Escalade,CADILLAC Escalade II 6.0 i V8 RWD 24V 349 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-78,BLS,mo-481,Berlina (C35) (03/2005 - 09/2010),03/2005,09/2010,29423,CADILLAC BLS,CADILLAC BLS Berlina (C35) 1.9 Tid Berlina 180 cv Transmisión automática,Diesel
-ma-257,CADILLAC,fa-78,BLS,mo-481,Berlina (C35) (03/2005 - 09/2010),03/2005,09/2010,1617,CADILLAC BLS,CADILLAC BLS Berlina (C35) 1.9 Tid 150cv,Diesel
-ma-257,CADILLAC,fa-78,BLS,mo-481,Berlina (C35) (03/2005 - 09/2010),03/2005,09/2010,7943,CADILLAC BLS,CADILLAC BLS Berlina (C35) 1.9 Tid 150cv Transmisión automática,Diesel
-ma-257,CADILLAC,fa-78,BLS,mo-481,Berlina (C35) (03/2005 - 09/2010),03/2005,09/2010,7944,CADILLAC BLS,CADILLAC BLS Berlina (C35) 2.0 T 175cv,Gasolina
-ma-257,CADILLAC,fa-78,BLS,mo-481,Berlina (C35) (03/2005 - 09/2010),03/2005,09/2010,27749,CADILLAC BLS,CADILLAC BLS Berlina (C35) Flexpower 2.0 T 200 cv,Flex Fuel
-ma-257,CADILLAC,fa-78,BLS,mo-481,Berlina (C35) (03/2005 - 09/2010),03/2005,09/2010,29424,CADILLAC BLS,CADILLAC BLS Berlina (C35) Flexpower 2.0 T Berlina 200 cv Transmisión automática,Flex Fuel
-ma-257,CADILLAC,fa-78,BLS,mo-481,Berlina (C35) (03/2005 - 09/2010),03/2005,09/2010,57901,CADILLAC BLS,CADILLAC BLS Berlina (C35) 2.0 T AWD 16V 210 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-78,BLS,mo-481,Berlina (C35) (03/2005 - 09/2010),03/2005,09/2010,7945,CADILLAC BLS,CADILLAC BLS Berlina (C35) 2.0 T 210cv,Gasolina
-ma-257,CADILLAC,fa-78,BLS,mo-481,Berlina (C35) (03/2005 - 09/2010),03/2005,09/2010,29319,CADILLAC BLS,CADILLAC BLS Berlina (C35) 1.9 Tid 180 cv,Diesel
-ma-257,CADILLAC,fa-78,BLS,mo-481,Berlina (C35) (03/2005 - 09/2010),03/2005,09/2010,1951,CADILLAC BLS,CADILLAC BLS Berlina (C35) 2.8 V6 255cv,Gasolina
-ma-257,CADILLAC,fa-78,BLS,mo-481,Berlina (C35) (03/2005 - 09/2010),03/2005,09/2010,57902,CADILLAC BLS,CADILLAC BLS Berlina (C35) 2.8 T V6 AWD 24V 280 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-78,BLS,mo-481,Berlina (C35) (03/2005 - 09/2010),03/2005,09/2010,1620,CADILLAC BLS,CADILLAC BLS Berlina (C35) 2.8 V6 255cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-78,BLS,mo-481,Berlina (C35) (03/2005 - 09/2010),03/2005,09/2010,1618,CADILLAC BLS,CADILLAC BLS Berlina (C35) 2.0 T 175cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-78,BLS,mo-481,Berlina (C35) (03/2005 - 09/2010),03/2005,09/2010,1619,CADILLAC BLS,CADILLAC BLS Berlina (C35) 2.0 T 210cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-78,BLS,mo-3230,Wagon (C69) (01/2008 - 09/2010),01/2008,09/2010,33510,CADILLAC BLS,CADILLAC BLS Wagon (C69) 2.0 T AWD 16V 210 cv,Gasolina
-ma-257,CADILLAC,fa-78,BLS,mo-3230,Wagon (C69) (01/2008 - 09/2010),01/2008,09/2010,27753,CADILLAC BLS,CADILLAC BLS Wagon (C69) 1.9 D 150 cv,Diesel
-ma-257,CADILLAC,fa-78,BLS,mo-3230,Wagon (C69) (01/2008 - 09/2010),01/2008,09/2010,27754,CADILLAC BLS,CADILLAC BLS Wagon (C69) 2.0 T 175 cv,Gasolina
-ma-257,CADILLAC,fa-78,BLS,mo-3230,Wagon (C69) (01/2008 - 09/2010),01/2008,09/2010,29417,CADILLAC BLS,CADILLAC BLS Wagon (C69) 1.9 D Familiar 180 cv Transmisión automática,Diesel
-ma-257,CADILLAC,fa-78,BLS,mo-3230,Wagon (C69) (01/2008 - 09/2010),01/2008,09/2010,29419,CADILLAC BLS,CADILLAC BLS Wagon (C69) 2.0 T Familiar 175 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-78,BLS,mo-3230,Wagon (C69) (01/2008 - 09/2010),01/2008,09/2010,29421,CADILLAC BLS,CADILLAC BLS Wagon (C69) 2.0 T Familiar 210 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-78,BLS,mo-3230,Wagon (C69) (01/2008 - 09/2010),01/2008,09/2010,27755,CADILLAC BLS,CADILLAC BLS Wagon (C69) Wagon Flexpower 2.0 T 200 cv,Flex Fuel
-ma-257,CADILLAC,fa-78,BLS,mo-3230,Wagon (C69) (01/2008 - 09/2010),01/2008,09/2010,29420,CADILLAC BLS,CADILLAC BLS Wagon (C69) Wagon Flexpower 2.0 T Familiar 200 cv Transmisión automática,Flex Fuel
-ma-257,CADILLAC,fa-78,BLS,mo-3230,Wagon (C69) (01/2008 - 09/2010),01/2008,09/2010,27751,CADILLAC BLS,CADILLAC BLS Wagon (C69) 1.9 D 180 cv,Diesel
-ma-257,CADILLAC,fa-78,BLS,mo-3230,Wagon (C69) (01/2008 - 09/2010),01/2008,09/2010,33509,CADILLAC BLS,CADILLAC BLS Wagon (C69) 2.0 T AWD 16V 210 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-78,BLS,mo-3230,Wagon (C69) (01/2008 - 09/2010),01/2008,09/2010,27756,CADILLAC BLS,CADILLAC BLS Wagon (C69) 2.0 T 210 cv,Gasolina
-ma-257,CADILLAC,fa-78,BLS,mo-3230,Wagon (C69) (01/2008 - 09/2010),01/2008,09/2010,29418,CADILLAC BLS,CADILLAC BLS Wagon (C69) 1.9 D Familiar 150 cv Transmisión automática,Diesel
-ma-257,CADILLAC,fa-78,BLS,mo-3230,Wagon (C69) (01/2008 - 09/2010),01/2008,09/2010,57903,CADILLAC BLS,CADILLAC BLS Wagon (C69) 2.8 T V6 AWD familiar 24V 280 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-78,BLS,mo-3230,Wagon (C69) (01/2008 - 09/2010),01/2008,09/2010,27757,CADILLAC BLS,CADILLAC BLS Wagon (C69) 2.8 T 255 cv,Gasolina
-ma-257,CADILLAC,fa-78,BLS,mo-3230,Wagon (C69) (01/2008 - 09/2010),01/2008,09/2010,29422,CADILLAC BLS,CADILLAC BLS Wagon (C69) 2.8 T Familiar 255 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-812, (03/2002 - 09/2007),03/2002,09/2007,1953,CADILLAC CTS,CADILLAC CTS 3.6 i V6 257cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-812, (03/2002 - 09/2007),03/2002,09/2007,7946,CADILLAC CTS,CADILLAC CTS 2.6 i V6 181cv,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-812, (03/2002 - 09/2007),03/2002,09/2007,1952,CADILLAC CTS,CADILLAC CTS 3.6 i V6 257cv,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-812, (03/2002 - 09/2007),03/2002,09/2007,7948,CADILLAC CTS,CADILLAC CTS 3.2 i V6 218cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-812, (03/2002 - 09/2007),03/2002,09/2007,1621,CADILLAC CTS,CADILLAC CTS 2.6 i V6 181cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-812, (03/2002 - 09/2007),03/2002,09/2007,1622,CADILLAC CTS,CADILLAC CTS 2.8 i V6 215cv,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-812, (03/2002 - 09/2007),03/2002,09/2007,1954,CADILLAC CTS,CADILLAC CTS 5.7 i V8 405cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-812, (03/2002 - 09/2007),03/2002,09/2007,14871,CADILLAC CTS,CADILLAC CTS 2.6 i V6 185cv,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-812, (03/2002 - 09/2007),03/2002,09/2007,14872,CADILLAC CTS,CADILLAC CTS 2.6 i V6 185cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-812, (03/2002 - 09/2007),03/2002,09/2007,1623,CADILLAC CTS,CADILLAC CTS 3.2 i V6 218cv,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-812, (03/2002 - 09/2007),03/2002,09/2007,7947,CADILLAC CTS,CADILLAC CTS 2.8 i V6 215cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5132,II Sedan (09/2007 - 09/2013),09/2007,09/2013,48751,CADILLAC CTS,CADILLAC CTS II Sedan 3.6 VVT-DI V6 AWD Berlina 24V 322 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5132,II Sedan (09/2007 - 09/2013),09/2007,09/2013,33524,CADILLAC CTS,CADILLAC CTS II Sedan 3.0 VVT-DI V6 AWD 24V 274 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5132,II Sedan (09/2007 - 09/2013),09/2007,09/2013,56306,CADILLAC CTS,CADILLAC CTS II Sedan 3.6 VVT-DI V6 berlina 24V 322 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5132,II Sedan (09/2007 - 09/2013),09/2007,09/2013,27758,CADILLAC CTS,CADILLAC CTS II Sedan 3.6 i V6 Berlina 311 cv,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5132,II Sedan (09/2007 - 09/2013),09/2007,09/2013,32361,CADILLAC CTS,CADILLAC CTS II Sedan 3.6 i V6 Berlina 24V 311 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5132,II Sedan (09/2007 - 09/2013),09/2007,09/2013,27759,CADILLAC CTS,CADILLAC CTS II Sedan 3.6 i V6 AWD Berlina 311 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5132,II Sedan (09/2007 - 09/2013),09/2007,09/2013,32694,CADILLAC CTS,CADILLAC CTS II Sedan 2.8 SFi V6 Berlina 24V 211 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5132,II Sedan (09/2007 - 09/2013),09/2007,09/2013,33528,CADILLAC CTS,CADILLAC CTS II Sedan CTS-V 6.2 SC V8 564 cv,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5132,II Sedan (09/2007 - 09/2013),09/2007,09/2013,67246,CADILLAC CTS,CADILLAC CTS II Sedan 3.6 VVT-DI V6 24V AWD 309 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5132,II Sedan (09/2007 - 09/2013),09/2007,09/2013,33523,CADILLAC CTS,CADILLAC CTS II Sedan 3.0 VVT-DI V6 24V 274 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5132,II Sedan (09/2007 - 09/2013),09/2007,09/2013,32695,CADILLAC CTS,CADILLAC CTS II Sedan 2.8 SFi V6 Berlina 24V 211 cv,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5132,II Sedan (09/2007 - 09/2013),09/2007,09/2013,33527,CADILLAC CTS,CADILLAC CTS II Sedan CTS-V 6.2 SC V8 564 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5132,II Sedan (09/2007 - 09/2013),09/2007,09/2013,33525,CADILLAC CTS,CADILLAC CTS II Sedan 3.0 VVT-DI V6 AWD 24V 274 cv,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5132,II Sedan (09/2007 - 09/2013),09/2007,09/2013,67247,CADILLAC CTS,CADILLAC CTS II Sedan 3.6 VVT-DI V6 24V 309 cv,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5132,II Sedan (09/2007 - 09/2013),09/2007,09/2013,33526,CADILLAC CTS,CADILLAC CTS II Sedan 3.6 VVT-DI V6 24V 309 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5962,III (09/2013 - 01/2019),09/2013,01/2019,46256,CADILLAC CTS,CADILLAC CTS III 2.0 Ti RWD Berlina 16V 276 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5962,III (09/2013 - 01/2019),09/2013,01/2019,46255,CADILLAC CTS,CADILLAC CTS III 2.0 Ti AWD Berlina 16V 276 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5962,III (09/2013 - 01/2019),09/2013,01/2019,57858,CADILLAC CTS,CADILLAC CTS III CTS-V 6.2 i V8 RWD berlina 16V 649 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5134,II Estate (09/2010 - 09/2013),09/2010,09/2013,33519,CADILLAC CTS,CADILLAC CTS II Estate Sport Wagon 3.0 VVT-DI V6 AWD 24V 274 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5134,II Estate (09/2010 - 09/2013),09/2010,09/2013,33521,CADILLAC CTS,CADILLAC CTS II Estate Sport Wagon 3.6 VVT-DI V6 AWD 24V 309 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5134,II Estate (09/2010 - 09/2013),09/2010,09/2013,33516,CADILLAC CTS,CADILLAC CTS II Estate CTS-V 6.2 SC V8 564 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5134,II Estate (09/2010 - 09/2013),09/2010,09/2013,56304,CADILLAC CTS,CADILLAC CTS II Estate 3.6 VVT-DI V6 AWD familiar 24V 322 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5134,II Estate (09/2010 - 09/2013),09/2010,09/2013,33517,CADILLAC CTS,CADILLAC CTS II Estate CTS-V 6.2 SC V8 564 cv,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5134,II Estate (09/2010 - 09/2013),09/2010,09/2013,33518,CADILLAC CTS,CADILLAC CTS II Estate Sport Wagon 3.0 VVT-DI V6 24V 274 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5134,II Estate (09/2010 - 09/2013),09/2010,09/2013,56305,CADILLAC CTS,CADILLAC CTS II Estate 3.6 VVT-DI V6 familiar 24V 322 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5134,II Estate (09/2010 - 09/2013),09/2010,09/2013,33520,CADILLAC CTS,CADILLAC CTS II Estate Sport Wagon 3.6 VVT-DI V6 24V 309 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5133,II Coupe (09/2010 - 09/2013),09/2010,09/2013,33513,CADILLAC CTS,CADILLAC CTS II Coupe 3.6 VVT-DI V6 AWD 24V 311 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5133,II Coupe (09/2010 - 09/2013),09/2010,09/2013,33512,CADILLAC CTS,CADILLAC CTS II Coupe 3.6 VVT-DI V6 24V 311 cv,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5133,II Coupe (09/2010 - 09/2013),09/2010,09/2013,33514,CADILLAC CTS,CADILLAC CTS II Coupe CTS-V 6.2 SC V8 564 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5133,II Coupe (09/2010 - 09/2013),09/2010,09/2013,56303,CADILLAC CTS,CADILLAC CTS II Coupe 3.6 VVT-DI V6 24V 322 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5133,II Coupe (09/2010 - 09/2013),09/2010,09/2013,33511,CADILLAC CTS,CADILLAC CTS II Coupe 3.6 VVT-DI V6 24V 311 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5133,II Coupe (09/2010 - 09/2013),09/2010,09/2013,48750,CADILLAC CTS,CADILLAC CTS II Coupe 3.6 VVT-DI V6 AWD 24V 322 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-79,CTS,mo-5133,II Coupe (09/2010 - 09/2013),09/2010,09/2013,33515,CADILLAC CTS,CADILLAC CTS II Coupe CTS-V 6.2 SC V8 564 cv,Gasolina
-ma-257,CADILLAC,fa-81,STS,mo-1998, (05/2005 - 09/2010),05/2005,09/2010,37145,CADILLAC STS,CADILLAC STS 3.6 Berlina 311 cv,Gasolina
-ma-257,CADILLAC,fa-81,STS,mo-1998, (05/2005 - 09/2010),05/2005,09/2010,57910,CADILLAC STS,CADILLAC STS 4.6 VVT V8 berlina 32V 325 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-81,STS,mo-1998, (05/2005 - 09/2010),05/2005,09/2010,57908,CADILLAC STS,CADILLAC STS 3.6 AWD berlina 24V 311 cv,Gasolina
-ma-257,CADILLAC,fa-81,STS,mo-1998, (05/2005 - 09/2010),05/2005,09/2010,1955,CADILLAC STS,CADILLAC STS 4.6 VVT V8 325cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-81,STS,mo-1998, (05/2005 - 09/2010),05/2005,09/2010,27760,CADILLAC STS,CADILLAC STS 4.4 V8 Berlina 476 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-81,STS,mo-1998, (05/2005 - 09/2010),05/2005,09/2010,7950,CADILLAC STS,CADILLAC STS 3.6 VVT V6 258cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-81,STS,mo-1998, (05/2005 - 09/2010),05/2005,09/2010,24542,CADILLAC STS,CADILLAC STS 4.6 VVT V8 325cv AWD Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-81,STS,mo-1998, (05/2005 - 09/2010),05/2005,09/2010,57909,CADILLAC STS,CADILLAC STS 4.6 VVT V8 AWD berlina 32V 325 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-81,STS,mo-1998, (05/2005 - 09/2010),05/2005,09/2010,57911,CADILLAC STS,CADILLAC STS STS-V 4.4 V8 AWD berlina 32V Supercharged 476 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-1254,SEVILLE,mo-2945, (08/1979 - 12/1991),08/1979,12/1991,26095,CADILLAC SEVILLE,CADILLAC SEVILLE 5.7 D 105 cv,Diesel
-ma-257,CADILLAC,fa-1254,SEVILLE,mo-2945, (08/1979 - 12/1991),08/1979,12/1991,26745,CADILLAC SEVILLE,CADILLAC SEVILLE 4.9 Touring 203 cv,Gasolina
-ma-257,CADILLAC,fa-1254,SEVILLE,mo-2945, (08/1979 - 12/1991),08/1979,12/1991,26125,CADILLAC SEVILLE,CADILLAC SEVILLE 4.5 V8 182 cv,Gasolina
-ma-257,CADILLAC,fa-1254,SEVILLE,mo-2945, (08/1979 - 12/1991),08/1979,12/1991,26744,CADILLAC SEVILLE,CADILLAC SEVILLE 4.5 156 cv,Gasolina
-ma-257,CADILLAC,fa-82,XLR,mo-2226, (03/2004 - 06/2009),03/2004,06/2009,29944,CADILLAC XLR,CADILLAC XLR XLR-V 4.4 i V8 Roadster 32V 449 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-82,XLR,mo-2226, (03/2004 - 06/2009),03/2004,06/2009,1625,CADILLAC XLR,CADILLAC XLR 4.6 i V8 325cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-1251,ELDORADO,mo-2937, (09/1991 - Hoy),09/1991,,26354,CADILLAC ELDORADO,CADILLAC ELDORADO 4.6 299 cv,Gasolina
-ma-257,CADILLAC,fa-1251,ELDORADO,mo-2937, (09/1991 - Hoy),09/1991,,26355,CADILLAC ELDORADO,CADILLAC ELDORADO 4.6 305 cv,Gasolina
-ma-257,CADILLAC,fa-1251,ELDORADO,mo-2938,Coupe (10/1987 - 09/1991),10/1987,09/1991,26942,CADILLAC ELDORADO,CADILLAC ELDORADO Coupe 4.5 156 cv,Gasolina
-ma-257,CADILLAC,fa-1251,ELDORADO,mo-2938,Coupe (10/1987 - 09/1991),10/1987,09/1991,26943,CADILLAC ELDORADO,CADILLAC ELDORADO Coupe 4.9 203 cv,Gasolina
-ma-257,CADILLAC,fa-1250,DEVILLE,mo-2936, (10/1999 - 09/2004),10/1999,09/2004,26934,CADILLAC DEVILLE,CADILLAC DEVILLE 4.6 DHS 279 cv,Gasolina
-ma-257,CADILLAC,fa-1250,DEVILLE,mo-2936, (10/1999 - 09/2004),10/1999,09/2004,26935,CADILLAC DEVILLE,CADILLAC DEVILLE 4.6 DTS 305 cv,Gasolina
-ma-257,CADILLAC,fa-1250,DEVILLE,mo-2935, (10/1993 - 09/1999),10/1993,09/1999,26933,CADILLAC DEVILLE,CADILLAC DEVILLE 4.9 203 cv,Gasolina
-ma-257,CADILLAC,fa-1250,DEVILLE,mo-2935, (10/1993 - 09/1999),10/1993,09/1999,26932,CADILLAC DEVILLE,CADILLAC DEVILLE 4.6 305 cv,Gasolina
-ma-257,CADILLAC,fa-1250,DEVILLE,mo-2935, (10/1993 - 09/1999),10/1993,09/1999,26931,CADILLAC DEVILLE,CADILLAC DEVILLE 4.6 Concours 279 cv,Gasolina
-ma-257,CADILLAC,fa-1250,DEVILLE,mo-2934, (10/1990 - 09/1993),10/1990,09/1993,26930,CADILLAC DEVILLE,CADILLAC DEVILLE 4.9 Touring 203 cv,Gasolina
-ma-257,CADILLAC,fa-1252,ESCALADE,mo-2939,I (10/1998 - 01/2001),10/1998,01/2001,26140,CADILLAC ESCALADE,CADILLAC ESCALADE I 5.8 258 cv,Gasolina
-ma-257,CADILLAC,fa-2210,XT5,mo-6386, (05/2016 - Hoy),05/2016,,51872,CADILLAC XT5,CADILLAC XT5 3.6 DI V6 AWD 24V 314 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-2109,ATS,mo-5478, (02/2013 - Hoy),02/2013,,57856,CADILLAC ATS,CADILLAC ATS ATS-V 3.6 T V6 berlina 16V 470 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-2109,ATS,mo-5478, (02/2013 - Hoy),02/2013,,47716,CADILLAC ATS,CADILLAC ATS Coupe 2.0 T 16V 276 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-2109,ATS,mo-5478, (02/2013 - Hoy),02/2013,,47715,CADILLAC ATS,CADILLAC ATS Coupe 2.0 T AWD 16V 276 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-2109,ATS,mo-5478, (02/2013 - Hoy),02/2013,,39045,CADILLAC ATS,CADILLAC ATS 2.0 T Berlina 16V 276 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-2109,ATS,mo-5478, (02/2013 - Hoy),02/2013,,57857,CADILLAC ATS,CADILLAC ATS ATS-V 3.6 T V6 coupe 16V 470 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-2109,ATS,mo-5478, (02/2013 - Hoy),02/2013,,39044,CADILLAC ATS,CADILLAC ATS 2.0 T 4WD Berlina 16V 276 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-2109,ATS,mo-5478, (02/2013 - Hoy),02/2013,,39046,CADILLAC ATS,CADILLAC ATS 2.0 T Berlina 16V 276 cv,Gasolina
-ma-257,CADILLAC,fa-1253,FLEETWOOD,mo-2942, (10/1984 - 09/1993),10/1984,09/1993,26948,CADILLAC FLEETWOOD,CADILLAC FLEETWOOD 4.9 203 cv,Gasolina
-ma-257,CADILLAC,fa-1253,FLEETWOOD,mo-2942, (10/1984 - 09/1993),10/1984,09/1993,26950,CADILLAC FLEETWOOD,CADILLAC FLEETWOOD 5.7 188 cv,Gasolina
-ma-257,CADILLAC,fa-1253,FLEETWOOD,mo-2942, (10/1984 - 09/1993),10/1984,09/1993,26953,CADILLAC FLEETWOOD,CADILLAC FLEETWOOD 5.7 D 105 cv,Diesel
-ma-257,CADILLAC,fa-1253,FLEETWOOD,mo-2942, (10/1984 - 09/1993),10/1984,09/1993,26952,CADILLAC FLEETWOOD,CADILLAC FLEETWOOD 5.7 D 105 cv,Diesel
-ma-257,CADILLAC,fa-1253,FLEETWOOD,mo-2942, (10/1984 - 09/1993),10/1984,09/1993,26949,CADILLAC FLEETWOOD,CADILLAC FLEETWOOD 5.7 Brougham 177 cv,Gasolina
-ma-257,CADILLAC,fa-1253,FLEETWOOD,mo-2943, (10/1993 - 09/1997),10/1993,09/1997,26954,CADILLAC FLEETWOOD,CADILLAC FLEETWOOD 5.7 Brougham 188 cv,Gasolina
-ma-257,CADILLAC,fa-1253,FLEETWOOD,mo-2943, (10/1993 - 09/1997),10/1993,09/1997,26955,CADILLAC FLEETWOOD,CADILLAC FLEETWOOD 5.7 Brougham 264 cv,Gasolina
-ma-257,CADILLAC,fa-1253,FLEETWOOD,mo-2940, (10/1979 - 09/1984),10/1979,09/1984,26946,CADILLAC FLEETWOOD,CADILLAC FLEETWOOD 5.7 D 105 cv,Diesel
-ma-257,CADILLAC,fa-1249,ALLANTE,mo-2932,Coupe (01/1991 - 09/1993),01/1991,09/1993,26793,CADILLAC ALLANTE,CADILLAC ALLANTE Coupe 4.6 299 cv,Gasolina
-ma-257,CADILLAC,fa-1249,ALLANTE,mo-2932,Coupe (01/1991 - 09/1993),01/1991,09/1993,26792,CADILLAC ALLANTE,CADILLAC ALLANTE Coupe 4.5 204 cv,Gasolina
-ma-257,CADILLAC,fa-1249,ALLANTE,mo-2933,Descapotable (10/1988 - 09/1993),10/1988,09/1993,26791,CADILLAC ALLANTE,CADILLAC ALLANTE Descapotable 4.6 299 cv,Gasolina
-ma-257,CADILLAC,fa-1249,ALLANTE,mo-2933,Descapotable (10/1988 - 09/1993),10/1988,09/1993,26790,CADILLAC ALLANTE,CADILLAC ALLANTE Descapotable 4.5 204 cv,Gasolina
-ma-257,CADILLAC,fa-2305,XT4,mo-7106, (11/2019 - Hoy),11/2019,,67248,CADILLAC XT4,CADILLAC XT4 350D 2.0 DI 16V FWD AT9 174 cv Transmisión automática,Diesel
-ma-257,CADILLAC,fa-2305,XT4,mo-7106, (11/2019 - Hoy),11/2019,,67250,CADILLAC XT4,CADILLAC XT4 350T 2.0 i 16V AWD AT9 230 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-2305,XT4,mo-7106, (11/2019 - Hoy),11/2019,,67249,CADILLAC XT4,CADILLAC XT4 350D 2.0 DI 16V AWD AT9 174 cv Transmisión automática,Diesel
-ma-257,CADILLAC,fa-2209,CT6,mo-6385, (03/2016 - Hoy),03/2016,,52327,CADILLAC CT6,CADILLAC CT6 3.6 DI V6 AWD berlina 24V 340 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-2209,CT6,mo-6385, (03/2016 - Hoy),03/2016,,52326,CADILLAC CT6,CADILLAC CT6 2.0 Turbo DI berlina 16V 269 cv Transmisión automática,Gasolina
-ma-257,CADILLAC,fa-2209,CT6,mo-6385, (03/2016 - Hoy),03/2016,,51871,CADILLAC CT6,CADILLAC CT6 3.0 Turbo DI V6 AWD berlina 24V 418 cv Transmisión automática,Gasolina
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-257","CADILLAC","fa-1964","Seville","mo-3738"," (10/1987 - 03/2005)","10/1987","03/2005","30209","CADILLAC Seville","CADILLAC Seville 4.5 i V8 Berlina 158 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-1964","Seville","mo-3738"," (10/1987 - 03/2005)","10/1987","03/2005","30211","CADILLAC Seville","CADILLAC Seville 4.9 i V8 Berlina 203 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-1964","Seville","mo-3738"," (10/1987 - 03/2005)","10/1987","03/2005","29927","CADILLAC Seville","CADILLAC Seville 4.6 i V8 STS Berlina 32V 305 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-1964","Seville","mo-3738"," (10/1987 - 03/2005)","10/1987","03/2005","30210","CADILLAC Seville","CADILLAC Seville 4.5 i V8 Berlina 183 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-1964","Seville","mo-3738"," (10/1987 - 03/2005)","10/1987","03/2005","57907","CADILLAC Seville","CADILLAC Seville STS 4.6 i V8 berlina 32V 299 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-1964","Seville","mo-3738"," (10/1987 - 03/2005)","10/1987","03/2005","29926","CADILLAC Seville","CADILLAC Seville 4.6 i V8 SLS Berlina 32V 279 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-80","SRX","mo-1976"," (07/2004 - 12/2009)","07/2004","12/2009","24533","CADILLAC SRX","CADILLAC SRX 3.6 i V6 4x4 258cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-80","SRX","mo-1976"," (07/2004 - 12/2009)","07/2004","12/2009","24707","CADILLAC SRX","CADILLAC SRX 4.6 i V8 4x4 325cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-80","SRX","mo-1976"," (07/2004 - 12/2009)","07/2004","12/2009","7949","CADILLAC SRX","CADILLAC SRX 4.6 i V8 325cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-80","SRX","mo-1976"," (07/2004 - 12/2009)","07/2004","12/2009","1624","CADILLAC SRX","CADILLAC SRX 3.6 i V6 258cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-80","SRX","mo-5178","II (09/2010 - Hoy)","09/2010","","59442","CADILLAC SRX","CADILLAC SRX II 2.8 T V6 4WD familiar 24V Automatic 305 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-80","SRX","mo-5178","II (09/2010 - Hoy)","09/2010","","41503","CADILLAC SRX","CADILLAC SRX II 3.6 i V6 Familiar 24V 313 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-80","SRX","mo-5178","II (09/2010 - Hoy)","09/2010","","41500","CADILLAC SRX","CADILLAC SRX II 3.0 i V6 4WD Familiar 24V 271 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-80","SRX","mo-5178","II (09/2010 - Hoy)","09/2010","","33522","CADILLAC SRX","CADILLAC SRX II 3.0 i V6 4WD 24V 268 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-80","SRX","mo-5178","II (09/2010 - Hoy)","09/2010","","41502","CADILLAC SRX","CADILLAC SRX II 3.6 i V6 AWD Familiar 24V 318 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-80","SRX","mo-5178","II (09/2010 - Hoy)","09/2010","","41501","CADILLAC SRX","CADILLAC SRX II 3.6 i V6 4WD Familiar 24V 313 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-80","SRX","mo-5178","II (09/2010 - Hoy)","09/2010","","59443","CADILLAC SRX","CADILLAC SRX II 3.0 i V6 familiar 24V Automatic 268 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-2014","Escalade","mo-4864","III (05/2005 - 12/2015)","05/2005","12/2015","32696","CADILLAC Escalade","CADILLAC Escalade III 6.2i V8 RWD 409 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-2014","Escalade","mo-4864","III (05/2005 - 12/2015)","05/2005","12/2015","37144","CADILLAC Escalade","CADILLAC Escalade III 6.0 i V8 AWD 337 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-2014","Escalade","mo-4864","III (05/2005 - 12/2015)","05/2005","12/2015","32362","CADILLAC Escalade","CADILLAC Escalade III 6.2i V8 409 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-2014","Escalade","mo-4864","III (05/2005 - 12/2015)","05/2005","12/2015","67245","CADILLAC Escalade","CADILLAC Escalade III ESV 6.2 i V8 16V AWD 410 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-2014","Escalade","mo-6675","IV (09/2014 - Hoy)","09/2014","","57859","CADILLAC Escalade","CADILLAC Escalade IV ESV 6.2 i V8 4x4 24V 426 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-2014","Escalade","mo-6675","IV (09/2014 - Hoy)","09/2014","","67244","CADILLAC Escalade","CADILLAC Escalade IV 6.2 V8 16V AWD 426 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-2014","Escalade","mo-6689","II (10/2000 - 12/2006)","10/2000","12/2006","57906","CADILLAC Escalade","CADILLAC Escalade II 6.0 i V8 AWD Pickup doble cabina 24V 349 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-2014","Escalade","mo-6689","II (10/2000 - 12/2006)","10/2000","12/2006","57904","CADILLAC Escalade","CADILLAC Escalade II 6.0 i V8 AWD 24V 349 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-2014","Escalade","mo-6689","II (10/2000 - 12/2006)","10/2000","12/2006","57905","CADILLAC Escalade","CADILLAC Escalade II 6.0 i V8 RWD 24V 349 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-78","BLS","mo-481","Berlina (C35) (03/2005 - 09/2010)","03/2005","09/2010","29423","CADILLAC BLS","CADILLAC BLS Berlina (C35) 1.9 Tid Berlina 180 cv Transmisión automática","Diesel"
+"ma-257","CADILLAC","fa-78","BLS","mo-481","Berlina (C35) (03/2005 - 09/2010)","03/2005","09/2010","1617","CADILLAC BLS","CADILLAC BLS Berlina (C35) 1.9 Tid 150cv","Diesel"
+"ma-257","CADILLAC","fa-78","BLS","mo-481","Berlina (C35) (03/2005 - 09/2010)","03/2005","09/2010","7943","CADILLAC BLS","CADILLAC BLS Berlina (C35) 1.9 Tid 150cv Transmisión automática","Diesel"
+"ma-257","CADILLAC","fa-78","BLS","mo-481","Berlina (C35) (03/2005 - 09/2010)","03/2005","09/2010","7944","CADILLAC BLS","CADILLAC BLS Berlina (C35) 2.0 T 175cv","Gasolina"
+"ma-257","CADILLAC","fa-78","BLS","mo-481","Berlina (C35) (03/2005 - 09/2010)","03/2005","09/2010","27749","CADILLAC BLS","CADILLAC BLS Berlina (C35) Flexpower 2.0 T 200 cv","Flex Fuel"
+"ma-257","CADILLAC","fa-78","BLS","mo-481","Berlina (C35) (03/2005 - 09/2010)","03/2005","09/2010","29424","CADILLAC BLS","CADILLAC BLS Berlina (C35) Flexpower 2.0 T Berlina 200 cv Transmisión automática","Flex Fuel"
+"ma-257","CADILLAC","fa-78","BLS","mo-481","Berlina (C35) (03/2005 - 09/2010)","03/2005","09/2010","57901","CADILLAC BLS","CADILLAC BLS Berlina (C35) 2.0 T AWD 16V 210 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-78","BLS","mo-481","Berlina (C35) (03/2005 - 09/2010)","03/2005","09/2010","7945","CADILLAC BLS","CADILLAC BLS Berlina (C35) 2.0 T 210cv","Gasolina"
+"ma-257","CADILLAC","fa-78","BLS","mo-481","Berlina (C35) (03/2005 - 09/2010)","03/2005","09/2010","29319","CADILLAC BLS","CADILLAC BLS Berlina (C35) 1.9 Tid 180 cv","Diesel"
+"ma-257","CADILLAC","fa-78","BLS","mo-481","Berlina (C35) (03/2005 - 09/2010)","03/2005","09/2010","1951","CADILLAC BLS","CADILLAC BLS Berlina (C35) 2.8 V6 255cv","Gasolina"
+"ma-257","CADILLAC","fa-78","BLS","mo-481","Berlina (C35) (03/2005 - 09/2010)","03/2005","09/2010","57902","CADILLAC BLS","CADILLAC BLS Berlina (C35) 2.8 T V6 AWD 24V 280 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-78","BLS","mo-481","Berlina (C35) (03/2005 - 09/2010)","03/2005","09/2010","1620","CADILLAC BLS","CADILLAC BLS Berlina (C35) 2.8 V6 255cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-78","BLS","mo-481","Berlina (C35) (03/2005 - 09/2010)","03/2005","09/2010","1618","CADILLAC BLS","CADILLAC BLS Berlina (C35) 2.0 T 175cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-78","BLS","mo-481","Berlina (C35) (03/2005 - 09/2010)","03/2005","09/2010","1619","CADILLAC BLS","CADILLAC BLS Berlina (C35) 2.0 T 210cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-78","BLS","mo-3230","Wagon (C69) (01/2008 - 09/2010)","01/2008","09/2010","33510","CADILLAC BLS","CADILLAC BLS Wagon (C69) 2.0 T AWD 16V 210 cv","Gasolina"
+"ma-257","CADILLAC","fa-78","BLS","mo-3230","Wagon (C69) (01/2008 - 09/2010)","01/2008","09/2010","27753","CADILLAC BLS","CADILLAC BLS Wagon (C69) 1.9 D 150 cv","Diesel"
+"ma-257","CADILLAC","fa-78","BLS","mo-3230","Wagon (C69) (01/2008 - 09/2010)","01/2008","09/2010","27754","CADILLAC BLS","CADILLAC BLS Wagon (C69) 2.0 T 175 cv","Gasolina"
+"ma-257","CADILLAC","fa-78","BLS","mo-3230","Wagon (C69) (01/2008 - 09/2010)","01/2008","09/2010","29417","CADILLAC BLS","CADILLAC BLS Wagon (C69) 1.9 D Familiar 180 cv Transmisión automática","Diesel"
+"ma-257","CADILLAC","fa-78","BLS","mo-3230","Wagon (C69) (01/2008 - 09/2010)","01/2008","09/2010","29419","CADILLAC BLS","CADILLAC BLS Wagon (C69) 2.0 T Familiar 175 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-78","BLS","mo-3230","Wagon (C69) (01/2008 - 09/2010)","01/2008","09/2010","29421","CADILLAC BLS","CADILLAC BLS Wagon (C69) 2.0 T Familiar 210 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-78","BLS","mo-3230","Wagon (C69) (01/2008 - 09/2010)","01/2008","09/2010","27755","CADILLAC BLS","CADILLAC BLS Wagon (C69) Wagon Flexpower 2.0 T 200 cv","Flex Fuel"
+"ma-257","CADILLAC","fa-78","BLS","mo-3230","Wagon (C69) (01/2008 - 09/2010)","01/2008","09/2010","29420","CADILLAC BLS","CADILLAC BLS Wagon (C69) Wagon Flexpower 2.0 T Familiar 200 cv Transmisión automática","Flex Fuel"
+"ma-257","CADILLAC","fa-78","BLS","mo-3230","Wagon (C69) (01/2008 - 09/2010)","01/2008","09/2010","27751","CADILLAC BLS","CADILLAC BLS Wagon (C69) 1.9 D 180 cv","Diesel"
+"ma-257","CADILLAC","fa-78","BLS","mo-3230","Wagon (C69) (01/2008 - 09/2010)","01/2008","09/2010","33509","CADILLAC BLS","CADILLAC BLS Wagon (C69) 2.0 T AWD 16V 210 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-78","BLS","mo-3230","Wagon (C69) (01/2008 - 09/2010)","01/2008","09/2010","27756","CADILLAC BLS","CADILLAC BLS Wagon (C69) 2.0 T 210 cv","Gasolina"
+"ma-257","CADILLAC","fa-78","BLS","mo-3230","Wagon (C69) (01/2008 - 09/2010)","01/2008","09/2010","29418","CADILLAC BLS","CADILLAC BLS Wagon (C69) 1.9 D Familiar 150 cv Transmisión automática","Diesel"
+"ma-257","CADILLAC","fa-78","BLS","mo-3230","Wagon (C69) (01/2008 - 09/2010)","01/2008","09/2010","57903","CADILLAC BLS","CADILLAC BLS Wagon (C69) 2.8 T V6 AWD familiar 24V 280 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-78","BLS","mo-3230","Wagon (C69) (01/2008 - 09/2010)","01/2008","09/2010","27757","CADILLAC BLS","CADILLAC BLS Wagon (C69) 2.8 T 255 cv","Gasolina"
+"ma-257","CADILLAC","fa-78","BLS","mo-3230","Wagon (C69) (01/2008 - 09/2010)","01/2008","09/2010","29422","CADILLAC BLS","CADILLAC BLS Wagon (C69) 2.8 T Familiar 255 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-812"," (03/2002 - 09/2007)","03/2002","09/2007","1953","CADILLAC CTS","CADILLAC CTS 3.6 i V6 257cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-812"," (03/2002 - 09/2007)","03/2002","09/2007","7946","CADILLAC CTS","CADILLAC CTS 2.6 i V6 181cv","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-812"," (03/2002 - 09/2007)","03/2002","09/2007","1952","CADILLAC CTS","CADILLAC CTS 3.6 i V6 257cv","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-812"," (03/2002 - 09/2007)","03/2002","09/2007","7948","CADILLAC CTS","CADILLAC CTS 3.2 i V6 218cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-812"," (03/2002 - 09/2007)","03/2002","09/2007","1621","CADILLAC CTS","CADILLAC CTS 2.6 i V6 181cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-812"," (03/2002 - 09/2007)","03/2002","09/2007","1622","CADILLAC CTS","CADILLAC CTS 2.8 i V6 215cv","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-812"," (03/2002 - 09/2007)","03/2002","09/2007","1954","CADILLAC CTS","CADILLAC CTS 5.7 i V8 405cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-812"," (03/2002 - 09/2007)","03/2002","09/2007","14871","CADILLAC CTS","CADILLAC CTS 2.6 i V6 185cv","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-812"," (03/2002 - 09/2007)","03/2002","09/2007","14872","CADILLAC CTS","CADILLAC CTS 2.6 i V6 185cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-812"," (03/2002 - 09/2007)","03/2002","09/2007","1623","CADILLAC CTS","CADILLAC CTS 3.2 i V6 218cv","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-812"," (03/2002 - 09/2007)","03/2002","09/2007","7947","CADILLAC CTS","CADILLAC CTS 2.8 i V6 215cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5132","II Sedan (09/2007 - 09/2013)","09/2007","09/2013","48751","CADILLAC CTS","CADILLAC CTS II Sedan 3.6 VVT-DI V6 AWD Berlina 24V 322 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5132","II Sedan (09/2007 - 09/2013)","09/2007","09/2013","33524","CADILLAC CTS","CADILLAC CTS II Sedan 3.0 VVT-DI V6 AWD 24V 274 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5132","II Sedan (09/2007 - 09/2013)","09/2007","09/2013","56306","CADILLAC CTS","CADILLAC CTS II Sedan 3.6 VVT-DI V6 berlina 24V 322 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5132","II Sedan (09/2007 - 09/2013)","09/2007","09/2013","27758","CADILLAC CTS","CADILLAC CTS II Sedan 3.6 i V6 Berlina 311 cv","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5132","II Sedan (09/2007 - 09/2013)","09/2007","09/2013","32361","CADILLAC CTS","CADILLAC CTS II Sedan 3.6 i V6 Berlina 24V 311 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5132","II Sedan (09/2007 - 09/2013)","09/2007","09/2013","27759","CADILLAC CTS","CADILLAC CTS II Sedan 3.6 i V6 AWD Berlina 311 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5132","II Sedan (09/2007 - 09/2013)","09/2007","09/2013","32694","CADILLAC CTS","CADILLAC CTS II Sedan 2.8 SFi V6 Berlina 24V 211 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5132","II Sedan (09/2007 - 09/2013)","09/2007","09/2013","33528","CADILLAC CTS","CADILLAC CTS II Sedan CTS-V 6.2 SC V8 564 cv","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5132","II Sedan (09/2007 - 09/2013)","09/2007","09/2013","67246","CADILLAC CTS","CADILLAC CTS II Sedan 3.6 VVT-DI V6 24V AWD 309 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5132","II Sedan (09/2007 - 09/2013)","09/2007","09/2013","33523","CADILLAC CTS","CADILLAC CTS II Sedan 3.0 VVT-DI V6 24V 274 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5132","II Sedan (09/2007 - 09/2013)","09/2007","09/2013","32695","CADILLAC CTS","CADILLAC CTS II Sedan 2.8 SFi V6 Berlina 24V 211 cv","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5132","II Sedan (09/2007 - 09/2013)","09/2007","09/2013","33527","CADILLAC CTS","CADILLAC CTS II Sedan CTS-V 6.2 SC V8 564 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5132","II Sedan (09/2007 - 09/2013)","09/2007","09/2013","33525","CADILLAC CTS","CADILLAC CTS II Sedan 3.0 VVT-DI V6 AWD 24V 274 cv","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5132","II Sedan (09/2007 - 09/2013)","09/2007","09/2013","67247","CADILLAC CTS","CADILLAC CTS II Sedan 3.6 VVT-DI V6 24V 309 cv","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5132","II Sedan (09/2007 - 09/2013)","09/2007","09/2013","33526","CADILLAC CTS","CADILLAC CTS II Sedan 3.6 VVT-DI V6 24V 309 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5962","III (09/2013 - 01/2019)","09/2013","01/2019","46256","CADILLAC CTS","CADILLAC CTS III 2.0 Ti RWD Berlina 16V 276 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5962","III (09/2013 - 01/2019)","09/2013","01/2019","46255","CADILLAC CTS","CADILLAC CTS III 2.0 Ti AWD Berlina 16V 276 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5962","III (09/2013 - 01/2019)","09/2013","01/2019","57858","CADILLAC CTS","CADILLAC CTS III CTS-V 6.2 i V8 RWD berlina 16V 649 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5134","II Estate (09/2010 - 09/2013)","09/2010","09/2013","33519","CADILLAC CTS","CADILLAC CTS II Estate Sport Wagon 3.0 VVT-DI V6 AWD 24V 274 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5134","II Estate (09/2010 - 09/2013)","09/2010","09/2013","33521","CADILLAC CTS","CADILLAC CTS II Estate Sport Wagon 3.6 VVT-DI V6 AWD 24V 309 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5134","II Estate (09/2010 - 09/2013)","09/2010","09/2013","33516","CADILLAC CTS","CADILLAC CTS II Estate CTS-V 6.2 SC V8 564 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5134","II Estate (09/2010 - 09/2013)","09/2010","09/2013","56304","CADILLAC CTS","CADILLAC CTS II Estate 3.6 VVT-DI V6 AWD familiar 24V 322 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5134","II Estate (09/2010 - 09/2013)","09/2010","09/2013","33517","CADILLAC CTS","CADILLAC CTS II Estate CTS-V 6.2 SC V8 564 cv","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5134","II Estate (09/2010 - 09/2013)","09/2010","09/2013","33518","CADILLAC CTS","CADILLAC CTS II Estate Sport Wagon 3.0 VVT-DI V6 24V 274 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5134","II Estate (09/2010 - 09/2013)","09/2010","09/2013","56305","CADILLAC CTS","CADILLAC CTS II Estate 3.6 VVT-DI V6 familiar 24V 322 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5134","II Estate (09/2010 - 09/2013)","09/2010","09/2013","33520","CADILLAC CTS","CADILLAC CTS II Estate Sport Wagon 3.6 VVT-DI V6 24V 309 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5133","II Coupe (09/2010 - 09/2013)","09/2010","09/2013","33513","CADILLAC CTS","CADILLAC CTS II Coupe 3.6 VVT-DI V6 AWD 24V 311 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5133","II Coupe (09/2010 - 09/2013)","09/2010","09/2013","33512","CADILLAC CTS","CADILLAC CTS II Coupe 3.6 VVT-DI V6 24V 311 cv","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5133","II Coupe (09/2010 - 09/2013)","09/2010","09/2013","33514","CADILLAC CTS","CADILLAC CTS II Coupe CTS-V 6.2 SC V8 564 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5133","II Coupe (09/2010 - 09/2013)","09/2010","09/2013","56303","CADILLAC CTS","CADILLAC CTS II Coupe 3.6 VVT-DI V6 24V 322 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5133","II Coupe (09/2010 - 09/2013)","09/2010","09/2013","33511","CADILLAC CTS","CADILLAC CTS II Coupe 3.6 VVT-DI V6 24V 311 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5133","II Coupe (09/2010 - 09/2013)","09/2010","09/2013","48750","CADILLAC CTS","CADILLAC CTS II Coupe 3.6 VVT-DI V6 AWD 24V 322 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-79","CTS","mo-5133","II Coupe (09/2010 - 09/2013)","09/2010","09/2013","33515","CADILLAC CTS","CADILLAC CTS II Coupe CTS-V 6.2 SC V8 564 cv","Gasolina"
+"ma-257","CADILLAC","fa-81","STS","mo-1998"," (05/2005 - 09/2010)","05/2005","09/2010","37145","CADILLAC STS","CADILLAC STS 3.6 Berlina 311 cv","Gasolina"
+"ma-257","CADILLAC","fa-81","STS","mo-1998"," (05/2005 - 09/2010)","05/2005","09/2010","57910","CADILLAC STS","CADILLAC STS 4.6 VVT V8 berlina 32V 325 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-81","STS","mo-1998"," (05/2005 - 09/2010)","05/2005","09/2010","57908","CADILLAC STS","CADILLAC STS 3.6 AWD berlina 24V 311 cv","Gasolina"
+"ma-257","CADILLAC","fa-81","STS","mo-1998"," (05/2005 - 09/2010)","05/2005","09/2010","1955","CADILLAC STS","CADILLAC STS 4.6 VVT V8 325cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-81","STS","mo-1998"," (05/2005 - 09/2010)","05/2005","09/2010","27760","CADILLAC STS","CADILLAC STS 4.4 V8 Berlina 476 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-81","STS","mo-1998"," (05/2005 - 09/2010)","05/2005","09/2010","7950","CADILLAC STS","CADILLAC STS 3.6 VVT V6 258cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-81","STS","mo-1998"," (05/2005 - 09/2010)","05/2005","09/2010","24542","CADILLAC STS","CADILLAC STS 4.6 VVT V8 325cv AWD Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-81","STS","mo-1998"," (05/2005 - 09/2010)","05/2005","09/2010","57909","CADILLAC STS","CADILLAC STS 4.6 VVT V8 AWD berlina 32V 325 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-81","STS","mo-1998"," (05/2005 - 09/2010)","05/2005","09/2010","57911","CADILLAC STS","CADILLAC STS STS-V 4.4 V8 AWD berlina 32V Supercharged 476 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-1254","SEVILLE","mo-2945"," (08/1979 - 12/1991)","08/1979","12/1991","26095","CADILLAC SEVILLE","CADILLAC SEVILLE 5.7 D 105 cv","Diesel"
+"ma-257","CADILLAC","fa-1254","SEVILLE","mo-2945"," (08/1979 - 12/1991)","08/1979","12/1991","26745","CADILLAC SEVILLE","CADILLAC SEVILLE 4.9 Touring 203 cv","Gasolina"
+"ma-257","CADILLAC","fa-1254","SEVILLE","mo-2945"," (08/1979 - 12/1991)","08/1979","12/1991","26125","CADILLAC SEVILLE","CADILLAC SEVILLE 4.5 V8 182 cv","Gasolina"
+"ma-257","CADILLAC","fa-1254","SEVILLE","mo-2945"," (08/1979 - 12/1991)","08/1979","12/1991","26744","CADILLAC SEVILLE","CADILLAC SEVILLE 4.5 156 cv","Gasolina"
+"ma-257","CADILLAC","fa-82","XLR","mo-2226"," (03/2004 - 06/2009)","03/2004","06/2009","29944","CADILLAC XLR","CADILLAC XLR XLR-V 4.4 i V8 Roadster 32V 449 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-82","XLR","mo-2226"," (03/2004 - 06/2009)","03/2004","06/2009","1625","CADILLAC XLR","CADILLAC XLR 4.6 i V8 325cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-1251","ELDORADO","mo-2937"," (09/1991 - Hoy)","09/1991","","26354","CADILLAC ELDORADO","CADILLAC ELDORADO 4.6 299 cv","Gasolina"
+"ma-257","CADILLAC","fa-1251","ELDORADO","mo-2937"," (09/1991 - Hoy)","09/1991","","26355","CADILLAC ELDORADO","CADILLAC ELDORADO 4.6 305 cv","Gasolina"
+"ma-257","CADILLAC","fa-1251","ELDORADO","mo-2938","Coupe (10/1987 - 09/1991)","10/1987","09/1991","26942","CADILLAC ELDORADO","CADILLAC ELDORADO Coupe 4.5 156 cv","Gasolina"
+"ma-257","CADILLAC","fa-1251","ELDORADO","mo-2938","Coupe (10/1987 - 09/1991)","10/1987","09/1991","26943","CADILLAC ELDORADO","CADILLAC ELDORADO Coupe 4.9 203 cv","Gasolina"
+"ma-257","CADILLAC","fa-1250","DEVILLE","mo-2936"," (10/1999 - 09/2004)","10/1999","09/2004","26934","CADILLAC DEVILLE","CADILLAC DEVILLE 4.6 DHS 279 cv","Gasolina"
+"ma-257","CADILLAC","fa-1250","DEVILLE","mo-2936"," (10/1999 - 09/2004)","10/1999","09/2004","26935","CADILLAC DEVILLE","CADILLAC DEVILLE 4.6 DTS 305 cv","Gasolina"
+"ma-257","CADILLAC","fa-1250","DEVILLE","mo-2935"," (10/1993 - 09/1999)","10/1993","09/1999","26933","CADILLAC DEVILLE","CADILLAC DEVILLE 4.9 203 cv","Gasolina"
+"ma-257","CADILLAC","fa-1250","DEVILLE","mo-2935"," (10/1993 - 09/1999)","10/1993","09/1999","26932","CADILLAC DEVILLE","CADILLAC DEVILLE 4.6 305 cv","Gasolina"
+"ma-257","CADILLAC","fa-1250","DEVILLE","mo-2935"," (10/1993 - 09/1999)","10/1993","09/1999","26931","CADILLAC DEVILLE","CADILLAC DEVILLE 4.6 Concours 279 cv","Gasolina"
+"ma-257","CADILLAC","fa-1250","DEVILLE","mo-2934"," (10/1990 - 09/1993)","10/1990","09/1993","26930","CADILLAC DEVILLE","CADILLAC DEVILLE 4.9 Touring 203 cv","Gasolina"
+"ma-257","CADILLAC","fa-1252","ESCALADE","mo-2939","I (10/1998 - 01/2001)","10/1998","01/2001","26140","CADILLAC ESCALADE","CADILLAC ESCALADE I 5.8 258 cv","Gasolina"
+"ma-257","CADILLAC","fa-2210","XT5","mo-6386"," (05/2016 - Hoy)","05/2016","","51872","CADILLAC XT5","CADILLAC XT5 3.6 DI V6 AWD 24V 314 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-2109","ATS","mo-5478"," (02/2013 - Hoy)","02/2013","","57856","CADILLAC ATS","CADILLAC ATS ATS-V 3.6 T V6 berlina 16V 470 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-2109","ATS","mo-5478"," (02/2013 - Hoy)","02/2013","","47716","CADILLAC ATS","CADILLAC ATS Coupe 2.0 T 16V 276 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-2109","ATS","mo-5478"," (02/2013 - Hoy)","02/2013","","47715","CADILLAC ATS","CADILLAC ATS Coupe 2.0 T AWD 16V 276 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-2109","ATS","mo-5478"," (02/2013 - Hoy)","02/2013","","39045","CADILLAC ATS","CADILLAC ATS 2.0 T Berlina 16V 276 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-2109","ATS","mo-5478"," (02/2013 - Hoy)","02/2013","","57857","CADILLAC ATS","CADILLAC ATS ATS-V 3.6 T V6 coupe 16V 470 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-2109","ATS","mo-5478"," (02/2013 - Hoy)","02/2013","","39044","CADILLAC ATS","CADILLAC ATS 2.0 T 4WD Berlina 16V 276 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-2109","ATS","mo-5478"," (02/2013 - Hoy)","02/2013","","39046","CADILLAC ATS","CADILLAC ATS 2.0 T Berlina 16V 276 cv","Gasolina"
+"ma-257","CADILLAC","fa-1253","FLEETWOOD","mo-2942"," (10/1984 - 09/1993)","10/1984","09/1993","26948","CADILLAC FLEETWOOD","CADILLAC FLEETWOOD 4.9 203 cv","Gasolina"
+"ma-257","CADILLAC","fa-1253","FLEETWOOD","mo-2942"," (10/1984 - 09/1993)","10/1984","09/1993","26950","CADILLAC FLEETWOOD","CADILLAC FLEETWOOD 5.7 188 cv","Gasolina"
+"ma-257","CADILLAC","fa-1253","FLEETWOOD","mo-2942"," (10/1984 - 09/1993)","10/1984","09/1993","26953","CADILLAC FLEETWOOD","CADILLAC FLEETWOOD 5.7 D 105 cv","Diesel"
+"ma-257","CADILLAC","fa-1253","FLEETWOOD","mo-2942"," (10/1984 - 09/1993)","10/1984","09/1993","26952","CADILLAC FLEETWOOD","CADILLAC FLEETWOOD 5.7 D 105 cv","Diesel"
+"ma-257","CADILLAC","fa-1253","FLEETWOOD","mo-2942"," (10/1984 - 09/1993)","10/1984","09/1993","26949","CADILLAC FLEETWOOD","CADILLAC FLEETWOOD 5.7 Brougham 177 cv","Gasolina"
+"ma-257","CADILLAC","fa-1253","FLEETWOOD","mo-2943"," (10/1993 - 09/1997)","10/1993","09/1997","26954","CADILLAC FLEETWOOD","CADILLAC FLEETWOOD 5.7 Brougham 188 cv","Gasolina"
+"ma-257","CADILLAC","fa-1253","FLEETWOOD","mo-2943"," (10/1993 - 09/1997)","10/1993","09/1997","26955","CADILLAC FLEETWOOD","CADILLAC FLEETWOOD 5.7 Brougham 264 cv","Gasolina"
+"ma-257","CADILLAC","fa-1253","FLEETWOOD","mo-2940"," (10/1979 - 09/1984)","10/1979","09/1984","26946","CADILLAC FLEETWOOD","CADILLAC FLEETWOOD 5.7 D 105 cv","Diesel"
+"ma-257","CADILLAC","fa-1249","ALLANTE","mo-2932","Coupe (01/1991 - 09/1993)","01/1991","09/1993","26793","CADILLAC ALLANTE","CADILLAC ALLANTE Coupe 4.6 299 cv","Gasolina"
+"ma-257","CADILLAC","fa-1249","ALLANTE","mo-2932","Coupe (01/1991 - 09/1993)","01/1991","09/1993","26792","CADILLAC ALLANTE","CADILLAC ALLANTE Coupe 4.5 204 cv","Gasolina"
+"ma-257","CADILLAC","fa-1249","ALLANTE","mo-2933","Descapotable (10/1988 - 09/1993)","10/1988","09/1993","26791","CADILLAC ALLANTE","CADILLAC ALLANTE Descapotable 4.6 299 cv","Gasolina"
+"ma-257","CADILLAC","fa-1249","ALLANTE","mo-2933","Descapotable (10/1988 - 09/1993)","10/1988","09/1993","26790","CADILLAC ALLANTE","CADILLAC ALLANTE Descapotable 4.5 204 cv","Gasolina"
+"ma-257","CADILLAC","fa-2305","XT4","mo-7106"," (11/2019 - Hoy)","11/2019","","67248","CADILLAC XT4","CADILLAC XT4 350D 2.0 DI 16V FWD AT9 174 cv Transmisión automática","Diesel"
+"ma-257","CADILLAC","fa-2305","XT4","mo-7106"," (11/2019 - Hoy)","11/2019","","67250","CADILLAC XT4","CADILLAC XT4 350T 2.0 i 16V AWD AT9 230 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-2305","XT4","mo-7106"," (11/2019 - Hoy)","11/2019","","67249","CADILLAC XT4","CADILLAC XT4 350D 2.0 DI 16V AWD AT9 174 cv Transmisión automática","Diesel"
+"ma-257","CADILLAC","fa-2209","CT6","mo-6385"," (03/2016 - Hoy)","03/2016","","52327","CADILLAC CT6","CADILLAC CT6 3.6 DI V6 AWD berlina 24V 340 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-2209","CT6","mo-6385"," (03/2016 - Hoy)","03/2016","","52326","CADILLAC CT6","CADILLAC CT6 2.0 Turbo DI berlina 16V 269 cv Transmisión automática","Gasolina"
+"ma-257","CADILLAC","fa-2209","CT6","mo-6385"," (03/2016 - Hoy)","03/2016","","51871","CADILLAC CT6","CADILLAC CT6 3.0 Turbo DI V6 AWD berlina 24V 418 cv Transmisión automática","Gasolina"

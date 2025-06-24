@@ -1,217 +1,217 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1050,I (ZJ/ZG) (01/1993 - 07/2000),01/1993,07/2000,20542,JEEP Grand Cherokee,JEEP Grand Cherokee I (ZJ/ZG) 4.0 i 193 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1050,I (ZJ/ZG) (01/1993 - 07/2000),01/1993,07/2000,6238,JEEP Grand Cherokee,JEEP Grand Cherokee I (ZJ/ZG) 4.7 i V8 220 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1050,I (ZJ/ZG) (01/1993 - 07/2000),01/1993,07/2000,20543,JEEP Grand Cherokee,JEEP Grand Cherokee I (ZJ/ZG) 5.9 i 241 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1050,I (ZJ/ZG) (01/1993 - 07/2000),01/1993,07/2000,6237,JEEP Grand Cherokee,JEEP Grand Cherokee I (ZJ/ZG) 3.1 TD 140 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1050,I (ZJ/ZG) (01/1993 - 07/2000),01/1993,07/2000,4426,JEEP Grand Cherokee,JEEP Grand Cherokee I (ZJ/ZG) 5.2 i 211 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1050,I (ZJ/ZG) (01/1993 - 07/2000),01/1993,07/2000,30729,JEEP Grand Cherokee,JEEP Grand Cherokee I (ZJ/ZG) 4.0 i 177 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1050,I (ZJ/ZG) (01/1993 - 07/2000),01/1993,07/2000,20541,JEEP Grand Cherokee,JEEP Grand Cherokee I (ZJ/ZG) 2.5 TD 4WD 116 cv,Diesel
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1050,I (ZJ/ZG) (01/1993 - 07/2000),01/1993,07/2000,60137,JEEP Grand Cherokee,JEEP Grand Cherokee I (ZJ/ZG) 4.0 i 180 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1051,II (WJ) (08/2000 - 04/2003),08/2000,04/2003,15139,JEEP Grand Cherokee,JEEP Grand Cherokee II (WJ) 4.7 i V8 4WD 227 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1051,II (WJ) (08/2000 - 04/2003),08/2000,04/2003,34901,JEEP Grand Cherokee,JEEP Grand Cherokee II (WJ) 3.1 TD 4WD 140 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1051,II (WJ) (08/2000 - 04/2003),08/2000,04/2003,6239,JEEP Grand Cherokee,JEEP Grand Cherokee II (WJ) 2.7 CRD 20V 4WD 163 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1051,II (WJ) (08/2000 - 04/2003),08/2000,04/2003,15138,JEEP Grand Cherokee,JEEP Grand Cherokee II (WJ) 4.0 i 4WD 190 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1051,II (WJ) (08/2000 - 04/2003),08/2000,04/2003,4427,JEEP Grand Cherokee,JEEP Grand Cherokee II (WJ) 4.7 i V8 4WD 258 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1048,II Phase 2 (WJ) (09/2002 - 05/2005),09/2002,05/2005,4423,JEEP Grand Cherokee,JEEP Grand Cherokee II Phase 2 (WJ) 4.0 i 4WD 190 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1048,II Phase 2 (WJ) (09/2002 - 05/2005),09/2002,05/2005,6234,JEEP Grand Cherokee,JEEP Grand Cherokee II Phase 2 (WJ) 2.7 CRD 20V 4WD 163 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1048,II Phase 2 (WJ) (09/2002 - 05/2005),09/2002,05/2005,4424,JEEP Grand Cherokee,JEEP Grand Cherokee II Phase 2 (WJ) 4.7 i V8 4WD 227 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1048,II Phase 2 (WJ) (09/2002 - 05/2005),09/2002,05/2005,6235,JEEP Grand Cherokee,JEEP Grand Cherokee II Phase 2 (WJ) 4.7 i V8 4WD 258 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1049,III (WH) (06/2005 - 03/2008),06/2005,03/2008,28097,JEEP Grand Cherokee,JEEP Grand Cherokee III (WH) 3.7 V6 12V 4WD 214 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1049,III (WH) (06/2005 - 03/2008),06/2005,03/2008,4425,JEEP Grand Cherokee,JEEP Grand Cherokee III (WH) 5.7 i V8 4WD 326 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1049,III (WH) (06/2005 - 03/2008),06/2005,03/2008,6236,JEEP Grand Cherokee,JEEP Grand Cherokee III (WH) 3.0 CRD 24V 4WD 218 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1049,III (WH) (06/2005 - 03/2008),06/2005,03/2008,56430,JEEP Grand Cherokee,JEEP Grand Cherokee III (WH) 3.0 CRD 24V 4WD 211 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1049,III (WH) (06/2005 - 03/2008),06/2005,03/2008,20540,JEEP Grand Cherokee,JEEP Grand Cherokee III (WH) 4.7 i V8 4WD 231 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1049,III (WH) (06/2005 - 03/2008),06/2005,03/2008,38270,JEEP Grand Cherokee,JEEP Grand Cherokee III (WH) 4.7 i V8 4WD 223 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-1049,III (WH) (06/2005 - 03/2008),06/2005,03/2008,15137,JEEP Grand Cherokee,JEEP Grand Cherokee III (WH) SRT8 6.1 i V8 4WD 426 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-5000,IV (WK) (09/2010 - 03/2013),09/2010,03/2013,33853,JEEP Grand Cherokee,JEEP Grand Cherokee IV (WK) 3.0 CRD V6 24V DPF 190 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-362,Grand Cherokee,mo-5000,IV (WK) (09/2010 - 03/2013),09/2010,03/2013,65307,JEEP Grand Cherokee,JEEP Grand Cherokee IV (WK) 3.6 V6 24V FlexiFuel 286 cv Caixa Automática,Flex Fuel
-ma-109,JEEP,fa-362,Grand Cherokee,mo-5000,IV (WK) (09/2010 - 03/2013),09/2010,03/2013,33854,JEEP Grand Cherokee,JEEP Grand Cherokee IV (WK) 3.0 CRD V6 24V DPF 241 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-362,Grand Cherokee,mo-5000,IV (WK) (09/2010 - 03/2013),09/2010,03/2013,40876,JEEP Grand Cherokee,JEEP Grand Cherokee IV (WK) SRT8 6.4 V8 468 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-5000,IV (WK) (09/2010 - 03/2013),09/2010,03/2013,33032,JEEP Grand Cherokee,JEEP Grand Cherokee IV (WK) 3.6 V6 24V 286 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-5000,IV (WK) (09/2010 - 03/2013),09/2010,03/2013,33033,JEEP Grand Cherokee,JEEP Grand Cherokee IV (WK) 5.7 V8 Hemi 352 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-5529,IV Phase 2 (WK) (03/2013 - 04/2021),03/2013,04/2021,40882,JEEP Grand Cherokee,JEEP Grand Cherokee IV Phase 2 (WK) SRT8 6.4 V8 4WD 468 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-5529,IV Phase 2 (WK) (03/2013 - 04/2021),03/2013,04/2021,40879,JEEP Grand Cherokee,JEEP Grand Cherokee IV Phase 2 (WK) 3.6 V6 24V Flexfuel 4WD 286 cv Caixa Automática,Flex Fuel
-ma-109,JEEP,fa-362,Grand Cherokee,mo-5529,IV Phase 2 (WK) (03/2013 - 04/2021),03/2013,04/2021,40878,JEEP Grand Cherokee,JEEP Grand Cherokee IV Phase 2 (WK) 3.0 CRD V6 24V DPF 4WD 250 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-362,Grand Cherokee,mo-5529,IV Phase 2 (WK) (03/2013 - 04/2021),03/2013,04/2021,40881,JEEP Grand Cherokee,JEEP Grand Cherokee IV Phase 2 (WK) 5.7 V8 Hemi Flexfuel 4WD 352 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-5529,IV Phase 2 (WK) (03/2013 - 04/2021),03/2013,04/2021,56429,JEEP Grand Cherokee,JEEP Grand Cherokee IV Phase 2 (WK) 3.6 V6 24V Flexfuel 4WD 290 cv Caixa Automática,Flex Fuel
-ma-109,JEEP,fa-362,Grand Cherokee,mo-5529,IV Phase 2 (WK) (03/2013 - 04/2021),03/2013,04/2021,40877,JEEP Grand Cherokee,JEEP Grand Cherokee IV Phase 2 (WK) 3.0 CRD V6 24V DPF 4WD 190 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-362,Grand Cherokee,mo-5529,IV Phase 2 (WK) (03/2013 - 04/2021),03/2013,04/2021,68596,JEEP Grand Cherokee,JEEP Grand Cherokee IV Phase 2 (WK) Trackhawk 6.2 i V8 4WD 710 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-5529,IV Phase 2 (WK) (03/2013 - 04/2021),03/2013,04/2021,40880,JEEP Grand Cherokee,JEEP Grand Cherokee IV Phase 2 (WK) 5.7 V8 Hemi 4WD 352 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-3413,III Phase 2 (WH) (03/2008 - 03/2011),03/2008,03/2011,31953,JEEP Grand Cherokee,JEEP Grand Cherokee III Phase 2 (WH) SRT8 6.1 V8 Hemi 426 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-3413,III Phase 2 (WH) (03/2008 - 03/2011),03/2008,03/2011,33031,JEEP Grand Cherokee,JEEP Grand Cherokee III Phase 2 (WH) 5.7 V8 Hemi 352 cv Caixa Automática,Essence
-ma-109,JEEP,fa-362,Grand Cherokee,mo-3413,III Phase 2 (WH) (03/2008 - 03/2011),03/2008,03/2011,31952,JEEP Grand Cherokee,JEEP Grand Cherokee III Phase 2 (WH) 3.0 CRD V6 24V 218 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-362,Grand Cherokee,mo-7711,V (WL) (05/2021 - Hoje),05/2021,,68597,JEEP Grand Cherokee,JEEP Grand Cherokee V (WL) 4Xe 2.0 T-GDI 16V 380 Plug-in Hybrid 272 cv Caixa Automática,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-616,I (ZJ-XJ) (01/1977 - 12/2001),01/1977,12/2001,31957,JEEP Cherokee,JEEP Cherokee I (ZJ-XJ) 2.1 TD 2WD 80 cv,Diesel
-ma-109,JEEP,fa-358,Cherokee,mo-616,I (ZJ-XJ) (01/1977 - 12/2001),01/1977,12/2001,51931,JEEP Cherokee,JEEP Cherokee I (ZJ-XJ) 2.5 i 4WD 118 cv,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-616,I (ZJ-XJ) (01/1977 - 12/2001),01/1977,12/2001,31958,JEEP Cherokee,JEEP Cherokee I (ZJ-XJ) 2.1 TD 4WD 80 cv,Diesel
-ma-109,JEEP,fa-358,Cherokee,mo-616,I (ZJ-XJ) (01/1977 - 12/2001),01/1977,12/2001,6227,JEEP Cherokee,JEEP Cherokee I (ZJ-XJ) 2.5 TD 4WD 116 cv,Diesel
-ma-109,JEEP,fa-358,Cherokee,mo-616,I (ZJ-XJ) (01/1977 - 12/2001),01/1977,12/2001,57740,JEEP Cherokee,JEEP Cherokee I (ZJ-XJ) 2.5 i 2WD 118 cv,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-616,I (ZJ-XJ) (01/1977 - 12/2001),01/1977,12/2001,20529,JEEP Cherokee,JEEP Cherokee I (ZJ-XJ) 2.1 TD 4WD 88 cv,Diesel
-ma-109,JEEP,fa-358,Cherokee,mo-616,I (ZJ-XJ) (01/1977 - 12/2001),01/1977,12/2001,15135,JEEP Cherokee,JEEP Cherokee I (ZJ-XJ) 4.0 i 173 cv,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-616,I (ZJ-XJ) (01/1977 - 12/2001),01/1977,12/2001,4418,JEEP Cherokee,JEEP Cherokee I (ZJ-XJ) 4.0 i 173 cv Caixa Automática,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-616,I (ZJ-XJ) (01/1977 - 12/2001),01/1977,12/2001,4417,JEEP Cherokee,JEEP Cherokee I (ZJ-XJ) 4.0 i 184 cv,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-616,I (ZJ-XJ) (01/1977 - 12/2001),01/1977,12/2001,15134,JEEP Cherokee,JEEP Cherokee I (ZJ-XJ) 2.5 i 4WD 122 cv,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-616,I (ZJ-XJ) (01/1977 - 12/2001),01/1977,12/2001,6230,JEEP Cherokee,JEEP Cherokee I (ZJ-XJ) 4.0 i 177 cv Caixa Automática,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-616,I (ZJ-XJ) (01/1977 - 12/2001),01/1977,12/2001,6229,JEEP Cherokee,JEEP Cherokee I (ZJ-XJ) 4.0 i 177 cv,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-616,I (ZJ-XJ) (01/1977 - 12/2001),01/1977,12/2001,6228,JEEP Cherokee,JEEP Cherokee I (ZJ-XJ) 4.0 i 185 cv,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-616,I (ZJ-XJ) (01/1977 - 12/2001),01/1977,12/2001,65305,JEEP Cherokee,JEEP Cherokee I (ZJ-XJ) 2.5 i 4WD 121 cv,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-616,I (ZJ-XJ) (01/1977 - 12/2001),01/1977,12/2001,15136,JEEP Cherokee,JEEP Cherokee I (ZJ-XJ) 4.0 i 184 cv Caixa Automática,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-616,I (ZJ-XJ) (01/1977 - 12/2001),01/1977,12/2001,41811,JEEP Cherokee,JEEP Cherokee I (ZJ-XJ) 4.0 i 178 cv Caixa Automática,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-618,II (KJ) (01/2001 - 10/2004),01/2001,10/2004,20530,JEEP Cherokee,JEEP Cherokee II (KJ) 2.4 i 16V 4WD 147 cv,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-618,II (KJ) (01/2001 - 10/2004),01/2001,10/2004,4419,JEEP Cherokee,JEEP Cherokee II (KJ) 2.4 i 16V 4WD 147 cv Caixa Automática,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-618,II (KJ) (01/2001 - 10/2004),01/2001,10/2004,56426,JEEP Cherokee,JEEP Cherokee II (KJ) 2.4 i 16V 2WD 147 cv,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-618,II (KJ) (01/2001 - 10/2004),01/2001,10/2004,56427,JEEP Cherokee,JEEP Cherokee II (KJ) 3.7 i V6 4WD 204 cv Caixa Automática,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-618,II (KJ) (01/2001 - 10/2004),01/2001,10/2004,20534,JEEP Cherokee,JEEP Cherokee II (KJ) 3.7 i V6 4WD 211 cv Caixa Automática,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-618,II (KJ) (01/2001 - 10/2004),01/2001,10/2004,20531,JEEP Cherokee,JEEP Cherokee II (KJ) 2.5 CRD 16V 4WD 143 cv,Diesel
-ma-109,JEEP,fa-358,Cherokee,mo-618,II (KJ) (01/2001 - 10/2004),01/2001,10/2004,4420,JEEP Cherokee,JEEP Cherokee II (KJ) 2.5 CRD 16V 4WD 143 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-358,Cherokee,mo-618,II (KJ) (01/2001 - 10/2004),01/2001,10/2004,20533,JEEP Cherokee,JEEP Cherokee II (KJ) 3.7 i V6 4WD 211 cv,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-618,II (KJ) (01/2001 - 10/2004),01/2001,10/2004,20532,JEEP Cherokee,JEEP Cherokee II (KJ) 2.8 CRD 16V 4WD 150 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-358,Cherokee,mo-618,II (KJ) (01/2001 - 10/2004),01/2001,10/2004,56428,JEEP Cherokee,JEEP Cherokee II (KJ) 3.7 i V6 4WD 204 cv,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-5679,IV (KL) (04/2014 - Hoje),04/2014,,41832,JEEP Cherokee,JEEP Cherokee IV (KL) 2.0 CRD 16V 2WD 140 cv,Diesel
-ma-109,JEEP,fa-358,Cherokee,mo-5679,IV (KL) (04/2014 - Hoje),04/2014,,56425,JEEP Cherokee,JEEP Cherokee IV (KL) 2.2 CRD 16V 4WD 200 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-358,Cherokee,mo-5679,IV (KL) (04/2014 - Hoje),04/2014,,41829,JEEP Cherokee,JEEP Cherokee IV (KL) 2.0 CRD 16V 4WD 140 cv,Diesel
-ma-109,JEEP,fa-358,Cherokee,mo-5679,IV (KL) (04/2014 - Hoje),04/2014,,41826,JEEP Cherokee,JEEP Cherokee IV (KL) 3.2 i V6 24V 4WD 272 cv Caixa Automática,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-5679,IV (KL) (04/2014 - Hoje),04/2014,,56424,JEEP Cherokee,JEEP Cherokee IV (KL) 2.2 CRD 16V 4WD 184 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-358,Cherokee,mo-5679,IV (KL) (04/2014 - Hoje),04/2014,,41831,JEEP Cherokee,JEEP Cherokee IV (KL) 2.0 CRD 16V 4WD 170 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-358,Cherokee,mo-3412,III (KK) (07/2007 - 03/2014),07/2007,03/2014,41813,JEEP Cherokee,JEEP Cherokee III (KK) 2.8 CRD 16V 4WD 200 cv,Diesel
-ma-109,JEEP,fa-358,Cherokee,mo-3412,III (KK) (07/2007 - 03/2014),07/2007,03/2014,41824,JEEP Cherokee,JEEP Cherokee III (KK) 3.7 V6 4WD 213 cv Caixa Automática,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-3412,III (KK) (07/2007 - 03/2014),07/2007,03/2014,31956,JEEP Cherokee,JEEP Cherokee III (KK) 3.7 V6 4WD 204 cv Caixa Automática,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-3412,III (KK) (07/2007 - 03/2014),07/2007,03/2014,41812,JEEP Cherokee,JEEP Cherokee III (KK) 2.8 CRD 16V 4WD 200 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-358,Cherokee,mo-3412,III (KK) (07/2007 - 03/2014),07/2007,03/2014,31955,JEEP Cherokee,JEEP Cherokee III (KK) 2.8 CRD 16V 4WD 177 cv,Diesel
-ma-109,JEEP,fa-358,Cherokee,mo-3412,III (KK) (07/2007 - 03/2014),07/2007,03/2014,31954,JEEP Cherokee,JEEP Cherokee III (KK) 2.8 CRD 16V 4WD 177 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-358,Cherokee,mo-615,II Phase 2 (KJ) (11/2004 - 07/2007),11/2004,07/2007,6226,JEEP Cherokee,JEEP Cherokee II Phase 2 (KJ) 3.7 i V6 4WD 204 cv Caixa Automática,Essence
-ma-109,JEEP,fa-358,Cherokee,mo-615,II Phase 2 (KJ) (11/2004 - 07/2007),11/2004,07/2007,15133,JEEP Cherokee,JEEP Cherokee II Phase 2 (KJ) 2.8 CRD 16V 4WD 163 cv,Diesel
-ma-109,JEEP,fa-358,Cherokee,mo-615,II Phase 2 (KJ) (11/2004 - 07/2007),11/2004,07/2007,20528,JEEP Cherokee,JEEP Cherokee II Phase 2 (KJ) 2.8 CRD 16V 4WD 163 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,31959,JEEP Wrangler,JEEP Wrangler JK 2.8 CRD 16V 4WD 177 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,65294,JEEP Wrangler,JEEP Wrangler JK UNLIMITED 2.8 CRD 16V DPF 4WD S&S 200 cv,Diesel
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,65293,JEEP Wrangler,JEEP Wrangler JK 2.8 CRD 16V DPF 4WD S&S 200 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,15143,JEEP Wrangler,JEEP Wrangler JK 3.8 i V6 4WD 199 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,4430,JEEP Wrangler,JEEP Wrangler JK 3.8 i V6 Cabriolet 4WD 199 cv Caixa Automática,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,31960,JEEP Wrangler,JEEP Wrangler JK 2.8 CRD 16V 4WD 177 cv,Diesel
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,24671,JEEP Wrangler,JEEP Wrangler JK UNLIMITED 3.8 i V6 199 cv Caixa Automática,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,33034,JEEP Wrangler,JEEP Wrangler JK 2.8 CRD 16V 4WD S&S 200 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,56432,JEEP Wrangler,JEEP Wrangler JK UNLIMITED 2.8 CRD 16V 4WD S&S 200 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,24886,JEEP Wrangler,JEEP Wrangler JK UNLIMITED 3.8 i V6 4WD 199 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,33035,JEEP Wrangler,JEEP Wrangler JK 2.8 CRD 16V DPF 4WD S&S 200 cv,Diesel
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,15144,JEEP Wrangler,JEEP Wrangler JK UNLIMITED 3.8 i V6 199 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,65290,JEEP Wrangler,JEEP Wrangler JK UNLIMITED 2.8 CRD 16V 4WD 177 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,65291,JEEP Wrangler,JEEP Wrangler JK UNLIMITED 2.8 CRD 16V 4WD 177 cv,Diesel
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,65295,JEEP Wrangler,JEEP Wrangler JK UNLIMITED 3.6 i V6 4WD 284 cv Caixa Automática,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,6240,JEEP Wrangler,JEEP Wrangler JK UNLIMITED 3.8 i V6 4WD 199 cv Caixa Automática,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,56092,JEEP Wrangler,JEEP Wrangler JK 3.6 i V6 4WD 284 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,65296,JEEP Wrangler,JEEP Wrangler JK UNLIMITED 3.6 i V6 4WD 284 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,65297,JEEP Wrangler,JEEP Wrangler JK UNLIMITED 3.8 i V6 Cabriolet 4WD 199 cv Caixa Automática,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,56091,JEEP Wrangler,JEEP Wrangler JK 3.6 i V6 4WD 284 cv Caixa Automática,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,65298,JEEP Wrangler,JEEP Wrangler JK 3.8 i V6 Cabriolet 4WD 208 cv Caixa Automática,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,65299,JEEP Wrangler,JEEP Wrangler JK UNLIMITED 3.8 i V6 Cabriolet 4WD 208 cv Caixa Automática,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2199,JK (04/2007 - 09/2018),04/2007,09/2018,65292,JEEP Wrangler,JEEP Wrangler JK UNLIMITED 2.8 CRD 16V DPF 4WD S&S 200 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-359,Wrangler,mo-2200,TJ (08/1996 - 12/2006),08/1996,12/2006,6245,JEEP Wrangler,JEEP Wrangler TJ 4.0 i Cabriolet 4WD 169 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2200,TJ (08/1996 - 12/2006),08/1996,12/2006,65287,JEEP Wrangler,JEEP Wrangler TJ 4.0 i Break baché 4WD BVM6 193 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2200,TJ (08/1996 - 12/2006),08/1996,12/2006,6243,JEEP Wrangler,JEEP Wrangler TJ 4.0 i Break baché 4WD 174 cv Caixa Automática,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2200,TJ (08/1996 - 12/2006),08/1996,12/2006,15146,JEEP Wrangler,JEEP Wrangler TJ 2.5 i Break baché 4WD 120 cv Caixa Automática,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2200,TJ (08/1996 - 12/2006),08/1996,12/2006,43886,JEEP Wrangler,JEEP Wrangler TJ 4.0 i Break baché 4WD 177 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2200,TJ (08/1996 - 12/2006),08/1996,12/2006,20546,JEEP Wrangler,JEEP Wrangler TJ 2.5 i Break baché 4WD 120 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2200,TJ (08/1996 - 12/2006),08/1996,12/2006,6241,JEEP Wrangler,JEEP Wrangler TJ 4.0 i Break baché 4WD 174 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2200,TJ (08/1996 - 12/2006),08/1996,12/2006,65286,JEEP Wrangler,JEEP Wrangler TJ 4.0 i Break baché 4WD BVM6 174 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2200,TJ (08/1996 - 12/2006),08/1996,12/2006,6242,JEEP Wrangler,JEEP Wrangler TJ 4.0 i Break baché 4WD 193 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2200,TJ (08/1996 - 12/2006),08/1996,12/2006,43885,JEEP Wrangler,JEEP Wrangler TJ 4.0 i Break baché 4WD 177 cv Caixa Automática,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2200,TJ (08/1996 - 12/2006),08/1996,12/2006,15145,JEEP Wrangler,JEEP Wrangler TJ 2.4 i Power Tech Break baché 4WD 143 cv Caixa Automática,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2200,TJ (08/1996 - 12/2006),08/1996,12/2006,6244,JEEP Wrangler,JEEP Wrangler TJ 4.0 i Break baché 4WD 193 cv Caixa Automática,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2200,TJ (08/1996 - 12/2006),08/1996,12/2006,65288,JEEP Wrangler,JEEP Wrangler TJ 4.0 i Cabrio 4WD BVM6 169 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2200,TJ (08/1996 - 12/2006),08/1996,12/2006,15147,JEEP Wrangler,JEEP Wrangler TJ 4.0 i Cabriolet 4WD 169 cv Caixa Automática,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2200,TJ (08/1996 - 12/2006),08/1996,12/2006,4431,JEEP Wrangler,JEEP Wrangler TJ 2.4 i Power Tech Break baché 143 4WD cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-7108,JL (09/2018 - Hoje),09/2018,,61054,JEEP Wrangler,JEEP Wrangler JL 2.0 T-GDi 16V 4WD S&S 270 cv Caixa Automática,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-7108,JL (09/2018 - Hoje),09/2018,,65301,JEEP Wrangler,JEEP Wrangler JL UNLIMITED 2.2 Multijet 16V 4WD S&S 200 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-359,Wrangler,mo-7108,JL (09/2018 - Hoje),09/2018,,65328,JEEP Wrangler,JEEP Wrangler JL UNLIMITED 4xe 2.0 T-GDi 16V 380 Plug in Hybrid 4WD 272 cv Caixa Automática,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-7108,JL (09/2018 - Hoje),09/2018,,65300,JEEP Wrangler,JEEP Wrangler JL UNLIMITED 2.0 T-GDi 16V 4WD S&S 270 cv Caixa Automática,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-7108,JL (09/2018 - Hoje),09/2018,,61055,JEEP Wrangler,JEEP Wrangler JL 2.2 Multijet 16V 4WD S&S 200 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-359,Wrangler,mo-2198,YJ (01/1986 - 07/1996),01/1986,07/1996,15142,JEEP Wrangler,JEEP Wrangler YJ 4.0 i Break baché 4WD 178 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2198,YJ (01/1986 - 07/1996),01/1986,07/1996,20545,JEEP Wrangler,JEEP Wrangler YJ 2.5 i Break baché 4WD 121 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-2198,YJ (01/1986 - 07/1996),01/1986,07/1996,4429,JEEP Wrangler,JEEP Wrangler YJ 4.2 i Break baché 4WD 114 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-649,CJ5 (01/1980 - 12/1988),01/1980,12/1988,65289,JEEP Wrangler,JEEP Wrangler CJ5 2.5 Break baché 4WD 106 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-649,CJ5 (01/1980 - 12/1988),01/1980,12/1988,4421,JEEP Wrangler,JEEP Wrangler CJ5 2.5 Break baché 4WD 88 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-651,CJ7 (01/1979 - 12/1986),01/1979,12/1986,20535,JEEP Wrangler,JEEP Wrangler CJ7 5.0 Break baché 121 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-651,CJ7 (01/1979 - 12/1986),01/1979,12/1986,6231,JEEP Wrangler,JEEP Wrangler CJ7 2.1 D Break baché 60 cv,Diesel
-ma-109,JEEP,fa-359,Wrangler,mo-1808,Scrambler (01/1979 - 12/1986),01/1979,12/1986,15140,JEEP Wrangler,JEEP Wrangler Scrambler 4.2 i Break baché 4WD 103 cv,Essence
-ma-109,JEEP,fa-359,Wrangler,mo-650,CJ6 (01/1956 - 12/1978),01/1956,12/1978,4422,JEEP Wrangler,JEEP Wrangler CJ6 2.6 Break baché 91 cv,Essence
-ma-109,JEEP,fa-2151,Renegade,mo-5828, (07/2014 - 08/2018),07/2014,08/2018,61153,JEEP Renegade,JEEP Renegade 1.6 CRD 16V 2WD DCT6 S&S 120 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-2151,Renegade,mo-5828, (07/2014 - 08/2018),07/2014,08/2018,43892,JEEP Renegade,JEEP Renegade 2.0 CRD 16V 4WD S&S 140 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-2151,Renegade,mo-5828, (07/2014 - 08/2018),07/2014,08/2018,57747,JEEP Renegade,JEEP Renegade 1.6 CRD 16V 2WD S&S 95 cv,Diesel
-ma-109,JEEP,fa-2151,Renegade,mo-5828, (07/2014 - 08/2018),07/2014,08/2018,43891,JEEP Renegade,JEEP Renegade 2.0 CRD 16V 4WD S&S 120 cv,Diesel
-ma-109,JEEP,fa-2151,Renegade,mo-5828, (07/2014 - 08/2018),07/2014,08/2018,43889,JEEP Renegade,JEEP Renegade 1.6 CRD 16V 2WD S&S 115 cv,Diesel
-ma-109,JEEP,fa-2151,Renegade,mo-5828, (07/2014 - 08/2018),07/2014,08/2018,43894,JEEP Renegade,JEEP Renegade 2.0 CRD 16V 4WD S&S 170 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-2151,Renegade,mo-5828, (07/2014 - 08/2018),07/2014,08/2018,49128,JEEP Renegade,JEEP Renegade 1.6 e.Torq 16V 2WD S&S 110 cv,Essence
-ma-109,JEEP,fa-2151,Renegade,mo-5828, (07/2014 - 08/2018),07/2014,08/2018,43893,JEEP Renegade,JEEP Renegade 2.0 CRD 16V 4WD S&S 140 cv,Diesel
-ma-109,JEEP,fa-2151,Renegade,mo-5828, (07/2014 - 08/2018),07/2014,08/2018,61152,JEEP Renegade,JEEP Renegade 1.6 CRD 16V 2WD DCT6 S&S 115 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-2151,Renegade,mo-5828, (07/2014 - 08/2018),07/2014,08/2018,49127,JEEP Renegade,JEEP Renegade 1.4 16V Turbo MultiAir 4WD S&S 170 cv Caixa Automática,Essence
-ma-109,JEEP,fa-2151,Renegade,mo-5828, (07/2014 - 08/2018),07/2014,08/2018,43887,JEEP Renegade,JEEP Renegade 1.4 16V Turbo MultiAir 2WD S&S 136 cv,Essence
-ma-109,JEEP,fa-2151,Renegade,mo-5828, (07/2014 - 08/2018),07/2014,08/2018,43888,JEEP Renegade,JEEP Renegade 1.4 16V Turbo MultiAir 2WD S&S 140 cv,Essence
-ma-109,JEEP,fa-2151,Renegade,mo-5828, (07/2014 - 08/2018),07/2014,08/2018,43890,JEEP Renegade,JEEP Renegade 1.6 CRD 16V 2WD S&S 120 cv,Diesel
-ma-109,JEEP,fa-2151,Renegade,mo-7011,Phase 2 (08/2018 - Hoje),08/2018,,60135,JEEP Renegade,JEEP Renegade Phase 2 2.0 CRD 16V 4WD S&S 140 cv,Diesel
-ma-109,JEEP,fa-2151,Renegade,mo-7011,Phase 2 (08/2018 - Hoje),08/2018,,60131,JEEP Renegade,JEEP Renegade Phase 2 1.6 CRD 16V 2WD S&S 115 cv,Diesel
-ma-109,JEEP,fa-2151,Renegade,mo-7011,Phase 2 (08/2018 - Hoje),08/2018,,61784,JEEP Renegade,JEEP Renegade Phase 2 4Xe 1.3 i 16V GPF 240 Plug in Hybrid 4WD DCT6 S&S 180 cv Caixa Automática,Essence
-ma-109,JEEP,fa-2151,Renegade,mo-7011,Phase 2 (08/2018 - Hoje),08/2018,,60128,JEEP Renegade,JEEP Renegade Phase 2 T4 1.3 GSE 16V GPF 2WD DCT6 S&S 150 cv Caixa Automática,Essence
-ma-109,JEEP,fa-2151,Renegade,mo-7011,Phase 2 (08/2018 - Hoje),08/2018,,61783,JEEP Renegade,JEEP Renegade Phase 2 4Xe 1.3 i 16V GPF 190 Plug in Hybrid 4WD DCT6 S&S 130 cv Caixa Automática,Essence
-ma-109,JEEP,fa-2151,Renegade,mo-7011,Phase 2 (08/2018 - Hoje),08/2018,,60133,JEEP Renegade,JEEP Renegade Phase 2 1.6 CRD 16V 2WD S&S 120 cv,Diesel
-ma-109,JEEP,fa-2151,Renegade,mo-7011,Phase 2 (08/2018 - Hoje),08/2018,,60130,JEEP Renegade,JEEP Renegade Phase 2 1.6 CRD 16V 2WD DCT6 S&S 115 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-2151,Renegade,mo-7011,Phase 2 (08/2018 - Hoje),08/2018,,60136,JEEP Renegade,JEEP Renegade Phase 2 2.0 CRD 16V 4WD S&S 170 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-2151,Renegade,mo-7011,Phase 2 (08/2018 - Hoje),08/2018,,60129,JEEP Renegade,JEEP Renegade Phase 2 T4 1.3 GSE 16V GPF 4WD S&S 180 cv Caixa Automática,Essence
-ma-109,JEEP,fa-2151,Renegade,mo-7011,Phase 2 (08/2018 - Hoje),08/2018,,60132,JEEP Renegade,JEEP Renegade Phase 2 1.6 CRD 16V 2WD DCT6 S&S 120 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-2151,Renegade,mo-7011,Phase 2 (08/2018 - Hoje),08/2018,,60134,JEEP Renegade,JEEP Renegade Phase 2 2.0 CRD 16V 4WD S&S 140 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-2151,Renegade,mo-7011,Phase 2 (08/2018 - Hoje),08/2018,,60126,JEEP Renegade,JEEP Renegade Phase 2 T3 1.0 GSE 12V GPF 2WD S&S 115 cv,Essence
-ma-109,JEEP,fa-2151,Renegade,mo-7011,Phase 2 (08/2018 - Hoje),08/2018,,66807,JEEP Renegade,JEEP Renegade Phase 2 T4 1.5 GSE 16V GPF e-Hybrid 2WD DCT7 130 cv Caixa Automática,Essence
-ma-109,JEEP,fa-2151,Renegade,mo-7011,Phase 2 (08/2018 - Hoje),08/2018,,60127,JEEP Renegade,JEEP Renegade Phase 2 T3 1.0 GSE 12V GPF 2WD S&S 120 cv,Essence
-ma-109,JEEP,fa-2151,Renegade,mo-7011,Phase 2 (08/2018 - Hoje),08/2018,,65306,JEEP Renegade,JEEP Renegade Phase 2 1.6 MultiJet 2WD S&S 130 cv,Diesel
-ma-109,JEEP,fa-361,Compass,mo-6628,II (07/2017 - 04/2021),07/2017,04/2021,57746,JEEP Compass,JEEP Compass II 2.0 CRD 16V 4WD S&S 170 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-361,Compass,mo-6628,II (07/2017 - 04/2021),07/2017,04/2021,63704,JEEP Compass,JEEP Compass II 4Xe 1.3 i 16V 190 Plug in Hybrid 4WD 130 cv Caixa Automática,Essence
-ma-109,JEEP,fa-361,Compass,mo-6628,II (07/2017 - 04/2021),07/2017,04/2021,63703,JEEP Compass,JEEP Compass II 1.3 16V Turbo MultiAir 2WD DCT6 S&S 150 cv Caixa Automática,Essence
-ma-109,JEEP,fa-361,Compass,mo-6628,II (07/2017 - 04/2021),07/2017,04/2021,57741,JEEP Compass,JEEP Compass II 1.4 16V Turbo MultiAir 2WD S&S 140 cv,Essence
-ma-109,JEEP,fa-361,Compass,mo-6628,II (07/2017 - 04/2021),07/2017,04/2021,63705,JEEP Compass,JEEP Compass II 4Xe 1.3 i 16V 240 Plug in Hybrid 4WD 180 cv Caixa Automática,Essence
-ma-109,JEEP,fa-361,Compass,mo-6628,II (07/2017 - 04/2021),07/2017,04/2021,57744,JEEP Compass,JEEP Compass II 2.0 CRD 16V 4WD S&S 140 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-361,Compass,mo-6628,II (07/2017 - 04/2021),07/2017,04/2021,63702,JEEP Compass,JEEP Compass II 1.3 16V Turbo MultiAir 2WD S&S 130 cv,Essence
-ma-109,JEEP,fa-361,Compass,mo-6628,II (07/2017 - 04/2021),07/2017,04/2021,57742,JEEP Compass,JEEP Compass II 1.4 16V Turbo MultiAir 4WD S&S 170 cv Caixa Automática,Essence
-ma-109,JEEP,fa-361,Compass,mo-6628,II (07/2017 - 04/2021),07/2017,04/2021,57745,JEEP Compass,JEEP Compass II 2.0 CRD 16V 4WD S&S 140 cv,Diesel
-ma-109,JEEP,fa-361,Compass,mo-6628,II (07/2017 - 04/2021),07/2017,04/2021,57743,JEEP Compass,JEEP Compass II 1.6 CRD 16V 2WD S&S 120 cv,Diesel
-ma-109,JEEP,fa-361,Compass,mo-726,I (09/2006 - 12/2010),09/2006,12/2010,20539,JEEP Compass,JEEP Compass I 2.4 i 16V 4WD CVT 170 cv Caixa Automática,Essence
-ma-109,JEEP,fa-361,Compass,mo-726,I (09/2006 - 12/2010),09/2006,12/2010,20537,JEEP Compass,JEEP Compass I 2.0 CRD 4WD 140 cv,Diesel
-ma-109,JEEP,fa-361,Compass,mo-726,I (09/2006 - 12/2010),09/2006,12/2010,20538,JEEP Compass,JEEP Compass I 2.4 i 16V 4WD 170 cv,Essence
-ma-109,JEEP,fa-361,Compass,mo-7348,II Phase 2 (05/2021 - Hoje),05/2021,,63707,JEEP Compass,JEEP Compass II Phase 2 1.3 16V Turbo MultiAir 2WD DCT6 S&S 150 cv Caixa Automática,Essence
-ma-109,JEEP,fa-361,Compass,mo-7348,II Phase 2 (05/2021 - Hoje),05/2021,,63710,JEEP Compass,JEEP Compass II Phase 2 4Xe 1.3 i 16V 240 Plug in Hybrid 4WD 180 cv Caixa Automática,Essence
-ma-109,JEEP,fa-361,Compass,mo-7348,II Phase 2 (05/2021 - Hoje),05/2021,,63709,JEEP Compass,JEEP Compass II Phase 2 4Xe 1.3 i 16V 190 Plug in Hybrid 4WD 130 cv Caixa Automática,Essence
-ma-109,JEEP,fa-361,Compass,mo-7348,II Phase 2 (05/2021 - Hoje),05/2021,,63708,JEEP Compass,JEEP Compass II Phase 2 1.6 MultiJet 16V 2WD S&S 130 cv,Diesel
-ma-109,JEEP,fa-361,Compass,mo-7348,II Phase 2 (05/2021 - Hoje),05/2021,,63706,JEEP Compass,JEEP Compass II Phase 2 1.3 16V Turbo MultiAir 2WD S&S 130 cv,Essence
-ma-109,JEEP,fa-361,Compass,mo-7348,II Phase 2 (05/2021 - Hoje),05/2021,,66806,JEEP Compass,JEEP Compass II Phase 2 1.5 16V Turbo GPF e-Hybrid 2WD DCT7 S&S 130 cv Caixa Automática,Essence
-ma-109,JEEP,fa-361,Compass,mo-5088,I Phase 2 (05/2011 - 06/2017),05/2011,06/2017,33850,JEEP Compass,JEEP Compass I Phase 2 2.2 CRD 16V DPF 4WD 163 cv,Diesel
-ma-109,JEEP,fa-361,Compass,mo-5088,I Phase 2 (05/2011 - 06/2017),05/2011,06/2017,49357,JEEP Compass,JEEP Compass I Phase 2 2.2 CRD 16V DPF 4WD 136 cv,Diesel
-ma-109,JEEP,fa-361,Compass,mo-5088,I Phase 2 (05/2011 - 06/2017),05/2011,06/2017,33849,JEEP Compass,JEEP Compass I Phase 2 2.2 CRD 16V DPF 2WD 136 cv,Diesel
-ma-109,JEEP,fa-361,Compass,mo-5088,I Phase 2 (05/2011 - 06/2017),05/2011,06/2017,33848,JEEP Compass,JEEP Compass I Phase 2 2.0 i 16V 2WD 156 cv,Essence
-ma-109,JEEP,fa-361,Compass,mo-5088,I Phase 2 (05/2011 - 06/2017),05/2011,06/2017,33852,JEEP Compass,JEEP Compass I Phase 2 2.4 i 16V 4WD 170 cv,Essence
-ma-109,JEEP,fa-361,Compass,mo-5088,I Phase 2 (05/2011 - 06/2017),05/2011,06/2017,33851,JEEP Compass,JEEP Compass I Phase 2 2.4 i 16V 4WD CVT 170 cv Caixa Automática,Essence
-ma-109,JEEP,fa-2433,Avenger,mo-7755,(J2) (12/2022 - Hoje),12/2022,,69568,JEEP Avenger,JEEP Avenger (J2) 1.2 GSE T3 4X2 100 cv,Essence
-ma-109,JEEP,fa-2433,Avenger,mo-7755,(J2) (12/2022 - Hoje),12/2022,,69567,JEEP Avenger,JEEP Avenger (J2) Electric (54 kWh) 4X2 156 cv Caixa Automática,Electrique
-ma-109,JEEP,fa-2433,Avenger,mo-7755,(J2) (12/2022 - Hoje),12/2022,,69768,JEEP Avenger,JEEP Avenger (J2) 1.2 GSE e-Hybrid 4X2 eDCT6 100 cv Caixa Automática,Essence
-ma-109,JEEP,fa-1791,Patriot,mo-3414, (06/2007 - 02/2011),06/2007,02/2011,31947,JEEP Patriot,JEEP Patriot 2.4 VVT 16V 2WD CVT 170 cv Caixa Automática,Essence
-ma-109,JEEP,fa-1791,Patriot,mo-3414, (06/2007 - 02/2011),06/2007,02/2011,31948,JEEP Patriot,JEEP Patriot 2.4 VVT 16V 2WD 170 cv,Essence
-ma-109,JEEP,fa-1791,Patriot,mo-3414, (06/2007 - 02/2011),06/2007,02/2011,31951,JEEP Patriot,JEEP Patriot 2.4 VVT 16V 4WD 170 cv,Essence
-ma-109,JEEP,fa-1791,Patriot,mo-3414, (06/2007 - 02/2011),06/2007,02/2011,31945,JEEP Patriot,JEEP Patriot 2.0 CRD 16V 4WD CVT 140 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-1791,Patriot,mo-3414, (06/2007 - 02/2011),06/2007,02/2011,31950,JEEP Patriot,JEEP Patriot 2.4 VVT 16V 4WD CVT Off-Road 170 cv Caixa Automática,Essence
-ma-109,JEEP,fa-1791,Patriot,mo-3414, (06/2007 - 02/2011),06/2007,02/2011,33025,JEEP Patriot,JEEP Patriot 2.2 CRD 16V DPF 4WD 163 cv,Diesel
-ma-109,JEEP,fa-1791,Patriot,mo-3414, (06/2007 - 02/2011),06/2007,02/2011,31949,JEEP Patriot,JEEP Patriot 2.4 VVT 16V 4WD CVT 170 cv Caixa Automática,Essence
-ma-109,JEEP,fa-1791,Patriot,mo-3414, (06/2007 - 02/2011),06/2007,02/2011,31946,JEEP Patriot,JEEP Patriot 2.0 CRD 16V 4WD 140 cv,Diesel
-ma-109,JEEP,fa-1791,Patriot,mo-3414, (06/2007 - 02/2011),06/2007,02/2011,56431,JEEP Patriot,JEEP Patriot 2.2 CRD 16V DPF 4WD 136 cv,Diesel
-ma-109,JEEP,fa-1791,Patriot,mo-5001,Phase 2 (03/2011 - 12/2016),03/2011,12/2016,33027,JEEP Patriot,JEEP Patriot Phase 2 2.4 VVT 16V 2WD CVT 170 cv Caixa Automática,Essence
-ma-109,JEEP,fa-1791,Patriot,mo-5001,Phase 2 (03/2011 - 12/2016),03/2011,12/2016,33030,JEEP Patriot,JEEP Patriot Phase 2 2.4 VVT 16V 4WD 170 cv,Essence
-ma-109,JEEP,fa-1791,Patriot,mo-5001,Phase 2 (03/2011 - 12/2016),03/2011,12/2016,33029,JEEP Patriot,JEEP Patriot Phase 2 2.4 VVT 16V 4WD CVT 170 cv Caixa Automática,Essence
-ma-109,JEEP,fa-1791,Patriot,mo-5001,Phase 2 (03/2011 - 12/2016),03/2011,12/2016,33028,JEEP Patriot,JEEP Patriot Phase 2 2.4 VVT 16V 2WD 170 cv,Essence
-ma-109,JEEP,fa-1791,Patriot,mo-5001,Phase 2 (03/2011 - 12/2016),03/2011,12/2016,33026,JEEP Patriot,JEEP Patriot Phase 2 2.2 CRD 16V DPF 4WD 163 cv,Diesel
-ma-109,JEEP,fa-1791,Patriot,mo-5001,Phase 2 (03/2011 - 12/2016),03/2011,12/2016,65304,JEEP Patriot,JEEP Patriot Phase 2 2.0 VVT 16V 2WD 156 cv,Essence
-ma-109,JEEP,fa-360,Commander,mo-723, (09/2005 - 12/2010),09/2005,12/2010,20536,JEEP Commander,JEEP Commander 4.7 i V8 4WD 231 cv Caixa Automática,Essence
-ma-109,JEEP,fa-360,Commander,mo-723, (09/2005 - 12/2010),09/2005,12/2010,28096,JEEP Commander,JEEP Commander 3.7 V6 12V 4WD 214 cv Caixa Automática,Essence
-ma-109,JEEP,fa-360,Commander,mo-723, (09/2005 - 12/2010),09/2005,12/2010,65303,JEEP Commander,JEEP Commander 3.0 CRD V6 24V 4WD 211 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-360,Commander,mo-723, (09/2005 - 12/2010),09/2005,12/2010,6233,JEEP Commander,JEEP Commander 5.7 i V8 4WD 326 cv Caixa Automática,Essence
-ma-109,JEEP,fa-360,Commander,mo-723, (09/2005 - 12/2010),09/2005,12/2010,6232,JEEP Commander,JEEP Commander 3.0 CRD V6 24V 4WD 218 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-2368,Gladiator,mo-7462, (10/2021 - Hoje),10/2021,,65698,JEEP Gladiator,JEEP Gladiator 3.0 Multijet 24V Pickup double cabine 4WD 264 cv Caixa Automática,Diesel
-ma-109,JEEP,fa-363,Wagoneer,mo-2197, (01/1962 - 12/1993),01/1962,12/1993,65302,JEEP Wagoneer,JEEP Wagoneer 2.5 Break 106 cv,Essence
-ma-109,JEEP,fa-363,Wagoneer,mo-2197, (01/1962 - 12/1993),01/1962,12/1993,4428,JEEP Wagoneer,JEEP Wagoneer 5.9 Break 4WD 177 cv,Essence
-ma-109,JEEP,fa-363,Wagoneer,mo-2197, (01/1962 - 12/1993),01/1962,12/1993,20544,JEEP Wagoneer,JEEP Wagoneer 4.2 Break 4WD 112 cv,Essence
-ma-109,JEEP,fa-363,Wagoneer,mo-2197, (01/1962 - 12/1993),01/1962,12/1993,15141,JEEP Wagoneer,JEEP Wagoneer 2.5 Break 4WD 118 cv,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1050","I (ZJ/ZG) (01/1993 - 07/2000)","01/1993","07/2000","20542","JEEP Grand Cherokee","JEEP Grand Cherokee I (ZJ/ZG) 4.0 i 193 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1050","I (ZJ/ZG) (01/1993 - 07/2000)","01/1993","07/2000","6238","JEEP Grand Cherokee","JEEP Grand Cherokee I (ZJ/ZG) 4.7 i V8 220 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1050","I (ZJ/ZG) (01/1993 - 07/2000)","01/1993","07/2000","20543","JEEP Grand Cherokee","JEEP Grand Cherokee I (ZJ/ZG) 5.9 i 241 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1050","I (ZJ/ZG) (01/1993 - 07/2000)","01/1993","07/2000","6237","JEEP Grand Cherokee","JEEP Grand Cherokee I (ZJ/ZG) 3.1 TD 140 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1050","I (ZJ/ZG) (01/1993 - 07/2000)","01/1993","07/2000","4426","JEEP Grand Cherokee","JEEP Grand Cherokee I (ZJ/ZG) 5.2 i 211 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1050","I (ZJ/ZG) (01/1993 - 07/2000)","01/1993","07/2000","30729","JEEP Grand Cherokee","JEEP Grand Cherokee I (ZJ/ZG) 4.0 i 177 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1050","I (ZJ/ZG) (01/1993 - 07/2000)","01/1993","07/2000","20541","JEEP Grand Cherokee","JEEP Grand Cherokee I (ZJ/ZG) 2.5 TD 4WD 116 cv","Diesel"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1050","I (ZJ/ZG) (01/1993 - 07/2000)","01/1993","07/2000","60137","JEEP Grand Cherokee","JEEP Grand Cherokee I (ZJ/ZG) 4.0 i 180 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1051","II (WJ) (08/2000 - 04/2003)","08/2000","04/2003","15139","JEEP Grand Cherokee","JEEP Grand Cherokee II (WJ) 4.7 i V8 4WD 227 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1051","II (WJ) (08/2000 - 04/2003)","08/2000","04/2003","34901","JEEP Grand Cherokee","JEEP Grand Cherokee II (WJ) 3.1 TD 4WD 140 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1051","II (WJ) (08/2000 - 04/2003)","08/2000","04/2003","6239","JEEP Grand Cherokee","JEEP Grand Cherokee II (WJ) 2.7 CRD 20V 4WD 163 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1051","II (WJ) (08/2000 - 04/2003)","08/2000","04/2003","15138","JEEP Grand Cherokee","JEEP Grand Cherokee II (WJ) 4.0 i 4WD 190 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1051","II (WJ) (08/2000 - 04/2003)","08/2000","04/2003","4427","JEEP Grand Cherokee","JEEP Grand Cherokee II (WJ) 4.7 i V8 4WD 258 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1048","II Phase 2 (WJ) (09/2002 - 05/2005)","09/2002","05/2005","4423","JEEP Grand Cherokee","JEEP Grand Cherokee II Phase 2 (WJ) 4.0 i 4WD 190 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1048","II Phase 2 (WJ) (09/2002 - 05/2005)","09/2002","05/2005","6234","JEEP Grand Cherokee","JEEP Grand Cherokee II Phase 2 (WJ) 2.7 CRD 20V 4WD 163 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1048","II Phase 2 (WJ) (09/2002 - 05/2005)","09/2002","05/2005","4424","JEEP Grand Cherokee","JEEP Grand Cherokee II Phase 2 (WJ) 4.7 i V8 4WD 227 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1048","II Phase 2 (WJ) (09/2002 - 05/2005)","09/2002","05/2005","6235","JEEP Grand Cherokee","JEEP Grand Cherokee II Phase 2 (WJ) 4.7 i V8 4WD 258 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1049","III (WH) (06/2005 - 03/2008)","06/2005","03/2008","28097","JEEP Grand Cherokee","JEEP Grand Cherokee III (WH) 3.7 V6 12V 4WD 214 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1049","III (WH) (06/2005 - 03/2008)","06/2005","03/2008","4425","JEEP Grand Cherokee","JEEP Grand Cherokee III (WH) 5.7 i V8 4WD 326 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1049","III (WH) (06/2005 - 03/2008)","06/2005","03/2008","6236","JEEP Grand Cherokee","JEEP Grand Cherokee III (WH) 3.0 CRD 24V 4WD 218 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1049","III (WH) (06/2005 - 03/2008)","06/2005","03/2008","56430","JEEP Grand Cherokee","JEEP Grand Cherokee III (WH) 3.0 CRD 24V 4WD 211 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1049","III (WH) (06/2005 - 03/2008)","06/2005","03/2008","20540","JEEP Grand Cherokee","JEEP Grand Cherokee III (WH) 4.7 i V8 4WD 231 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1049","III (WH) (06/2005 - 03/2008)","06/2005","03/2008","38270","JEEP Grand Cherokee","JEEP Grand Cherokee III (WH) 4.7 i V8 4WD 223 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-1049","III (WH) (06/2005 - 03/2008)","06/2005","03/2008","15137","JEEP Grand Cherokee","JEEP Grand Cherokee III (WH) SRT8 6.1 i V8 4WD 426 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-5000","IV (WK) (09/2010 - 03/2013)","09/2010","03/2013","33853","JEEP Grand Cherokee","JEEP Grand Cherokee IV (WK) 3.0 CRD V6 24V DPF 190 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-5000","IV (WK) (09/2010 - 03/2013)","09/2010","03/2013","65307","JEEP Grand Cherokee","JEEP Grand Cherokee IV (WK) 3.6 V6 24V FlexiFuel 286 cv Caixa Automática","Flex Fuel"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-5000","IV (WK) (09/2010 - 03/2013)","09/2010","03/2013","33854","JEEP Grand Cherokee","JEEP Grand Cherokee IV (WK) 3.0 CRD V6 24V DPF 241 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-5000","IV (WK) (09/2010 - 03/2013)","09/2010","03/2013","40876","JEEP Grand Cherokee","JEEP Grand Cherokee IV (WK) SRT8 6.4 V8 468 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-5000","IV (WK) (09/2010 - 03/2013)","09/2010","03/2013","33032","JEEP Grand Cherokee","JEEP Grand Cherokee IV (WK) 3.6 V6 24V 286 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-5000","IV (WK) (09/2010 - 03/2013)","09/2010","03/2013","33033","JEEP Grand Cherokee","JEEP Grand Cherokee IV (WK) 5.7 V8 Hemi 352 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-5529","IV Phase 2 (WK) (03/2013 - 04/2021)","03/2013","04/2021","40882","JEEP Grand Cherokee","JEEP Grand Cherokee IV Phase 2 (WK) SRT8 6.4 V8 4WD 468 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-5529","IV Phase 2 (WK) (03/2013 - 04/2021)","03/2013","04/2021","40879","JEEP Grand Cherokee","JEEP Grand Cherokee IV Phase 2 (WK) 3.6 V6 24V Flexfuel 4WD 286 cv Caixa Automática","Flex Fuel"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-5529","IV Phase 2 (WK) (03/2013 - 04/2021)","03/2013","04/2021","40878","JEEP Grand Cherokee","JEEP Grand Cherokee IV Phase 2 (WK) 3.0 CRD V6 24V DPF 4WD 250 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-5529","IV Phase 2 (WK) (03/2013 - 04/2021)","03/2013","04/2021","40881","JEEP Grand Cherokee","JEEP Grand Cherokee IV Phase 2 (WK) 5.7 V8 Hemi Flexfuel 4WD 352 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-5529","IV Phase 2 (WK) (03/2013 - 04/2021)","03/2013","04/2021","56429","JEEP Grand Cherokee","JEEP Grand Cherokee IV Phase 2 (WK) 3.6 V6 24V Flexfuel 4WD 290 cv Caixa Automática","Flex Fuel"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-5529","IV Phase 2 (WK) (03/2013 - 04/2021)","03/2013","04/2021","40877","JEEP Grand Cherokee","JEEP Grand Cherokee IV Phase 2 (WK) 3.0 CRD V6 24V DPF 4WD 190 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-5529","IV Phase 2 (WK) (03/2013 - 04/2021)","03/2013","04/2021","68596","JEEP Grand Cherokee","JEEP Grand Cherokee IV Phase 2 (WK) Trackhawk 6.2 i V8 4WD 710 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-5529","IV Phase 2 (WK) (03/2013 - 04/2021)","03/2013","04/2021","40880","JEEP Grand Cherokee","JEEP Grand Cherokee IV Phase 2 (WK) 5.7 V8 Hemi 4WD 352 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-3413","III Phase 2 (WH) (03/2008 - 03/2011)","03/2008","03/2011","31953","JEEP Grand Cherokee","JEEP Grand Cherokee III Phase 2 (WH) SRT8 6.1 V8 Hemi 426 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-3413","III Phase 2 (WH) (03/2008 - 03/2011)","03/2008","03/2011","33031","JEEP Grand Cherokee","JEEP Grand Cherokee III Phase 2 (WH) 5.7 V8 Hemi 352 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-3413","III Phase 2 (WH) (03/2008 - 03/2011)","03/2008","03/2011","31952","JEEP Grand Cherokee","JEEP Grand Cherokee III Phase 2 (WH) 3.0 CRD V6 24V 218 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-362","Grand Cherokee","mo-7711","V (WL) (05/2021 - Hoje)","05/2021","","68597","JEEP Grand Cherokee","JEEP Grand Cherokee V (WL) 4Xe 2.0 T-GDI 16V 380 Plug-in Hybrid 272 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-616","I (ZJ-XJ) (01/1977 - 12/2001)","01/1977","12/2001","31957","JEEP Cherokee","JEEP Cherokee I (ZJ-XJ) 2.1 TD 2WD 80 cv","Diesel"
+"ma-109","JEEP","fa-358","Cherokee","mo-616","I (ZJ-XJ) (01/1977 - 12/2001)","01/1977","12/2001","51931","JEEP Cherokee","JEEP Cherokee I (ZJ-XJ) 2.5 i 4WD 118 cv","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-616","I (ZJ-XJ) (01/1977 - 12/2001)","01/1977","12/2001","31958","JEEP Cherokee","JEEP Cherokee I (ZJ-XJ) 2.1 TD 4WD 80 cv","Diesel"
+"ma-109","JEEP","fa-358","Cherokee","mo-616","I (ZJ-XJ) (01/1977 - 12/2001)","01/1977","12/2001","6227","JEEP Cherokee","JEEP Cherokee I (ZJ-XJ) 2.5 TD 4WD 116 cv","Diesel"
+"ma-109","JEEP","fa-358","Cherokee","mo-616","I (ZJ-XJ) (01/1977 - 12/2001)","01/1977","12/2001","57740","JEEP Cherokee","JEEP Cherokee I (ZJ-XJ) 2.5 i 2WD 118 cv","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-616","I (ZJ-XJ) (01/1977 - 12/2001)","01/1977","12/2001","20529","JEEP Cherokee","JEEP Cherokee I (ZJ-XJ) 2.1 TD 4WD 88 cv","Diesel"
+"ma-109","JEEP","fa-358","Cherokee","mo-616","I (ZJ-XJ) (01/1977 - 12/2001)","01/1977","12/2001","15135","JEEP Cherokee","JEEP Cherokee I (ZJ-XJ) 4.0 i 173 cv","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-616","I (ZJ-XJ) (01/1977 - 12/2001)","01/1977","12/2001","4418","JEEP Cherokee","JEEP Cherokee I (ZJ-XJ) 4.0 i 173 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-616","I (ZJ-XJ) (01/1977 - 12/2001)","01/1977","12/2001","4417","JEEP Cherokee","JEEP Cherokee I (ZJ-XJ) 4.0 i 184 cv","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-616","I (ZJ-XJ) (01/1977 - 12/2001)","01/1977","12/2001","15134","JEEP Cherokee","JEEP Cherokee I (ZJ-XJ) 2.5 i 4WD 122 cv","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-616","I (ZJ-XJ) (01/1977 - 12/2001)","01/1977","12/2001","6230","JEEP Cherokee","JEEP Cherokee I (ZJ-XJ) 4.0 i 177 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-616","I (ZJ-XJ) (01/1977 - 12/2001)","01/1977","12/2001","6229","JEEP Cherokee","JEEP Cherokee I (ZJ-XJ) 4.0 i 177 cv","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-616","I (ZJ-XJ) (01/1977 - 12/2001)","01/1977","12/2001","6228","JEEP Cherokee","JEEP Cherokee I (ZJ-XJ) 4.0 i 185 cv","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-616","I (ZJ-XJ) (01/1977 - 12/2001)","01/1977","12/2001","65305","JEEP Cherokee","JEEP Cherokee I (ZJ-XJ) 2.5 i 4WD 121 cv","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-616","I (ZJ-XJ) (01/1977 - 12/2001)","01/1977","12/2001","15136","JEEP Cherokee","JEEP Cherokee I (ZJ-XJ) 4.0 i 184 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-616","I (ZJ-XJ) (01/1977 - 12/2001)","01/1977","12/2001","41811","JEEP Cherokee","JEEP Cherokee I (ZJ-XJ) 4.0 i 178 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-618","II (KJ) (01/2001 - 10/2004)","01/2001","10/2004","20530","JEEP Cherokee","JEEP Cherokee II (KJ) 2.4 i 16V 4WD 147 cv","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-618","II (KJ) (01/2001 - 10/2004)","01/2001","10/2004","4419","JEEP Cherokee","JEEP Cherokee II (KJ) 2.4 i 16V 4WD 147 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-618","II (KJ) (01/2001 - 10/2004)","01/2001","10/2004","56426","JEEP Cherokee","JEEP Cherokee II (KJ) 2.4 i 16V 2WD 147 cv","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-618","II (KJ) (01/2001 - 10/2004)","01/2001","10/2004","56427","JEEP Cherokee","JEEP Cherokee II (KJ) 3.7 i V6 4WD 204 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-618","II (KJ) (01/2001 - 10/2004)","01/2001","10/2004","20534","JEEP Cherokee","JEEP Cherokee II (KJ) 3.7 i V6 4WD 211 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-618","II (KJ) (01/2001 - 10/2004)","01/2001","10/2004","20531","JEEP Cherokee","JEEP Cherokee II (KJ) 2.5 CRD 16V 4WD 143 cv","Diesel"
+"ma-109","JEEP","fa-358","Cherokee","mo-618","II (KJ) (01/2001 - 10/2004)","01/2001","10/2004","4420","JEEP Cherokee","JEEP Cherokee II (KJ) 2.5 CRD 16V 4WD 143 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-358","Cherokee","mo-618","II (KJ) (01/2001 - 10/2004)","01/2001","10/2004","20533","JEEP Cherokee","JEEP Cherokee II (KJ) 3.7 i V6 4WD 211 cv","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-618","II (KJ) (01/2001 - 10/2004)","01/2001","10/2004","20532","JEEP Cherokee","JEEP Cherokee II (KJ) 2.8 CRD 16V 4WD 150 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-358","Cherokee","mo-618","II (KJ) (01/2001 - 10/2004)","01/2001","10/2004","56428","JEEP Cherokee","JEEP Cherokee II (KJ) 3.7 i V6 4WD 204 cv","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-5679","IV (KL) (04/2014 - Hoje)","04/2014","","41832","JEEP Cherokee","JEEP Cherokee IV (KL) 2.0 CRD 16V 2WD 140 cv","Diesel"
+"ma-109","JEEP","fa-358","Cherokee","mo-5679","IV (KL) (04/2014 - Hoje)","04/2014","","56425","JEEP Cherokee","JEEP Cherokee IV (KL) 2.2 CRD 16V 4WD 200 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-358","Cherokee","mo-5679","IV (KL) (04/2014 - Hoje)","04/2014","","41829","JEEP Cherokee","JEEP Cherokee IV (KL) 2.0 CRD 16V 4WD 140 cv","Diesel"
+"ma-109","JEEP","fa-358","Cherokee","mo-5679","IV (KL) (04/2014 - Hoje)","04/2014","","41826","JEEP Cherokee","JEEP Cherokee IV (KL) 3.2 i V6 24V 4WD 272 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-5679","IV (KL) (04/2014 - Hoje)","04/2014","","56424","JEEP Cherokee","JEEP Cherokee IV (KL) 2.2 CRD 16V 4WD 184 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-358","Cherokee","mo-5679","IV (KL) (04/2014 - Hoje)","04/2014","","41831","JEEP Cherokee","JEEP Cherokee IV (KL) 2.0 CRD 16V 4WD 170 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-358","Cherokee","mo-3412","III (KK) (07/2007 - 03/2014)","07/2007","03/2014","41813","JEEP Cherokee","JEEP Cherokee III (KK) 2.8 CRD 16V 4WD 200 cv","Diesel"
+"ma-109","JEEP","fa-358","Cherokee","mo-3412","III (KK) (07/2007 - 03/2014)","07/2007","03/2014","41824","JEEP Cherokee","JEEP Cherokee III (KK) 3.7 V6 4WD 213 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-3412","III (KK) (07/2007 - 03/2014)","07/2007","03/2014","31956","JEEP Cherokee","JEEP Cherokee III (KK) 3.7 V6 4WD 204 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-3412","III (KK) (07/2007 - 03/2014)","07/2007","03/2014","41812","JEEP Cherokee","JEEP Cherokee III (KK) 2.8 CRD 16V 4WD 200 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-358","Cherokee","mo-3412","III (KK) (07/2007 - 03/2014)","07/2007","03/2014","31955","JEEP Cherokee","JEEP Cherokee III (KK) 2.8 CRD 16V 4WD 177 cv","Diesel"
+"ma-109","JEEP","fa-358","Cherokee","mo-3412","III (KK) (07/2007 - 03/2014)","07/2007","03/2014","31954","JEEP Cherokee","JEEP Cherokee III (KK) 2.8 CRD 16V 4WD 177 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-358","Cherokee","mo-615","II Phase 2 (KJ) (11/2004 - 07/2007)","11/2004","07/2007","6226","JEEP Cherokee","JEEP Cherokee II Phase 2 (KJ) 3.7 i V6 4WD 204 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-358","Cherokee","mo-615","II Phase 2 (KJ) (11/2004 - 07/2007)","11/2004","07/2007","15133","JEEP Cherokee","JEEP Cherokee II Phase 2 (KJ) 2.8 CRD 16V 4WD 163 cv","Diesel"
+"ma-109","JEEP","fa-358","Cherokee","mo-615","II Phase 2 (KJ) (11/2004 - 07/2007)","11/2004","07/2007","20528","JEEP Cherokee","JEEP Cherokee II Phase 2 (KJ) 2.8 CRD 16V 4WD 163 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","31959","JEEP Wrangler","JEEP Wrangler JK 2.8 CRD 16V 4WD 177 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","65294","JEEP Wrangler","JEEP Wrangler JK UNLIMITED 2.8 CRD 16V DPF 4WD S&S 200 cv","Diesel"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","65293","JEEP Wrangler","JEEP Wrangler JK 2.8 CRD 16V DPF 4WD S&S 200 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","15143","JEEP Wrangler","JEEP Wrangler JK 3.8 i V6 4WD 199 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","4430","JEEP Wrangler","JEEP Wrangler JK 3.8 i V6 Cabriolet 4WD 199 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","31960","JEEP Wrangler","JEEP Wrangler JK 2.8 CRD 16V 4WD 177 cv","Diesel"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","24671","JEEP Wrangler","JEEP Wrangler JK UNLIMITED 3.8 i V6 199 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","33034","JEEP Wrangler","JEEP Wrangler JK 2.8 CRD 16V 4WD S&S 200 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","56432","JEEP Wrangler","JEEP Wrangler JK UNLIMITED 2.8 CRD 16V 4WD S&S 200 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","24886","JEEP Wrangler","JEEP Wrangler JK UNLIMITED 3.8 i V6 4WD 199 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","33035","JEEP Wrangler","JEEP Wrangler JK 2.8 CRD 16V DPF 4WD S&S 200 cv","Diesel"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","15144","JEEP Wrangler","JEEP Wrangler JK UNLIMITED 3.8 i V6 199 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","65290","JEEP Wrangler","JEEP Wrangler JK UNLIMITED 2.8 CRD 16V 4WD 177 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","65291","JEEP Wrangler","JEEP Wrangler JK UNLIMITED 2.8 CRD 16V 4WD 177 cv","Diesel"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","65295","JEEP Wrangler","JEEP Wrangler JK UNLIMITED 3.6 i V6 4WD 284 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","6240","JEEP Wrangler","JEEP Wrangler JK UNLIMITED 3.8 i V6 4WD 199 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","56092","JEEP Wrangler","JEEP Wrangler JK 3.6 i V6 4WD 284 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","65296","JEEP Wrangler","JEEP Wrangler JK UNLIMITED 3.6 i V6 4WD 284 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","65297","JEEP Wrangler","JEEP Wrangler JK UNLIMITED 3.8 i V6 Cabriolet 4WD 199 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","56091","JEEP Wrangler","JEEP Wrangler JK 3.6 i V6 4WD 284 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","65298","JEEP Wrangler","JEEP Wrangler JK 3.8 i V6 Cabriolet 4WD 208 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","65299","JEEP Wrangler","JEEP Wrangler JK UNLIMITED 3.8 i V6 Cabriolet 4WD 208 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2199","JK (04/2007 - 09/2018)","04/2007","09/2018","65292","JEEP Wrangler","JEEP Wrangler JK UNLIMITED 2.8 CRD 16V DPF 4WD S&S 200 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-359","Wrangler","mo-2200","TJ (08/1996 - 12/2006)","08/1996","12/2006","6245","JEEP Wrangler","JEEP Wrangler TJ 4.0 i Cabriolet 4WD 169 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2200","TJ (08/1996 - 12/2006)","08/1996","12/2006","65287","JEEP Wrangler","JEEP Wrangler TJ 4.0 i Break baché 4WD BVM6 193 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2200","TJ (08/1996 - 12/2006)","08/1996","12/2006","6243","JEEP Wrangler","JEEP Wrangler TJ 4.0 i Break baché 4WD 174 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2200","TJ (08/1996 - 12/2006)","08/1996","12/2006","15146","JEEP Wrangler","JEEP Wrangler TJ 2.5 i Break baché 4WD 120 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2200","TJ (08/1996 - 12/2006)","08/1996","12/2006","43886","JEEP Wrangler","JEEP Wrangler TJ 4.0 i Break baché 4WD 177 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2200","TJ (08/1996 - 12/2006)","08/1996","12/2006","20546","JEEP Wrangler","JEEP Wrangler TJ 2.5 i Break baché 4WD 120 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2200","TJ (08/1996 - 12/2006)","08/1996","12/2006","6241","JEEP Wrangler","JEEP Wrangler TJ 4.0 i Break baché 4WD 174 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2200","TJ (08/1996 - 12/2006)","08/1996","12/2006","65286","JEEP Wrangler","JEEP Wrangler TJ 4.0 i Break baché 4WD BVM6 174 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2200","TJ (08/1996 - 12/2006)","08/1996","12/2006","6242","JEEP Wrangler","JEEP Wrangler TJ 4.0 i Break baché 4WD 193 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2200","TJ (08/1996 - 12/2006)","08/1996","12/2006","43885","JEEP Wrangler","JEEP Wrangler TJ 4.0 i Break baché 4WD 177 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2200","TJ (08/1996 - 12/2006)","08/1996","12/2006","15145","JEEP Wrangler","JEEP Wrangler TJ 2.4 i Power Tech Break baché 4WD 143 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2200","TJ (08/1996 - 12/2006)","08/1996","12/2006","6244","JEEP Wrangler","JEEP Wrangler TJ 4.0 i Break baché 4WD 193 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2200","TJ (08/1996 - 12/2006)","08/1996","12/2006","65288","JEEP Wrangler","JEEP Wrangler TJ 4.0 i Cabrio 4WD BVM6 169 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2200","TJ (08/1996 - 12/2006)","08/1996","12/2006","15147","JEEP Wrangler","JEEP Wrangler TJ 4.0 i Cabriolet 4WD 169 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2200","TJ (08/1996 - 12/2006)","08/1996","12/2006","4431","JEEP Wrangler","JEEP Wrangler TJ 2.4 i Power Tech Break baché 143 4WD cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-7108","JL (09/2018 - Hoje)","09/2018","","61054","JEEP Wrangler","JEEP Wrangler JL 2.0 T-GDi 16V 4WD S&S 270 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-7108","JL (09/2018 - Hoje)","09/2018","","65301","JEEP Wrangler","JEEP Wrangler JL UNLIMITED 2.2 Multijet 16V 4WD S&S 200 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-359","Wrangler","mo-7108","JL (09/2018 - Hoje)","09/2018","","65328","JEEP Wrangler","JEEP Wrangler JL UNLIMITED 4xe 2.0 T-GDi 16V 380 Plug in Hybrid 4WD 272 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-7108","JL (09/2018 - Hoje)","09/2018","","65300","JEEP Wrangler","JEEP Wrangler JL UNLIMITED 2.0 T-GDi 16V 4WD S&S 270 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-7108","JL (09/2018 - Hoje)","09/2018","","61055","JEEP Wrangler","JEEP Wrangler JL 2.2 Multijet 16V 4WD S&S 200 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-359","Wrangler","mo-2198","YJ (01/1986 - 07/1996)","01/1986","07/1996","15142","JEEP Wrangler","JEEP Wrangler YJ 4.0 i Break baché 4WD 178 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2198","YJ (01/1986 - 07/1996)","01/1986","07/1996","20545","JEEP Wrangler","JEEP Wrangler YJ 2.5 i Break baché 4WD 121 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-2198","YJ (01/1986 - 07/1996)","01/1986","07/1996","4429","JEEP Wrangler","JEEP Wrangler YJ 4.2 i Break baché 4WD 114 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-649","CJ5 (01/1980 - 12/1988)","01/1980","12/1988","65289","JEEP Wrangler","JEEP Wrangler CJ5 2.5 Break baché 4WD 106 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-649","CJ5 (01/1980 - 12/1988)","01/1980","12/1988","4421","JEEP Wrangler","JEEP Wrangler CJ5 2.5 Break baché 4WD 88 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-651","CJ7 (01/1979 - 12/1986)","01/1979","12/1986","20535","JEEP Wrangler","JEEP Wrangler CJ7 5.0 Break baché 121 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-651","CJ7 (01/1979 - 12/1986)","01/1979","12/1986","6231","JEEP Wrangler","JEEP Wrangler CJ7 2.1 D Break baché 60 cv","Diesel"
+"ma-109","JEEP","fa-359","Wrangler","mo-1808","Scrambler (01/1979 - 12/1986)","01/1979","12/1986","15140","JEEP Wrangler","JEEP Wrangler Scrambler 4.2 i Break baché 4WD 103 cv","Essence"
+"ma-109","JEEP","fa-359","Wrangler","mo-650","CJ6 (01/1956 - 12/1978)","01/1956","12/1978","4422","JEEP Wrangler","JEEP Wrangler CJ6 2.6 Break baché 91 cv","Essence"
+"ma-109","JEEP","fa-2151","Renegade","mo-5828"," (07/2014 - 08/2018)","07/2014","08/2018","61153","JEEP Renegade","JEEP Renegade 1.6 CRD 16V 2WD DCT6 S&S 120 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-2151","Renegade","mo-5828"," (07/2014 - 08/2018)","07/2014","08/2018","43892","JEEP Renegade","JEEP Renegade 2.0 CRD 16V 4WD S&S 140 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-2151","Renegade","mo-5828"," (07/2014 - 08/2018)","07/2014","08/2018","57747","JEEP Renegade","JEEP Renegade 1.6 CRD 16V 2WD S&S 95 cv","Diesel"
+"ma-109","JEEP","fa-2151","Renegade","mo-5828"," (07/2014 - 08/2018)","07/2014","08/2018","43891","JEEP Renegade","JEEP Renegade 2.0 CRD 16V 4WD S&S 120 cv","Diesel"
+"ma-109","JEEP","fa-2151","Renegade","mo-5828"," (07/2014 - 08/2018)","07/2014","08/2018","43889","JEEP Renegade","JEEP Renegade 1.6 CRD 16V 2WD S&S 115 cv","Diesel"
+"ma-109","JEEP","fa-2151","Renegade","mo-5828"," (07/2014 - 08/2018)","07/2014","08/2018","43894","JEEP Renegade","JEEP Renegade 2.0 CRD 16V 4WD S&S 170 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-2151","Renegade","mo-5828"," (07/2014 - 08/2018)","07/2014","08/2018","49128","JEEP Renegade","JEEP Renegade 1.6 e.Torq 16V 2WD S&S 110 cv","Essence"
+"ma-109","JEEP","fa-2151","Renegade","mo-5828"," (07/2014 - 08/2018)","07/2014","08/2018","43893","JEEP Renegade","JEEP Renegade 2.0 CRD 16V 4WD S&S 140 cv","Diesel"
+"ma-109","JEEP","fa-2151","Renegade","mo-5828"," (07/2014 - 08/2018)","07/2014","08/2018","61152","JEEP Renegade","JEEP Renegade 1.6 CRD 16V 2WD DCT6 S&S 115 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-2151","Renegade","mo-5828"," (07/2014 - 08/2018)","07/2014","08/2018","49127","JEEP Renegade","JEEP Renegade 1.4 16V Turbo MultiAir 4WD S&S 170 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-2151","Renegade","mo-5828"," (07/2014 - 08/2018)","07/2014","08/2018","43887","JEEP Renegade","JEEP Renegade 1.4 16V Turbo MultiAir 2WD S&S 136 cv","Essence"
+"ma-109","JEEP","fa-2151","Renegade","mo-5828"," (07/2014 - 08/2018)","07/2014","08/2018","43888","JEEP Renegade","JEEP Renegade 1.4 16V Turbo MultiAir 2WD S&S 140 cv","Essence"
+"ma-109","JEEP","fa-2151","Renegade","mo-5828"," (07/2014 - 08/2018)","07/2014","08/2018","43890","JEEP Renegade","JEEP Renegade 1.6 CRD 16V 2WD S&S 120 cv","Diesel"
+"ma-109","JEEP","fa-2151","Renegade","mo-7011","Phase 2 (08/2018 - Hoje)","08/2018","","60135","JEEP Renegade","JEEP Renegade Phase 2 2.0 CRD 16V 4WD S&S 140 cv","Diesel"
+"ma-109","JEEP","fa-2151","Renegade","mo-7011","Phase 2 (08/2018 - Hoje)","08/2018","","60131","JEEP Renegade","JEEP Renegade Phase 2 1.6 CRD 16V 2WD S&S 115 cv","Diesel"
+"ma-109","JEEP","fa-2151","Renegade","mo-7011","Phase 2 (08/2018 - Hoje)","08/2018","","61784","JEEP Renegade","JEEP Renegade Phase 2 4Xe 1.3 i 16V GPF 240 Plug in Hybrid 4WD DCT6 S&S 180 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-2151","Renegade","mo-7011","Phase 2 (08/2018 - Hoje)","08/2018","","60128","JEEP Renegade","JEEP Renegade Phase 2 T4 1.3 GSE 16V GPF 2WD DCT6 S&S 150 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-2151","Renegade","mo-7011","Phase 2 (08/2018 - Hoje)","08/2018","","61783","JEEP Renegade","JEEP Renegade Phase 2 4Xe 1.3 i 16V GPF 190 Plug in Hybrid 4WD DCT6 S&S 130 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-2151","Renegade","mo-7011","Phase 2 (08/2018 - Hoje)","08/2018","","60133","JEEP Renegade","JEEP Renegade Phase 2 1.6 CRD 16V 2WD S&S 120 cv","Diesel"
+"ma-109","JEEP","fa-2151","Renegade","mo-7011","Phase 2 (08/2018 - Hoje)","08/2018","","60130","JEEP Renegade","JEEP Renegade Phase 2 1.6 CRD 16V 2WD DCT6 S&S 115 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-2151","Renegade","mo-7011","Phase 2 (08/2018 - Hoje)","08/2018","","60136","JEEP Renegade","JEEP Renegade Phase 2 2.0 CRD 16V 4WD S&S 170 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-2151","Renegade","mo-7011","Phase 2 (08/2018 - Hoje)","08/2018","","60129","JEEP Renegade","JEEP Renegade Phase 2 T4 1.3 GSE 16V GPF 4WD S&S 180 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-2151","Renegade","mo-7011","Phase 2 (08/2018 - Hoje)","08/2018","","60132","JEEP Renegade","JEEP Renegade Phase 2 1.6 CRD 16V 2WD DCT6 S&S 120 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-2151","Renegade","mo-7011","Phase 2 (08/2018 - Hoje)","08/2018","","60134","JEEP Renegade","JEEP Renegade Phase 2 2.0 CRD 16V 4WD S&S 140 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-2151","Renegade","mo-7011","Phase 2 (08/2018 - Hoje)","08/2018","","60126","JEEP Renegade","JEEP Renegade Phase 2 T3 1.0 GSE 12V GPF 2WD S&S 115 cv","Essence"
+"ma-109","JEEP","fa-2151","Renegade","mo-7011","Phase 2 (08/2018 - Hoje)","08/2018","","66807","JEEP Renegade","JEEP Renegade Phase 2 T4 1.5 GSE 16V GPF e-Hybrid 2WD DCT7 130 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-2151","Renegade","mo-7011","Phase 2 (08/2018 - Hoje)","08/2018","","60127","JEEP Renegade","JEEP Renegade Phase 2 T3 1.0 GSE 12V GPF 2WD S&S 120 cv","Essence"
+"ma-109","JEEP","fa-2151","Renegade","mo-7011","Phase 2 (08/2018 - Hoje)","08/2018","","65306","JEEP Renegade","JEEP Renegade Phase 2 1.6 MultiJet 2WD S&S 130 cv","Diesel"
+"ma-109","JEEP","fa-361","Compass","mo-6628","II (07/2017 - 04/2021)","07/2017","04/2021","57746","JEEP Compass","JEEP Compass II 2.0 CRD 16V 4WD S&S 170 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-361","Compass","mo-6628","II (07/2017 - 04/2021)","07/2017","04/2021","63704","JEEP Compass","JEEP Compass II 4Xe 1.3 i 16V 190 Plug in Hybrid 4WD 130 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-361","Compass","mo-6628","II (07/2017 - 04/2021)","07/2017","04/2021","63703","JEEP Compass","JEEP Compass II 1.3 16V Turbo MultiAir 2WD DCT6 S&S 150 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-361","Compass","mo-6628","II (07/2017 - 04/2021)","07/2017","04/2021","57741","JEEP Compass","JEEP Compass II 1.4 16V Turbo MultiAir 2WD S&S 140 cv","Essence"
+"ma-109","JEEP","fa-361","Compass","mo-6628","II (07/2017 - 04/2021)","07/2017","04/2021","63705","JEEP Compass","JEEP Compass II 4Xe 1.3 i 16V 240 Plug in Hybrid 4WD 180 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-361","Compass","mo-6628","II (07/2017 - 04/2021)","07/2017","04/2021","57744","JEEP Compass","JEEP Compass II 2.0 CRD 16V 4WD S&S 140 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-361","Compass","mo-6628","II (07/2017 - 04/2021)","07/2017","04/2021","63702","JEEP Compass","JEEP Compass II 1.3 16V Turbo MultiAir 2WD S&S 130 cv","Essence"
+"ma-109","JEEP","fa-361","Compass","mo-6628","II (07/2017 - 04/2021)","07/2017","04/2021","57742","JEEP Compass","JEEP Compass II 1.4 16V Turbo MultiAir 4WD S&S 170 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-361","Compass","mo-6628","II (07/2017 - 04/2021)","07/2017","04/2021","57745","JEEP Compass","JEEP Compass II 2.0 CRD 16V 4WD S&S 140 cv","Diesel"
+"ma-109","JEEP","fa-361","Compass","mo-6628","II (07/2017 - 04/2021)","07/2017","04/2021","57743","JEEP Compass","JEEP Compass II 1.6 CRD 16V 2WD S&S 120 cv","Diesel"
+"ma-109","JEEP","fa-361","Compass","mo-726","I (09/2006 - 12/2010)","09/2006","12/2010","20539","JEEP Compass","JEEP Compass I 2.4 i 16V 4WD CVT 170 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-361","Compass","mo-726","I (09/2006 - 12/2010)","09/2006","12/2010","20537","JEEP Compass","JEEP Compass I 2.0 CRD 4WD 140 cv","Diesel"
+"ma-109","JEEP","fa-361","Compass","mo-726","I (09/2006 - 12/2010)","09/2006","12/2010","20538","JEEP Compass","JEEP Compass I 2.4 i 16V 4WD 170 cv","Essence"
+"ma-109","JEEP","fa-361","Compass","mo-7348","II Phase 2 (05/2021 - Hoje)","05/2021","","63707","JEEP Compass","JEEP Compass II Phase 2 1.3 16V Turbo MultiAir 2WD DCT6 S&S 150 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-361","Compass","mo-7348","II Phase 2 (05/2021 - Hoje)","05/2021","","63710","JEEP Compass","JEEP Compass II Phase 2 4Xe 1.3 i 16V 240 Plug in Hybrid 4WD 180 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-361","Compass","mo-7348","II Phase 2 (05/2021 - Hoje)","05/2021","","63709","JEEP Compass","JEEP Compass II Phase 2 4Xe 1.3 i 16V 190 Plug in Hybrid 4WD 130 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-361","Compass","mo-7348","II Phase 2 (05/2021 - Hoje)","05/2021","","63708","JEEP Compass","JEEP Compass II Phase 2 1.6 MultiJet 16V 2WD S&S 130 cv","Diesel"
+"ma-109","JEEP","fa-361","Compass","mo-7348","II Phase 2 (05/2021 - Hoje)","05/2021","","63706","JEEP Compass","JEEP Compass II Phase 2 1.3 16V Turbo MultiAir 2WD S&S 130 cv","Essence"
+"ma-109","JEEP","fa-361","Compass","mo-7348","II Phase 2 (05/2021 - Hoje)","05/2021","","66806","JEEP Compass","JEEP Compass II Phase 2 1.5 16V Turbo GPF e-Hybrid 2WD DCT7 S&S 130 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-361","Compass","mo-5088","I Phase 2 (05/2011 - 06/2017)","05/2011","06/2017","33850","JEEP Compass","JEEP Compass I Phase 2 2.2 CRD 16V DPF 4WD 163 cv","Diesel"
+"ma-109","JEEP","fa-361","Compass","mo-5088","I Phase 2 (05/2011 - 06/2017)","05/2011","06/2017","49357","JEEP Compass","JEEP Compass I Phase 2 2.2 CRD 16V DPF 4WD 136 cv","Diesel"
+"ma-109","JEEP","fa-361","Compass","mo-5088","I Phase 2 (05/2011 - 06/2017)","05/2011","06/2017","33849","JEEP Compass","JEEP Compass I Phase 2 2.2 CRD 16V DPF 2WD 136 cv","Diesel"
+"ma-109","JEEP","fa-361","Compass","mo-5088","I Phase 2 (05/2011 - 06/2017)","05/2011","06/2017","33848","JEEP Compass","JEEP Compass I Phase 2 2.0 i 16V 2WD 156 cv","Essence"
+"ma-109","JEEP","fa-361","Compass","mo-5088","I Phase 2 (05/2011 - 06/2017)","05/2011","06/2017","33852","JEEP Compass","JEEP Compass I Phase 2 2.4 i 16V 4WD 170 cv","Essence"
+"ma-109","JEEP","fa-361","Compass","mo-5088","I Phase 2 (05/2011 - 06/2017)","05/2011","06/2017","33851","JEEP Compass","JEEP Compass I Phase 2 2.4 i 16V 4WD CVT 170 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-2433","Avenger","mo-7755","(J2) (12/2022 - Hoje)","12/2022","","69568","JEEP Avenger","JEEP Avenger (J2) 1.2 GSE T3 4X2 100 cv","Essence"
+"ma-109","JEEP","fa-2433","Avenger","mo-7755","(J2) (12/2022 - Hoje)","12/2022","","69567","JEEP Avenger","JEEP Avenger (J2) Electric (54 kWh) 4X2 156 cv Caixa Automática","Electrique"
+"ma-109","JEEP","fa-2433","Avenger","mo-7755","(J2) (12/2022 - Hoje)","12/2022","","69768","JEEP Avenger","JEEP Avenger (J2) 1.2 GSE e-Hybrid 4X2 eDCT6 100 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-1791","Patriot","mo-3414"," (06/2007 - 02/2011)","06/2007","02/2011","31947","JEEP Patriot","JEEP Patriot 2.4 VVT 16V 2WD CVT 170 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-1791","Patriot","mo-3414"," (06/2007 - 02/2011)","06/2007","02/2011","31948","JEEP Patriot","JEEP Patriot 2.4 VVT 16V 2WD 170 cv","Essence"
+"ma-109","JEEP","fa-1791","Patriot","mo-3414"," (06/2007 - 02/2011)","06/2007","02/2011","31951","JEEP Patriot","JEEP Patriot 2.4 VVT 16V 4WD 170 cv","Essence"
+"ma-109","JEEP","fa-1791","Patriot","mo-3414"," (06/2007 - 02/2011)","06/2007","02/2011","31945","JEEP Patriot","JEEP Patriot 2.0 CRD 16V 4WD CVT 140 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-1791","Patriot","mo-3414"," (06/2007 - 02/2011)","06/2007","02/2011","31950","JEEP Patriot","JEEP Patriot 2.4 VVT 16V 4WD CVT Off-Road 170 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-1791","Patriot","mo-3414"," (06/2007 - 02/2011)","06/2007","02/2011","33025","JEEP Patriot","JEEP Patriot 2.2 CRD 16V DPF 4WD 163 cv","Diesel"
+"ma-109","JEEP","fa-1791","Patriot","mo-3414"," (06/2007 - 02/2011)","06/2007","02/2011","31949","JEEP Patriot","JEEP Patriot 2.4 VVT 16V 4WD CVT 170 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-1791","Patriot","mo-3414"," (06/2007 - 02/2011)","06/2007","02/2011","31946","JEEP Patriot","JEEP Patriot 2.0 CRD 16V 4WD 140 cv","Diesel"
+"ma-109","JEEP","fa-1791","Patriot","mo-3414"," (06/2007 - 02/2011)","06/2007","02/2011","56431","JEEP Patriot","JEEP Patriot 2.2 CRD 16V DPF 4WD 136 cv","Diesel"
+"ma-109","JEEP","fa-1791","Patriot","mo-5001","Phase 2 (03/2011 - 12/2016)","03/2011","12/2016","33027","JEEP Patriot","JEEP Patriot Phase 2 2.4 VVT 16V 2WD CVT 170 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-1791","Patriot","mo-5001","Phase 2 (03/2011 - 12/2016)","03/2011","12/2016","33030","JEEP Patriot","JEEP Patriot Phase 2 2.4 VVT 16V 4WD 170 cv","Essence"
+"ma-109","JEEP","fa-1791","Patriot","mo-5001","Phase 2 (03/2011 - 12/2016)","03/2011","12/2016","33029","JEEP Patriot","JEEP Patriot Phase 2 2.4 VVT 16V 4WD CVT 170 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-1791","Patriot","mo-5001","Phase 2 (03/2011 - 12/2016)","03/2011","12/2016","33028","JEEP Patriot","JEEP Patriot Phase 2 2.4 VVT 16V 2WD 170 cv","Essence"
+"ma-109","JEEP","fa-1791","Patriot","mo-5001","Phase 2 (03/2011 - 12/2016)","03/2011","12/2016","33026","JEEP Patriot","JEEP Patriot Phase 2 2.2 CRD 16V DPF 4WD 163 cv","Diesel"
+"ma-109","JEEP","fa-1791","Patriot","mo-5001","Phase 2 (03/2011 - 12/2016)","03/2011","12/2016","65304","JEEP Patriot","JEEP Patriot Phase 2 2.0 VVT 16V 2WD 156 cv","Essence"
+"ma-109","JEEP","fa-360","Commander","mo-723"," (09/2005 - 12/2010)","09/2005","12/2010","20536","JEEP Commander","JEEP Commander 4.7 i V8 4WD 231 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-360","Commander","mo-723"," (09/2005 - 12/2010)","09/2005","12/2010","28096","JEEP Commander","JEEP Commander 3.7 V6 12V 4WD 214 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-360","Commander","mo-723"," (09/2005 - 12/2010)","09/2005","12/2010","65303","JEEP Commander","JEEP Commander 3.0 CRD V6 24V 4WD 211 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-360","Commander","mo-723"," (09/2005 - 12/2010)","09/2005","12/2010","6233","JEEP Commander","JEEP Commander 5.7 i V8 4WD 326 cv Caixa Automática","Essence"
+"ma-109","JEEP","fa-360","Commander","mo-723"," (09/2005 - 12/2010)","09/2005","12/2010","6232","JEEP Commander","JEEP Commander 3.0 CRD V6 24V 4WD 218 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-2368","Gladiator","mo-7462"," (10/2021 - Hoje)","10/2021","","65698","JEEP Gladiator","JEEP Gladiator 3.0 Multijet 24V Pickup double cabine 4WD 264 cv Caixa Automática","Diesel"
+"ma-109","JEEP","fa-363","Wagoneer","mo-2197"," (01/1962 - 12/1993)","01/1962","12/1993","65302","JEEP Wagoneer","JEEP Wagoneer 2.5 Break 106 cv","Essence"
+"ma-109","JEEP","fa-363","Wagoneer","mo-2197"," (01/1962 - 12/1993)","01/1962","12/1993","4428","JEEP Wagoneer","JEEP Wagoneer 5.9 Break 4WD 177 cv","Essence"
+"ma-109","JEEP","fa-363","Wagoneer","mo-2197"," (01/1962 - 12/1993)","01/1962","12/1993","20544","JEEP Wagoneer","JEEP Wagoneer 4.2 Break 4WD 112 cv","Essence"
+"ma-109","JEEP","fa-363","Wagoneer","mo-2197"," (01/1962 - 12/1993)","01/1962","12/1993","15141","JEEP Wagoneer","JEEP Wagoneer 2.5 Break 4WD 118 cv","Essence"

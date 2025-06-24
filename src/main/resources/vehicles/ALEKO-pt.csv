@@ -1,2 +1,2 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-275,ALEKO,fa-1677,2141,mo-3231, (09/1990 - 06/1993),09/1990,06/1993,31721,ALEKO 2141,ALEKO 2141 Aleko 1.6 71 cv,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-275","ALEKO","fa-1677","2141","mo-3231"," (09/1990 - 06/1993)","09/1990","06/1993","31721","ALEKO 2141","ALEKO 2141 Aleko 1.6 71 cv","Essence"

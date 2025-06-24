@@ -1,7 +1,7 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-274,LIGIER,fa-1366,NOVA,mo-3135, (08/2002 - Aujourd'hui),08/2002,,27132,LIGIER NOVA,LIGIER NOVA 500 5 cv Boîte auto,Diesel
-ma-274,LIGIER,fa-1366,NOVA,mo-3135, (08/2002 - Aujourd'hui),08/2002,,27494,LIGIER NOVA,LIGIER NOVA 650 19 cv Boîte auto,Essence
-ma-274,LIGIER,fa-1366,NOVA,mo-3135, (08/2002 - Aujourd'hui),08/2002,,27404,LIGIER NOVA,LIGIER NOVA 400 7 cv Boîte auto,Essence
-ma-274,LIGIER,fa-2424,PULSE,mo-7714,4 Camion plate-forme/Châssis (08/2019 - Aujourd'hui),08/2019,,68672,LIGIER PULSE,LIGIER PULSE 4 Camion plate-forme/Châssis Electric 11 cv Boîte auto,Electrique
-ma-274,LIGIER,fa-1286,AMBRA,mo-2990, (12/1996 - Aujourd'hui),12/1996,,27327,LIGIER AMBRA,LIGIER AMBRA 0.5 19 cv Boîte auto,Essence
-ma-274,LIGIER,fa-1298,BE UP,mo-3027, (08/2002 - Aujourd'hui),08/2002,,27223,LIGIER BE UP,LIGIER BE UP 0.5 19 cv Boîte auto,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-274","LIGIER","fa-1366","NOVA","mo-3135"," (08/2002 - Aujourd'hui)","08/2002","","27132","LIGIER NOVA","LIGIER NOVA 500 5 cv Boîte auto","Diesel"
+"ma-274","LIGIER","fa-1366","NOVA","mo-3135"," (08/2002 - Aujourd'hui)","08/2002","","27494","LIGIER NOVA","LIGIER NOVA 650 19 cv Boîte auto","Essence"
+"ma-274","LIGIER","fa-1366","NOVA","mo-3135"," (08/2002 - Aujourd'hui)","08/2002","","27404","LIGIER NOVA","LIGIER NOVA 400 7 cv Boîte auto","Essence"
+"ma-274","LIGIER","fa-2424","PULSE","mo-7714","4 Camion plate-forme/Châssis (08/2019 - Aujourd'hui)","08/2019","","68672","LIGIER PULSE","LIGIER PULSE 4 Camion plate-forme/Châssis Electric 11 cv Boîte auto","Electrique"
+"ma-274","LIGIER","fa-1286","AMBRA","mo-2990"," (12/1996 - Aujourd'hui)","12/1996","","27327","LIGIER AMBRA","LIGIER AMBRA 0.5 19 cv Boîte auto","Essence"
+"ma-274","LIGIER","fa-1298","BE UP","mo-3027"," (08/2002 - Aujourd'hui)","08/2002","","27223","LIGIER BE UP","LIGIER BE UP 0.5 19 cv Boîte auto","Essence"

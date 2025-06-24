@@ -14,7 +14,7 @@ dependencies {
     //
     //A simple library for reading and writing CSV in Java
     // https://mvnrepository.com/artifact/com.opencsv/opencsv
-    implementation("com.opencsv:opencsv:5.11")
+    implementation 'com.opencsv:opencsv:5.11.1'
 
     // Java Simple Exchange Format API » 0.9.3.RELEASE
     //
@@ -27,11 +27,13 @@ dependencies {
     // https://mvnrepository.com/artifact/org.jsefa/jsefa
     implementation("org.jsefa:jsefa:0.9.3.RELEASE")
 
-    // Logback Classic Module » 1.5.18
-    //
-    // Implementation of the SLF4J API for Logback, a reliable, generic, fast and flexible logging framework.
-    // https://mvnrepository.com/artifact/ch.qos.logback/logback-classic
-    implementation("ch.qos.logback:logback-classic:1.5.18")
+    // API for Apache Log4J, a highly configurable logging tool that focuses on performance and low garbage generation. It has a plugin architecture that makes it extensible and supports asynchronous logging based on LMAX Disruptor.
+    // https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api
+    implementation("org.apache.logging.log4j:log4j-api:2.25.0")
+    // Implementation for Apache Log4J, a highly configurable logging tool that focuses on performance and low garbage generation. It has a plugin architecture that makes it extensible and supports asynchronous logging based on LMAX Disruptor.
+    // https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core
+    implementation("org.apache.logging.log4j:log4j-core:2.25.0")
+
 
     // Project Lombok » 1.18.38
     //

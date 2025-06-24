@@ -1,81 +1,81 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-309,DS,fa-2195,DS3,mo-6275, (01/2016 - 07/2019),01/2016,07/2019,49604,DS DS3,DS DS3 1.6 Blue HDi S&S 120 cv,Diesel
-ma-309,DS,fa-2195,DS3,mo-6275, (01/2016 - 07/2019),01/2016,07/2019,49603,DS DS3,DS DS3 1.6 Blue HDi S&S 116 cv,Diesel
-ma-309,DS,fa-2195,DS3,mo-6275, (01/2016 - 07/2019),01/2016,07/2019,49607,DS DS3,DS DS3 1.6 THP 16V S&S 165 cv,Essence
-ma-309,DS,fa-2195,DS3,mo-6275, (01/2016 - 07/2019),01/2016,07/2019,49605,DS DS3,DS DS3 1.6 Blue HDi 75 cv,Diesel
-ma-309,DS,fa-2195,DS3,mo-6275, (01/2016 - 07/2019),01/2016,07/2019,49611,DS DS3,DS DS3 1.2 VTi Puretech 12V S&S 82 cv,Essence
-ma-309,DS,fa-2195,DS3,mo-6275, (01/2016 - 07/2019),01/2016,07/2019,49609,DS DS3,DS DS3 1.2 THP Puretech 12V S&S 110 cv,Essence
-ma-309,DS,fa-2195,DS3,mo-6275, (01/2016 - 07/2019),01/2016,07/2019,49610,DS DS3,DS DS3 1.2 THP Puretech 12V S&S 130 cv,Essence
-ma-309,DS,fa-2195,DS3,mo-6275, (01/2016 - 07/2019),01/2016,07/2019,49608,DS DS3,DS DS3 1.2 THP Puretech 12V EAT6 S&S 110 cv Boîte auto,Essence
-ma-309,DS,fa-2195,DS3,mo-6275, (01/2016 - 07/2019),01/2016,07/2019,50516,DS DS3,DS DS3 1.6 THP 16V S&S 208 cv,Essence
-ma-309,DS,fa-2195,DS3,mo-6275, (01/2016 - 07/2019),01/2016,07/2019,49602,DS DS3,DS DS3 1.6 Blue HDi S&S 99 cv,Diesel
-ma-309,DS,fa-2195,DS3,mo-6275, (01/2016 - 07/2019),01/2016,07/2019,49606,DS DS3,DS DS3 1.6 THP 16V S&S 150 cv,Essence
-ma-309,DS,fa-2195,DS3,mo-6868,Crossback (03/2019 - Aujourd'hui),03/2019,,60162,DS DS3,DS DS3 Crossback E-tense 136 cv Boîte auto,Electrique
-ma-309,DS,fa-2195,DS3,mo-6868,Crossback (03/2019 - Aujourd'hui),03/2019,,59836,DS DS3,DS DS3 Crossback 1.2 THP Puretech 12V EAT8 S&S 155 cv Boîte auto,Essence
-ma-309,DS,fa-2195,DS3,mo-6868,Crossback (03/2019 - Aujourd'hui),03/2019,,69821,DS DS3,DS DS3 Crossback E-tense 156 cv Boîte auto,Electrique
-ma-309,DS,fa-2195,DS3,mo-6868,Crossback (03/2019 - Aujourd'hui),03/2019,,62836,DS DS3,DS DS3 Crossback 1.5 Blue HDi S&S 110 cv,Diesel
-ma-309,DS,fa-2195,DS3,mo-6868,Crossback (03/2019 - Aujourd'hui),03/2019,,59835,DS DS3,DS DS3 Crossback 1.2 THP Puretech 12V EAT8 S&S 131 cv Boîte auto,Essence
-ma-309,DS,fa-2195,DS3,mo-6868,Crossback (03/2019 - Aujourd'hui),03/2019,,59834,DS DS3,DS DS3 Crossback 1.2 THP Puretech 12V S&S 101 cv,Essence
-ma-309,DS,fa-2195,DS3,mo-6868,Crossback (03/2019 - Aujourd'hui),03/2019,,59837,DS DS3,DS DS3 Crossback 1.5 Blue HDi S&S 102 cv,Diesel
-ma-309,DS,fa-2195,DS3,mo-6868,Crossback (03/2019 - Aujourd'hui),03/2019,,60163,DS DS3,DS DS3 Crossback 1.5 Blue HDi EAT8 S&S 130 cv Boîte auto,Diesel
-ma-309,DS,fa-2195,DS3,mo-6276,Cabriolet (01/2016 - 07/2019),01/2016,07/2019,49620,DS DS3,DS DS3 Cabriolet 1.2 VTi Puretech 12V S&S 82 cv,Essence
-ma-309,DS,fa-2195,DS3,mo-6276,Cabriolet (01/2016 - 07/2019),01/2016,07/2019,49612,DS DS3,DS DS3 Cabriolet 1.6 Blue HDi S&S 99 cv,Diesel
-ma-309,DS,fa-2195,DS3,mo-6276,Cabriolet (01/2016 - 07/2019),01/2016,07/2019,49613,DS DS3,DS DS3 Cabriolet 1.6 Blue HDi S&S 116 cv,Diesel
-ma-309,DS,fa-2195,DS3,mo-6276,Cabriolet (01/2016 - 07/2019),01/2016,07/2019,49619,DS DS3,DS DS3 Cabriolet 1.2 THP Puretech 12V S&S 130 cv,Essence
-ma-309,DS,fa-2195,DS3,mo-6276,Cabriolet (01/2016 - 07/2019),01/2016,07/2019,49617,DS DS3,DS DS3 Cabriolet 1.2 THP Puretech 12V EAT6 S&S 110 cv Boîte auto,Essence
-ma-309,DS,fa-2195,DS3,mo-6276,Cabriolet (01/2016 - 07/2019),01/2016,07/2019,49616,DS DS3,DS DS3 Cabriolet 1.6 THP 16V S&S 165 cv,Essence
-ma-309,DS,fa-2195,DS3,mo-6276,Cabriolet (01/2016 - 07/2019),01/2016,07/2019,50517,DS DS3,DS DS3 Cabriolet 1.6 THP 16V S&S 208 cv,Essence
-ma-309,DS,fa-2195,DS3,mo-6276,Cabriolet (01/2016 - 07/2019),01/2016,07/2019,49615,DS DS3,DS DS3 Cabriolet 1.6 THP 16V S&S 150 cv,Essence
-ma-309,DS,fa-2195,DS3,mo-6276,Cabriolet (01/2016 - 07/2019),01/2016,07/2019,49614,DS DS3,DS DS3 Cabriolet 1.6 Blue HDi S&S 120 cv,Diesel
-ma-309,DS,fa-2195,DS3,mo-6276,Cabriolet (01/2016 - 07/2019),01/2016,07/2019,49618,DS DS3,DS DS3 Cabriolet 1.2 THP Puretech 12V S&S 110 cv,Essence
-ma-309,DS,fa-2252,DS7,mo-6707,Crossback (11/2017 - 09/2022),11/2017,09/2022,58070,DS DS7,DS DS7 Crossback 1.6 THP 16V S&S 225 cv Boîte auto,Essence
-ma-309,DS,fa-2252,DS7,mo-6707,Crossback (11/2017 - 09/2022),11/2017,09/2022,61486,DS DS7,DS DS7 Crossback E-tense 1.6 THP 16V 225 Plug in Hybrid 181 cv Boîte auto,Essence
-ma-309,DS,fa-2252,DS7,mo-6707,Crossback (11/2017 - 09/2022),11/2017,09/2022,60930,DS DS7,DS DS7 Crossback E-tense 1.6 THP 16V 300 Plug in Hybrid 4X4 200 cv Boîte auto,Essence
-ma-309,DS,fa-2252,DS7,mo-6707,Crossback (11/2017 - 09/2022),11/2017,09/2022,59294,DS DS7,DS DS7 Crossback 1.2 THP Puretech 12V S&S 131 cv,Essence
-ma-309,DS,fa-2252,DS7,mo-6707,Crossback (11/2017 - 09/2022),11/2017,09/2022,58068,DS DS7,DS DS7 Crossback 1.5 Blue HDi S&S 130 cv,Diesel
-ma-309,DS,fa-2252,DS7,mo-6707,Crossback (11/2017 - 09/2022),11/2017,09/2022,58069,DS DS7,DS DS7 Crossback 1.6 THP 16V S&S 180 cv Boîte auto,Essence
-ma-309,DS,fa-2252,DS7,mo-6707,Crossback (11/2017 - 09/2022),11/2017,09/2022,58071,DS DS7,DS DS7 Crossback 2.0 Blue HDi S&S 177 cv Boîte auto,Diesel
-ma-309,DS,fa-2252,DS7,mo-6707,Crossback (11/2017 - 09/2022),11/2017,09/2022,59577,DS DS7,DS DS7 Crossback 1.5 Blue HDi EAT8 S&S 130 cv Boîte auto,Diesel
-ma-309,DS,fa-2252,DS7,mo-6707,Crossback (11/2017 - 09/2022),11/2017,09/2022,62108,DS DS7,DS DS7 Crossback 1.2 THP Puretech 12V EAT8 S&S 131 cv Boîte auto,Essence
-ma-309,DS,fa-2252,DS7,mo-7660, (09/2022 - Aujourd'hui),09/2022,,68377,DS DS7,DS DS7 E-tense 1.6 THP 16V 300 Plug in Hybrid 4X4 S&S 200 cv Boîte auto,Essence
-ma-309,DS,fa-2252,DS7,mo-7660, (09/2022 - Aujourd'hui),09/2022,,68375,DS DS7,DS DS7 1.5 Blue HDi 16V EAT8 S&S 130 cv Boîte auto,Diesel
-ma-309,DS,fa-2252,DS7,mo-7660, (09/2022 - Aujourd'hui),09/2022,,68376,DS DS7,DS DS7 E-tense 1.6 THP 16V 360 Plug in Hybrid 4X4 S&S 200 cv Boîte auto,Essence
-ma-309,DS,fa-2252,DS7,mo-7660, (09/2022 - Aujourd'hui),09/2022,,68378,DS DS7,DS DS7 E-tense 1.6 THP 16V 225 Plug in Hybrid S&S 181 cv Boîte auto,Essence
-ma-309,DS,fa-2193,DS4,mo-6272, (09/2015 - 09/2021),09/2015,09/2021,49625,DS DS4,DS DS4 1.6 THP 16V EAT6 S&S 165 cv Boîte auto,Essence
-ma-309,DS,fa-2193,DS4,mo-6272, (09/2015 - 09/2021),09/2015,09/2021,49621,DS DS4,DS DS4 1.6 Blue HDi EAT6 S&S 116 cv Boîte auto,Diesel
-ma-309,DS,fa-2193,DS4,mo-6272, (09/2015 - 09/2021),09/2015,09/2021,55586,DS DS4,DS DS4 1.6 Blue HDi 99 cv,Diesel
-ma-309,DS,fa-2193,DS4,mo-6272, (09/2015 - 09/2021),09/2015,09/2021,49626,DS DS4,DS DS4 1.6 THP 16V S&S 211 cv,Essence
-ma-309,DS,fa-2193,DS4,mo-6272, (09/2015 - 09/2021),09/2015,09/2021,49627,DS DS4,DS DS4 2.0 Blue HDi S&S 150 cv,Diesel
-ma-309,DS,fa-2193,DS4,mo-6272, (09/2015 - 09/2021),09/2015,09/2021,49628,DS DS4,DS DS4 2.0 Blue HDi EAT6 S&S 181 cv Boîte auto,Diesel
-ma-309,DS,fa-2193,DS4,mo-6272, (09/2015 - 09/2021),09/2015,09/2021,49622,DS DS4,DS DS4 1.6 Blue HDi S&S 116 cv,Diesel
-ma-309,DS,fa-2193,DS4,mo-6272, (09/2015 - 09/2021),09/2015,09/2021,49624,DS DS4,DS DS4 1.6 Blue HDi S&S 120 cv,Diesel
-ma-309,DS,fa-2193,DS4,mo-6272, (09/2015 - 09/2021),09/2015,09/2021,49623,DS DS4,DS DS4 1.6 Blue HDi EAT6 S&S 120 cv Boîte auto,Diesel
-ma-309,DS,fa-2193,DS4,mo-6272, (09/2015 - 09/2021),09/2015,09/2021,49629,DS DS4,DS DS4 1.2 THP 12V Puretech S&S 130 cv,Essence
-ma-309,DS,fa-2193,DS4,mo-7414,II (09/2021 - Aujourd'hui),09/2021,,65310,DS DS4,DS DS4 II 1.2 THP 12V EAT8 S&S 131 cv Boîte auto,Essence
-ma-309,DS,fa-2193,DS4,mo-7414,II (09/2021 - Aujourd'hui),09/2021,,65312,DS DS4,DS DS4 II 1.6 THP 16V S&S 180 cv Boîte auto,Essence
-ma-309,DS,fa-2193,DS4,mo-7414,II (09/2021 - Aujourd'hui),09/2021,,65311,DS DS4,DS DS4 II 1.5 Blue HDi EAT8 S&S 130 cv Boîte auto,Diesel
-ma-309,DS,fa-2193,DS4,mo-7414,II (09/2021 - Aujourd'hui),09/2021,,65314,DS DS4,DS DS4 II E-tense 1.6 THP 16V 225 Plug in Hybrid 180 cv,Essence
-ma-309,DS,fa-2193,DS4,mo-7414,II (09/2021 - Aujourd'hui),09/2021,,65313,DS DS4,DS DS4 II 1.6 THP 16V S&S 225 cv Boîte auto,Essence
-ma-309,DS,fa-2193,DS4,mo-6273,Crossback (09/2015 - 09/2021),09/2015,09/2021,49632,DS DS4,DS DS4 Crossback 1.6 Blue HDi EAT6 S&S 120 cv Boîte auto,Diesel
-ma-309,DS,fa-2193,DS4,mo-6273,Crossback (09/2015 - 09/2021),09/2015,09/2021,49636,DS DS4,DS DS4 Crossback 1.2 THP Puretech 12V S&S 130 cv,Essence
-ma-309,DS,fa-2193,DS4,mo-6273,Crossback (09/2015 - 09/2021),09/2015,09/2021,49630,DS DS4,DS DS4 Crossback 1.6 Blue HDi EAT6 S&S 116 cv Boîte auto,Diesel
-ma-309,DS,fa-2193,DS4,mo-6273,Crossback (09/2015 - 09/2021),09/2015,09/2021,49631,DS DS4,DS DS4 Crossback 1.6 Blue HDi S&S 116 cv,Diesel
-ma-309,DS,fa-2193,DS4,mo-6273,Crossback (09/2015 - 09/2021),09/2015,09/2021,49633,DS DS4,DS DS4 Crossback 1.6 Blue HDi S&S 120 cv,Diesel
-ma-309,DS,fa-2193,DS4,mo-6273,Crossback (09/2015 - 09/2021),09/2015,09/2021,49635,DS DS4,DS DS4 Crossback 2.0 Blue HDi EAT6 S&S 181 cv Boîte auto,Diesel
-ma-309,DS,fa-2193,DS4,mo-6273,Crossback (09/2015 - 09/2021),09/2015,09/2021,49634,DS DS4,DS DS4 Crossback 1.6 THP 16V EAT6 S&S 165 cv Boîte auto,Essence
-ma-309,DS,fa-2194,DS5,mo-6274, (05/2015 - 04/2018),05/2015,04/2018,49647,DS DS5,DS DS5 2.0 Blue HDi EAT6 S&S 181 cv Boîte auto,Diesel
-ma-309,DS,fa-2194,DS5,mo-6274, (05/2015 - 04/2018),05/2015,04/2018,49638,DS DS5,DS DS5 1.6 Blue HDi S&S 116 cv,Diesel
-ma-309,DS,fa-2194,DS5,mo-6274, (05/2015 - 04/2018),05/2015,04/2018,49646,DS DS5,DS DS5 2.0 Blue HDi S&S 150 cv,Diesel
-ma-309,DS,fa-2194,DS5,mo-6274, (05/2015 - 04/2018),05/2015,04/2018,49639,DS DS5,DS DS5 1.6 Blue HDi EAT6 S&S 120 cv Boîte auto,Diesel
-ma-309,DS,fa-2194,DS5,mo-6274, (05/2015 - 04/2018),05/2015,04/2018,49637,DS DS5,DS DS5 1.6 Blue HDi EAT6 S&S 116 cv Boîte auto,Diesel
-ma-309,DS,fa-2194,DS5,mo-6274, (05/2015 - 04/2018),05/2015,04/2018,58072,DS DS5,DS DS5 2.0 Blue HDi EAT6 163 cv Boîte auto,Diesel
-ma-309,DS,fa-2194,DS5,mo-6274, (05/2015 - 04/2018),05/2015,04/2018,49640,DS DS5,DS DS5 1.6 Blue HDi S&S 120 cv,Diesel
-ma-309,DS,fa-2194,DS5,mo-6274, (05/2015 - 04/2018),05/2015,04/2018,49648,DS DS5,DS DS5 2.0 Blue HDi 200 Hybrid4 4X4 ETG6 S&S 163 cv Boîte auto,Diesel
-ma-309,DS,fa-2194,DS5,mo-6274, (05/2015 - 04/2018),05/2015,04/2018,49644,DS DS5,DS DS5 2.0 Blue HDi S&S 136 cv,Diesel
-ma-309,DS,fa-2194,DS5,mo-6274, (05/2015 - 04/2018),05/2015,04/2018,49641,DS DS5,DS DS5 1.6 THP 16V EAT6 S&S 165 cv Boîte auto,Essence
-ma-309,DS,fa-2194,DS5,mo-6274, (05/2015 - 04/2018),05/2015,04/2018,58073,DS DS5,DS DS5 2.0 Blue HDi 163 cv,Diesel
-ma-309,DS,fa-2194,DS5,mo-6274, (05/2015 - 04/2018),05/2015,04/2018,49643,DS DS5,DS DS5 1.6 THP 16V S&S 211 cv,Essence
-ma-309,DS,fa-2341,DS9,mo-7280, (02/2021 - Aujourd'hui),02/2021,,66690,DS DS9,DS DS9 E-tense 1.6 THP 16V 360 Plug in Hybrid 4X4 200 cv Boîte auto,Essence
-ma-309,DS,fa-2341,DS9,mo-7280, (02/2021 - Aujourd'hui),02/2021,,66691,DS DS9,DS DS9 E-tense 1.6 THP 16V 250 Plug in Hybrid 200 cv Boîte auto,Essence
-ma-309,DS,fa-2341,DS9,mo-7280, (02/2021 - Aujourd'hui),02/2021,,62109,DS DS9,DS DS9 1.6 THP 16V S&S 225 cv Boîte auto,Essence
-ma-309,DS,fa-2341,DS9,mo-7280, (02/2021 - Aujourd'hui),02/2021,,65308,DS DS9,DS DS9 E-tense 1.6 THP 16V 225 Plug in Hybrid 181 cv Boîte auto,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-309","DS","fa-2195","DS3","mo-6275"," (01/2016 - 07/2019)","01/2016","07/2019","49604","DS DS3","DS DS3 1.6 Blue HDi S&S 120 cv","Diesel"
+"ma-309","DS","fa-2195","DS3","mo-6275"," (01/2016 - 07/2019)","01/2016","07/2019","49603","DS DS3","DS DS3 1.6 Blue HDi S&S 116 cv","Diesel"
+"ma-309","DS","fa-2195","DS3","mo-6275"," (01/2016 - 07/2019)","01/2016","07/2019","49607","DS DS3","DS DS3 1.6 THP 16V S&S 165 cv","Essence"
+"ma-309","DS","fa-2195","DS3","mo-6275"," (01/2016 - 07/2019)","01/2016","07/2019","49605","DS DS3","DS DS3 1.6 Blue HDi 75 cv","Diesel"
+"ma-309","DS","fa-2195","DS3","mo-6275"," (01/2016 - 07/2019)","01/2016","07/2019","49611","DS DS3","DS DS3 1.2 VTi Puretech 12V S&S 82 cv","Essence"
+"ma-309","DS","fa-2195","DS3","mo-6275"," (01/2016 - 07/2019)","01/2016","07/2019","49609","DS DS3","DS DS3 1.2 THP Puretech 12V S&S 110 cv","Essence"
+"ma-309","DS","fa-2195","DS3","mo-6275"," (01/2016 - 07/2019)","01/2016","07/2019","49610","DS DS3","DS DS3 1.2 THP Puretech 12V S&S 130 cv","Essence"
+"ma-309","DS","fa-2195","DS3","mo-6275"," (01/2016 - 07/2019)","01/2016","07/2019","49608","DS DS3","DS DS3 1.2 THP Puretech 12V EAT6 S&S 110 cv Boîte auto","Essence"
+"ma-309","DS","fa-2195","DS3","mo-6275"," (01/2016 - 07/2019)","01/2016","07/2019","50516","DS DS3","DS DS3 1.6 THP 16V S&S 208 cv","Essence"
+"ma-309","DS","fa-2195","DS3","mo-6275"," (01/2016 - 07/2019)","01/2016","07/2019","49602","DS DS3","DS DS3 1.6 Blue HDi S&S 99 cv","Diesel"
+"ma-309","DS","fa-2195","DS3","mo-6275"," (01/2016 - 07/2019)","01/2016","07/2019","49606","DS DS3","DS DS3 1.6 THP 16V S&S 150 cv","Essence"
+"ma-309","DS","fa-2195","DS3","mo-6868","Crossback (03/2019 - Aujourd'hui)","03/2019","","60162","DS DS3","DS DS3 Crossback E-tense 136 cv Boîte auto","Electrique"
+"ma-309","DS","fa-2195","DS3","mo-6868","Crossback (03/2019 - Aujourd'hui)","03/2019","","59836","DS DS3","DS DS3 Crossback 1.2 THP Puretech 12V EAT8 S&S 155 cv Boîte auto","Essence"
+"ma-309","DS","fa-2195","DS3","mo-6868","Crossback (03/2019 - Aujourd'hui)","03/2019","","69821","DS DS3","DS DS3 Crossback E-tense 156 cv Boîte auto","Electrique"
+"ma-309","DS","fa-2195","DS3","mo-6868","Crossback (03/2019 - Aujourd'hui)","03/2019","","62836","DS DS3","DS DS3 Crossback 1.5 Blue HDi S&S 110 cv","Diesel"
+"ma-309","DS","fa-2195","DS3","mo-6868","Crossback (03/2019 - Aujourd'hui)","03/2019","","59835","DS DS3","DS DS3 Crossback 1.2 THP Puretech 12V EAT8 S&S 131 cv Boîte auto","Essence"
+"ma-309","DS","fa-2195","DS3","mo-6868","Crossback (03/2019 - Aujourd'hui)","03/2019","","59834","DS DS3","DS DS3 Crossback 1.2 THP Puretech 12V S&S 101 cv","Essence"
+"ma-309","DS","fa-2195","DS3","mo-6868","Crossback (03/2019 - Aujourd'hui)","03/2019","","59837","DS DS3","DS DS3 Crossback 1.5 Blue HDi S&S 102 cv","Diesel"
+"ma-309","DS","fa-2195","DS3","mo-6868","Crossback (03/2019 - Aujourd'hui)","03/2019","","60163","DS DS3","DS DS3 Crossback 1.5 Blue HDi EAT8 S&S 130 cv Boîte auto","Diesel"
+"ma-309","DS","fa-2195","DS3","mo-6276","Cabriolet (01/2016 - 07/2019)","01/2016","07/2019","49620","DS DS3","DS DS3 Cabriolet 1.2 VTi Puretech 12V S&S 82 cv","Essence"
+"ma-309","DS","fa-2195","DS3","mo-6276","Cabriolet (01/2016 - 07/2019)","01/2016","07/2019","49612","DS DS3","DS DS3 Cabriolet 1.6 Blue HDi S&S 99 cv","Diesel"
+"ma-309","DS","fa-2195","DS3","mo-6276","Cabriolet (01/2016 - 07/2019)","01/2016","07/2019","49613","DS DS3","DS DS3 Cabriolet 1.6 Blue HDi S&S 116 cv","Diesel"
+"ma-309","DS","fa-2195","DS3","mo-6276","Cabriolet (01/2016 - 07/2019)","01/2016","07/2019","49619","DS DS3","DS DS3 Cabriolet 1.2 THP Puretech 12V S&S 130 cv","Essence"
+"ma-309","DS","fa-2195","DS3","mo-6276","Cabriolet (01/2016 - 07/2019)","01/2016","07/2019","49617","DS DS3","DS DS3 Cabriolet 1.2 THP Puretech 12V EAT6 S&S 110 cv Boîte auto","Essence"
+"ma-309","DS","fa-2195","DS3","mo-6276","Cabriolet (01/2016 - 07/2019)","01/2016","07/2019","49616","DS DS3","DS DS3 Cabriolet 1.6 THP 16V S&S 165 cv","Essence"
+"ma-309","DS","fa-2195","DS3","mo-6276","Cabriolet (01/2016 - 07/2019)","01/2016","07/2019","50517","DS DS3","DS DS3 Cabriolet 1.6 THP 16V S&S 208 cv","Essence"
+"ma-309","DS","fa-2195","DS3","mo-6276","Cabriolet (01/2016 - 07/2019)","01/2016","07/2019","49615","DS DS3","DS DS3 Cabriolet 1.6 THP 16V S&S 150 cv","Essence"
+"ma-309","DS","fa-2195","DS3","mo-6276","Cabriolet (01/2016 - 07/2019)","01/2016","07/2019","49614","DS DS3","DS DS3 Cabriolet 1.6 Blue HDi S&S 120 cv","Diesel"
+"ma-309","DS","fa-2195","DS3","mo-6276","Cabriolet (01/2016 - 07/2019)","01/2016","07/2019","49618","DS DS3","DS DS3 Cabriolet 1.2 THP Puretech 12V S&S 110 cv","Essence"
+"ma-309","DS","fa-2252","DS7","mo-6707","Crossback (11/2017 - 09/2022)","11/2017","09/2022","58070","DS DS7","DS DS7 Crossback 1.6 THP 16V S&S 225 cv Boîte auto","Essence"
+"ma-309","DS","fa-2252","DS7","mo-6707","Crossback (11/2017 - 09/2022)","11/2017","09/2022","61486","DS DS7","DS DS7 Crossback E-tense 1.6 THP 16V 225 Plug in Hybrid 181 cv Boîte auto","Essence"
+"ma-309","DS","fa-2252","DS7","mo-6707","Crossback (11/2017 - 09/2022)","11/2017","09/2022","60930","DS DS7","DS DS7 Crossback E-tense 1.6 THP 16V 300 Plug in Hybrid 4X4 200 cv Boîte auto","Essence"
+"ma-309","DS","fa-2252","DS7","mo-6707","Crossback (11/2017 - 09/2022)","11/2017","09/2022","59294","DS DS7","DS DS7 Crossback 1.2 THP Puretech 12V S&S 131 cv","Essence"
+"ma-309","DS","fa-2252","DS7","mo-6707","Crossback (11/2017 - 09/2022)","11/2017","09/2022","58068","DS DS7","DS DS7 Crossback 1.5 Blue HDi S&S 130 cv","Diesel"
+"ma-309","DS","fa-2252","DS7","mo-6707","Crossback (11/2017 - 09/2022)","11/2017","09/2022","58069","DS DS7","DS DS7 Crossback 1.6 THP 16V S&S 180 cv Boîte auto","Essence"
+"ma-309","DS","fa-2252","DS7","mo-6707","Crossback (11/2017 - 09/2022)","11/2017","09/2022","58071","DS DS7","DS DS7 Crossback 2.0 Blue HDi S&S 177 cv Boîte auto","Diesel"
+"ma-309","DS","fa-2252","DS7","mo-6707","Crossback (11/2017 - 09/2022)","11/2017","09/2022","59577","DS DS7","DS DS7 Crossback 1.5 Blue HDi EAT8 S&S 130 cv Boîte auto","Diesel"
+"ma-309","DS","fa-2252","DS7","mo-6707","Crossback (11/2017 - 09/2022)","11/2017","09/2022","62108","DS DS7","DS DS7 Crossback 1.2 THP Puretech 12V EAT8 S&S 131 cv Boîte auto","Essence"
+"ma-309","DS","fa-2252","DS7","mo-7660"," (09/2022 - Aujourd'hui)","09/2022","","68377","DS DS7","DS DS7 E-tense 1.6 THP 16V 300 Plug in Hybrid 4X4 S&S 200 cv Boîte auto","Essence"
+"ma-309","DS","fa-2252","DS7","mo-7660"," (09/2022 - Aujourd'hui)","09/2022","","68375","DS DS7","DS DS7 1.5 Blue HDi 16V EAT8 S&S 130 cv Boîte auto","Diesel"
+"ma-309","DS","fa-2252","DS7","mo-7660"," (09/2022 - Aujourd'hui)","09/2022","","68376","DS DS7","DS DS7 E-tense 1.6 THP 16V 360 Plug in Hybrid 4X4 S&S 200 cv Boîte auto","Essence"
+"ma-309","DS","fa-2252","DS7","mo-7660"," (09/2022 - Aujourd'hui)","09/2022","","68378","DS DS7","DS DS7 E-tense 1.6 THP 16V 225 Plug in Hybrid S&S 181 cv Boîte auto","Essence"
+"ma-309","DS","fa-2193","DS4","mo-6272"," (09/2015 - 09/2021)","09/2015","09/2021","49625","DS DS4","DS DS4 1.6 THP 16V EAT6 S&S 165 cv Boîte auto","Essence"
+"ma-309","DS","fa-2193","DS4","mo-6272"," (09/2015 - 09/2021)","09/2015","09/2021","49621","DS DS4","DS DS4 1.6 Blue HDi EAT6 S&S 116 cv Boîte auto","Diesel"
+"ma-309","DS","fa-2193","DS4","mo-6272"," (09/2015 - 09/2021)","09/2015","09/2021","55586","DS DS4","DS DS4 1.6 Blue HDi 99 cv","Diesel"
+"ma-309","DS","fa-2193","DS4","mo-6272"," (09/2015 - 09/2021)","09/2015","09/2021","49626","DS DS4","DS DS4 1.6 THP 16V S&S 211 cv","Essence"
+"ma-309","DS","fa-2193","DS4","mo-6272"," (09/2015 - 09/2021)","09/2015","09/2021","49627","DS DS4","DS DS4 2.0 Blue HDi S&S 150 cv","Diesel"
+"ma-309","DS","fa-2193","DS4","mo-6272"," (09/2015 - 09/2021)","09/2015","09/2021","49628","DS DS4","DS DS4 2.0 Blue HDi EAT6 S&S 181 cv Boîte auto","Diesel"
+"ma-309","DS","fa-2193","DS4","mo-6272"," (09/2015 - 09/2021)","09/2015","09/2021","49622","DS DS4","DS DS4 1.6 Blue HDi S&S 116 cv","Diesel"
+"ma-309","DS","fa-2193","DS4","mo-6272"," (09/2015 - 09/2021)","09/2015","09/2021","49624","DS DS4","DS DS4 1.6 Blue HDi S&S 120 cv","Diesel"
+"ma-309","DS","fa-2193","DS4","mo-6272"," (09/2015 - 09/2021)","09/2015","09/2021","49623","DS DS4","DS DS4 1.6 Blue HDi EAT6 S&S 120 cv Boîte auto","Diesel"
+"ma-309","DS","fa-2193","DS4","mo-6272"," (09/2015 - 09/2021)","09/2015","09/2021","49629","DS DS4","DS DS4 1.2 THP 12V Puretech S&S 130 cv","Essence"
+"ma-309","DS","fa-2193","DS4","mo-7414","II (09/2021 - Aujourd'hui)","09/2021","","65310","DS DS4","DS DS4 II 1.2 THP 12V EAT8 S&S 131 cv Boîte auto","Essence"
+"ma-309","DS","fa-2193","DS4","mo-7414","II (09/2021 - Aujourd'hui)","09/2021","","65312","DS DS4","DS DS4 II 1.6 THP 16V S&S 180 cv Boîte auto","Essence"
+"ma-309","DS","fa-2193","DS4","mo-7414","II (09/2021 - Aujourd'hui)","09/2021","","65311","DS DS4","DS DS4 II 1.5 Blue HDi EAT8 S&S 130 cv Boîte auto","Diesel"
+"ma-309","DS","fa-2193","DS4","mo-7414","II (09/2021 - Aujourd'hui)","09/2021","","65314","DS DS4","DS DS4 II E-tense 1.6 THP 16V 225 Plug in Hybrid 180 cv","Essence"
+"ma-309","DS","fa-2193","DS4","mo-7414","II (09/2021 - Aujourd'hui)","09/2021","","65313","DS DS4","DS DS4 II 1.6 THP 16V S&S 225 cv Boîte auto","Essence"
+"ma-309","DS","fa-2193","DS4","mo-6273","Crossback (09/2015 - 09/2021)","09/2015","09/2021","49632","DS DS4","DS DS4 Crossback 1.6 Blue HDi EAT6 S&S 120 cv Boîte auto","Diesel"
+"ma-309","DS","fa-2193","DS4","mo-6273","Crossback (09/2015 - 09/2021)","09/2015","09/2021","49636","DS DS4","DS DS4 Crossback 1.2 THP Puretech 12V S&S 130 cv","Essence"
+"ma-309","DS","fa-2193","DS4","mo-6273","Crossback (09/2015 - 09/2021)","09/2015","09/2021","49630","DS DS4","DS DS4 Crossback 1.6 Blue HDi EAT6 S&S 116 cv Boîte auto","Diesel"
+"ma-309","DS","fa-2193","DS4","mo-6273","Crossback (09/2015 - 09/2021)","09/2015","09/2021","49631","DS DS4","DS DS4 Crossback 1.6 Blue HDi S&S 116 cv","Diesel"
+"ma-309","DS","fa-2193","DS4","mo-6273","Crossback (09/2015 - 09/2021)","09/2015","09/2021","49633","DS DS4","DS DS4 Crossback 1.6 Blue HDi S&S 120 cv","Diesel"
+"ma-309","DS","fa-2193","DS4","mo-6273","Crossback (09/2015 - 09/2021)","09/2015","09/2021","49635","DS DS4","DS DS4 Crossback 2.0 Blue HDi EAT6 S&S 181 cv Boîte auto","Diesel"
+"ma-309","DS","fa-2193","DS4","mo-6273","Crossback (09/2015 - 09/2021)","09/2015","09/2021","49634","DS DS4","DS DS4 Crossback 1.6 THP 16V EAT6 S&S 165 cv Boîte auto","Essence"
+"ma-309","DS","fa-2194","DS5","mo-6274"," (05/2015 - 04/2018)","05/2015","04/2018","49647","DS DS5","DS DS5 2.0 Blue HDi EAT6 S&S 181 cv Boîte auto","Diesel"
+"ma-309","DS","fa-2194","DS5","mo-6274"," (05/2015 - 04/2018)","05/2015","04/2018","49638","DS DS5","DS DS5 1.6 Blue HDi S&S 116 cv","Diesel"
+"ma-309","DS","fa-2194","DS5","mo-6274"," (05/2015 - 04/2018)","05/2015","04/2018","49646","DS DS5","DS DS5 2.0 Blue HDi S&S 150 cv","Diesel"
+"ma-309","DS","fa-2194","DS5","mo-6274"," (05/2015 - 04/2018)","05/2015","04/2018","49639","DS DS5","DS DS5 1.6 Blue HDi EAT6 S&S 120 cv Boîte auto","Diesel"
+"ma-309","DS","fa-2194","DS5","mo-6274"," (05/2015 - 04/2018)","05/2015","04/2018","49637","DS DS5","DS DS5 1.6 Blue HDi EAT6 S&S 116 cv Boîte auto","Diesel"
+"ma-309","DS","fa-2194","DS5","mo-6274"," (05/2015 - 04/2018)","05/2015","04/2018","58072","DS DS5","DS DS5 2.0 Blue HDi EAT6 163 cv Boîte auto","Diesel"
+"ma-309","DS","fa-2194","DS5","mo-6274"," (05/2015 - 04/2018)","05/2015","04/2018","49640","DS DS5","DS DS5 1.6 Blue HDi S&S 120 cv","Diesel"
+"ma-309","DS","fa-2194","DS5","mo-6274"," (05/2015 - 04/2018)","05/2015","04/2018","49648","DS DS5","DS DS5 2.0 Blue HDi 200 Hybrid4 4X4 ETG6 S&S 163 cv Boîte auto","Diesel"
+"ma-309","DS","fa-2194","DS5","mo-6274"," (05/2015 - 04/2018)","05/2015","04/2018","49644","DS DS5","DS DS5 2.0 Blue HDi S&S 136 cv","Diesel"
+"ma-309","DS","fa-2194","DS5","mo-6274"," (05/2015 - 04/2018)","05/2015","04/2018","49641","DS DS5","DS DS5 1.6 THP 16V EAT6 S&S 165 cv Boîte auto","Essence"
+"ma-309","DS","fa-2194","DS5","mo-6274"," (05/2015 - 04/2018)","05/2015","04/2018","58073","DS DS5","DS DS5 2.0 Blue HDi 163 cv","Diesel"
+"ma-309","DS","fa-2194","DS5","mo-6274"," (05/2015 - 04/2018)","05/2015","04/2018","49643","DS DS5","DS DS5 1.6 THP 16V S&S 211 cv","Essence"
+"ma-309","DS","fa-2341","DS9","mo-7280"," (02/2021 - Aujourd'hui)","02/2021","","66690","DS DS9","DS DS9 E-tense 1.6 THP 16V 360 Plug in Hybrid 4X4 200 cv Boîte auto","Essence"
+"ma-309","DS","fa-2341","DS9","mo-7280"," (02/2021 - Aujourd'hui)","02/2021","","66691","DS DS9","DS DS9 E-tense 1.6 THP 16V 250 Plug in Hybrid 200 cv Boîte auto","Essence"
+"ma-309","DS","fa-2341","DS9","mo-7280"," (02/2021 - Aujourd'hui)","02/2021","","62109","DS DS9","DS DS9 1.6 THP 16V S&S 225 cv Boîte auto","Essence"
+"ma-309","DS","fa-2341","DS9","mo-7280"," (02/2021 - Aujourd'hui)","02/2021","","65308","DS DS9","DS DS9 E-tense 1.6 THP 16V 225 Plug in Hybrid 181 cv Boîte auto","Essence"

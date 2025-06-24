@@ -1,14 +1,14 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-293,RELIANT,fa-1859,Rialto,mo-3539, (01/1981 - 12/1998),01/1981,12/1998,69929,RELIANT Rialto,RELIANT Rialto 0.8 40 cv,Essence
-ma-293,RELIANT,fa-1858,Rebel,mo-3538, (01/1968 - 12/1973),01/1968,12/1973,69927,RELIANT Rebel,RELIANT Rebel 0.7 Break 31 cv,Essence
-ma-293,RELIANT,fa-1858,Rebel,mo-3538, (01/1968 - 12/1973),01/1968,12/1973,69928,RELIANT Rebel,RELIANT Rebel 0.7 Break 32 cv,Essence
-ma-293,RELIANT,fa-1861,Scimitar,mo-3541, (01/1968 - 12/1992),01/1968,12/1992,69935,RELIANT Scimitar,RELIANT Scimitar GTE 2.8 V6 Coupé 135 cv,Essence
-ma-293,RELIANT,fa-1861,Scimitar,mo-3541, (01/1968 - 12/1992),01/1968,12/1992,69936,RELIANT Scimitar,RELIANT Scimitar GTE 3.0 V6 Coupé 138 cv,Essence
-ma-293,RELIANT,fa-1861,Scimitar,mo-3541, (01/1968 - 12/1992),01/1968,12/1992,29167,RELIANT Scimitar,RELIANT Scimitar SS1 1.6 Coupé 96 cv,Essence
-ma-293,RELIANT,fa-1861,Scimitar,mo-3541, (01/1968 - 12/1992),01/1968,12/1992,29169,RELIANT Scimitar,RELIANT Scimitar GTC 2.8 V6 Cabriolet 135 cv,Essence
-ma-293,RELIANT,fa-1861,Scimitar,mo-3541, (01/1968 - 12/1992),01/1968,12/1992,29168,RELIANT Scimitar,RELIANT Scimitar SS1 1.8 Coupé 135 cv,Essence
-ma-293,RELIANT,fa-1861,Scimitar,mo-3541, (01/1968 - 12/1992),01/1968,12/1992,29165,RELIANT Scimitar,RELIANT Scimitar SS1 1.3 Coupé 69 cv,Essence
-ma-293,RELIANT,fa-1861,Scimitar,mo-3541, (01/1968 - 12/1992),01/1968,12/1992,29166,RELIANT Scimitar,RELIANT Scimitar SS1 1.4 Coupé 74 cv,Essence
-ma-293,RELIANT,fa-1860,Robin,mo-3540, (01/1973 - 12/1982),01/1973,12/1982,69933,RELIANT Robin,RELIANT Robin 0.8 40 cv,Essence
-ma-293,RELIANT,fa-1857,Kitten,mo-3537, (10/1975 - 12/1983),10/1975,12/1983,69925,RELIANT Kitten,RELIANT Kitten 0.8 40 cv,Essence
-ma-293,RELIANT,fa-1857,Kitten,mo-3537, (10/1975 - 12/1983),10/1975,12/1983,69926,RELIANT Kitten,RELIANT Kitten 0.8 Fourgon 40 cv,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-293","RELIANT","fa-1859","Rialto","mo-3539"," (01/1981 - 12/1998)","01/1981","12/1998","69929","RELIANT Rialto","RELIANT Rialto 0.8 40 cv","Essence"
+"ma-293","RELIANT","fa-1858","Rebel","mo-3538"," (01/1968 - 12/1973)","01/1968","12/1973","69927","RELIANT Rebel","RELIANT Rebel 0.7 Break 31 cv","Essence"
+"ma-293","RELIANT","fa-1858","Rebel","mo-3538"," (01/1968 - 12/1973)","01/1968","12/1973","69928","RELIANT Rebel","RELIANT Rebel 0.7 Break 32 cv","Essence"
+"ma-293","RELIANT","fa-1861","Scimitar","mo-3541"," (01/1968 - 12/1992)","01/1968","12/1992","69935","RELIANT Scimitar","RELIANT Scimitar GTE 2.8 V6 Coupé 135 cv","Essence"
+"ma-293","RELIANT","fa-1861","Scimitar","mo-3541"," (01/1968 - 12/1992)","01/1968","12/1992","69936","RELIANT Scimitar","RELIANT Scimitar GTE 3.0 V6 Coupé 138 cv","Essence"
+"ma-293","RELIANT","fa-1861","Scimitar","mo-3541"," (01/1968 - 12/1992)","01/1968","12/1992","29167","RELIANT Scimitar","RELIANT Scimitar SS1 1.6 Coupé 96 cv","Essence"
+"ma-293","RELIANT","fa-1861","Scimitar","mo-3541"," (01/1968 - 12/1992)","01/1968","12/1992","29169","RELIANT Scimitar","RELIANT Scimitar GTC 2.8 V6 Cabriolet 135 cv","Essence"
+"ma-293","RELIANT","fa-1861","Scimitar","mo-3541"," (01/1968 - 12/1992)","01/1968","12/1992","29168","RELIANT Scimitar","RELIANT Scimitar SS1 1.8 Coupé 135 cv","Essence"
+"ma-293","RELIANT","fa-1861","Scimitar","mo-3541"," (01/1968 - 12/1992)","01/1968","12/1992","29165","RELIANT Scimitar","RELIANT Scimitar SS1 1.3 Coupé 69 cv","Essence"
+"ma-293","RELIANT","fa-1861","Scimitar","mo-3541"," (01/1968 - 12/1992)","01/1968","12/1992","29166","RELIANT Scimitar","RELIANT Scimitar SS1 1.4 Coupé 74 cv","Essence"
+"ma-293","RELIANT","fa-1860","Robin","mo-3540"," (01/1973 - 12/1982)","01/1973","12/1982","69933","RELIANT Robin","RELIANT Robin 0.8 40 cv","Essence"
+"ma-293","RELIANT","fa-1857","Kitten","mo-3537"," (10/1975 - 12/1983)","10/1975","12/1983","69925","RELIANT Kitten","RELIANT Kitten 0.8 40 cv","Essence"
+"ma-293","RELIANT","fa-1857","Kitten","mo-3537"," (10/1975 - 12/1983)","10/1975","12/1983","69926","RELIANT Kitten","RELIANT Kitten 0.8 Fourgon 40 cv","Essence"

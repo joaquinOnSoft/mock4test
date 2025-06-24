@@ -1,7 +1,7 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-255,MAYBACH,fa-441,Maybach,mo-1343, (09/2002 - 12/2012),09/2002,12/2012,33307,MAYBACH Maybach,MAYBACH Maybach 62 S L 6.0 i V12 36V Biturbo 612 cv Caixa Automática,Essence
-ma-255,MAYBACH,fa-441,Maybach,mo-1343, (09/2002 - 12/2012),09/2002,12/2012,20743,MAYBACH Maybach,MAYBACH Maybach 57 S 6.0 i V12 36V Biturbo 612 cv Caixa Automática,Essence
-ma-255,MAYBACH,fa-441,Maybach,mo-1343, (09/2002 - 12/2012),09/2002,12/2012,56456,MAYBACH Maybach,MAYBACH Maybach 57 S 6.0 i V12 36V Biturbo 630 cv Caixa Automática,Essence
-ma-255,MAYBACH,fa-441,Maybach,mo-1343, (09/2002 - 12/2012),09/2002,12/2012,4779,MAYBACH Maybach,MAYBACH Maybach 57 5.5 i V12 36V Biturbo 550 cv Caixa Automática,Essence
-ma-255,MAYBACH,fa-441,Maybach,mo-1343, (09/2002 - 12/2012),09/2002,12/2012,20742,MAYBACH Maybach,MAYBACH Maybach 62 L 5.5 i V12 36V Biturbo 550 cv Caixa Automática,Essence
-ma-255,MAYBACH,fa-441,Maybach,mo-1343, (09/2002 - 12/2012),09/2002,12/2012,56457,MAYBACH Maybach,MAYBACH Maybach 62 S L 6.0 i V12 36V Biturbo 630 cv Caixa Automática,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-255","MAYBACH","fa-441","Maybach","mo-1343"," (09/2002 - 12/2012)","09/2002","12/2012","33307","MAYBACH Maybach","MAYBACH Maybach 62 S L 6.0 i V12 36V Biturbo 612 cv Caixa Automática","Essence"
+"ma-255","MAYBACH","fa-441","Maybach","mo-1343"," (09/2002 - 12/2012)","09/2002","12/2012","20743","MAYBACH Maybach","MAYBACH Maybach 57 S 6.0 i V12 36V Biturbo 612 cv Caixa Automática","Essence"
+"ma-255","MAYBACH","fa-441","Maybach","mo-1343"," (09/2002 - 12/2012)","09/2002","12/2012","56456","MAYBACH Maybach","MAYBACH Maybach 57 S 6.0 i V12 36V Biturbo 630 cv Caixa Automática","Essence"
+"ma-255","MAYBACH","fa-441","Maybach","mo-1343"," (09/2002 - 12/2012)","09/2002","12/2012","4779","MAYBACH Maybach","MAYBACH Maybach 57 5.5 i V12 36V Biturbo 550 cv Caixa Automática","Essence"
+"ma-255","MAYBACH","fa-441","Maybach","mo-1343"," (09/2002 - 12/2012)","09/2002","12/2012","20742","MAYBACH Maybach","MAYBACH Maybach 62 L 5.5 i V12 36V Biturbo 550 cv Caixa Automática","Essence"
+"ma-255","MAYBACH","fa-441","Maybach","mo-1343"," (09/2002 - 12/2012)","09/2002","12/2012","56457","MAYBACH Maybach","MAYBACH Maybach 62 S L 6.0 i V12 36V Biturbo 630 cv Caixa Automática","Essence"

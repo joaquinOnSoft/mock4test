@@ -1,35 +1,35 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-280,BENTLEY,fa-1703,Continental,mo-3275,Berlina (03/2005 - 12/2013),03/2005,12/2013,69440,BENTLEY Continental,BENTLEY Continental Berlina Speed 6.0 610 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-1703,Continental,mo-3275,Berlina (03/2005 - 12/2013),03/2005,12/2013,27731,BENTLEY Continental,BENTLEY Continental Berlina 6.0 4WD Berlina 560 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-1703,Continental,mo-6786,Coupe (3W_) (06/2003 - Hoy),06/2003,,68948,BENTLEY Continental,BENTLEY Continental Coupe (3W_) GT 6.0 V12 FLEX 575 cv Transmisión automática,Flex Fuel
-ma-280,BENTLEY,fa-1703,Continental,mo-6786,Coupe (3W_) (06/2003 - Hoy),06/2003,,59046,BENTLEY Continental,BENTLEY Continental Coupe (3W_) 6.0 560 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-1703,Continental,mo-3276,Coupe (07/1984 - 03/2004),07/1984,03/2004,69432,BENTLEY Continental,BENTLEY Continental Coupe T Mulliner 6.8 i V8 426 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-1703,Continental,mo-3276,Coupe (07/1984 - 03/2004),07/1984,03/2004,69100,BENTLEY Continental,BENTLEY Continental Coupe Turbo R 6.8 16V 320 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-1703,Continental,mo-3276,Coupe (07/1984 - 03/2004),07/1984,03/2004,69431,BENTLEY Continental,BENTLEY Continental Coupe R 6.8 i V8 408 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-1703,Continental,mo-3276,Coupe (07/1984 - 03/2004),07/1984,03/2004,69103,BENTLEY Continental,BENTLEY Continental Coupe R 6.8 i 16V 360 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-1703,Continental,mo-3276,Coupe (07/1984 - 03/2004),07/1984,03/2004,69101,BENTLEY Continental,BENTLEY Continental Coupe S 6.8 i 16V 389 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-2218,Bentayga,mo-6517, (11/2015 - Hoy),11/2015,,69112,BENTLEY Bentayga,BENTLEY Bentayga 4.0 TDI V8 32V 4WD 421 cv Transmisión automática,Diesel
-ma-280,BENTLEY,fa-2218,Bentayga,mo-6517, (11/2015 - Hoy),11/2015,,56266,BENTLEY Bentayga,BENTLEY Bentayga 4.0 TDI V8 4WD 32V 435 cv Transmisión automática,Diesel
-ma-280,BENTLEY,fa-2218,Bentayga,mo-6517, (11/2015 - Hoy),11/2015,,56268,BENTLEY Bentayga,BENTLEY Bentayga 6.0 TSI ACT W12 4WD 48V 608 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-1708,Turbo R,mo-3281, (01/1986 - 12/1998),01/1986,12/1998,35000,BENTLEY Turbo R,BENTLEY Turbo R 6.8 V8 320 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-2426,Arrnage,mo-7733,Arnage (RBS_) (03/1998 - 12/2013),03/1998,12/2013,69430,BENTLEY Arrnage,BENTLEY Arrnage Arnage (RBS_) T 6.8 V8 507 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-2426,Arrnage,mo-7733,Arnage (RBS_) (03/1998 - 12/2013),03/1998,12/2013,69427,BENTLEY Arrnage,BENTLEY Arrnage Arnage (RBS_) 6.7 V8 405 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-2426,Arrnage,mo-7733,Arnage (RBS_) (03/1998 - 12/2013),03/1998,12/2013,69428,BENTLEY Arrnage,BENTLEY Arrnage Arnage (RBS_) T 6.7 V8 457 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-2426,Arrnage,mo-7733,Arnage (RBS_) (03/1998 - 12/2013),03/1998,12/2013,69426,BENTLEY Arrnage,BENTLEY Arrnage Arnage (RBS_) 4.4 V8 354 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-2426,Arrnage,mo-7733,Arnage (RBS_) (03/1998 - 12/2013),03/1998,12/2013,69429,BENTLEY Arrnage,BENTLEY Arrnage Arnage (RBS_) T 6.8 V8 457 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-1705,Eight,mo-3278, (10/1984 - 09/1992),10/1984,09/1992,69106,BENTLEY Eight,BENTLEY Eight 6.8 16V 215 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-1705,Eight,mo-3278, (10/1984 - 09/1992),10/1984,09/1992,69108,BENTLEY Eight,BENTLEY Eight 6.8 i 16V 226 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-1705,Eight,mo-3278, (10/1984 - 09/1992),10/1984,09/1992,69107,BENTLEY Eight,BENTLEY Eight 6.8 i 16V 245 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-1704,Corniche,mo-3277, (03/1971 - 06/1984),03/1971,06/1984,69104,BENTLEY Corniche,BENTLEY Corniche 6.8 16V 212 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-2428,Brooklands,mo-7736, (07/1992 - 09/1997),07/1992,09/1997,69438,BENTLEY Brooklands,BENTLEY Brooklands R 6.7 305 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-2428,Brooklands,mo-7737,coupe (RBS_) (03/2008 - Hoy),03/2008,,69439,BENTLEY Brooklands,BENTLEY Brooklands coupe (RBS_) 6.8 537 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-1706,Mulsanne,mo-3279, (10/1980 - 09/1992),10/1980,09/1992,51866,BENTLEY Mulsanne,BENTLEY Mulsanne 6.8 Turbo berlina 333 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-1706,Mulsanne,mo-3279, (10/1980 - 09/1992),10/1980,09/1992,69110,BENTLEY Mulsanne,BENTLEY Mulsanne 6.8 i 16V 245 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-1706,Mulsanne,mo-3279, (10/1980 - 09/1992),10/1980,09/1992,69109,BENTLEY Mulsanne,BENTLEY Mulsanne 6.8 16V 218 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-1706,Mulsanne,mo-3279, (10/1980 - 09/1992),10/1980,09/1992,69111,BENTLEY Mulsanne,BENTLEY Mulsanne 6.8 i 16V 226 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-1707,T,mo-3280, (02/1977 - 11/1980),02/1977,11/1980,69113,BENTLEY T,BENTLEY T 6.8 16V 250 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-2427,Azure,mo-7734, (09/1995 - 06/2006),09/1995,06/2006,69434,BENTLEY Azure,BENTLEY Azure Mulliner 6.75 V8 426 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-2427,Azure,mo-7734, (09/1995 - 06/2006),09/1995,06/2006,69435,BENTLEY Azure,BENTLEY Azure 6.75 V8 408 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-2427,Azure,mo-7734, (09/1995 - 06/2006),09/1995,06/2006,69433,BENTLEY Azure,BENTLEY Azure 6.75 V8 389 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-2427,Azure,mo-7735,II (RBS_) (06/2006 - Hoy),06/2006,,69436,BENTLEY Azure,BENTLEY Azure II (RBS_) 6.8 507 cv Transmisión automática,Gasolina
-ma-280,BENTLEY,fa-2427,Azure,mo-7735,II (RBS_) (06/2006 - Hoy),06/2006,,69437,BENTLEY Azure,BENTLEY Azure II (RBS_) 6.8 456 cv Transmisión automática,Gasolina
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-280","BENTLEY","fa-1703","Continental","mo-3275","Berlina (03/2005 - 12/2013)","03/2005","12/2013","69440","BENTLEY Continental","BENTLEY Continental Berlina Speed 6.0 610 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-1703","Continental","mo-3275","Berlina (03/2005 - 12/2013)","03/2005","12/2013","27731","BENTLEY Continental","BENTLEY Continental Berlina 6.0 4WD Berlina 560 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-1703","Continental","mo-6786","Coupe (3W_) (06/2003 - Hoy)","06/2003","","68948","BENTLEY Continental","BENTLEY Continental Coupe (3W_) GT 6.0 V12 FLEX 575 cv Transmisión automática","Flex Fuel"
+"ma-280","BENTLEY","fa-1703","Continental","mo-6786","Coupe (3W_) (06/2003 - Hoy)","06/2003","","59046","BENTLEY Continental","BENTLEY Continental Coupe (3W_) 6.0 560 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-1703","Continental","mo-3276","Coupe (07/1984 - 03/2004)","07/1984","03/2004","69432","BENTLEY Continental","BENTLEY Continental Coupe T Mulliner 6.8 i V8 426 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-1703","Continental","mo-3276","Coupe (07/1984 - 03/2004)","07/1984","03/2004","69100","BENTLEY Continental","BENTLEY Continental Coupe Turbo R 6.8 16V 320 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-1703","Continental","mo-3276","Coupe (07/1984 - 03/2004)","07/1984","03/2004","69431","BENTLEY Continental","BENTLEY Continental Coupe R 6.8 i V8 408 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-1703","Continental","mo-3276","Coupe (07/1984 - 03/2004)","07/1984","03/2004","69103","BENTLEY Continental","BENTLEY Continental Coupe R 6.8 i 16V 360 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-1703","Continental","mo-3276","Coupe (07/1984 - 03/2004)","07/1984","03/2004","69101","BENTLEY Continental","BENTLEY Continental Coupe S 6.8 i 16V 389 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-2218","Bentayga","mo-6517"," (11/2015 - Hoy)","11/2015","","69112","BENTLEY Bentayga","BENTLEY Bentayga 4.0 TDI V8 32V 4WD 421 cv Transmisión automática","Diesel"
+"ma-280","BENTLEY","fa-2218","Bentayga","mo-6517"," (11/2015 - Hoy)","11/2015","","56266","BENTLEY Bentayga","BENTLEY Bentayga 4.0 TDI V8 4WD 32V 435 cv Transmisión automática","Diesel"
+"ma-280","BENTLEY","fa-2218","Bentayga","mo-6517"," (11/2015 - Hoy)","11/2015","","56268","BENTLEY Bentayga","BENTLEY Bentayga 6.0 TSI ACT W12 4WD 48V 608 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-1708","Turbo R","mo-3281"," (01/1986 - 12/1998)","01/1986","12/1998","35000","BENTLEY Turbo R","BENTLEY Turbo R 6.8 V8 320 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-2426","Arrnage","mo-7733","Arnage (RBS_) (03/1998 - 12/2013)","03/1998","12/2013","69430","BENTLEY Arrnage","BENTLEY Arrnage Arnage (RBS_) T 6.8 V8 507 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-2426","Arrnage","mo-7733","Arnage (RBS_) (03/1998 - 12/2013)","03/1998","12/2013","69427","BENTLEY Arrnage","BENTLEY Arrnage Arnage (RBS_) 6.7 V8 405 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-2426","Arrnage","mo-7733","Arnage (RBS_) (03/1998 - 12/2013)","03/1998","12/2013","69428","BENTLEY Arrnage","BENTLEY Arrnage Arnage (RBS_) T 6.7 V8 457 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-2426","Arrnage","mo-7733","Arnage (RBS_) (03/1998 - 12/2013)","03/1998","12/2013","69426","BENTLEY Arrnage","BENTLEY Arrnage Arnage (RBS_) 4.4 V8 354 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-2426","Arrnage","mo-7733","Arnage (RBS_) (03/1998 - 12/2013)","03/1998","12/2013","69429","BENTLEY Arrnage","BENTLEY Arrnage Arnage (RBS_) T 6.8 V8 457 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-1705","Eight","mo-3278"," (10/1984 - 09/1992)","10/1984","09/1992","69106","BENTLEY Eight","BENTLEY Eight 6.8 16V 215 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-1705","Eight","mo-3278"," (10/1984 - 09/1992)","10/1984","09/1992","69108","BENTLEY Eight","BENTLEY Eight 6.8 i 16V 226 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-1705","Eight","mo-3278"," (10/1984 - 09/1992)","10/1984","09/1992","69107","BENTLEY Eight","BENTLEY Eight 6.8 i 16V 245 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-1704","Corniche","mo-3277"," (03/1971 - 06/1984)","03/1971","06/1984","69104","BENTLEY Corniche","BENTLEY Corniche 6.8 16V 212 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-2428","Brooklands","mo-7736"," (07/1992 - 09/1997)","07/1992","09/1997","69438","BENTLEY Brooklands","BENTLEY Brooklands R 6.7 305 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-2428","Brooklands","mo-7737","coupe (RBS_) (03/2008 - Hoy)","03/2008","","69439","BENTLEY Brooklands","BENTLEY Brooklands coupe (RBS_) 6.8 537 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-1706","Mulsanne","mo-3279"," (10/1980 - 09/1992)","10/1980","09/1992","51866","BENTLEY Mulsanne","BENTLEY Mulsanne 6.8 Turbo berlina 333 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-1706","Mulsanne","mo-3279"," (10/1980 - 09/1992)","10/1980","09/1992","69110","BENTLEY Mulsanne","BENTLEY Mulsanne 6.8 i 16V 245 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-1706","Mulsanne","mo-3279"," (10/1980 - 09/1992)","10/1980","09/1992","69109","BENTLEY Mulsanne","BENTLEY Mulsanne 6.8 16V 218 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-1706","Mulsanne","mo-3279"," (10/1980 - 09/1992)","10/1980","09/1992","69111","BENTLEY Mulsanne","BENTLEY Mulsanne 6.8 i 16V 226 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-1707","T","mo-3280"," (02/1977 - 11/1980)","02/1977","11/1980","69113","BENTLEY T","BENTLEY T 6.8 16V 250 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-2427","Azure","mo-7734"," (09/1995 - 06/2006)","09/1995","06/2006","69434","BENTLEY Azure","BENTLEY Azure Mulliner 6.75 V8 426 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-2427","Azure","mo-7734"," (09/1995 - 06/2006)","09/1995","06/2006","69435","BENTLEY Azure","BENTLEY Azure 6.75 V8 408 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-2427","Azure","mo-7734"," (09/1995 - 06/2006)","09/1995","06/2006","69433","BENTLEY Azure","BENTLEY Azure 6.75 V8 389 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-2427","Azure","mo-7735","II (RBS_) (06/2006 - Hoy)","06/2006","","69436","BENTLEY Azure","BENTLEY Azure II (RBS_) 6.8 507 cv Transmisión automática","Gasolina"
+"ma-280","BENTLEY","fa-2427","Azure","mo-7735","II (RBS_) (06/2006 - Hoy)","06/2006","","69437","BENTLEY Azure","BENTLEY Azure II (RBS_) 6.8 456 cv Transmisión automática","Gasolina"

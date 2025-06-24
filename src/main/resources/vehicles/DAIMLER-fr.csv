@@ -1,38 +1,38 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,69171,DAIMLER XJ,DAIMLER XJ Six 4.0 24V 241 cv,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,27549,DAIMLER XJ,DAIMLER XJ Sovereign 3.6 24V 185 cv,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,69168,DAIMLER XJ,DAIMLER XJ Sovereign 3.6 24V 185 cv Boîte auto,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,37829,DAIMLER XJ,DAIMLER XJ 4.0 i 24V 226 cv Boîte auto,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,37828,DAIMLER XJ,DAIMLER XJ 3.6 24V 224 cv,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,28925,DAIMLER XJ,DAIMLER XJ Double Six 6.0 24V 318 cv Boîte auto,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,69170,DAIMLER XJ,DAIMLER XJ 3.6 24V 212 cv,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,69172,DAIMLER XJ,DAIMLER XJ Double Six 5.3 24V 289 cv Boîte auto,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,28926,DAIMLER XJ,DAIMLER XJ Double Six 6.0 24V 315 cv Boîte auto,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,28928,DAIMLER XJ,DAIMLER XJ V8 Super 4.0 32V 363 cv Boîte auto,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,35634,DAIMLER XJ,DAIMLER XJ 3.6 24V 224 cv Boîte auto,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,69169,DAIMLER XJ,DAIMLER XJ 3.6 24V 212 cv Boîte auto,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,27269,DAIMLER XJ,DAIMLER XJ 4.0 i 24V 226 cv,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,27515,DAIMLER XJ,DAIMLER XJ Double Six H.E. 5.3 24V 295 cv Boîte auto,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,69173,DAIMLER XJ,DAIMLER XJ Six 4.0 24V 222 cv Boîte auto,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,25479,DAIMLER XJ,DAIMLER XJ Sovereign 3.6 24V 202 cv,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,37831,DAIMLER XJ,DAIMLER XJ Double Six 5.3 24V 264 cv Boîte auto,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,27458,DAIMLER XJ,DAIMLER XJ Double Six 5.3 24V 268 cv Boîte auto,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,37830,DAIMLER XJ,DAIMLER XJ 4.0 i 24V 238 cv Boîte auto,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,27309,DAIMLER XJ,DAIMLER XJ Six 4.0 24V 241 cv Boîte auto,Essence
-ma-261,DAIMLER,fa-1748,XJ,mo-3336, (01/1973 - 10/2002),01/1973,10/2002,28927,DAIMLER XJ,DAIMLER XJ Six 4.0 32V 284 cv Boîte auto,Essence
-ma-261,DAIMLER,fa-1265,2.8,mo-2958,- 5.3 (10/1969 - 02/1993),10/1969,02/1993,27134,DAIMLER 2.8,DAIMLER 2.8 - 5.3 Double Six 5.3 287 cv,Essence
-ma-261,DAIMLER,fa-1265,2.8,mo-2958,- 5.3 (10/1969 - 02/1993),10/1969,02/1993,27605,DAIMLER 2.8,DAIMLER 2.8 - 5.3 Double Six 5.3 264 cv,Essence
-ma-261,DAIMLER,fa-1265,2.8,mo-2958,- 5.3 (10/1969 - 02/1993),10/1969,02/1993,27253,DAIMLER 2.8,DAIMLER 2.8 - 5.3 Sovereign 4.2 186 cv,Essence
-ma-261,DAIMLER,fa-1265,2.8,mo-2958,- 5.3 (10/1969 - 02/1993),10/1969,02/1993,27363,DAIMLER 2.8,DAIMLER 2.8 - 5.3 Sovereign 4.2 169 cv,Essence
-ma-261,DAIMLER,fa-1265,2.8,mo-2958,- 5.3 (10/1969 - 02/1993),10/1969,02/1993,27371,DAIMLER 2.8,DAIMLER 2.8 - 5.3 Sovereign 3.4 163 cv,Essence
-ma-261,DAIMLER,fa-1265,2.8,mo-2958,- 5.3 (10/1969 - 02/1993),10/1969,02/1993,27264,DAIMLER 2.8,DAIMLER 2.8 - 5.3 Sovereign 2.8 149 cv,Essence
-ma-261,DAIMLER,fa-1265,2.8,mo-2958,- 5.3 (10/1969 - 02/1993),10/1969,02/1993,27487,DAIMLER 2.8,DAIMLER 2.8 - 5.3 Sovereign 4.2 173 cv,Essence
-ma-261,DAIMLER,fa-1265,2.8,mo-2958,- 5.3 (10/1969 - 02/1993),10/1969,02/1993,27595,DAIMLER 2.8,DAIMLER 2.8 - 5.3 Sovereign 4.2 205 cv,Essence
-ma-261,DAIMLER,fa-1265,2.8,mo-2958,- 5.3 (10/1969 - 02/1993),10/1969,02/1993,27156,DAIMLER 2.8,DAIMLER 2.8 - 5.3 Double Six / Vanden 5.3 269 cv,Essence
-ma-261,DAIMLER,fa-1265,2.8,mo-2958,- 5.3 (10/1969 - 02/1993),10/1969,02/1993,27281,DAIMLER 2.8,DAIMLER 2.8 - 5.3 Double Six / Vanden 5.3 253 cv,Essence
-ma-261,DAIMLER,fa-1349,Limousine,mo-3105, (06/1968 - 12/1991),06/1968,12/1991,27200,DAIMLER Limousine,DAIMLER Limousine 4.2 178 cv Boîte auto,Essence
-ma-261,DAIMLER,fa-1349,Limousine,mo-3105, (06/1968 - 12/1991),06/1968,12/1991,27540,DAIMLER Limousine,DAIMLER Limousine 4.2 167 cv Boîte auto,Essence
-ma-261,DAIMLER,fa-1309,Coupé,mo-3042, (09/1973 - 12/1977),09/1973,12/1977,27369,DAIMLER Coupé,DAIMLER Coupé Double Six 5.3 289 cv,Essence
-ma-261,DAIMLER,fa-1309,Coupé,mo-3042, (09/1973 - 12/1977),09/1973,12/1977,27188,DAIMLER Coupé,DAIMLER Coupé Sovereign 4.2 172 cv,Essence
-ma-261,DAIMLER,fa-1747,Landaulette,mo-3335, (06/1968 - 09/1992),06/1968,09/1992,69166,DAIMLER Landaulette,DAIMLER Landaulette 4.2 12V 178 cv Boîte auto,Essence
-ma-261,DAIMLER,fa-1747,Landaulette,mo-3335, (06/1968 - 09/1992),06/1968,09/1992,69165,DAIMLER Landaulette,DAIMLER Landaulette 4.2 12V 165 cv Boîte auto,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","69171","DAIMLER XJ","DAIMLER XJ Six 4.0 24V 241 cv","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","27549","DAIMLER XJ","DAIMLER XJ Sovereign 3.6 24V 185 cv","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","69168","DAIMLER XJ","DAIMLER XJ Sovereign 3.6 24V 185 cv Boîte auto","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","37829","DAIMLER XJ","DAIMLER XJ 4.0 i 24V 226 cv Boîte auto","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","37828","DAIMLER XJ","DAIMLER XJ 3.6 24V 224 cv","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","28925","DAIMLER XJ","DAIMLER XJ Double Six 6.0 24V 318 cv Boîte auto","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","69170","DAIMLER XJ","DAIMLER XJ 3.6 24V 212 cv","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","69172","DAIMLER XJ","DAIMLER XJ Double Six 5.3 24V 289 cv Boîte auto","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","28926","DAIMLER XJ","DAIMLER XJ Double Six 6.0 24V 315 cv Boîte auto","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","28928","DAIMLER XJ","DAIMLER XJ V8 Super 4.0 32V 363 cv Boîte auto","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","35634","DAIMLER XJ","DAIMLER XJ 3.6 24V 224 cv Boîte auto","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","69169","DAIMLER XJ","DAIMLER XJ 3.6 24V 212 cv Boîte auto","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","27269","DAIMLER XJ","DAIMLER XJ 4.0 i 24V 226 cv","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","27515","DAIMLER XJ","DAIMLER XJ Double Six H.E. 5.3 24V 295 cv Boîte auto","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","69173","DAIMLER XJ","DAIMLER XJ Six 4.0 24V 222 cv Boîte auto","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","25479","DAIMLER XJ","DAIMLER XJ Sovereign 3.6 24V 202 cv","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","37831","DAIMLER XJ","DAIMLER XJ Double Six 5.3 24V 264 cv Boîte auto","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","27458","DAIMLER XJ","DAIMLER XJ Double Six 5.3 24V 268 cv Boîte auto","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","37830","DAIMLER XJ","DAIMLER XJ 4.0 i 24V 238 cv Boîte auto","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","27309","DAIMLER XJ","DAIMLER XJ Six 4.0 24V 241 cv Boîte auto","Essence"
+"ma-261","DAIMLER","fa-1748","XJ","mo-3336"," (01/1973 - 10/2002)","01/1973","10/2002","28927","DAIMLER XJ","DAIMLER XJ Six 4.0 32V 284 cv Boîte auto","Essence"
+"ma-261","DAIMLER","fa-1265","2.8","mo-2958","- 5.3 (10/1969 - 02/1993)","10/1969","02/1993","27134","DAIMLER 2.8","DAIMLER 2.8 - 5.3 Double Six 5.3 287 cv","Essence"
+"ma-261","DAIMLER","fa-1265","2.8","mo-2958","- 5.3 (10/1969 - 02/1993)","10/1969","02/1993","27605","DAIMLER 2.8","DAIMLER 2.8 - 5.3 Double Six 5.3 264 cv","Essence"
+"ma-261","DAIMLER","fa-1265","2.8","mo-2958","- 5.3 (10/1969 - 02/1993)","10/1969","02/1993","27253","DAIMLER 2.8","DAIMLER 2.8 - 5.3 Sovereign 4.2 186 cv","Essence"
+"ma-261","DAIMLER","fa-1265","2.8","mo-2958","- 5.3 (10/1969 - 02/1993)","10/1969","02/1993","27363","DAIMLER 2.8","DAIMLER 2.8 - 5.3 Sovereign 4.2 169 cv","Essence"
+"ma-261","DAIMLER","fa-1265","2.8","mo-2958","- 5.3 (10/1969 - 02/1993)","10/1969","02/1993","27371","DAIMLER 2.8","DAIMLER 2.8 - 5.3 Sovereign 3.4 163 cv","Essence"
+"ma-261","DAIMLER","fa-1265","2.8","mo-2958","- 5.3 (10/1969 - 02/1993)","10/1969","02/1993","27264","DAIMLER 2.8","DAIMLER 2.8 - 5.3 Sovereign 2.8 149 cv","Essence"
+"ma-261","DAIMLER","fa-1265","2.8","mo-2958","- 5.3 (10/1969 - 02/1993)","10/1969","02/1993","27487","DAIMLER 2.8","DAIMLER 2.8 - 5.3 Sovereign 4.2 173 cv","Essence"
+"ma-261","DAIMLER","fa-1265","2.8","mo-2958","- 5.3 (10/1969 - 02/1993)","10/1969","02/1993","27595","DAIMLER 2.8","DAIMLER 2.8 - 5.3 Sovereign 4.2 205 cv","Essence"
+"ma-261","DAIMLER","fa-1265","2.8","mo-2958","- 5.3 (10/1969 - 02/1993)","10/1969","02/1993","27156","DAIMLER 2.8","DAIMLER 2.8 - 5.3 Double Six / Vanden 5.3 269 cv","Essence"
+"ma-261","DAIMLER","fa-1265","2.8","mo-2958","- 5.3 (10/1969 - 02/1993)","10/1969","02/1993","27281","DAIMLER 2.8","DAIMLER 2.8 - 5.3 Double Six / Vanden 5.3 253 cv","Essence"
+"ma-261","DAIMLER","fa-1349","Limousine","mo-3105"," (06/1968 - 12/1991)","06/1968","12/1991","27200","DAIMLER Limousine","DAIMLER Limousine 4.2 178 cv Boîte auto","Essence"
+"ma-261","DAIMLER","fa-1349","Limousine","mo-3105"," (06/1968 - 12/1991)","06/1968","12/1991","27540","DAIMLER Limousine","DAIMLER Limousine 4.2 167 cv Boîte auto","Essence"
+"ma-261","DAIMLER","fa-1309","Coupé","mo-3042"," (09/1973 - 12/1977)","09/1973","12/1977","27369","DAIMLER Coupé","DAIMLER Coupé Double Six 5.3 289 cv","Essence"
+"ma-261","DAIMLER","fa-1309","Coupé","mo-3042"," (09/1973 - 12/1977)","09/1973","12/1977","27188","DAIMLER Coupé","DAIMLER Coupé Sovereign 4.2 172 cv","Essence"
+"ma-261","DAIMLER","fa-1747","Landaulette","mo-3335"," (06/1968 - 09/1992)","06/1968","09/1992","69166","DAIMLER Landaulette","DAIMLER Landaulette 4.2 12V 178 cv Boîte auto","Essence"
+"ma-261","DAIMLER","fa-1747","Landaulette","mo-3335"," (06/1968 - 09/1992)","06/1968","09/1992","69165","DAIMLER Landaulette","DAIMLER Landaulette 4.2 12V 165 cv Boîte auto","Essence"

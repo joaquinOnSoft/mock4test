@@ -1,7 +1,7 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-84,GALLOPER,fa-277,Galloper,mo-1017, (02/1998 - 02/2002),02/1998,02/2002,14723,GALLOPER Galloper,GALLOPER Galloper 3.0 i V6 Break 140cv,Essence
-ma-84,GALLOPER,fa-277,Galloper,mo-1017, (02/1998 - 02/2002),02/1998,02/2002,3750,GALLOPER Galloper,GALLOPER Galloper 3.0 i V6 Break 140cv Boîte auto,Essence
-ma-84,GALLOPER,fa-277,Galloper,mo-1017, (02/1998 - 02/2002),02/1998,02/2002,5350,GALLOPER Galloper,GALLOPER Galloper 2.5 TDi Break 105cv,Diesel
-ma-84,GALLOPER,fa-278,Santamo,mo-1789, (11/1998 - 12/2002),11/1998,12/2002,24877,GALLOPER Santamo,GALLOPER Santamo 2.0 i 4x4 137cv,Essence
-ma-84,GALLOPER,fa-278,Santamo,mo-1789, (11/1998 - 12/2002),11/1998,12/2002,5351,GALLOPER Santamo,GALLOPER Santamo 2.0 i 105cv,Essence
-ma-84,GALLOPER,fa-278,Santamo,mo-1789, (11/1998 - 12/2002),11/1998,12/2002,14724,GALLOPER Santamo,GALLOPER Santamo 2.0 i 137cv,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-84","GALLOPER","fa-277","Galloper","mo-1017"," (02/1998 - 02/2002)","02/1998","02/2002","14723","GALLOPER Galloper","GALLOPER Galloper 3.0 i V6 Break 140cv","Essence"
+"ma-84","GALLOPER","fa-277","Galloper","mo-1017"," (02/1998 - 02/2002)","02/1998","02/2002","3750","GALLOPER Galloper","GALLOPER Galloper 3.0 i V6 Break 140cv Boîte auto","Essence"
+"ma-84","GALLOPER","fa-277","Galloper","mo-1017"," (02/1998 - 02/2002)","02/1998","02/2002","5350","GALLOPER Galloper","GALLOPER Galloper 2.5 TDi Break 105cv","Diesel"
+"ma-84","GALLOPER","fa-278","Santamo","mo-1789"," (11/1998 - 12/2002)","11/1998","12/2002","24877","GALLOPER Santamo","GALLOPER Santamo 2.0 i 4x4 137cv","Essence"
+"ma-84","GALLOPER","fa-278","Santamo","mo-1789"," (11/1998 - 12/2002)","11/1998","12/2002","5351","GALLOPER Santamo","GALLOPER Santamo 2.0 i 105cv","Essence"
+"ma-84","GALLOPER","fa-278","Santamo","mo-1789"," (11/1998 - 12/2002)","11/1998","12/2002","14724","GALLOPER Santamo","GALLOPER Santamo 2.0 i 137cv","Essence"

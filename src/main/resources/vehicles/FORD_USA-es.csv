@@ -1,102 +1,102 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-269,FORD USA,fa-1770,Probe,mo-3374, (10/1992 - 12/1997),10/1992,12/1997,27436,FORD USA Probe,FORD USA Probe 2.5 V6 24V 162 cv,Gasolina
-ma-269,FORD USA,fa-1770,Probe,mo-3374, (10/1992 - 12/1997),10/1992,12/1997,28183,FORD USA Probe,FORD USA Probe 2.0 i Coupe 115 cv,Gasolina
-ma-269,FORD USA,fa-1770,Probe,mo-3141,II (ECP) (07/1993 - 03/1998),07/1993,03/1998,27340,FORD USA Probe,FORD USA Probe II (ECP) 2.5 V6 24V 163 cv,Gasolina
-ma-269,FORD USA,fa-1770,Probe,mo-3142,I (08/1988 - 07/1993),08/1988,07/1993,27572,FORD USA Probe,FORD USA Probe I 3.0 V6 141 cv,Gasolina
-ma-269,FORD USA,fa-1770,Probe,mo-3142,I (08/1988 - 07/1993),08/1988,07/1993,27590,FORD USA Probe,FORD USA Probe I 2.2 112 cv,Gasolina
-ma-269,FORD USA,fa-1770,Probe,mo-3142,I (08/1988 - 07/1993),08/1988,07/1993,27588,FORD USA Probe,FORD USA Probe I 2.2 GT 147 cv,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6368,VI coupe (05/2014 - 02/2018),05/2014,02/2018,63803,FORD USA MUSTANG,FORD USA MUSTANG VI coupe 3.7 i V6 24V 304 cv,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6368,VI coupe (05/2014 - 02/2018),05/2014,02/2018,52330,FORD USA MUSTANG,FORD USA MUSTANG VI coupe 2.3 Ti EcoBoost 24V 309 cv,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6368,VI coupe (05/2014 - 02/2018),05/2014,02/2018,63802,FORD USA MUSTANG,FORD USA MUSTANG VI coupe 3.7 i V6 24V Automatic 304 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6368,VI coupe (05/2014 - 02/2018),05/2014,02/2018,52329,FORD USA MUSTANG,FORD USA MUSTANG VI coupe 2.3 Ti EcoBoost 24V 309 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6368,VI coupe (05/2014 - 02/2018),05/2014,02/2018,52332,FORD USA MUSTANG,FORD USA MUSTANG VI coupe 5.0 i V8 24V 419 cv,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6368,VI coupe (05/2014 - 02/2018),05/2014,02/2018,52331,FORD USA MUSTANG,FORD USA MUSTANG VI coupe 5.0 i V8 24V 421 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6766,VI Fase 2 Coupe (02/2018 - Hoy),02/2018,,68356,FORD USA MUSTANG,FORD USA MUSTANG VI Fase 2 Coupe Bullitt 5.0 V8 32V 460 cv,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6766,VI Fase 2 Coupe (02/2018 - Hoy),02/2018,,59041,FORD USA MUSTANG,FORD USA MUSTANG VI Fase 2 Coupe 2.3 Ti EcoBoost 24V 290 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6766,VI Fase 2 Coupe (02/2018 - Hoy),02/2018,,59042,FORD USA MUSTANG,FORD USA MUSTANG VI Fase 2 Coupe 2.3 Ti EcoBoost 24V 290 cv,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6766,VI Fase 2 Coupe (02/2018 - Hoy),02/2018,,59043,FORD USA MUSTANG,FORD USA MUSTANG VI Fase 2 Coupe 5.0 i V8 24V 450 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6766,VI Fase 2 Coupe (02/2018 - Hoy),02/2018,,59044,FORD USA MUSTANG,FORD USA MUSTANG VI Fase 2 Coupe 5.0 i V8 32V 450 cv,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7723,coupe (12/2004 - 02/2011),12/2004,02/2011,68902,FORD USA MUSTANG,FORD USA MUSTANG coupe 4.0 V6 214 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7723,coupe (12/2004 - 02/2011),12/2004,02/2011,68909,FORD USA MUSTANG,FORD USA MUSTANG coupe 5.4 V8 548 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7723,coupe (12/2004 - 02/2011),12/2004,02/2011,68908,FORD USA MUSTANG,FORD USA MUSTANG coupe 5.4 507 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7723,coupe (12/2004 - 02/2011),12/2004,02/2011,68910,FORD USA MUSTANG,FORD USA MUSTANG coupe 5.4 V8 558 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7723,coupe (12/2004 - 02/2011),12/2004,02/2011,68903,FORD USA MUSTANG,FORD USA MUSTANG coupe 4.6 V8 305 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7723,coupe (12/2004 - 02/2011),12/2004,02/2011,68905,FORD USA MUSTANG,FORD USA MUSTANG coupe 4.6 V8 320 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7723,coupe (12/2004 - 02/2011),12/2004,02/2011,68904,FORD USA MUSTANG,FORD USA MUSTANG coupe 3.7 309 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7723,coupe (12/2004 - 02/2011),12/2004,02/2011,68907,FORD USA MUSTANG,FORD USA MUSTANG coupe 5.4 V8 483 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7723,coupe (12/2004 - 02/2011),12/2004,02/2011,68906,FORD USA MUSTANG,FORD USA MUSTANG coupe 5.0 418 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-3134,Convertible (09/1993 - 12/2004),09/1993,12/2004,27112,FORD USA MUSTANG,FORD USA MUSTANG Convertible 3.8 V6 152 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-3134,Convertible (09/1993 - 12/2004),09/1993,12/2004,27347,FORD USA MUSTANG,FORD USA MUSTANG Convertible 4.9 V8 218 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7724,Convertible (09/2005 - 02/2011),09/2005,02/2011,68912,FORD USA MUSTANG,FORD USA MUSTANG Convertible 4.6 V8 305 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7724,Convertible (09/2005 - 02/2011),09/2005,02/2011,68913,FORD USA MUSTANG,FORD USA MUSTANG Convertible 3.7 309 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7724,Convertible (09/2005 - 02/2011),09/2005,02/2011,68911,FORD USA MUSTANG,FORD USA MUSTANG Convertible 4.0 V6 214 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7724,Convertible (09/2005 - 02/2011),09/2005,02/2011,68917,FORD USA MUSTANG,FORD USA MUSTANG Convertible 5.4 507 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7724,Convertible (09/2005 - 02/2011),09/2005,02/2011,68916,FORD USA MUSTANG,FORD USA MUSTANG Convertible 5.0 426 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7724,Convertible (09/2005 - 02/2011),09/2005,02/2011,68915,FORD USA MUSTANG,FORD USA MUSTANG Convertible 5.0 418 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7724,Convertible (09/2005 - 02/2011),09/2005,02/2011,68914,FORD USA MUSTANG,FORD USA MUSTANG Convertible 4.6 V8 320 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7724,Convertible (09/2005 - 02/2011),09/2005,02/2011,68919,FORD USA MUSTANG,FORD USA MUSTANG Convertible 5.8 670 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7724,Convertible (09/2005 - 02/2011),09/2005,02/2011,68918,FORD USA MUSTANG,FORD USA MUSTANG Convertible 5.4 V8 558 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6366,V-2 coupe (02/2011 - 06/2014),02/2011,06/2014,63800,FORD USA MUSTANG,FORD USA MUSTANG V-2 coupe 5.0 i V8 32V 418 cv,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6366,V-2 coupe (02/2011 - 06/2014),02/2011,06/2014,61780,FORD USA MUSTANG,FORD USA MUSTANG V-2 coupe 3.7 i V6 24V 309 cv,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6366,V-2 coupe (02/2011 - 06/2014),02/2011,06/2014,63799,FORD USA MUSTANG,FORD USA MUSTANG V-2 coupe 5.0 i V8 32V Automatic 418 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6366,V-2 coupe (02/2011 - 06/2014),02/2011,06/2014,61779,FORD USA MUSTANG,FORD USA MUSTANG V-2 coupe 3.7 i V6 24V Automatic 309 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6369,VI descapotable (05/2014 - 02/2018),05/2014,02/2018,52334,FORD USA MUSTANG,FORD USA MUSTANG VI descapotable 2.3 Ti EcoBoost 24V 309 cv,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6369,VI descapotable (05/2014 - 02/2018),05/2014,02/2018,52333,FORD USA MUSTANG,FORD USA MUSTANG VI descapotable 2.3 Ti EcoBoost 24V 309 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6369,VI descapotable (05/2014 - 02/2018),05/2014,02/2018,52336,FORD USA MUSTANG,FORD USA MUSTANG VI descapotable 5.0 i V8 24V 421 cv,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6369,VI descapotable (05/2014 - 02/2018),05/2014,02/2018,52335,FORD USA MUSTANG,FORD USA MUSTANG VI descapotable 5.0 i V8 24V 419 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6369,VI descapotable (05/2014 - 02/2018),05/2014,02/2018,63801,FORD USA MUSTANG,FORD USA MUSTANG VI descapotable 3.7 i V6 24V 304 cv,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7216,Mach-E (09/2020 - Hoy),09/2020,,63793,FORD USA MUSTANG,FORD USA MUSTANG Mach-E GT Extended Range AWD 487 cv Transmisión automática,Electrico
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7216,Mach-E (09/2020 - Hoy),09/2020,,63794,FORD USA MUSTANG,FORD USA MUSTANG Mach-E Standard Range RWD 269 cv Transmisión automática,Electrico
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7216,Mach-E (09/2020 - Hoy),09/2020,,63792,FORD USA MUSTANG,FORD USA MUSTANG Mach-E Extended Range AWD 351 cv Transmisión automática,Electrico
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7216,Mach-E (09/2020 - Hoy),09/2020,,63791,FORD USA MUSTANG,FORD USA MUSTANG Mach-E Standard Range AWD 269 cv Transmisión automática,Electrico
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7216,Mach-E (09/2020 - Hoy),09/2020,,63795,FORD USA MUSTANG,FORD USA MUSTANG Mach-E Extended Range RWD 294 cv Transmisión automática,Electrico
-ma-269,FORD USA,fa-1365,MUSTANG,mo-7216,Mach-E (09/2020 - Hoy),09/2020,,63796,FORD USA MUSTANG,FORD USA MUSTANG Mach-E Extended Range AWD 337 cv Transmisión automática,Electrico
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6367,V-2 descapotable (02/2011 - 06/2014),02/2011,06/2014,63797,FORD USA MUSTANG,FORD USA MUSTANG V-2 descapotable 5.0 i V8 32V Automatic 418 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6367,V-2 descapotable (02/2011 - 06/2014),02/2011,06/2014,61777,FORD USA MUSTANG,FORD USA MUSTANG V-2 descapotable 3.7 i V6 24V Automatic 309 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6367,V-2 descapotable (02/2011 - 06/2014),02/2011,06/2014,63798,FORD USA MUSTANG,FORD USA MUSTANG V-2 descapotable 5.0 i V8 32V 418 cv,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6367,V-2 descapotable (02/2011 - 06/2014),02/2011,06/2014,61778,FORD USA MUSTANG,FORD USA MUSTANG V-2 descapotable 3.7 i V6 24V 309 cv,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6767,VI Fase 2 Descapotable (02/2018 - Hoy),02/2018,,59038,FORD USA MUSTANG,FORD USA MUSTANG VI Fase 2 Descapotable 2.3 Ti EcoBoost 24V 290 cv,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6767,VI Fase 2 Descapotable (02/2018 - Hoy),02/2018,,59039,FORD USA MUSTANG,FORD USA MUSTANG VI Fase 2 Descapotable 5.0 i V8 24V 450 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6767,VI Fase 2 Descapotable (02/2018 - Hoy),02/2018,,59040,FORD USA MUSTANG,FORD USA MUSTANG VI Fase 2 Descapotable 5.0 i V8 32V 450 cv,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-6767,VI Fase 2 Descapotable (02/2018 - Hoy),02/2018,,59037,FORD USA MUSTANG,FORD USA MUSTANG VI Fase 2 Descapotable 2.3 Ti EcoBoost 24V 290 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-3133,Coupe (09/1993 - 12/2004),09/1993,12/2004,27488,FORD USA MUSTANG,FORD USA MUSTANG Coupe 4.9 V8 218 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1365,MUSTANG,mo-3133,Coupe (09/1993 - 12/2004),09/1993,12/2004,27127,FORD USA MUSTANG,FORD USA MUSTANG Coupe 3.8 V6 152 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1769,Explorer,mo-3373, (01/1990 - 12/2000),01/1990,12/2000,28178,FORD USA Explorer,FORD USA Explorer 4.0 i Familiar 164 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1769,Explorer,mo-3373, (01/1990 - 12/2000),01/1990,12/2000,65681,FORD USA Explorer,FORD USA Explorer 4.9 i 213 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1769,Explorer,mo-3373, (01/1990 - 12/2000),01/1990,12/2000,28182,FORD USA Explorer,FORD USA Explorer 4.0 i Familiar 204 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1769,Explorer,mo-3373, (01/1990 - 12/2000),01/1990,12/2000,65680,FORD USA Explorer,FORD USA Explorer 4.0 i 204 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1769,Explorer,mo-3373, (01/1990 - 12/2000),01/1990,12/2000,28180,FORD USA Explorer,FORD USA Explorer 4.9 i Familiar 213 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1769,Explorer,mo-3373, (01/1990 - 12/2000),01/1990,12/2000,28179,FORD USA Explorer,FORD USA Explorer 4.0 i 4WD Familiar 164 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1769,Explorer,mo-3373, (01/1990 - 12/2000),01/1990,12/2000,65679,FORD USA Explorer,FORD USA Explorer 4.0 i 4WD 208 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1769,Explorer,mo-3373, (01/1990 - 12/2000),01/1990,12/2000,28181,FORD USA Explorer,FORD USA Explorer 4.0 i Familiar 208 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1769,Explorer,mo-5699, (11/2010 - Hoy),11/2010,,58223,FORD USA Explorer,FORD USA Explorer Sport 3.5 Ti-VCT V6-370 AWD 24V SelectShift EcoBoost 370 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1769,Explorer,mo-5699, (11/2010 - Hoy),11/2010,,58222,FORD USA Explorer,FORD USA Explorer 3.5 Ti-VCT V6-294 FWD 24V SelectShift 294 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1769,Explorer,mo-5699, (11/2010 - Hoy),11/2010,,58221,FORD USA Explorer,FORD USA Explorer 3.5 Ti-VCT V6-294 AWD 24V SelectShift 294 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1769,Explorer,mo-6694,II (U2) (10/1996 - 12/2001),10/1996,12/2001,58219,FORD USA Explorer,FORD USA Explorer II (U2) 4.0 V6 4WD 24V 197 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1769,Explorer,mo-7458,VI (06/2020 - Hoy),06/2020,,65678,FORD USA Explorer,FORD USA Explorer VI 3.0 i V6 EcoBoost 24V 457 Plug-in Hybrid AWD 363 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1769,Explorer,mo-6695,III (U251) (09/2001 - 12/2005),09/2001,12/2005,58220,FORD USA Explorer,FORD USA Explorer III (U251) 4.6 V6 4WD 24V 242 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1769,Explorer,mo-7858,EV (CX740) (06/2024 - Hoy),06/2024,,70524,FORD USA Explorer,FORD USA Explorer EV (CX740) 52 kWh 170 cv Transmisión automática,Electrico
-ma-269,FORD USA,fa-1769,Explorer,mo-7858,EV (CX740) (06/2024 - Hoy),06/2024,,70525,FORD USA Explorer,FORD USA Explorer EV (CX740) 77 kWh 286 cv Transmisión automática,Electrico
-ma-269,FORD USA,fa-1769,Explorer,mo-7858,EV (CX740) (06/2024 - Hoy),06/2024,,70526,FORD USA Explorer,FORD USA Explorer EV (CX740) 79 kWh 4WD 340 cv Transmisión automática,Electrico
-ma-269,FORD USA,fa-1303,BRONCO,mo-3034,II (09/1983 - 08/1990),09/1983,08/1990,27168,FORD USA BRONCO,FORD USA BRONCO II 2.9 i V6 4x4 141 cv,Gasolina
-ma-269,FORD USA,fa-1303,BRONCO,mo-7816,vehículo tout terrain à carrosserie ouverte (07/2019 - Hoy),07/2019,,70128,FORD USA BRONCO,FORD USA BRONCO vehículo tout terrain à carrosserie ouverte 2.7 Ti-VCT EcoBoost 4x4 334 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-2431,Ranger,mo-7747,IV Crew Cab Pickup (03/2022 - Hoy),03/2022,,69519,FORD USA Ranger,FORD USA Ranger IV Crew Cab Pickup 2.0 EcoBlue e-AWD 205 cv Transmisión automática,Diesel
-ma-269,FORD USA,fa-2431,Ranger,mo-7747,IV Crew Cab Pickup (03/2022 - Hoy),03/2022,,69521,FORD USA Ranger,FORD USA Ranger IV Crew Cab Pickup Raptor 3.0 EcoBoost e-AWD 292 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-2431,Ranger,mo-7747,IV Crew Cab Pickup (03/2022 - Hoy),03/2022,,69520,FORD USA Ranger,FORD USA Ranger IV Crew Cab Pickup 3.0 EcoBlue e-AWD 241 cv Transmisión automática,Diesel
-ma-269,FORD USA,fa-2431,Ranger,mo-7748,IV Extended Cab Pickup (03/2022 - Hoy),03/2022,,69523,FORD USA Ranger,FORD USA Ranger IV Extended Cab Pickup 2.0 EcoBlue AWD 170 cv Transmisión automática,Diesel
-ma-269,FORD USA,fa-2431,Ranger,mo-7748,IV Extended Cab Pickup (03/2022 - Hoy),03/2022,,70338,FORD USA Ranger,FORD USA Ranger IV Extended Cab Pickup 2.0 EcoBlue AWD 170 cv,Diesel
-ma-269,FORD USA,fa-2431,Ranger,mo-7748,IV Extended Cab Pickup (03/2022 - Hoy),03/2022,,69522,FORD USA Ranger,FORD USA Ranger IV Extended Cab Pickup 2.0 EcoBlue 170 cv Transmisión automática,Diesel
-ma-269,FORD USA,fa-2431,Ranger,mo-7748,IV Extended Cab Pickup (03/2022 - Hoy),03/2022,,69524,FORD USA Ranger,FORD USA Ranger IV Extended Cab Pickup 2.0 EcoBlue e-AWD 205 cv Transmisión automática,Diesel
-ma-269,FORD USA,fa-2431,Ranger,mo-7750,IV Cab & chasis (03/2022 - Hoy),03/2022,,69526,FORD USA Ranger,FORD USA Ranger IV Cab & chasis 2.0 EcoBlue AWD 170 cv Transmisión automática,Diesel
-ma-269,FORD USA,fa-2431,Ranger,mo-7749,IV Standard Cab Pickup (03/2022 - Hoy),03/2022,,69525,FORD USA Ranger,FORD USA Ranger IV Standard Cab Pickup 2.0 EcoBlue AWD 170 cv,Diesel
-ma-269,FORD USA,fa-1768,Aerostar,mo-3372, (01/1990 - 12/1997),01/1990,12/1997,28176,FORD USA Aerostar,FORD USA Aerostar 4.0 Monospace 157 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1768,Aerostar,mo-3372, (01/1990 - 12/1997),01/1990,12/1997,28177,FORD USA Aerostar,FORD USA Aerostar 3.0 Monospace 147 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1771,Windstar,mo-3375, (01/1994 - 12/1998),01/1994,12/1998,28185,FORD USA Windstar,FORD USA Windstar 3.8 V6 Monospace 203 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1771,Windstar,mo-3375, (01/1994 - 12/1998),01/1994,12/1998,27558,FORD USA Windstar,FORD USA Windstar 3.0 V6 147 cv,Gasolina
-ma-269,FORD USA,fa-1771,Windstar,mo-3375, (01/1994 - 12/1998),01/1994,12/1998,28184,FORD USA Windstar,FORD USA Windstar 3.0 V6 Monospace 148 cv Transmisión automática,Gasolina
-ma-269,FORD USA,fa-1380,TAURUS,mo-3158,Wagon (09/1996 - Hoy),09/1996,,27538,FORD USA TAURUS,FORD USA TAURUS Wagon 3.0 V6 156 cv,Gasolina
-ma-269,FORD USA,fa-1380,TAURUS,mo-3158,Wagon (09/1996 - Hoy),09/1996,,27493,FORD USA TAURUS,FORD USA TAURUS Wagon 3.0 147 cv,Gasolina
-ma-269,FORD USA,fa-1380,TAURUS,mo-3158,Wagon (09/1996 - Hoy),09/1996,,27592,FORD USA TAURUS,FORD USA TAURUS Wagon 3.0 24V 203 cv,Gasolina
-ma-269,FORD USA,fa-1380,TAURUS,mo-3157, (09/1996 - Hoy),09/1996,,27383,FORD USA TAURUS,FORD USA TAURUS 3.0 147 cv,Gasolina
-ma-269,FORD USA,fa-1380,TAURUS,mo-3157, (09/1996 - Hoy),09/1996,,27216,FORD USA TAURUS,FORD USA TAURUS 3.0 V6 156 cv,Gasolina
-ma-269,FORD USA,fa-1380,TAURUS,mo-3157, (09/1996 - Hoy),09/1996,,27203,FORD USA TAURUS,FORD USA TAURUS 3.0 24V 203 cv,Gasolina
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-269","FORD USA","fa-1770","Probe","mo-3374"," (10/1992 - 12/1997)","10/1992","12/1997","27436","FORD USA Probe","FORD USA Probe 2.5 V6 24V 162 cv","Gasolina"
+"ma-269","FORD USA","fa-1770","Probe","mo-3374"," (10/1992 - 12/1997)","10/1992","12/1997","28183","FORD USA Probe","FORD USA Probe 2.0 i Coupe 115 cv","Gasolina"
+"ma-269","FORD USA","fa-1770","Probe","mo-3141","II (ECP) (07/1993 - 03/1998)","07/1993","03/1998","27340","FORD USA Probe","FORD USA Probe II (ECP) 2.5 V6 24V 163 cv","Gasolina"
+"ma-269","FORD USA","fa-1770","Probe","mo-3142","I (08/1988 - 07/1993)","08/1988","07/1993","27572","FORD USA Probe","FORD USA Probe I 3.0 V6 141 cv","Gasolina"
+"ma-269","FORD USA","fa-1770","Probe","mo-3142","I (08/1988 - 07/1993)","08/1988","07/1993","27590","FORD USA Probe","FORD USA Probe I 2.2 112 cv","Gasolina"
+"ma-269","FORD USA","fa-1770","Probe","mo-3142","I (08/1988 - 07/1993)","08/1988","07/1993","27588","FORD USA Probe","FORD USA Probe I 2.2 GT 147 cv","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6368","VI coupe (05/2014 - 02/2018)","05/2014","02/2018","63803","FORD USA MUSTANG","FORD USA MUSTANG VI coupe 3.7 i V6 24V 304 cv","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6368","VI coupe (05/2014 - 02/2018)","05/2014","02/2018","52330","FORD USA MUSTANG","FORD USA MUSTANG VI coupe 2.3 Ti EcoBoost 24V 309 cv","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6368","VI coupe (05/2014 - 02/2018)","05/2014","02/2018","63802","FORD USA MUSTANG","FORD USA MUSTANG VI coupe 3.7 i V6 24V Automatic 304 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6368","VI coupe (05/2014 - 02/2018)","05/2014","02/2018","52329","FORD USA MUSTANG","FORD USA MUSTANG VI coupe 2.3 Ti EcoBoost 24V 309 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6368","VI coupe (05/2014 - 02/2018)","05/2014","02/2018","52332","FORD USA MUSTANG","FORD USA MUSTANG VI coupe 5.0 i V8 24V 419 cv","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6368","VI coupe (05/2014 - 02/2018)","05/2014","02/2018","52331","FORD USA MUSTANG","FORD USA MUSTANG VI coupe 5.0 i V8 24V 421 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6766","VI Fase 2 Coupe (02/2018 - Hoy)","02/2018","","68356","FORD USA MUSTANG","FORD USA MUSTANG VI Fase 2 Coupe Bullitt 5.0 V8 32V 460 cv","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6766","VI Fase 2 Coupe (02/2018 - Hoy)","02/2018","","59041","FORD USA MUSTANG","FORD USA MUSTANG VI Fase 2 Coupe 2.3 Ti EcoBoost 24V 290 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6766","VI Fase 2 Coupe (02/2018 - Hoy)","02/2018","","59042","FORD USA MUSTANG","FORD USA MUSTANG VI Fase 2 Coupe 2.3 Ti EcoBoost 24V 290 cv","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6766","VI Fase 2 Coupe (02/2018 - Hoy)","02/2018","","59043","FORD USA MUSTANG","FORD USA MUSTANG VI Fase 2 Coupe 5.0 i V8 24V 450 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6766","VI Fase 2 Coupe (02/2018 - Hoy)","02/2018","","59044","FORD USA MUSTANG","FORD USA MUSTANG VI Fase 2 Coupe 5.0 i V8 32V 450 cv","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7723","coupe (12/2004 - 02/2011)","12/2004","02/2011","68902","FORD USA MUSTANG","FORD USA MUSTANG coupe 4.0 V6 214 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7723","coupe (12/2004 - 02/2011)","12/2004","02/2011","68909","FORD USA MUSTANG","FORD USA MUSTANG coupe 5.4 V8 548 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7723","coupe (12/2004 - 02/2011)","12/2004","02/2011","68908","FORD USA MUSTANG","FORD USA MUSTANG coupe 5.4 507 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7723","coupe (12/2004 - 02/2011)","12/2004","02/2011","68910","FORD USA MUSTANG","FORD USA MUSTANG coupe 5.4 V8 558 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7723","coupe (12/2004 - 02/2011)","12/2004","02/2011","68903","FORD USA MUSTANG","FORD USA MUSTANG coupe 4.6 V8 305 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7723","coupe (12/2004 - 02/2011)","12/2004","02/2011","68905","FORD USA MUSTANG","FORD USA MUSTANG coupe 4.6 V8 320 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7723","coupe (12/2004 - 02/2011)","12/2004","02/2011","68904","FORD USA MUSTANG","FORD USA MUSTANG coupe 3.7 309 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7723","coupe (12/2004 - 02/2011)","12/2004","02/2011","68907","FORD USA MUSTANG","FORD USA MUSTANG coupe 5.4 V8 483 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7723","coupe (12/2004 - 02/2011)","12/2004","02/2011","68906","FORD USA MUSTANG","FORD USA MUSTANG coupe 5.0 418 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-3134","Convertible (09/1993 - 12/2004)","09/1993","12/2004","27112","FORD USA MUSTANG","FORD USA MUSTANG Convertible 3.8 V6 152 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-3134","Convertible (09/1993 - 12/2004)","09/1993","12/2004","27347","FORD USA MUSTANG","FORD USA MUSTANG Convertible 4.9 V8 218 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7724","Convertible (09/2005 - 02/2011)","09/2005","02/2011","68912","FORD USA MUSTANG","FORD USA MUSTANG Convertible 4.6 V8 305 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7724","Convertible (09/2005 - 02/2011)","09/2005","02/2011","68913","FORD USA MUSTANG","FORD USA MUSTANG Convertible 3.7 309 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7724","Convertible (09/2005 - 02/2011)","09/2005","02/2011","68911","FORD USA MUSTANG","FORD USA MUSTANG Convertible 4.0 V6 214 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7724","Convertible (09/2005 - 02/2011)","09/2005","02/2011","68917","FORD USA MUSTANG","FORD USA MUSTANG Convertible 5.4 507 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7724","Convertible (09/2005 - 02/2011)","09/2005","02/2011","68916","FORD USA MUSTANG","FORD USA MUSTANG Convertible 5.0 426 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7724","Convertible (09/2005 - 02/2011)","09/2005","02/2011","68915","FORD USA MUSTANG","FORD USA MUSTANG Convertible 5.0 418 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7724","Convertible (09/2005 - 02/2011)","09/2005","02/2011","68914","FORD USA MUSTANG","FORD USA MUSTANG Convertible 4.6 V8 320 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7724","Convertible (09/2005 - 02/2011)","09/2005","02/2011","68919","FORD USA MUSTANG","FORD USA MUSTANG Convertible 5.8 670 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7724","Convertible (09/2005 - 02/2011)","09/2005","02/2011","68918","FORD USA MUSTANG","FORD USA MUSTANG Convertible 5.4 V8 558 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6366","V-2 coupe (02/2011 - 06/2014)","02/2011","06/2014","63800","FORD USA MUSTANG","FORD USA MUSTANG V-2 coupe 5.0 i V8 32V 418 cv","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6366","V-2 coupe (02/2011 - 06/2014)","02/2011","06/2014","61780","FORD USA MUSTANG","FORD USA MUSTANG V-2 coupe 3.7 i V6 24V 309 cv","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6366","V-2 coupe (02/2011 - 06/2014)","02/2011","06/2014","63799","FORD USA MUSTANG","FORD USA MUSTANG V-2 coupe 5.0 i V8 32V Automatic 418 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6366","V-2 coupe (02/2011 - 06/2014)","02/2011","06/2014","61779","FORD USA MUSTANG","FORD USA MUSTANG V-2 coupe 3.7 i V6 24V Automatic 309 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6369","VI descapotable (05/2014 - 02/2018)","05/2014","02/2018","52334","FORD USA MUSTANG","FORD USA MUSTANG VI descapotable 2.3 Ti EcoBoost 24V 309 cv","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6369","VI descapotable (05/2014 - 02/2018)","05/2014","02/2018","52333","FORD USA MUSTANG","FORD USA MUSTANG VI descapotable 2.3 Ti EcoBoost 24V 309 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6369","VI descapotable (05/2014 - 02/2018)","05/2014","02/2018","52336","FORD USA MUSTANG","FORD USA MUSTANG VI descapotable 5.0 i V8 24V 421 cv","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6369","VI descapotable (05/2014 - 02/2018)","05/2014","02/2018","52335","FORD USA MUSTANG","FORD USA MUSTANG VI descapotable 5.0 i V8 24V 419 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6369","VI descapotable (05/2014 - 02/2018)","05/2014","02/2018","63801","FORD USA MUSTANG","FORD USA MUSTANG VI descapotable 3.7 i V6 24V 304 cv","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7216","Mach-E (09/2020 - Hoy)","09/2020","","63793","FORD USA MUSTANG","FORD USA MUSTANG Mach-E GT Extended Range AWD 487 cv Transmisión automática","Electrico"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7216","Mach-E (09/2020 - Hoy)","09/2020","","63794","FORD USA MUSTANG","FORD USA MUSTANG Mach-E Standard Range RWD 269 cv Transmisión automática","Electrico"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7216","Mach-E (09/2020 - Hoy)","09/2020","","63792","FORD USA MUSTANG","FORD USA MUSTANG Mach-E Extended Range AWD 351 cv Transmisión automática","Electrico"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7216","Mach-E (09/2020 - Hoy)","09/2020","","63791","FORD USA MUSTANG","FORD USA MUSTANG Mach-E Standard Range AWD 269 cv Transmisión automática","Electrico"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7216","Mach-E (09/2020 - Hoy)","09/2020","","63795","FORD USA MUSTANG","FORD USA MUSTANG Mach-E Extended Range RWD 294 cv Transmisión automática","Electrico"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-7216","Mach-E (09/2020 - Hoy)","09/2020","","63796","FORD USA MUSTANG","FORD USA MUSTANG Mach-E Extended Range AWD 337 cv Transmisión automática","Electrico"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6367","V-2 descapotable (02/2011 - 06/2014)","02/2011","06/2014","63797","FORD USA MUSTANG","FORD USA MUSTANG V-2 descapotable 5.0 i V8 32V Automatic 418 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6367","V-2 descapotable (02/2011 - 06/2014)","02/2011","06/2014","61777","FORD USA MUSTANG","FORD USA MUSTANG V-2 descapotable 3.7 i V6 24V Automatic 309 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6367","V-2 descapotable (02/2011 - 06/2014)","02/2011","06/2014","63798","FORD USA MUSTANG","FORD USA MUSTANG V-2 descapotable 5.0 i V8 32V 418 cv","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6367","V-2 descapotable (02/2011 - 06/2014)","02/2011","06/2014","61778","FORD USA MUSTANG","FORD USA MUSTANG V-2 descapotable 3.7 i V6 24V 309 cv","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6767","VI Fase 2 Descapotable (02/2018 - Hoy)","02/2018","","59038","FORD USA MUSTANG","FORD USA MUSTANG VI Fase 2 Descapotable 2.3 Ti EcoBoost 24V 290 cv","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6767","VI Fase 2 Descapotable (02/2018 - Hoy)","02/2018","","59039","FORD USA MUSTANG","FORD USA MUSTANG VI Fase 2 Descapotable 5.0 i V8 24V 450 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6767","VI Fase 2 Descapotable (02/2018 - Hoy)","02/2018","","59040","FORD USA MUSTANG","FORD USA MUSTANG VI Fase 2 Descapotable 5.0 i V8 32V 450 cv","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-6767","VI Fase 2 Descapotable (02/2018 - Hoy)","02/2018","","59037","FORD USA MUSTANG","FORD USA MUSTANG VI Fase 2 Descapotable 2.3 Ti EcoBoost 24V 290 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-3133","Coupe (09/1993 - 12/2004)","09/1993","12/2004","27488","FORD USA MUSTANG","FORD USA MUSTANG Coupe 4.9 V8 218 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1365","MUSTANG","mo-3133","Coupe (09/1993 - 12/2004)","09/1993","12/2004","27127","FORD USA MUSTANG","FORD USA MUSTANG Coupe 3.8 V6 152 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1769","Explorer","mo-3373"," (01/1990 - 12/2000)","01/1990","12/2000","28178","FORD USA Explorer","FORD USA Explorer 4.0 i Familiar 164 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1769","Explorer","mo-3373"," (01/1990 - 12/2000)","01/1990","12/2000","65681","FORD USA Explorer","FORD USA Explorer 4.9 i 213 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1769","Explorer","mo-3373"," (01/1990 - 12/2000)","01/1990","12/2000","28182","FORD USA Explorer","FORD USA Explorer 4.0 i Familiar 204 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1769","Explorer","mo-3373"," (01/1990 - 12/2000)","01/1990","12/2000","65680","FORD USA Explorer","FORD USA Explorer 4.0 i 204 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1769","Explorer","mo-3373"," (01/1990 - 12/2000)","01/1990","12/2000","28180","FORD USA Explorer","FORD USA Explorer 4.9 i Familiar 213 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1769","Explorer","mo-3373"," (01/1990 - 12/2000)","01/1990","12/2000","28179","FORD USA Explorer","FORD USA Explorer 4.0 i 4WD Familiar 164 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1769","Explorer","mo-3373"," (01/1990 - 12/2000)","01/1990","12/2000","65679","FORD USA Explorer","FORD USA Explorer 4.0 i 4WD 208 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1769","Explorer","mo-3373"," (01/1990 - 12/2000)","01/1990","12/2000","28181","FORD USA Explorer","FORD USA Explorer 4.0 i Familiar 208 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1769","Explorer","mo-5699"," (11/2010 - Hoy)","11/2010","","58223","FORD USA Explorer","FORD USA Explorer Sport 3.5 Ti-VCT V6-370 AWD 24V SelectShift EcoBoost 370 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1769","Explorer","mo-5699"," (11/2010 - Hoy)","11/2010","","58222","FORD USA Explorer","FORD USA Explorer 3.5 Ti-VCT V6-294 FWD 24V SelectShift 294 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1769","Explorer","mo-5699"," (11/2010 - Hoy)","11/2010","","58221","FORD USA Explorer","FORD USA Explorer 3.5 Ti-VCT V6-294 AWD 24V SelectShift 294 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1769","Explorer","mo-6694","II (U2) (10/1996 - 12/2001)","10/1996","12/2001","58219","FORD USA Explorer","FORD USA Explorer II (U2) 4.0 V6 4WD 24V 197 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1769","Explorer","mo-7458","VI (06/2020 - Hoy)","06/2020","","65678","FORD USA Explorer","FORD USA Explorer VI 3.0 i V6 EcoBoost 24V 457 Plug-in Hybrid AWD 363 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1769","Explorer","mo-6695","III (U251) (09/2001 - 12/2005)","09/2001","12/2005","58220","FORD USA Explorer","FORD USA Explorer III (U251) 4.6 V6 4WD 24V 242 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1769","Explorer","mo-7858","EV (CX740) (06/2024 - Hoy)","06/2024","","70524","FORD USA Explorer","FORD USA Explorer EV (CX740) 52 kWh 170 cv Transmisión automática","Electrico"
+"ma-269","FORD USA","fa-1769","Explorer","mo-7858","EV (CX740) (06/2024 - Hoy)","06/2024","","70525","FORD USA Explorer","FORD USA Explorer EV (CX740) 77 kWh 286 cv Transmisión automática","Electrico"
+"ma-269","FORD USA","fa-1769","Explorer","mo-7858","EV (CX740) (06/2024 - Hoy)","06/2024","","70526","FORD USA Explorer","FORD USA Explorer EV (CX740) 79 kWh 4WD 340 cv Transmisión automática","Electrico"
+"ma-269","FORD USA","fa-1303","BRONCO","mo-3034","II (09/1983 - 08/1990)","09/1983","08/1990","27168","FORD USA BRONCO","FORD USA BRONCO II 2.9 i V6 4x4 141 cv","Gasolina"
+"ma-269","FORD USA","fa-1303","BRONCO","mo-7816","vehículo tout terrain à carrosserie ouverte (07/2019 - Hoy)","07/2019","","70128","FORD USA BRONCO","FORD USA BRONCO vehículo tout terrain à carrosserie ouverte 2.7 Ti-VCT EcoBoost 4x4 334 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-2431","Ranger","mo-7747","IV Crew Cab Pickup (03/2022 - Hoy)","03/2022","","69519","FORD USA Ranger","FORD USA Ranger IV Crew Cab Pickup 2.0 EcoBlue e-AWD 205 cv Transmisión automática","Diesel"
+"ma-269","FORD USA","fa-2431","Ranger","mo-7747","IV Crew Cab Pickup (03/2022 - Hoy)","03/2022","","69521","FORD USA Ranger","FORD USA Ranger IV Crew Cab Pickup Raptor 3.0 EcoBoost e-AWD 292 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-2431","Ranger","mo-7747","IV Crew Cab Pickup (03/2022 - Hoy)","03/2022","","69520","FORD USA Ranger","FORD USA Ranger IV Crew Cab Pickup 3.0 EcoBlue e-AWD 241 cv Transmisión automática","Diesel"
+"ma-269","FORD USA","fa-2431","Ranger","mo-7748","IV Extended Cab Pickup (03/2022 - Hoy)","03/2022","","69523","FORD USA Ranger","FORD USA Ranger IV Extended Cab Pickup 2.0 EcoBlue AWD 170 cv Transmisión automática","Diesel"
+"ma-269","FORD USA","fa-2431","Ranger","mo-7748","IV Extended Cab Pickup (03/2022 - Hoy)","03/2022","","70338","FORD USA Ranger","FORD USA Ranger IV Extended Cab Pickup 2.0 EcoBlue AWD 170 cv","Diesel"
+"ma-269","FORD USA","fa-2431","Ranger","mo-7748","IV Extended Cab Pickup (03/2022 - Hoy)","03/2022","","69522","FORD USA Ranger","FORD USA Ranger IV Extended Cab Pickup 2.0 EcoBlue 170 cv Transmisión automática","Diesel"
+"ma-269","FORD USA","fa-2431","Ranger","mo-7748","IV Extended Cab Pickup (03/2022 - Hoy)","03/2022","","69524","FORD USA Ranger","FORD USA Ranger IV Extended Cab Pickup 2.0 EcoBlue e-AWD 205 cv Transmisión automática","Diesel"
+"ma-269","FORD USA","fa-2431","Ranger","mo-7750","IV Cab & chasis (03/2022 - Hoy)","03/2022","","69526","FORD USA Ranger","FORD USA Ranger IV Cab & chasis 2.0 EcoBlue AWD 170 cv Transmisión automática","Diesel"
+"ma-269","FORD USA","fa-2431","Ranger","mo-7749","IV Standard Cab Pickup (03/2022 - Hoy)","03/2022","","69525","FORD USA Ranger","FORD USA Ranger IV Standard Cab Pickup 2.0 EcoBlue AWD 170 cv","Diesel"
+"ma-269","FORD USA","fa-1768","Aerostar","mo-3372"," (01/1990 - 12/1997)","01/1990","12/1997","28176","FORD USA Aerostar","FORD USA Aerostar 4.0 Monospace 157 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1768","Aerostar","mo-3372"," (01/1990 - 12/1997)","01/1990","12/1997","28177","FORD USA Aerostar","FORD USA Aerostar 3.0 Monospace 147 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1771","Windstar","mo-3375"," (01/1994 - 12/1998)","01/1994","12/1998","28185","FORD USA Windstar","FORD USA Windstar 3.8 V6 Monospace 203 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1771","Windstar","mo-3375"," (01/1994 - 12/1998)","01/1994","12/1998","27558","FORD USA Windstar","FORD USA Windstar 3.0 V6 147 cv","Gasolina"
+"ma-269","FORD USA","fa-1771","Windstar","mo-3375"," (01/1994 - 12/1998)","01/1994","12/1998","28184","FORD USA Windstar","FORD USA Windstar 3.0 V6 Monospace 148 cv Transmisión automática","Gasolina"
+"ma-269","FORD USA","fa-1380","TAURUS","mo-3158","Wagon (09/1996 - Hoy)","09/1996","","27538","FORD USA TAURUS","FORD USA TAURUS Wagon 3.0 V6 156 cv","Gasolina"
+"ma-269","FORD USA","fa-1380","TAURUS","mo-3158","Wagon (09/1996 - Hoy)","09/1996","","27493","FORD USA TAURUS","FORD USA TAURUS Wagon 3.0 147 cv","Gasolina"
+"ma-269","FORD USA","fa-1380","TAURUS","mo-3158","Wagon (09/1996 - Hoy)","09/1996","","27592","FORD USA TAURUS","FORD USA TAURUS Wagon 3.0 24V 203 cv","Gasolina"
+"ma-269","FORD USA","fa-1380","TAURUS","mo-3157"," (09/1996 - Hoy)","09/1996","","27383","FORD USA TAURUS","FORD USA TAURUS 3.0 147 cv","Gasolina"
+"ma-269","FORD USA","fa-1380","TAURUS","mo-3157"," (09/1996 - Hoy)","09/1996","","27216","FORD USA TAURUS","FORD USA TAURUS 3.0 V6 156 cv","Gasolina"
+"ma-269","FORD USA","fa-1380","TAURUS","mo-3157"," (09/1996 - Hoy)","09/1996","","27203","FORD USA TAURUS","FORD USA TAURUS 3.0 24V 203 cv","Gasolina"

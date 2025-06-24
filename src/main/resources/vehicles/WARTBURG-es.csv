@@ -1,7 +1,7 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-299,WARTBURG,fa-1929,353,mo-3649, (01/1966 - 09/1988),01/1966,09/1988,69367,WARTBURG 353,WARTBURG 353 1.0 familiar 50 cv,Gasolina
-ma-299,WARTBURG,fa-1929,353,mo-3649, (01/1966 - 09/1988),01/1966,09/1988,69368,WARTBURG 353,WARTBURG 353 1.0 Pickup 50 cv,Gasolina
-ma-299,WARTBURG,fa-1929,353,mo-3649, (01/1966 - 09/1988),01/1966,09/1988,60209,WARTBURG 353,WARTBURG 353 1.0 berlina 50 cv,Gasolina
-ma-299,WARTBURG,fa-1928,1300,mo-3648, (09/1988 - 05/1991),09/1988,05/1991,69369,WARTBURG 1300,WARTBURG 1300 1.3 Pickup 58 cv,Gasolina
-ma-299,WARTBURG,fa-1928,1300,mo-3648, (09/1988 - 05/1991),09/1988,05/1991,28662,WARTBURG 1300,WARTBURG 1300 1.3 Familiar 58 cv,Gasolina
-ma-299,WARTBURG,fa-1928,1300,mo-3648, (09/1988 - 05/1991),09/1988,05/1991,28661,WARTBURG 1300,WARTBURG 1300 1.3 Berlina 58 cv,Gasolina
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-299","WARTBURG","fa-1929","353","mo-3649"," (01/1966 - 09/1988)","01/1966","09/1988","69367","WARTBURG 353","WARTBURG 353 1.0 familiar 50 cv","Gasolina"
+"ma-299","WARTBURG","fa-1929","353","mo-3649"," (01/1966 - 09/1988)","01/1966","09/1988","69368","WARTBURG 353","WARTBURG 353 1.0 Pickup 50 cv","Gasolina"
+"ma-299","WARTBURG","fa-1929","353","mo-3649"," (01/1966 - 09/1988)","01/1966","09/1988","60209","WARTBURG 353","WARTBURG 353 1.0 berlina 50 cv","Gasolina"
+"ma-299","WARTBURG","fa-1928","1300","mo-3648"," (09/1988 - 05/1991)","09/1988","05/1991","69369","WARTBURG 1300","WARTBURG 1300 1.3 Pickup 58 cv","Gasolina"
+"ma-299","WARTBURG","fa-1928","1300","mo-3648"," (09/1988 - 05/1991)","09/1988","05/1991","28662","WARTBURG 1300","WARTBURG 1300 1.3 Familiar 58 cv","Gasolina"
+"ma-299","WARTBURG","fa-1928","1300","mo-3648"," (09/1988 - 05/1991)","09/1988","05/1991","28661","WARTBURG 1300","WARTBURG 1300 1.3 Berlina 58 cv","Gasolina"

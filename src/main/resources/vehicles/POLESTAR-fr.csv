@@ -1,10 +1,10 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-397,POLESTAR,fa-2325,Polestar 2,mo-7205,Berline (05/2020 - Aujourd'hui),05/2020,,69541,POLESTAR Polestar 2,POLESTAR Polestar 2 Berline Long range Dual motor pack Performance 476 cv Boîte auto,Electrique
-ma-397,POLESTAR,fa-2325,Polestar 2,mo-7205,Berline (05/2020 - Aujourd'hui),05/2020,,69538,POLESTAR Polestar 2,POLESTAR Polestar 2 Berline Standard range Single motor 231 cv Boîte auto,Electrique
-ma-397,POLESTAR,fa-2325,Polestar 2,mo-7205,Berline (05/2020 - Aujourd'hui),05/2020,,61794,POLESTAR Polestar 2,POLESTAR Polestar 2 Berline Long range Dual motor 408 cv Boîte auto,Electrique
-ma-397,POLESTAR,fa-2325,Polestar 2,mo-7205,Berline (05/2020 - Aujourd'hui),05/2020,,69539,POLESTAR Polestar 2,POLESTAR Polestar 2 Berline Long range Single motor 231 cv Boîte auto,Electrique
-ma-397,POLESTAR,fa-2325,Polestar 2,mo-7205,Berline (05/2020 - Aujourd'hui),05/2020,,69543,POLESTAR Polestar 2,POLESTAR Polestar 2 Berline Long range Single motor 299 cv Boîte auto,Electrique
-ma-397,POLESTAR,fa-2325,Polestar 2,mo-7205,Berline (05/2020 - Aujourd'hui),05/2020,,69540,POLESTAR Polestar 2,POLESTAR Polestar 2 Berline Standard range Single motor 224 cv Boîte auto,Electrique
-ma-397,POLESTAR,fa-2325,Polestar 2,mo-7205,Berline (05/2020 - Aujourd'hui),05/2020,,69542,POLESTAR Polestar 2,POLESTAR Polestar 2 Berline Standard range Single motor 272 cv Boîte auto,Electrique
-ma-397,POLESTAR,fa-2325,Polestar 2,mo-7205,Berline (05/2020 - Aujourd'hui),05/2020,,69544,POLESTAR Polestar 2,POLESTAR Polestar 2 Berline Long range Dual motor 421 cv Boîte auto,Electrique
-ma-397,POLESTAR,fa-2324,Polestar 1,mo-7204,Coupé (12/2019 - Aujourd'hui),12/2019,,61793,POLESTAR Polestar 1,POLESTAR Polestar 1 Coupé 2.0 Ti 16V 609 PHEV AWD 309 cv,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-397","POLESTAR","fa-2325","Polestar 2","mo-7205","Berline (05/2020 - Aujourd'hui)","05/2020","","69541","POLESTAR Polestar 2","POLESTAR Polestar 2 Berline Long range Dual motor pack Performance 476 cv Boîte auto","Electrique"
+"ma-397","POLESTAR","fa-2325","Polestar 2","mo-7205","Berline (05/2020 - Aujourd'hui)","05/2020","","69538","POLESTAR Polestar 2","POLESTAR Polestar 2 Berline Standard range Single motor 231 cv Boîte auto","Electrique"
+"ma-397","POLESTAR","fa-2325","Polestar 2","mo-7205","Berline (05/2020 - Aujourd'hui)","05/2020","","61794","POLESTAR Polestar 2","POLESTAR Polestar 2 Berline Long range Dual motor 408 cv Boîte auto","Electrique"
+"ma-397","POLESTAR","fa-2325","Polestar 2","mo-7205","Berline (05/2020 - Aujourd'hui)","05/2020","","69539","POLESTAR Polestar 2","POLESTAR Polestar 2 Berline Long range Single motor 231 cv Boîte auto","Electrique"
+"ma-397","POLESTAR","fa-2325","Polestar 2","mo-7205","Berline (05/2020 - Aujourd'hui)","05/2020","","69543","POLESTAR Polestar 2","POLESTAR Polestar 2 Berline Long range Single motor 299 cv Boîte auto","Electrique"
+"ma-397","POLESTAR","fa-2325","Polestar 2","mo-7205","Berline (05/2020 - Aujourd'hui)","05/2020","","69540","POLESTAR Polestar 2","POLESTAR Polestar 2 Berline Standard range Single motor 224 cv Boîte auto","Electrique"
+"ma-397","POLESTAR","fa-2325","Polestar 2","mo-7205","Berline (05/2020 - Aujourd'hui)","05/2020","","69542","POLESTAR Polestar 2","POLESTAR Polestar 2 Berline Standard range Single motor 272 cv Boîte auto","Electrique"
+"ma-397","POLESTAR","fa-2325","Polestar 2","mo-7205","Berline (05/2020 - Aujourd'hui)","05/2020","","69544","POLESTAR Polestar 2","POLESTAR Polestar 2 Berline Long range Dual motor 421 cv Boîte auto","Electrique"
+"ma-397","POLESTAR","fa-2324","Polestar 1","mo-7204","Coupé (12/2019 - Aujourd'hui)","12/2019","","61793","POLESTAR Polestar 1","POLESTAR Polestar 1 Coupé 2.0 Ti 16V 609 PHEV AWD 309 cv","Essence"

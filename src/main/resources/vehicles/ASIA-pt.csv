@@ -1,5 +1,5 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-278,ASIA,fa-1688,Rocsta,mo-3243, (02/1990 - 01/2000),02/1990,01/2000,27656,ASIA Rocsta,ASIA Rocsta 2.2 D 4WD Break 72 cv,Diesel
-ma-278,ASIA,fa-1688,Rocsta,mo-3243, (02/1990 - 01/2000),02/1990,01/2000,27657,ASIA Rocsta,ASIA Rocsta 1.8 i 4WD Break 85 cv,Essence
-ma-278,ASIA,fa-1688,Rocsta,mo-3243, (02/1990 - 01/2000),02/1990,01/2000,46562,ASIA Rocsta,ASIA Rocsta 2.2 D 4WD Break 61 cv,Diesel
-ma-278,ASIA,fa-1687,Hi-Topic,mo-3242, (10/1996 - 01/2000),10/1996,01/2000,27655,ASIA Hi-Topic,ASIA Hi-Topic 2.7 D Fourgon/Van court tôlé 75 cv,Diesel
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-278","ASIA","fa-1688","Rocsta","mo-3243"," (02/1990 - 01/2000)","02/1990","01/2000","27656","ASIA Rocsta","ASIA Rocsta 2.2 D 4WD Break 72 cv","Diesel"
+"ma-278","ASIA","fa-1688","Rocsta","mo-3243"," (02/1990 - 01/2000)","02/1990","01/2000","27657","ASIA Rocsta","ASIA Rocsta 1.8 i 4WD Break 85 cv","Essence"
+"ma-278","ASIA","fa-1688","Rocsta","mo-3243"," (02/1990 - 01/2000)","02/1990","01/2000","46562","ASIA Rocsta","ASIA Rocsta 2.2 D 4WD Break 61 cv","Diesel"
+"ma-278","ASIA","fa-1687","Hi-Topic","mo-3242"," (10/1996 - 01/2000)","10/1996","01/2000","27655","ASIA Hi-Topic","ASIA Hi-Topic 2.7 D Fourgon/Van court tôlé 75 cv","Diesel"

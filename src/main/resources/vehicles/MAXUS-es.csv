@@ -1,21 +1,21 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-418,MAXUS,fa-2469,EDELIVER,mo-7847,3 furgón (07/2020 - Hoy),07/2020,,70394,MAXUS EDELIVER,MAXUS EDELIVER 3 furgón L1 50 kWh 160 cv Transmisión automática,Electrico
-ma-418,MAXUS,fa-2469,EDELIVER,mo-7847,3 furgón (07/2020 - Hoy),07/2020,,70395,MAXUS EDELIVER,MAXUS EDELIVER 3 furgón L2 50 kWh 160 cv Transmisión automática,Electrico
-ma-418,MAXUS,fa-2469,EDELIVER,mo-7848,3 Camion plate-forme/chasis (10/2022 - Hoy),10/2022,,70396,MAXUS EDELIVER,MAXUS EDELIVER 3 Camion plate-forme/chasis L2 51,5 kWh 160 cv Transmisión automática,Electrico
-ma-418,MAXUS,fa-2469,EDELIVER,mo-7845,9 furgón (07/2019 - Hoy),07/2019,,70387,MAXUS EDELIVER,MAXUS EDELIVER 9 furgón L2H2 72 kWh 204 cv Transmisión automática,Electrico
-ma-418,MAXUS,fa-2469,EDELIVER,mo-7845,9 furgón (07/2019 - Hoy),07/2019,,70388,MAXUS EDELIVER,MAXUS EDELIVER 9 furgón L3H2 72 kWh 204 cv Transmisión automática,Electrico
-ma-418,MAXUS,fa-2469,EDELIVER,mo-7845,9 furgón (07/2019 - Hoy),07/2019,,70389,MAXUS EDELIVER,MAXUS EDELIVER 9 furgón L3H2 88 kWh 204 cv Transmisión automática,Electrico
-ma-418,MAXUS,fa-2469,EDELIVER,mo-7845,9 furgón (07/2019 - Hoy),07/2019,,70386,MAXUS EDELIVER,MAXUS EDELIVER 9 furgón L2H2 52 kWh 204 cv Transmisión automática,Electrico
-ma-418,MAXUS,fa-2469,EDELIVER,mo-7845,9 furgón (07/2019 - Hoy),07/2019,,70390,MAXUS EDELIVER,MAXUS EDELIVER 9 furgón L3H3 72 kWh 204 cv Transmisión automática,Electrico
-ma-418,MAXUS,fa-2469,EDELIVER,mo-7845,9 furgón (07/2019 - Hoy),07/2019,,70391,MAXUS EDELIVER,MAXUS EDELIVER 9 furgón L3H3 88 kWh 204 cv Transmisión automática,Electrico
-ma-418,MAXUS,fa-2469,EDELIVER,mo-7843,7 furgón (12/2023 - Hoy),12/2023,,70381,MAXUS EDELIVER,MAXUS EDELIVER 7 furgón L1 77 kWh 204 cv Transmisión automática,Electrico
-ma-418,MAXUS,fa-2469,EDELIVER,mo-7843,7 furgón (12/2023 - Hoy),12/2023,,70382,MAXUS EDELIVER,MAXUS EDELIVER 7 furgón L1 88 kWh 204 cv Transmisión automática,Electrico
-ma-418,MAXUS,fa-2469,EDELIVER,mo-7843,7 furgón (12/2023 - Hoy),12/2023,,70384,MAXUS EDELIVER,MAXUS EDELIVER 7 furgón L2 88 kWh 204 cv Transmisión automática,Electrico
-ma-418,MAXUS,fa-2469,EDELIVER,mo-7843,7 furgón (12/2023 - Hoy),12/2023,,70383,MAXUS EDELIVER,MAXUS EDELIVER 7 furgón L2 77 kWh 204 cv Transmisión automática,Electrico
-ma-418,MAXUS,fa-2469,EDELIVER,mo-7846,9 Camion plate-forme/chasis (10/2022 - Hoy),10/2022,,70393,MAXUS EDELIVER,MAXUS EDELIVER 9 Camion plate-forme/chasis L4 65 kWh 204 cv Transmisión automática,Electrico
-ma-418,MAXUS,fa-2469,EDELIVER,mo-7846,9 Camion plate-forme/chasis (10/2022 - Hoy),10/2022,,70392,MAXUS EDELIVER,MAXUS EDELIVER 9 Camion plate-forme/chasis L3 65 kWh 204 cv Transmisión automática,Electrico
-ma-418,MAXUS,fa-2471,DELIVER,mo-7850,9 furgón (07/2020 - Hoy),07/2020,,70402,MAXUS DELIVER,MAXUS DELIVER 9 furgón L3H2 2.0 D FWD 163 cv,Diesel
-ma-418,MAXUS,fa-2471,DELIVER,mo-7850,9 furgón (07/2020 - Hoy),07/2020,,70401,MAXUS DELIVER,MAXUS DELIVER 9 furgón L3H2 2.0 D RWD 163 cv,Diesel
-ma-418,MAXUS,fa-2471,DELIVER,mo-7850,9 furgón (07/2020 - Hoy),07/2020,,70404,MAXUS DELIVER,MAXUS DELIVER 9 furgón L3H2 2.0 D FWD 148 cv,Diesel
-ma-418,MAXUS,fa-2471,DELIVER,mo-7850,9 furgón (07/2020 - Hoy),07/2020,,70403,MAXUS DELIVER,MAXUS DELIVER 9 furgón L3H2 2.0 D RWD 148 cv,Diesel
-ma-418,MAXUS,fa-2470,T90,mo-7844, (03/2021 - Hoy),03/2021,,70385,MAXUS T90,MAXUS T90 EV 177 cv Transmisión automática,Electrico
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-418","MAXUS","fa-2469","EDELIVER","mo-7847","3 furgón (07/2020 - Hoy)","07/2020","","70394","MAXUS EDELIVER","MAXUS EDELIVER 3 furgón L1 50 kWh 160 cv Transmisión automática","Electrico"
+"ma-418","MAXUS","fa-2469","EDELIVER","mo-7847","3 furgón (07/2020 - Hoy)","07/2020","","70395","MAXUS EDELIVER","MAXUS EDELIVER 3 furgón L2 50 kWh 160 cv Transmisión automática","Electrico"
+"ma-418","MAXUS","fa-2469","EDELIVER","mo-7848","3 Camion plate-forme/chasis (10/2022 - Hoy)","10/2022","","70396","MAXUS EDELIVER","MAXUS EDELIVER 3 Camion plate-forme/chasis L2 51,5 kWh 160 cv Transmisión automática","Electrico"
+"ma-418","MAXUS","fa-2469","EDELIVER","mo-7845","9 furgón (07/2019 - Hoy)","07/2019","","70387","MAXUS EDELIVER","MAXUS EDELIVER 9 furgón L2H2 72 kWh 204 cv Transmisión automática","Electrico"
+"ma-418","MAXUS","fa-2469","EDELIVER","mo-7845","9 furgón (07/2019 - Hoy)","07/2019","","70388","MAXUS EDELIVER","MAXUS EDELIVER 9 furgón L3H2 72 kWh 204 cv Transmisión automática","Electrico"
+"ma-418","MAXUS","fa-2469","EDELIVER","mo-7845","9 furgón (07/2019 - Hoy)","07/2019","","70389","MAXUS EDELIVER","MAXUS EDELIVER 9 furgón L3H2 88 kWh 204 cv Transmisión automática","Electrico"
+"ma-418","MAXUS","fa-2469","EDELIVER","mo-7845","9 furgón (07/2019 - Hoy)","07/2019","","70386","MAXUS EDELIVER","MAXUS EDELIVER 9 furgón L2H2 52 kWh 204 cv Transmisión automática","Electrico"
+"ma-418","MAXUS","fa-2469","EDELIVER","mo-7845","9 furgón (07/2019 - Hoy)","07/2019","","70390","MAXUS EDELIVER","MAXUS EDELIVER 9 furgón L3H3 72 kWh 204 cv Transmisión automática","Electrico"
+"ma-418","MAXUS","fa-2469","EDELIVER","mo-7845","9 furgón (07/2019 - Hoy)","07/2019","","70391","MAXUS EDELIVER","MAXUS EDELIVER 9 furgón L3H3 88 kWh 204 cv Transmisión automática","Electrico"
+"ma-418","MAXUS","fa-2469","EDELIVER","mo-7843","7 furgón (12/2023 - Hoy)","12/2023","","70381","MAXUS EDELIVER","MAXUS EDELIVER 7 furgón L1 77 kWh 204 cv Transmisión automática","Electrico"
+"ma-418","MAXUS","fa-2469","EDELIVER","mo-7843","7 furgón (12/2023 - Hoy)","12/2023","","70382","MAXUS EDELIVER","MAXUS EDELIVER 7 furgón L1 88 kWh 204 cv Transmisión automática","Electrico"
+"ma-418","MAXUS","fa-2469","EDELIVER","mo-7843","7 furgón (12/2023 - Hoy)","12/2023","","70384","MAXUS EDELIVER","MAXUS EDELIVER 7 furgón L2 88 kWh 204 cv Transmisión automática","Electrico"
+"ma-418","MAXUS","fa-2469","EDELIVER","mo-7843","7 furgón (12/2023 - Hoy)","12/2023","","70383","MAXUS EDELIVER","MAXUS EDELIVER 7 furgón L2 77 kWh 204 cv Transmisión automática","Electrico"
+"ma-418","MAXUS","fa-2469","EDELIVER","mo-7846","9 Camion plate-forme/chasis (10/2022 - Hoy)","10/2022","","70393","MAXUS EDELIVER","MAXUS EDELIVER 9 Camion plate-forme/chasis L4 65 kWh 204 cv Transmisión automática","Electrico"
+"ma-418","MAXUS","fa-2469","EDELIVER","mo-7846","9 Camion plate-forme/chasis (10/2022 - Hoy)","10/2022","","70392","MAXUS EDELIVER","MAXUS EDELIVER 9 Camion plate-forme/chasis L3 65 kWh 204 cv Transmisión automática","Electrico"
+"ma-418","MAXUS","fa-2471","DELIVER","mo-7850","9 furgón (07/2020 - Hoy)","07/2020","","70402","MAXUS DELIVER","MAXUS DELIVER 9 furgón L3H2 2.0 D FWD 163 cv","Diesel"
+"ma-418","MAXUS","fa-2471","DELIVER","mo-7850","9 furgón (07/2020 - Hoy)","07/2020","","70401","MAXUS DELIVER","MAXUS DELIVER 9 furgón L3H2 2.0 D RWD 163 cv","Diesel"
+"ma-418","MAXUS","fa-2471","DELIVER","mo-7850","9 furgón (07/2020 - Hoy)","07/2020","","70404","MAXUS DELIVER","MAXUS DELIVER 9 furgón L3H2 2.0 D FWD 148 cv","Diesel"
+"ma-418","MAXUS","fa-2471","DELIVER","mo-7850","9 furgón (07/2020 - Hoy)","07/2020","","70403","MAXUS DELIVER","MAXUS DELIVER 9 furgón L3H2 2.0 D RWD 148 cv","Diesel"
+"ma-418","MAXUS","fa-2470","T90","mo-7844"," (03/2021 - Hoy)","03/2021","","70385","MAXUS T90","MAXUS T90 EV 177 cv Transmisión automática","Electrico"

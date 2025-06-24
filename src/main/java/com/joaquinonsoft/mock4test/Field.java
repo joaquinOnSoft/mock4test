@@ -1,15 +1,10 @@
 package com.joaquinonsoft.mock4test;
 
 import com.joaquinonsoft.mock4test.util.FileUtil;
-import org.jsefa.common.lowlevel.filter.HeaderAndFooterFilter;
-import org.jsefa.csv.CsvDeserializer;
-import org.jsefa.csv.CsvIOFactory;
-import org.jsefa.csv.config.CsvConfiguration;
+import com.opencsv.bean.CsvToBean;
+import com.opencsv.bean.CsvToBeanBuilder;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.util.ArrayList;
+import java.io.*;
 import java.util.List;
 import java.util.Locale;
 
@@ -19,30 +14,40 @@ public class Field {
     /**
      * Use "es-ES" as default language and region tag.
      */
-    public Field(){
+    public Field() {
         this.locale = Locale.forLanguageTag("es-ES");
     }
 
-    public Field(Locale locale){
+    public Field(Locale locale) {
         this.locale = locale;
     }
 
     protected List<?> loadCSV(String alias, Class<?> dto) throws FileNotFoundException {
-        List<?> dtos = new ArrayList<>();
+        return loadCSV(alias, dto, false);
+    }
 
-        CsvConfiguration config = new CsvConfiguration();
-        // header of size 1, no footer, store the filtered lines
-        config.setLineFilter(new HeaderAndFooterFilter(1, false, true));
-        CsvDeserializer deserializer = CsvIOFactory.createFactory(config, dto).createDeserializer();
+    @SuppressWarnings("unchecked")
+    protected List<?> loadCSV(String alias, Class<?> dto, boolean withQuoteChar) throws FileNotFoundException {
         File csv = FileUtil.getLocalizedCSVFromResources(locale, alias);
-        if(csv != null) {
-            deserializer.open(new FileReader(csv));
-            while (deserializer.hasNext()) {
-                dtos.add(deserializer.next());
-            }
-            //String header = deserializer.getStoredLines().get(0).getContent();
-            deserializer.close(true);
+        Reader reader = new BufferedReader(new FileReader(csv));
+
+        CsvToBean<?> csvReader;
+        if(withQuoteChar){
+            csvReader = new CsvToBeanBuilder(reader)
+                    .withType(dto)
+                    .withSeparator(',')
+                    .withQuoteChar('"')
+                    .withIgnoreLeadingWhiteSpace(true)
+                    .withIgnoreEmptyLine(true)
+                    .build();
         }
-        return dtos;
+        else{
+            csvReader = new CsvToBeanBuilder(reader)
+                    .withType(dto)
+                    .withIgnoreLeadingWhiteSpace(true)
+                    .withIgnoreEmptyLine(true)
+                    .build();
+        }
+        return csvReader.parse();
     }
 }

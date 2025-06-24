@@ -1,18 +1,18 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-284,CATERHAM,fa-1731,Seven,mo-3310,Super Seven (01/1990 - 12/2005),01/1990,12/2005,36370,CATERHAM Seven,CATERHAM Seven Super Seven 1.7 Roadster 135 cv,Essence
-ma-284,CATERHAM,fa-1731,Seven,mo-3310,Super Seven (01/1990 - 12/2005),01/1990,12/2005,29426,CATERHAM Seven,CATERHAM Seven Super Seven 2.0 i 16V Roadster 165 cv,Essence
-ma-284,CATERHAM,fa-1731,Seven,mo-3310,Super Seven (01/1990 - 12/2005),01/1990,12/2005,27739,CATERHAM Seven,CATERHAM Seven Super Seven 1.4 i 16V Roadster 132 cv,Essence
-ma-284,CATERHAM,fa-1731,Seven,mo-3310,Super Seven (01/1990 - 12/2005),01/1990,12/2005,35481,CATERHAM Seven,CATERHAM Seven Super Seven 1.6 Roadster 100 cv,Essence
-ma-284,CATERHAM,fa-1731,Seven,mo-3310,Super Seven (01/1990 - 12/2005),01/1990,12/2005,69120,CATERHAM Seven,CATERHAM Seven Super Seven 1.6 Roadster 110 cv,Essence
-ma-284,CATERHAM,fa-1731,Seven,mo-3310,Super Seven (01/1990 - 12/2005),01/1990,12/2005,69121,CATERHAM Seven,CATERHAM Seven Super Seven 1.6 Roadster 84 cv,Essence
-ma-284,CATERHAM,fa-1731,Seven,mo-3310,Super Seven (01/1990 - 12/2005),01/1990,12/2005,69126,CATERHAM Seven,CATERHAM Seven Super Seven 2.0 16V Roadster 175 cv,Essence
-ma-284,CATERHAM,fa-1731,Seven,mo-3310,Super Seven (01/1990 - 12/2005),01/1990,12/2005,69119,CATERHAM Seven,CATERHAM Seven Super Seven 1.4 i 16V Roadster 104 cv,Essence
-ma-284,CATERHAM,fa-1731,Seven,mo-3309,Super Seven (01/1981 - 12/1990),01/1981,12/1990,60210,CATERHAM Seven,CATERHAM Seven Super Seven 1.6 Roadster 130 cv,Essence
-ma-284,CATERHAM,fa-1731,Seven,mo-3309,Super Seven (01/1981 - 12/1990),01/1981,12/1990,69122,CATERHAM Seven,CATERHAM Seven Super Seven 1.6 Roadster 95 cv,Essence
-ma-284,CATERHAM,fa-1731,Seven,mo-3309,Super Seven (01/1981 - 12/1990),01/1981,12/1990,69124,CATERHAM Seven,CATERHAM Seven Super Seven 1600 Cosworth 1.6 16V Roadster 150 cv,Essence
-ma-284,CATERHAM,fa-1731,Seven,mo-3309,Super Seven (01/1981 - 12/1990),01/1981,12/1990,60207,CATERHAM Seven,CATERHAM Seven Super Seven 1.6 Roadster 84 cv,Essence
-ma-284,CATERHAM,fa-1731,Seven,mo-3309,Super Seven (01/1981 - 12/1990),01/1981,12/1990,69117,CATERHAM Seven,CATERHAM Seven Super Seven 1.6 Roadster 110 cv,Essence
-ma-284,CATERHAM,fa-1731,Seven,mo-3309,Super Seven (01/1981 - 12/1990),01/1981,12/1990,69125,CATERHAM Seven,CATERHAM Seven Super Seven 1700 Cosworth 1.7 16V Roadster 170 cv,Essence
-ma-284,CATERHAM,fa-1731,Seven,mo-3309,Super Seven (01/1981 - 12/1990),01/1981,12/1990,69118,CATERHAM Seven,CATERHAM Seven Super Seven 1.6 Roadster 126 cv,Essence
-ma-284,CATERHAM,fa-1731,Seven,mo-3309,Super Seven (01/1981 - 12/1990),01/1981,12/1990,69123,CATERHAM Seven,CATERHAM Seven Super Seven 1.6 Turbo Roadster 132 cv,Essence
-ma-284,CATERHAM,fa-1731,Seven,mo-6788,Super Seven (01/2006 - Aujourd'hui),01/2006,,59048,CATERHAM Seven,CATERHAM Seven Super Seven 2.0 Roadster 240 cv,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-284","CATERHAM","fa-1731","Seven","mo-3310","Super Seven (01/1990 - 12/2005)","01/1990","12/2005","36370","CATERHAM Seven","CATERHAM Seven Super Seven 1.7 Roadster 135 cv","Essence"
+"ma-284","CATERHAM","fa-1731","Seven","mo-3310","Super Seven (01/1990 - 12/2005)","01/1990","12/2005","29426","CATERHAM Seven","CATERHAM Seven Super Seven 2.0 i 16V Roadster 165 cv","Essence"
+"ma-284","CATERHAM","fa-1731","Seven","mo-3310","Super Seven (01/1990 - 12/2005)","01/1990","12/2005","27739","CATERHAM Seven","CATERHAM Seven Super Seven 1.4 i 16V Roadster 132 cv","Essence"
+"ma-284","CATERHAM","fa-1731","Seven","mo-3310","Super Seven (01/1990 - 12/2005)","01/1990","12/2005","35481","CATERHAM Seven","CATERHAM Seven Super Seven 1.6 Roadster 100 cv","Essence"
+"ma-284","CATERHAM","fa-1731","Seven","mo-3310","Super Seven (01/1990 - 12/2005)","01/1990","12/2005","69120","CATERHAM Seven","CATERHAM Seven Super Seven 1.6 Roadster 110 cv","Essence"
+"ma-284","CATERHAM","fa-1731","Seven","mo-3310","Super Seven (01/1990 - 12/2005)","01/1990","12/2005","69121","CATERHAM Seven","CATERHAM Seven Super Seven 1.6 Roadster 84 cv","Essence"
+"ma-284","CATERHAM","fa-1731","Seven","mo-3310","Super Seven (01/1990 - 12/2005)","01/1990","12/2005","69126","CATERHAM Seven","CATERHAM Seven Super Seven 2.0 16V Roadster 175 cv","Essence"
+"ma-284","CATERHAM","fa-1731","Seven","mo-3310","Super Seven (01/1990 - 12/2005)","01/1990","12/2005","69119","CATERHAM Seven","CATERHAM Seven Super Seven 1.4 i 16V Roadster 104 cv","Essence"
+"ma-284","CATERHAM","fa-1731","Seven","mo-3309","Super Seven (01/1981 - 12/1990)","01/1981","12/1990","60210","CATERHAM Seven","CATERHAM Seven Super Seven 1.6 Roadster 130 cv","Essence"
+"ma-284","CATERHAM","fa-1731","Seven","mo-3309","Super Seven (01/1981 - 12/1990)","01/1981","12/1990","69122","CATERHAM Seven","CATERHAM Seven Super Seven 1.6 Roadster 95 cv","Essence"
+"ma-284","CATERHAM","fa-1731","Seven","mo-3309","Super Seven (01/1981 - 12/1990)","01/1981","12/1990","69124","CATERHAM Seven","CATERHAM Seven Super Seven 1600 Cosworth 1.6 16V Roadster 150 cv","Essence"
+"ma-284","CATERHAM","fa-1731","Seven","mo-3309","Super Seven (01/1981 - 12/1990)","01/1981","12/1990","60207","CATERHAM Seven","CATERHAM Seven Super Seven 1.6 Roadster 84 cv","Essence"
+"ma-284","CATERHAM","fa-1731","Seven","mo-3309","Super Seven (01/1981 - 12/1990)","01/1981","12/1990","69117","CATERHAM Seven","CATERHAM Seven Super Seven 1.6 Roadster 110 cv","Essence"
+"ma-284","CATERHAM","fa-1731","Seven","mo-3309","Super Seven (01/1981 - 12/1990)","01/1981","12/1990","69125","CATERHAM Seven","CATERHAM Seven Super Seven 1700 Cosworth 1.7 16V Roadster 170 cv","Essence"
+"ma-284","CATERHAM","fa-1731","Seven","mo-3309","Super Seven (01/1981 - 12/1990)","01/1981","12/1990","69118","CATERHAM Seven","CATERHAM Seven Super Seven 1.6 Roadster 126 cv","Essence"
+"ma-284","CATERHAM","fa-1731","Seven","mo-3309","Super Seven (01/1981 - 12/1990)","01/1981","12/1990","69123","CATERHAM Seven","CATERHAM Seven Super Seven 1.6 Turbo Roadster 132 cv","Essence"
+"ma-284","CATERHAM","fa-1731","Seven","mo-6788","Super Seven (01/2006 - Aujourd'hui)","01/2006","","59048","CATERHAM Seven","CATERHAM Seven Super Seven 2.0 Roadster 240 cv","Essence"

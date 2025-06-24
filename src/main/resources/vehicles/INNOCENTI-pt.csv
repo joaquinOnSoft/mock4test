@@ -1,21 +1,21 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-103,INNOCENTI,fa-340,Mini,mo-1400, (10/1974 - 12/1984),10/1974,12/1984,5920,INNOCENTI Mini,INNOCENTI Mini 1000 44cv,Essence
-ma-103,INNOCENTI,fa-340,Mini,mo-1400, (10/1974 - 12/1984),10/1974,12/1984,20397,INNOCENTI Mini,INNOCENTI Mini 1300 71cv,Essence
-ma-103,INNOCENTI,fa-339,Mini tre,mo-1409, (04/1982 - 01/1995),04/1982,01/1995,58372,INNOCENTI Mini tre,INNOCENTI Mini tre 3 650 31 cv,Essence
-ma-103,INNOCENTI,fa-339,Mini tre,mo-1409, (04/1982 - 01/1995),04/1982,01/1995,5919,INNOCENTI Mini tre,INNOCENTI Mini tre 3 990 D 37cv,Diesel
-ma-103,INNOCENTI,fa-339,Mini tre,mo-1409, (04/1982 - 01/1995),04/1982,01/1995,5918,INNOCENTI Mini tre,INNOCENTI Mini tre 3 990 Turbo 72cv,Essence
-ma-103,INNOCENTI,fa-339,Mini tre,mo-1409, (04/1982 - 01/1995),04/1982,01/1995,20395,INNOCENTI Mini tre,INNOCENTI Mini tre 3 550 33cv,Essence
-ma-103,INNOCENTI,fa-339,Mini tre,mo-1409, (04/1982 - 01/1995),04/1982,01/1995,15010,INNOCENTI Mini tre,INNOCENTI Mini tre 3 650 Turbo 31 cv,Essence
-ma-103,INNOCENTI,fa-339,Mini tre,mo-1409, (04/1982 - 01/1995),04/1982,01/1995,4146,INNOCENTI Mini tre,INNOCENTI Mini tre 3 990 52cv,Essence
-ma-103,INNOCENTI,fa-339,Mini tre,mo-1409, (04/1982 - 01/1995),04/1982,01/1995,20396,INNOCENTI Mini tre,INNOCENTI Mini tre Minimatic 990 52cv Caixa Automática,Essence
-ma-103,INNOCENTI,fa-339,Mini tre,mo-1409, (04/1982 - 01/1995),04/1982,01/1995,5917,INNOCENTI Mini tre,INNOCENTI Mini tre 3 990 52cv Caixa Automática,Essence
-ma-103,INNOCENTI,fa-336,Elba,mo-890,(146) (04/1991 - 12/1997),04/1991,12/1997,4141,INNOCENTI Elba,INNOCENTI Elba (146) 1.4 ie 67cv,Essence
-ma-103,INNOCENTI,fa-336,Elba,mo-890,(146) (04/1991 - 12/1997),04/1991,12/1997,5912,INNOCENTI Elba,INNOCENTI Elba (146) 1.3 Break 67cv,Essence
-ma-103,INNOCENTI,fa-336,Elba,mo-890,(146) (04/1991 - 12/1997),04/1991,12/1997,4143,INNOCENTI Elba,INNOCENTI Elba (146) 1.6 ie 75cv,Essence
-ma-103,INNOCENTI,fa-336,Elba,mo-890,(146) (04/1991 - 12/1997),04/1991,12/1997,15007,INNOCENTI Elba,INNOCENTI Elba (146) 1.5 ie Break 76cv,Essence
-ma-103,INNOCENTI,fa-336,Elba,mo-890,(146) (04/1991 - 12/1997),04/1991,12/1997,5913,INNOCENTI Elba,INNOCENTI Elba (146) 1.7 D 60cv,Diesel
-ma-103,INNOCENTI,fa-336,Elba,mo-890,(146) (04/1991 - 12/1997),04/1991,12/1997,4142,INNOCENTI Elba,INNOCENTI Elba (146) 1.6 ie Break 75cv,Essence
-ma-103,INNOCENTI,fa-336,Elba,mo-890,(146) (04/1991 - 12/1997),04/1991,12/1997,5914,INNOCENTI Elba,INNOCENTI Elba (146) 1.7 D 60cv,Diesel
-ma-103,INNOCENTI,fa-337,Koral,mo-1176, (01/1990 - 11/2008),01/1990,11/2008,5915,INNOCENTI Koral,INNOCENTI Koral 45 900 45cv,Essence
-ma-103,INNOCENTI,fa-337,Koral,mo-1176, (01/1990 - 11/2008),01/1990,11/2008,15008,INNOCENTI Koral,INNOCENTI Koral 45 900 40cv,Essence
-ma-103,INNOCENTI,fa-337,Koral,mo-1176, (01/1990 - 11/2008),01/1990,11/2008,15009,INNOCENTI Koral,INNOCENTI Koral 55 1100 55cv,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-103","INNOCENTI","fa-340","Mini","mo-1400"," (10/1974 - 12/1984)","10/1974","12/1984","5920","INNOCENTI Mini","INNOCENTI Mini 1000 44cv","Essence"
+"ma-103","INNOCENTI","fa-340","Mini","mo-1400"," (10/1974 - 12/1984)","10/1974","12/1984","20397","INNOCENTI Mini","INNOCENTI Mini 1300 71cv","Essence"
+"ma-103","INNOCENTI","fa-339","Mini tre","mo-1409"," (04/1982 - 01/1995)","04/1982","01/1995","58372","INNOCENTI Mini tre","INNOCENTI Mini tre 3 650 31 cv","Essence"
+"ma-103","INNOCENTI","fa-339","Mini tre","mo-1409"," (04/1982 - 01/1995)","04/1982","01/1995","5919","INNOCENTI Mini tre","INNOCENTI Mini tre 3 990 D 37cv","Diesel"
+"ma-103","INNOCENTI","fa-339","Mini tre","mo-1409"," (04/1982 - 01/1995)","04/1982","01/1995","5918","INNOCENTI Mini tre","INNOCENTI Mini tre 3 990 Turbo 72cv","Essence"
+"ma-103","INNOCENTI","fa-339","Mini tre","mo-1409"," (04/1982 - 01/1995)","04/1982","01/1995","20395","INNOCENTI Mini tre","INNOCENTI Mini tre 3 550 33cv","Essence"
+"ma-103","INNOCENTI","fa-339","Mini tre","mo-1409"," (04/1982 - 01/1995)","04/1982","01/1995","15010","INNOCENTI Mini tre","INNOCENTI Mini tre 3 650 Turbo 31 cv","Essence"
+"ma-103","INNOCENTI","fa-339","Mini tre","mo-1409"," (04/1982 - 01/1995)","04/1982","01/1995","4146","INNOCENTI Mini tre","INNOCENTI Mini tre 3 990 52cv","Essence"
+"ma-103","INNOCENTI","fa-339","Mini tre","mo-1409"," (04/1982 - 01/1995)","04/1982","01/1995","20396","INNOCENTI Mini tre","INNOCENTI Mini tre Minimatic 990 52cv Caixa Automática","Essence"
+"ma-103","INNOCENTI","fa-339","Mini tre","mo-1409"," (04/1982 - 01/1995)","04/1982","01/1995","5917","INNOCENTI Mini tre","INNOCENTI Mini tre 3 990 52cv Caixa Automática","Essence"
+"ma-103","INNOCENTI","fa-336","Elba","mo-890","(146) (04/1991 - 12/1997)","04/1991","12/1997","4141","INNOCENTI Elba","INNOCENTI Elba (146) 1.4 ie 67cv","Essence"
+"ma-103","INNOCENTI","fa-336","Elba","mo-890","(146) (04/1991 - 12/1997)","04/1991","12/1997","5912","INNOCENTI Elba","INNOCENTI Elba (146) 1.3 Break 67cv","Essence"
+"ma-103","INNOCENTI","fa-336","Elba","mo-890","(146) (04/1991 - 12/1997)","04/1991","12/1997","4143","INNOCENTI Elba","INNOCENTI Elba (146) 1.6 ie 75cv","Essence"
+"ma-103","INNOCENTI","fa-336","Elba","mo-890","(146) (04/1991 - 12/1997)","04/1991","12/1997","15007","INNOCENTI Elba","INNOCENTI Elba (146) 1.5 ie Break 76cv","Essence"
+"ma-103","INNOCENTI","fa-336","Elba","mo-890","(146) (04/1991 - 12/1997)","04/1991","12/1997","5913","INNOCENTI Elba","INNOCENTI Elba (146) 1.7 D 60cv","Diesel"
+"ma-103","INNOCENTI","fa-336","Elba","mo-890","(146) (04/1991 - 12/1997)","04/1991","12/1997","4142","INNOCENTI Elba","INNOCENTI Elba (146) 1.6 ie Break 75cv","Essence"
+"ma-103","INNOCENTI","fa-336","Elba","mo-890","(146) (04/1991 - 12/1997)","04/1991","12/1997","5914","INNOCENTI Elba","INNOCENTI Elba (146) 1.7 D 60cv","Diesel"
+"ma-103","INNOCENTI","fa-337","Koral","mo-1176"," (01/1990 - 11/2008)","01/1990","11/2008","5915","INNOCENTI Koral","INNOCENTI Koral 45 900 45cv","Essence"
+"ma-103","INNOCENTI","fa-337","Koral","mo-1176"," (01/1990 - 11/2008)","01/1990","11/2008","15008","INNOCENTI Koral","INNOCENTI Koral 45 900 40cv","Essence"
+"ma-103","INNOCENTI","fa-337","Koral","mo-1176"," (01/1990 - 11/2008)","01/1990","11/2008","15009","INNOCENTI Koral","INNOCENTI Koral 55 1100 55cv","Essence"

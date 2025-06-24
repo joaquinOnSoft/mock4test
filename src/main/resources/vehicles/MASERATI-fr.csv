@@ -1,88 +1,88 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-267,MASERATI,fa-1336,Ghibli,mo-5752,III (08/2013 - 09/2017),08/2013,09/2017,43389,MASERATI Ghibli,MASERATI Ghibli III 3.0 i 24V 330 cv Boîte auto,Essence
-ma-267,MASERATI,fa-1336,Ghibli,mo-5752,III (08/2013 - 09/2017),08/2013,09/2017,43387,MASERATI Ghibli,MASERATI Ghibli III 3.0 D 24V 250 cv Boîte auto,Diesel
-ma-267,MASERATI,fa-1336,Ghibli,mo-5752,III (08/2013 - 09/2017),08/2013,09/2017,43388,MASERATI Ghibli,MASERATI Ghibli III 3.0 D 24V 274 cv Boîte auto,Diesel
-ma-267,MASERATI,fa-1336,Ghibli,mo-5752,III (08/2013 - 09/2017),08/2013,09/2017,43390,MASERATI Ghibli,MASERATI Ghibli III S 3.0 i 24V 410 cv Boîte auto,Essence
-ma-267,MASERATI,fa-1336,Ghibli,mo-5752,III (08/2013 - 09/2017),08/2013,09/2017,43391,MASERATI Ghibli,MASERATI Ghibli III S Q4 3.0 i 24V 410 cv Boîte auto,Essence
-ma-267,MASERATI,fa-1336,Ghibli,mo-6777,III phase 2 (09/2017 - Aujourd'hui),09/2017,,58772,MASERATI Ghibli,MASERATI Ghibli III phase 2 3.0 D 24V 274 cv Boîte auto,Diesel
-ma-267,MASERATI,fa-1336,Ghibli,mo-6777,III phase 2 (09/2017 - Aujourd'hui),09/2017,,58773,MASERATI Ghibli,MASERATI Ghibli III phase 2 3.0 i 24V 350 cv Boîte auto,Essence
-ma-267,MASERATI,fa-1336,Ghibli,mo-6777,III phase 2 (09/2017 - Aujourd'hui),09/2017,,58774,MASERATI Ghibli,MASERATI Ghibli III phase 2 S Q4 3.0 i 24V 430 cv,Essence
-ma-267,MASERATI,fa-1336,Ghibli,mo-3086,II (04/1992 - 12/1997),04/1992,12/1997,27131,MASERATI Ghibli,MASERATI Ghibli II 2.0 24V Biturbo 306 cv,Essence
-ma-267,MASERATI,fa-1336,Ghibli,mo-3086,II (04/1992 - 12/1997),04/1992,12/1997,59348,MASERATI Ghibli,MASERATI Ghibli II 2.0 24V Biturbo 330 cv,Essence
-ma-267,MASERATI,fa-1336,Ghibli,mo-3086,II (04/1992 - 12/1997),04/1992,12/1997,27463,MASERATI Ghibli,MASERATI Ghibli II 2.8 24V Biturbo 284 cv,Essence
-ma-267,MASERATI,fa-1336,Ghibli,mo-3087,I (01/1967 - 12/1973),01/1967,12/1973,27621,MASERATI Ghibli,MASERATI Ghibli I 4.7 310 cv,Essence
-ma-267,MASERATI,fa-1336,Ghibli,mo-3087,I (01/1967 - 12/1973),01/1967,12/1973,27606,MASERATI Ghibli,MASERATI Ghibli I 5.0 335 cv,Essence
-ma-267,MASERATI,fa-1336,Ghibli,mo-3088,I Spider (01/1967 - 12/1973),01/1967,12/1973,27448,MASERATI Ghibli,MASERATI Ghibli I Spider 4.7 310 cv,Essence
-ma-267,MASERATI,fa-1336,Ghibli,mo-3088,I Spider (01/1967 - 12/1973),01/1967,12/1973,27580,MASERATI Ghibli,MASERATI Ghibli I Spider 4.9 335 cv,Essence
-ma-267,MASERATI,fa-2147,GranTurismo,mo-5753, (08/2007 - Aujourd'hui),08/2007,,43399,MASERATI GranTurismo,MASERATI GranTurismo 4.7 Coupé 32V 450 cv,Essence
-ma-267,MASERATI,fa-2147,GranTurismo,mo-5753, (08/2007 - Aujourd'hui),08/2007,,43397,MASERATI GranTurismo,MASERATI GranTurismo 4.7 Coupé 32V 460 cv Boîte auto,Essence
-ma-267,MASERATI,fa-2147,GranTurismo,mo-5753, (08/2007 - Aujourd'hui),08/2007,,43398,MASERATI GranTurismo,MASERATI GranTurismo 4.7 Coupé 32V 440 cv,Essence
-ma-267,MASERATI,fa-2147,GranTurismo,mo-5753, (08/2007 - Aujourd'hui),08/2007,,43395,MASERATI GranTurismo,MASERATI GranTurismo 4.2 Coupé 32V 405 cv Boîte auto,Essence
-ma-267,MASERATI,fa-2147,GranTurismo,mo-5753, (08/2007 - Aujourd'hui),08/2007,,58243,MASERATI GranTurismo,MASERATI GranTurismo 4.7 Coupé 32V BVR6 460 cv Boîte auto,Essence
-ma-267,MASERATI,fa-2147,GranTurismo,mo-5753, (08/2007 - Aujourd'hui),08/2007,,43396,MASERATI GranTurismo,MASERATI GranTurismo 4.7 Coupé 32V 440 cv Boîte auto,Essence
-ma-267,MASERATI,fa-2259,Levante,mo-6743, (06/2016 - Aujourd'hui),06/2016,,58717,MASERATI Levante,MASERATI Levante Q4 3.0 D 24V 250 cv Boîte auto,Diesel
-ma-267,MASERATI,fa-2259,Levante,mo-6743, (06/2016 - Aujourd'hui),06/2016,,58346,MASERATI Levante,MASERATI Levante Q4 3.0 D 24V 275 cv Boîte auto,Diesel
-ma-267,MASERATI,fa-2259,Levante,mo-6743, (06/2016 - Aujourd'hui),06/2016,,58348,MASERATI Levante,MASERATI Levante S Q4 3.0 i 24V 430 cv Boîte auto,Essence
-ma-267,MASERATI,fa-2259,Levante,mo-6743, (06/2016 - Aujourd'hui),06/2016,,58347,MASERATI Levante,MASERATI Levante Q4 3.0 i 24V 350 cv Boîte auto,Essence
-ma-267,MASERATI,fa-1817,Quattroporte,mo-3145,V (03/2004 - 02/2013),03/2004,02/2013,27105,MASERATI Quattroporte,MASERATI Quattroporte V 4.2 400 cv,Essence
-ma-267,MASERATI,fa-1817,Quattroporte,mo-3145,V (03/2004 - 02/2013),03/2004,02/2013,59360,MASERATI Quattroporte,MASERATI Quattroporte V 4.7 S 431 cv,Essence
-ma-267,MASERATI,fa-1817,Quattroporte,mo-6843,Quattro Porte VI (01/2013 - Aujourd'hui),01/2013,,59760,MASERATI Quattroporte,MASERATI Quattroporte Quattro Porte VI Quattroporte 3.8 Berline Automatic 530 cv Boîte auto,Essence
-ma-267,MASERATI,fa-1817,Quattroporte,mo-3144,IV (03/1994 - 05/2001),03/1994,05/2001,27411,MASERATI Quattroporte,MASERATI Quattroporte IV 2.0 Biturbo 287 cv,Essence
-ma-267,MASERATI,fa-1817,Quattroporte,mo-3144,IV (03/1994 - 05/2001),03/1994,05/2001,27563,MASERATI Quattroporte,MASERATI Quattroporte IV 2.8 Biturbo 284 cv,Essence
-ma-267,MASERATI,fa-1817,Quattroporte,mo-3144,IV (03/1994 - 05/2001),03/1994,05/2001,27158,MASERATI Quattroporte,MASERATI Quattroporte IV 3.2 V8 32V 336 cv,Essence
-ma-267,MASERATI,fa-1817,Quattroporte,mo-3453,III (09/1976 - 10/1990),09/1976,10/1990,28037,MASERATI Quattroporte,MASERATI Quattroporte III 4.9 Berline 300 cv,Essence
-ma-267,MASERATI,fa-1817,Quattroporte,mo-3453,III (09/1976 - 10/1990),09/1976,10/1990,59045,MASERATI Quattroporte,MASERATI Quattroporte III 4.7 255 cv,Essence
-ma-267,MASERATI,fa-1817,Quattroporte,mo-3453,III (09/1976 - 10/1990),09/1976,10/1990,28038,MASERATI Quattroporte,MASERATI Quattroporte III 4.9 Berline 300 cv Boîte auto,Essence
-ma-267,MASERATI,fa-1970,4200 Coupé,mo-3776, (07/2002 - 11/2005),07/2002,11/2005,30343,MASERATI 4200 Coupé,MASERATI 4200 Coupé GT 4.2 V8 32V 390 cv,Essence
-ma-267,MASERATI,fa-2136,3200 GT Coupé,mo-5677, (10/1998 - 03/2002),10/1998,03/2002,67066,MASERATI 3200 GT Coupé,MASERATI 3200 GT Coupé 3.2 V8 32V Biturbo 369 cv Boîte auto,Essence
-ma-267,MASERATI,fa-2136,3200 GT Coupé,mo-5677, (10/1998 - 03/2002),10/1998,03/2002,27596,MASERATI 3200 GT Coupé,MASERATI 3200 GT Coupé 3.2 V8 32V Biturbo 369 cv,Essence
-ma-267,MASERATI,fa-2148,Grancabrio,mo-5754, (06/2010 - Aujourd'hui),06/2010,,58241,MASERATI Grancabrio,MASERATI Grancabrio 4.7 Cabriolet 32V 450 cv Boîte auto,Essence
-ma-267,MASERATI,fa-2148,Grancabrio,mo-5754, (06/2010 - Aujourd'hui),06/2010,,58242,MASERATI Grancabrio,MASERATI Grancabrio 4.7 Cabriolet 32V 460 cv Boîte auto,Essence
-ma-267,MASERATI,fa-2148,Grancabrio,mo-5754, (06/2010 - Aujourd'hui),06/2010,,43392,MASERATI Grancabrio,MASERATI Grancabrio 4.7 Cabriolet 32V 440 cv Boîte auto,Essence
-ma-267,MASERATI,fa-2149,Gransport,mo-5755, (08/2003 - 07/2007),08/2003,07/2007,43393,MASERATI Gransport,MASERATI Gransport 4.2 Cabriolet 32V 400 cv,Essence
-ma-267,MASERATI,fa-2149,Gransport,mo-5755, (08/2003 - 07/2007),08/2003,07/2007,43394,MASERATI Gransport,MASERATI Gransport 4.2 Coupé 32V 400 cv,Essence
-ma-267,MASERATI,fa-1814,200-400,mo-3447,222 Coupé (01/1988 - 12/1994),01/1988,12/1994,67067,MASERATI 200-400,MASERATI 200-400 222 Coupé E 2.8 18V 250 cv Boîte auto,Essence
-ma-267,MASERATI,fa-1814,200-400,mo-3447,222 Coupé (01/1988 - 12/1994),01/1988,12/1994,59881,MASERATI 200-400,MASERATI 200-400 222 Coupé E 2.8 18V 250 cv,Essence
-ma-267,MASERATI,fa-1814,200-400,mo-3447,222 Coupé (01/1988 - 12/1994),01/1988,12/1994,28033,MASERATI 200-400,MASERATI 200-400 222 Coupé E 2.0 18V 223 cv,Essence
-ma-267,MASERATI,fa-1814,200-400,mo-3450,430 Berline (01/1987 - 12/1994),01/1987,12/1994,28034,MASERATI 200-400,MASERATI 200-400 430 Berline 2.8 18V 250 cv,Essence
-ma-267,MASERATI,fa-1814,200-400,mo-3450,430 Berline (01/1987 - 12/1994),01/1987,12/1994,28035,MASERATI 200-400,MASERATI 200-400 430 Berline 2.8 18V 250 cv Boîte auto,Essence
-ma-267,MASERATI,fa-1814,200-400,mo-3449,422 Berline (01/1983 - 12/1990),01/1983,12/1990,67069,MASERATI 200-400,MASERATI 200-400 422 Berline 2.0 18V 223 cv,Essence
-ma-267,MASERATI,fa-1300,Biturbo,mo-3030,Coupé (12/1981 - 12/1988),12/1981,12/1988,67071,MASERATI Biturbo,MASERATI Biturbo Coupé 2.8 18V 224 cv,Essence
-ma-267,MASERATI,fa-1300,Biturbo,mo-3030,Coupé (12/1981 - 12/1988),12/1981,12/1988,27147,MASERATI Biturbo,MASERATI Biturbo Coupé Si 2.0 205 cv,Essence
-ma-267,MASERATI,fa-1300,Biturbo,mo-3030,Coupé (12/1981 - 12/1988),12/1981,12/1988,27306,MASERATI Biturbo,MASERATI Biturbo Coupé S 2.0 205 cv,Essence
-ma-267,MASERATI,fa-1300,Biturbo,mo-3030,Coupé (12/1981 - 12/1988),12/1981,12/1988,67072,MASERATI Biturbo,MASERATI Biturbo Coupé 2.24v 245 cv,Essence
-ma-267,MASERATI,fa-1300,Biturbo,mo-3030,Coupé (12/1981 - 12/1988),12/1981,12/1988,27191,MASERATI Biturbo,MASERATI Biturbo Coupé i 2.0 184 cv,Essence
-ma-267,MASERATI,fa-1300,Biturbo,mo-3030,Coupé (12/1981 - 12/1988),12/1981,12/1988,27526,MASERATI Biturbo,MASERATI Biturbo Coupé ES 2.5 200 cv,Essence
-ma-267,MASERATI,fa-1300,Biturbo,mo-3029, (06/1984 - 12/1994),06/1984,12/1994,27300,MASERATI Biturbo,MASERATI Biturbo 4.24V 245 cv,Essence
-ma-267,MASERATI,fa-1300,Biturbo,mo-3029, (06/1984 - 12/1994),06/1984,12/1994,27324,MASERATI Biturbo,MASERATI Biturbo 425 i 188 cv,Essence
-ma-267,MASERATI,fa-1300,Biturbo,mo-3029, (06/1984 - 12/1994),06/1984,12/1994,27619,MASERATI Biturbo,MASERATI Biturbo 425 200 cv,Essence
-ma-267,MASERATI,fa-1300,Biturbo,mo-3029, (06/1984 - 12/1994),06/1984,12/1994,27115,MASERATI Biturbo,MASERATI Biturbo 430 2.0 18V 224 cv,Essence
-ma-267,MASERATI,fa-1300,Biturbo,mo-3029, (06/1984 - 12/1994),06/1984,12/1994,27472,MASERATI Biturbo,MASERATI Biturbo 425 190 cv,Essence
-ma-267,MASERATI,fa-1300,Biturbo,mo-3029, (06/1984 - 12/1994),06/1984,12/1994,27136,MASERATI Biturbo,MASERATI Biturbo 430 2.8 18V 247 cv,Essence
-ma-267,MASERATI,fa-1300,Biturbo,mo-3031,Spider (07/1985 - 12/1994),07/1985,12/1994,27624,MASERATI Biturbo,MASERATI Biturbo Spider 2.0 184 cv,Essence
-ma-267,MASERATI,fa-2388,Grecale,mo-7543, (02/2022 - Aujourd'hui),02/2022,,67074,MASERATI Grecale,MASERATI Grecale GT 2.0 i 16V MHEV Q4 300 cv Boîte auto,Essence
-ma-267,MASERATI,fa-2388,Grecale,mo-7543, (02/2022 - Aujourd'hui),02/2022,,67075,MASERATI Grecale,MASERATI Grecale Modena 2.0 i 16V MHEV Q4 330 cv Boîte auto,Essence
-ma-267,MASERATI,fa-1377,SPYDER,mo-3153,GT Décapotable (10/2001 - Aujourd'hui),10/2001,,27113,MASERATI SPYDER,MASERATI SPYDER GT Décapotable 4.2 390 cv,Essence
-ma-267,MASERATI,fa-1355,MC 12,mo-3119, (08/2004 - Aujourd'hui),08/2004,,27489,MASERATI MC 12,MASERATI MC 12 6.0 632 cv,Essence
-ma-267,MASERATI,fa-1819,Spider,mo-3455, (01/1983 - 12/1994),01/1983,12/1994,28040,MASERATI Spider,MASERATI Spider E 2.8 18V 225 cv,Essence
-ma-267,MASERATI,fa-1819,Spider,mo-3455, (01/1983 - 12/1994),01/1983,12/1994,67073,MASERATI Spider,MASERATI Spider E 2.8 18V 225 cv Boîte auto,Essence
-ma-267,MASERATI,fa-1276,420/430,mo-2977,Berline (03/1985 - 12/1994),03/1985,12/1994,27468,MASERATI 420/430,MASERATI 420/430 Berline 420 180 cv,Essence
-ma-267,MASERATI,fa-1276,420/430,mo-2977,Berline (03/1985 - 12/1994),03/1985,12/1994,27328,MASERATI 420/430,MASERATI 420/430 Berline 420 i 187 cv,Essence
-ma-267,MASERATI,fa-1356,MERAK,mo-3120, (05/1975 - 12/1983),05/1975,12/1983,27273,MASERATI MERAK,MASERATI MERAK 2.0 170 cv,Essence
-ma-267,MASERATI,fa-1356,MERAK,mo-3120, (05/1975 - 12/1983),05/1975,12/1983,27413,MASERATI MERAK,MASERATI MERAK 3.0 SS 220 cv,Essence
-ma-267,MASERATI,fa-1339,INDY,mo-3093, (01/1967 - 12/1975),01/1967,12/1975,27503,MASERATI INDY,MASERATI INDY 4.9 320 cv,Essence
-ma-267,MASERATI,fa-1339,INDY,mo-3093, (01/1967 - 12/1975),01/1967,12/1975,27385,MASERATI INDY,MASERATI INDY 4.7 290 cv,Essence
-ma-267,MASERATI,fa-1339,INDY,mo-3093, (01/1967 - 12/1975),01/1967,12/1975,27536,MASERATI INDY,MASERATI INDY 4.2 260 cv,Essence
-ma-267,MASERATI,fa-1818,Shamal,mo-3454, (01/1990 - 12/1996),01/1990,12/1996,28039,MASERATI Shamal,MASERATI Shamal 3.2 Coupé 326 cv,Essence
-ma-267,MASERATI,fa-1346,KYALAMI,mo-3101, (04/1976 - 12/1985),04/1976,12/1985,27210,MASERATI KYALAMI,MASERATI KYALAMI 4.2 255 cv,Essence
-ma-267,MASERATI,fa-1346,KYALAMI,mo-3101, (04/1976 - 12/1985),04/1976,12/1985,27114,MASERATI KYALAMI,MASERATI KYALAMI 4.9 280 cv,Essence
-ma-267,MASERATI,fa-1302,BORA,mo-3033, (01/1971 - 05/1980),01/1971,05/1980,27332,MASERATI BORA,MASERATI BORA 5.0 320 cv,Essence
-ma-267,MASERATI,fa-1302,BORA,mo-3033, (01/1971 - 05/1980),01/1971,05/1980,27244,MASERATI BORA,MASERATI BORA 4.7 310 cv,Essence
-ma-267,MASERATI,fa-1816,Karif,mo-3452, (01/1988 - 12/1991),01/1988,12/1991,28036,MASERATI Karif,MASERATI Karif 2.8 Coupé 250 cv,Essence
-ma-267,MASERATI,fa-1816,Karif,mo-3452, (01/1988 - 12/1991),01/1988,12/1991,27274,MASERATI Karif,MASERATI Karif 2.8 225 cv,Essence
-ma-267,MASERATI,fa-1345,KHAMSIN,mo-3100, (01/1972 - 12/1982),01/1972,12/1982,27366,MASERATI KHAMSIN,MASERATI KHAMSIN 4.9 320 cv,Essence
-ma-267,MASERATI,fa-1268,228,mo-2964,Coupé (12/1986 - 12/1990),12/1986,12/1990,27206,MASERATI 228,MASERATI 228 Coupé E 2.8 18V 250 cv,Essence
-ma-267,MASERATI,fa-1268,228,mo-2964,Coupé (12/1986 - 12/1990),12/1986,12/1990,67068,MASERATI 228,MASERATI 228 Coupé E 2.8 18V 250 cv Boîte auto,Essence
-ma-267,MASERATI,fa-1268,228,mo-2964,Coupé (12/1986 - 12/1990),12/1986,12/1990,27258,MASERATI 228,MASERATI 228 Coupé E 2.8 i 18V 250 cv,Essence
-ma-267,MASERATI,fa-1358,MEXICO,mo-3122, (01/1967 - 12/1975),01/1967,12/1975,27316,MASERATI MEXICO,MASERATI MEXICO 4.2 260 cv,Essence
-ma-267,MASERATI,fa-1358,MEXICO,mo-3122, (01/1967 - 12/1975),01/1967,12/1975,27341,MASERATI MEXICO,MASERATI MEXICO 4.7 290 cv,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-267","MASERATI","fa-1336","Ghibli","mo-5752","III (08/2013 - 09/2017)","08/2013","09/2017","43389","MASERATI Ghibli","MASERATI Ghibli III 3.0 i 24V 330 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-1336","Ghibli","mo-5752","III (08/2013 - 09/2017)","08/2013","09/2017","43387","MASERATI Ghibli","MASERATI Ghibli III 3.0 D 24V 250 cv Boîte auto","Diesel"
+"ma-267","MASERATI","fa-1336","Ghibli","mo-5752","III (08/2013 - 09/2017)","08/2013","09/2017","43388","MASERATI Ghibli","MASERATI Ghibli III 3.0 D 24V 274 cv Boîte auto","Diesel"
+"ma-267","MASERATI","fa-1336","Ghibli","mo-5752","III (08/2013 - 09/2017)","08/2013","09/2017","43390","MASERATI Ghibli","MASERATI Ghibli III S 3.0 i 24V 410 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-1336","Ghibli","mo-5752","III (08/2013 - 09/2017)","08/2013","09/2017","43391","MASERATI Ghibli","MASERATI Ghibli III S Q4 3.0 i 24V 410 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-1336","Ghibli","mo-6777","III phase 2 (09/2017 - Aujourd'hui)","09/2017","","58772","MASERATI Ghibli","MASERATI Ghibli III phase 2 3.0 D 24V 274 cv Boîte auto","Diesel"
+"ma-267","MASERATI","fa-1336","Ghibli","mo-6777","III phase 2 (09/2017 - Aujourd'hui)","09/2017","","58773","MASERATI Ghibli","MASERATI Ghibli III phase 2 3.0 i 24V 350 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-1336","Ghibli","mo-6777","III phase 2 (09/2017 - Aujourd'hui)","09/2017","","58774","MASERATI Ghibli","MASERATI Ghibli III phase 2 S Q4 3.0 i 24V 430 cv","Essence"
+"ma-267","MASERATI","fa-1336","Ghibli","mo-3086","II (04/1992 - 12/1997)","04/1992","12/1997","27131","MASERATI Ghibli","MASERATI Ghibli II 2.0 24V Biturbo 306 cv","Essence"
+"ma-267","MASERATI","fa-1336","Ghibli","mo-3086","II (04/1992 - 12/1997)","04/1992","12/1997","59348","MASERATI Ghibli","MASERATI Ghibli II 2.0 24V Biturbo 330 cv","Essence"
+"ma-267","MASERATI","fa-1336","Ghibli","mo-3086","II (04/1992 - 12/1997)","04/1992","12/1997","27463","MASERATI Ghibli","MASERATI Ghibli II 2.8 24V Biturbo 284 cv","Essence"
+"ma-267","MASERATI","fa-1336","Ghibli","mo-3087","I (01/1967 - 12/1973)","01/1967","12/1973","27621","MASERATI Ghibli","MASERATI Ghibli I 4.7 310 cv","Essence"
+"ma-267","MASERATI","fa-1336","Ghibli","mo-3087","I (01/1967 - 12/1973)","01/1967","12/1973","27606","MASERATI Ghibli","MASERATI Ghibli I 5.0 335 cv","Essence"
+"ma-267","MASERATI","fa-1336","Ghibli","mo-3088","I Spider (01/1967 - 12/1973)","01/1967","12/1973","27448","MASERATI Ghibli","MASERATI Ghibli I Spider 4.7 310 cv","Essence"
+"ma-267","MASERATI","fa-1336","Ghibli","mo-3088","I Spider (01/1967 - 12/1973)","01/1967","12/1973","27580","MASERATI Ghibli","MASERATI Ghibli I Spider 4.9 335 cv","Essence"
+"ma-267","MASERATI","fa-2147","GranTurismo","mo-5753"," (08/2007 - Aujourd'hui)","08/2007","","43399","MASERATI GranTurismo","MASERATI GranTurismo 4.7 Coupé 32V 450 cv","Essence"
+"ma-267","MASERATI","fa-2147","GranTurismo","mo-5753"," (08/2007 - Aujourd'hui)","08/2007","","43397","MASERATI GranTurismo","MASERATI GranTurismo 4.7 Coupé 32V 460 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-2147","GranTurismo","mo-5753"," (08/2007 - Aujourd'hui)","08/2007","","43398","MASERATI GranTurismo","MASERATI GranTurismo 4.7 Coupé 32V 440 cv","Essence"
+"ma-267","MASERATI","fa-2147","GranTurismo","mo-5753"," (08/2007 - Aujourd'hui)","08/2007","","43395","MASERATI GranTurismo","MASERATI GranTurismo 4.2 Coupé 32V 405 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-2147","GranTurismo","mo-5753"," (08/2007 - Aujourd'hui)","08/2007","","58243","MASERATI GranTurismo","MASERATI GranTurismo 4.7 Coupé 32V BVR6 460 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-2147","GranTurismo","mo-5753"," (08/2007 - Aujourd'hui)","08/2007","","43396","MASERATI GranTurismo","MASERATI GranTurismo 4.7 Coupé 32V 440 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-2259","Levante","mo-6743"," (06/2016 - Aujourd'hui)","06/2016","","58717","MASERATI Levante","MASERATI Levante Q4 3.0 D 24V 250 cv Boîte auto","Diesel"
+"ma-267","MASERATI","fa-2259","Levante","mo-6743"," (06/2016 - Aujourd'hui)","06/2016","","58346","MASERATI Levante","MASERATI Levante Q4 3.0 D 24V 275 cv Boîte auto","Diesel"
+"ma-267","MASERATI","fa-2259","Levante","mo-6743"," (06/2016 - Aujourd'hui)","06/2016","","58348","MASERATI Levante","MASERATI Levante S Q4 3.0 i 24V 430 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-2259","Levante","mo-6743"," (06/2016 - Aujourd'hui)","06/2016","","58347","MASERATI Levante","MASERATI Levante Q4 3.0 i 24V 350 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-1817","Quattroporte","mo-3145","V (03/2004 - 02/2013)","03/2004","02/2013","27105","MASERATI Quattroporte","MASERATI Quattroporte V 4.2 400 cv","Essence"
+"ma-267","MASERATI","fa-1817","Quattroporte","mo-3145","V (03/2004 - 02/2013)","03/2004","02/2013","59360","MASERATI Quattroporte","MASERATI Quattroporte V 4.7 S 431 cv","Essence"
+"ma-267","MASERATI","fa-1817","Quattroporte","mo-6843","Quattro Porte VI (01/2013 - Aujourd'hui)","01/2013","","59760","MASERATI Quattroporte","MASERATI Quattroporte Quattro Porte VI Quattroporte 3.8 Berline Automatic 530 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-1817","Quattroporte","mo-3144","IV (03/1994 - 05/2001)","03/1994","05/2001","27411","MASERATI Quattroporte","MASERATI Quattroporte IV 2.0 Biturbo 287 cv","Essence"
+"ma-267","MASERATI","fa-1817","Quattroporte","mo-3144","IV (03/1994 - 05/2001)","03/1994","05/2001","27563","MASERATI Quattroporte","MASERATI Quattroporte IV 2.8 Biturbo 284 cv","Essence"
+"ma-267","MASERATI","fa-1817","Quattroporte","mo-3144","IV (03/1994 - 05/2001)","03/1994","05/2001","27158","MASERATI Quattroporte","MASERATI Quattroporte IV 3.2 V8 32V 336 cv","Essence"
+"ma-267","MASERATI","fa-1817","Quattroporte","mo-3453","III (09/1976 - 10/1990)","09/1976","10/1990","28037","MASERATI Quattroporte","MASERATI Quattroporte III 4.9 Berline 300 cv","Essence"
+"ma-267","MASERATI","fa-1817","Quattroporte","mo-3453","III (09/1976 - 10/1990)","09/1976","10/1990","59045","MASERATI Quattroporte","MASERATI Quattroporte III 4.7 255 cv","Essence"
+"ma-267","MASERATI","fa-1817","Quattroporte","mo-3453","III (09/1976 - 10/1990)","09/1976","10/1990","28038","MASERATI Quattroporte","MASERATI Quattroporte III 4.9 Berline 300 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-1970","4200 Coupé","mo-3776"," (07/2002 - 11/2005)","07/2002","11/2005","30343","MASERATI 4200 Coupé","MASERATI 4200 Coupé GT 4.2 V8 32V 390 cv","Essence"
+"ma-267","MASERATI","fa-2136","3200 GT Coupé","mo-5677"," (10/1998 - 03/2002)","10/1998","03/2002","67066","MASERATI 3200 GT Coupé","MASERATI 3200 GT Coupé 3.2 V8 32V Biturbo 369 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-2136","3200 GT Coupé","mo-5677"," (10/1998 - 03/2002)","10/1998","03/2002","27596","MASERATI 3200 GT Coupé","MASERATI 3200 GT Coupé 3.2 V8 32V Biturbo 369 cv","Essence"
+"ma-267","MASERATI","fa-2148","Grancabrio","mo-5754"," (06/2010 - Aujourd'hui)","06/2010","","58241","MASERATI Grancabrio","MASERATI Grancabrio 4.7 Cabriolet 32V 450 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-2148","Grancabrio","mo-5754"," (06/2010 - Aujourd'hui)","06/2010","","58242","MASERATI Grancabrio","MASERATI Grancabrio 4.7 Cabriolet 32V 460 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-2148","Grancabrio","mo-5754"," (06/2010 - Aujourd'hui)","06/2010","","43392","MASERATI Grancabrio","MASERATI Grancabrio 4.7 Cabriolet 32V 440 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-2149","Gransport","mo-5755"," (08/2003 - 07/2007)","08/2003","07/2007","43393","MASERATI Gransport","MASERATI Gransport 4.2 Cabriolet 32V 400 cv","Essence"
+"ma-267","MASERATI","fa-2149","Gransport","mo-5755"," (08/2003 - 07/2007)","08/2003","07/2007","43394","MASERATI Gransport","MASERATI Gransport 4.2 Coupé 32V 400 cv","Essence"
+"ma-267","MASERATI","fa-1814","200-400","mo-3447","222 Coupé (01/1988 - 12/1994)","01/1988","12/1994","67067","MASERATI 200-400","MASERATI 200-400 222 Coupé E 2.8 18V 250 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-1814","200-400","mo-3447","222 Coupé (01/1988 - 12/1994)","01/1988","12/1994","59881","MASERATI 200-400","MASERATI 200-400 222 Coupé E 2.8 18V 250 cv","Essence"
+"ma-267","MASERATI","fa-1814","200-400","mo-3447","222 Coupé (01/1988 - 12/1994)","01/1988","12/1994","28033","MASERATI 200-400","MASERATI 200-400 222 Coupé E 2.0 18V 223 cv","Essence"
+"ma-267","MASERATI","fa-1814","200-400","mo-3450","430 Berline (01/1987 - 12/1994)","01/1987","12/1994","28034","MASERATI 200-400","MASERATI 200-400 430 Berline 2.8 18V 250 cv","Essence"
+"ma-267","MASERATI","fa-1814","200-400","mo-3450","430 Berline (01/1987 - 12/1994)","01/1987","12/1994","28035","MASERATI 200-400","MASERATI 200-400 430 Berline 2.8 18V 250 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-1814","200-400","mo-3449","422 Berline (01/1983 - 12/1990)","01/1983","12/1990","67069","MASERATI 200-400","MASERATI 200-400 422 Berline 2.0 18V 223 cv","Essence"
+"ma-267","MASERATI","fa-1300","Biturbo","mo-3030","Coupé (12/1981 - 12/1988)","12/1981","12/1988","67071","MASERATI Biturbo","MASERATI Biturbo Coupé 2.8 18V 224 cv","Essence"
+"ma-267","MASERATI","fa-1300","Biturbo","mo-3030","Coupé (12/1981 - 12/1988)","12/1981","12/1988","27147","MASERATI Biturbo","MASERATI Biturbo Coupé Si 2.0 205 cv","Essence"
+"ma-267","MASERATI","fa-1300","Biturbo","mo-3030","Coupé (12/1981 - 12/1988)","12/1981","12/1988","27306","MASERATI Biturbo","MASERATI Biturbo Coupé S 2.0 205 cv","Essence"
+"ma-267","MASERATI","fa-1300","Biturbo","mo-3030","Coupé (12/1981 - 12/1988)","12/1981","12/1988","67072","MASERATI Biturbo","MASERATI Biturbo Coupé 2.24v 245 cv","Essence"
+"ma-267","MASERATI","fa-1300","Biturbo","mo-3030","Coupé (12/1981 - 12/1988)","12/1981","12/1988","27191","MASERATI Biturbo","MASERATI Biturbo Coupé i 2.0 184 cv","Essence"
+"ma-267","MASERATI","fa-1300","Biturbo","mo-3030","Coupé (12/1981 - 12/1988)","12/1981","12/1988","27526","MASERATI Biturbo","MASERATI Biturbo Coupé ES 2.5 200 cv","Essence"
+"ma-267","MASERATI","fa-1300","Biturbo","mo-3029"," (06/1984 - 12/1994)","06/1984","12/1994","27300","MASERATI Biturbo","MASERATI Biturbo 4.24V 245 cv","Essence"
+"ma-267","MASERATI","fa-1300","Biturbo","mo-3029"," (06/1984 - 12/1994)","06/1984","12/1994","27324","MASERATI Biturbo","MASERATI Biturbo 425 i 188 cv","Essence"
+"ma-267","MASERATI","fa-1300","Biturbo","mo-3029"," (06/1984 - 12/1994)","06/1984","12/1994","27619","MASERATI Biturbo","MASERATI Biturbo 425 200 cv","Essence"
+"ma-267","MASERATI","fa-1300","Biturbo","mo-3029"," (06/1984 - 12/1994)","06/1984","12/1994","27115","MASERATI Biturbo","MASERATI Biturbo 430 2.0 18V 224 cv","Essence"
+"ma-267","MASERATI","fa-1300","Biturbo","mo-3029"," (06/1984 - 12/1994)","06/1984","12/1994","27472","MASERATI Biturbo","MASERATI Biturbo 425 190 cv","Essence"
+"ma-267","MASERATI","fa-1300","Biturbo","mo-3029"," (06/1984 - 12/1994)","06/1984","12/1994","27136","MASERATI Biturbo","MASERATI Biturbo 430 2.8 18V 247 cv","Essence"
+"ma-267","MASERATI","fa-1300","Biturbo","mo-3031","Spider (07/1985 - 12/1994)","07/1985","12/1994","27624","MASERATI Biturbo","MASERATI Biturbo Spider 2.0 184 cv","Essence"
+"ma-267","MASERATI","fa-2388","Grecale","mo-7543"," (02/2022 - Aujourd'hui)","02/2022","","67074","MASERATI Grecale","MASERATI Grecale GT 2.0 i 16V MHEV Q4 300 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-2388","Grecale","mo-7543"," (02/2022 - Aujourd'hui)","02/2022","","67075","MASERATI Grecale","MASERATI Grecale Modena 2.0 i 16V MHEV Q4 330 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-1377","SPYDER","mo-3153","GT Décapotable (10/2001 - Aujourd'hui)","10/2001","","27113","MASERATI SPYDER","MASERATI SPYDER GT Décapotable 4.2 390 cv","Essence"
+"ma-267","MASERATI","fa-1355","MC 12","mo-3119"," (08/2004 - Aujourd'hui)","08/2004","","27489","MASERATI MC 12","MASERATI MC 12 6.0 632 cv","Essence"
+"ma-267","MASERATI","fa-1819","Spider","mo-3455"," (01/1983 - 12/1994)","01/1983","12/1994","28040","MASERATI Spider","MASERATI Spider E 2.8 18V 225 cv","Essence"
+"ma-267","MASERATI","fa-1819","Spider","mo-3455"," (01/1983 - 12/1994)","01/1983","12/1994","67073","MASERATI Spider","MASERATI Spider E 2.8 18V 225 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-1276","420/430","mo-2977","Berline (03/1985 - 12/1994)","03/1985","12/1994","27468","MASERATI 420/430","MASERATI 420/430 Berline 420 180 cv","Essence"
+"ma-267","MASERATI","fa-1276","420/430","mo-2977","Berline (03/1985 - 12/1994)","03/1985","12/1994","27328","MASERATI 420/430","MASERATI 420/430 Berline 420 i 187 cv","Essence"
+"ma-267","MASERATI","fa-1356","MERAK","mo-3120"," (05/1975 - 12/1983)","05/1975","12/1983","27273","MASERATI MERAK","MASERATI MERAK 2.0 170 cv","Essence"
+"ma-267","MASERATI","fa-1356","MERAK","mo-3120"," (05/1975 - 12/1983)","05/1975","12/1983","27413","MASERATI MERAK","MASERATI MERAK 3.0 SS 220 cv","Essence"
+"ma-267","MASERATI","fa-1339","INDY","mo-3093"," (01/1967 - 12/1975)","01/1967","12/1975","27503","MASERATI INDY","MASERATI INDY 4.9 320 cv","Essence"
+"ma-267","MASERATI","fa-1339","INDY","mo-3093"," (01/1967 - 12/1975)","01/1967","12/1975","27385","MASERATI INDY","MASERATI INDY 4.7 290 cv","Essence"
+"ma-267","MASERATI","fa-1339","INDY","mo-3093"," (01/1967 - 12/1975)","01/1967","12/1975","27536","MASERATI INDY","MASERATI INDY 4.2 260 cv","Essence"
+"ma-267","MASERATI","fa-1818","Shamal","mo-3454"," (01/1990 - 12/1996)","01/1990","12/1996","28039","MASERATI Shamal","MASERATI Shamal 3.2 Coupé 326 cv","Essence"
+"ma-267","MASERATI","fa-1346","KYALAMI","mo-3101"," (04/1976 - 12/1985)","04/1976","12/1985","27210","MASERATI KYALAMI","MASERATI KYALAMI 4.2 255 cv","Essence"
+"ma-267","MASERATI","fa-1346","KYALAMI","mo-3101"," (04/1976 - 12/1985)","04/1976","12/1985","27114","MASERATI KYALAMI","MASERATI KYALAMI 4.9 280 cv","Essence"
+"ma-267","MASERATI","fa-1302","BORA","mo-3033"," (01/1971 - 05/1980)","01/1971","05/1980","27332","MASERATI BORA","MASERATI BORA 5.0 320 cv","Essence"
+"ma-267","MASERATI","fa-1302","BORA","mo-3033"," (01/1971 - 05/1980)","01/1971","05/1980","27244","MASERATI BORA","MASERATI BORA 4.7 310 cv","Essence"
+"ma-267","MASERATI","fa-1816","Karif","mo-3452"," (01/1988 - 12/1991)","01/1988","12/1991","28036","MASERATI Karif","MASERATI Karif 2.8 Coupé 250 cv","Essence"
+"ma-267","MASERATI","fa-1816","Karif","mo-3452"," (01/1988 - 12/1991)","01/1988","12/1991","27274","MASERATI Karif","MASERATI Karif 2.8 225 cv","Essence"
+"ma-267","MASERATI","fa-1345","KHAMSIN","mo-3100"," (01/1972 - 12/1982)","01/1972","12/1982","27366","MASERATI KHAMSIN","MASERATI KHAMSIN 4.9 320 cv","Essence"
+"ma-267","MASERATI","fa-1268","228","mo-2964","Coupé (12/1986 - 12/1990)","12/1986","12/1990","27206","MASERATI 228","MASERATI 228 Coupé E 2.8 18V 250 cv","Essence"
+"ma-267","MASERATI","fa-1268","228","mo-2964","Coupé (12/1986 - 12/1990)","12/1986","12/1990","67068","MASERATI 228","MASERATI 228 Coupé E 2.8 18V 250 cv Boîte auto","Essence"
+"ma-267","MASERATI","fa-1268","228","mo-2964","Coupé (12/1986 - 12/1990)","12/1986","12/1990","27258","MASERATI 228","MASERATI 228 Coupé E 2.8 i 18V 250 cv","Essence"
+"ma-267","MASERATI","fa-1358","MEXICO","mo-3122"," (01/1967 - 12/1975)","01/1967","12/1975","27316","MASERATI MEXICO","MASERATI MEXICO 4.2 260 cv","Essence"
+"ma-267","MASERATI","fa-1358","MEXICO","mo-3122"," (01/1967 - 12/1975)","01/1967","12/1975","27341","MASERATI MEXICO","MASERATI MEXICO 4.7 290 cv","Essence"

@@ -26,7 +26,7 @@ public enum Brand {
     CATERHAM("CATERHAM"),
     CHEVROLET("CHEVROLET"),
     CHRYSLER("CHRYSLER"),
-    CITROEN("CITROËN"),
+    CITROEN("CITROEN"),
     CUPRA("CUPRA"),
     DACIA("DACIA"),
     DAEWOO("DAEWOO"),
@@ -111,7 +111,7 @@ public enum Brand {
     TOYOTA("TOYOTA"),
     TRABANT("TRABANT"),
     TRIUMPH("TRIUMPH"),
-    TVR(" TVR"),
+    TVR("TVR"),
     U_M_M("U.M.M."),
     VAUXHALL("VAUXHALL"),
     VINFAST("VINFAST"),
@@ -127,6 +127,7 @@ public enum Brand {
         this.brand = brand;
     }
 
+    @Override
     public String toString(){
         return brand;
     }

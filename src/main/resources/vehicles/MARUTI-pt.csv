@@ -1,3 +1,3 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-136,MARUTI,fa-440,800,mo-237, (10/1987 - 12/2010),10/1987,12/2010,6776,MARUTI 800,MARUTI 800 0.8 35cv,Essence
-ma-136,MARUTI,fa-440,800,mo-237, (10/1987 - 12/2010),10/1987,12/2010,20741,MARUTI 800,MARUTI 800 0.8 i 33cv,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-136","MARUTI","fa-440","800","mo-237"," (10/1987 - 12/2010)","10/1987","12/2010","6776","MARUTI 800","MARUTI 800 0.8 35cv","Essence"
+"ma-136","MARUTI","fa-440","800","mo-237"," (10/1987 - 12/2010)","10/1987","12/2010","20741","MARUTI 800","MARUTI 800 0.8 i 33cv","Essence"

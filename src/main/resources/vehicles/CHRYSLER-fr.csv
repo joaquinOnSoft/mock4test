@@ -1,209 +1,209 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-1638, (06/2000 - 11/2007),06/2000,11/2007,15304,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser 2.0 i 141 cv,Essence
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-1638, (06/2000 - 11/2007),06/2000,11/2007,15305,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser 2.0 i 141 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-1638, (06/2000 - 11/2007),06/2000,11/2007,56309,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser 2.0 i 16V 136 cv,Essence
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-1638, (06/2000 - 11/2007),06/2000,11/2007,1663,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser 1.6 i 115 cv,Essence
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-1638, (06/2000 - 11/2007),06/2000,11/2007,15309,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser 2.4 i 16V 150 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-1638, (06/2000 - 11/2007),06/2000,11/2007,7982,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser 2.2 CRD 121 cv,Diesel
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-1638, (06/2000 - 11/2007),06/2000,11/2007,7984,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser 2.4 i Turbo 223 cv,Essence
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-1638, (06/2000 - 11/2007),06/2000,11/2007,69803,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser 2.4 i 143 cv,Essence
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-1638, (06/2000 - 11/2007),06/2000,11/2007,69804,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser 2.4 i 143 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-1638, (06/2000 - 11/2007),06/2000,11/2007,15307,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser 2.4 i 16V 150 cv,Essence
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-1638, (06/2000 - 11/2007),06/2000,11/2007,37706,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser 2.0 i 16V 136 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-5045,Phase 2 (08/2005 - 07/2010),08/2005,07/2010,15306,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser Phase 2 2.4 i 143 cv,Essence
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-5045,Phase 2 (08/2005 - 07/2010),08/2005,07/2010,15308,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser Phase 2 2.4 i 143 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-5045,Phase 2 (08/2005 - 07/2010),08/2005,07/2010,7983,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser Phase 2 2.2 CRD 150 cv,Diesel
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-5045,Phase 2 (08/2005 - 07/2010),08/2005,07/2010,32734,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser Phase 2 2.4 i 16V 150 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-5045,Phase 2 (08/2005 - 07/2010),08/2005,07/2010,32736,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser Phase 2 2.4 i Turbo 16V 223 cv,Essence
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-5045,Phase 2 (08/2005 - 07/2010),08/2005,07/2010,32735,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser Phase 2 2.4 i 16V 150 cv,Essence
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-5045,Phase 2 (08/2005 - 07/2010),08/2005,07/2010,58058,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser Phase 2 2.4 i Turbo 16V 230 cv,Essence
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-1639,Cabriolet (08/2003 - 11/2007),08/2003,11/2007,7981,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser Cabriolet 2.4 i Cabriolet 143 cv,Essence
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-1639,Cabriolet (08/2003 - 11/2007),08/2003,11/2007,1662,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser Cabriolet 2.4 i Cabriolet 143 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-105,PT Cruiser,mo-1639,Cabriolet (08/2003 - 11/2007),08/2003,11/2007,15303,CHRYSLER PT Cruiser,CHRYSLER PT Cruiser Cabriolet 2.4 i Turbo Cabriolet 223 cv,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-118,Berline (06/2004 - 09/2007),06/2004,09/2007,1969,CHRYSLER 300C,CHRYSLER 300C Berline 3.5 i V6 249cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-118,Berline (06/2004 - 09/2007),06/2004,09/2007,29971,CHRYSLER 300C,CHRYSLER 300C Berline 6.1 SRT-8 V8 16V 431 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-118,Berline (06/2004 - 09/2007),06/2004,09/2007,7961,CHRYSLER 300C,CHRYSLER 300C Berline 3.0 CRD V6 218cv Boîte auto,Diesel
-ma-47,CHRYSLER,fa-94,300C,mo-118,Berline (06/2004 - 09/2007),06/2004,09/2007,15292,CHRYSLER 300C,CHRYSLER 300C Berline 5.7 i V8 340cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-118,Berline (06/2004 - 09/2007),06/2004,09/2007,1642,CHRYSLER 300C,CHRYSLER 300C Berline 2.7 i V6 193cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-119,Touring (06/2004 - 09/2007),06/2004,09/2007,7962,CHRYSLER 300C,CHRYSLER 300C Touring 2.7 i V6 193cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-119,Touring (06/2004 - 09/2007),06/2004,09/2007,29972,CHRYSLER 300C,CHRYSLER 300C Touring SRT-8 6.1 V8 16V 431 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-119,Touring (06/2004 - 09/2007),06/2004,09/2007,7963,CHRYSLER 300C,CHRYSLER 300C Touring 3.5 i V6 249cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-119,Touring (06/2004 - 09/2007),06/2004,09/2007,24534,CHRYSLER 300C,CHRYSLER 300C Touring 5.7 i V8 340cv 4WD Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-119,Touring (06/2004 - 09/2007),06/2004,09/2007,15293,CHRYSLER 300C,CHRYSLER 300C Touring 3.0 CRD V6 218cv Boîte auto,Diesel
-ma-47,CHRYSLER,fa-94,300C,mo-119,Touring (06/2004 - 09/2007),06/2004,09/2007,1643,CHRYSLER 300C,CHRYSLER 300C Touring 5.7 i V8 340cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-119,Touring (06/2004 - 09/2007),06/2004,09/2007,24708,CHRYSLER 300C,CHRYSLER 300C Touring 3.5 i V6 249cv 4WD Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-5044,Phase 2 Touring (09/2007 - 01/2012),09/2007,01/2012,32733,CHRYSLER 300C,CHRYSLER 300C Phase 2 Touring 6.1 SRT-8 V8 Break 16V 431 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-5044,Phase 2 Touring (09/2007 - 01/2012),09/2007,01/2012,32729,CHRYSLER 300C,CHRYSLER 300C Phase 2 Touring 3.5 i V6 Break 24V 249 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-5044,Phase 2 Touring (09/2007 - 01/2012),09/2007,01/2012,32728,CHRYSLER 300C,CHRYSLER 300C Phase 2 Touring 3.5 i V6 4WD Break 24V 249 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-5044,Phase 2 Touring (09/2007 - 01/2012),09/2007,01/2012,57726,CHRYSLER 300C,CHRYSLER 300C Phase 2 Touring 3.0 CRD V6 Break 24V 211 cv Boîte auto,Diesel
-ma-47,CHRYSLER,fa-94,300C,mo-5044,Phase 2 Touring (09/2007 - 01/2012),09/2007,01/2012,32726,CHRYSLER 300C,CHRYSLER 300C Phase 2 Touring 2.7 i V6 Break 24V 193 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-5044,Phase 2 Touring (09/2007 - 01/2012),09/2007,01/2012,32730,CHRYSLER 300C,CHRYSLER 300C Phase 2 Touring 5.7 i V8 4WD Break 16V 340 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-5044,Phase 2 Touring (09/2007 - 01/2012),09/2007,01/2012,32727,CHRYSLER 300C,CHRYSLER 300C Phase 2 Touring 3.0 CRD V6 Break 24V 218 cv Boîte auto,Diesel
-ma-47,CHRYSLER,fa-94,300C,mo-5044,Phase 2 Touring (09/2007 - 01/2012),09/2007,01/2012,56308,CHRYSLER 300C,CHRYSLER 300C Phase 2 Touring 2.7 i V6 Break 24V 177 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-5044,Phase 2 Touring (09/2007 - 01/2012),09/2007,01/2012,32731,CHRYSLER 300C,CHRYSLER 300C Phase 2 Touring 5.7 i V8 Break 16V 340 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-5043,Phase 2 Berline (09/2007 - Aujourd'hui),09/2007,,32724,CHRYSLER 300C,CHRYSLER 300C Phase 2 Berline 3.5 i V6 24V 249 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-5043,Phase 2 Berline (09/2007 - Aujourd'hui),09/2007,,37703,CHRYSLER 300C,CHRYSLER 300C Phase 2 Berline 3.0 CRD DPF V6 24V 239 cv Boîte auto,Diesel
-ma-47,CHRYSLER,fa-94,300C,mo-5043,Phase 2 Berline (09/2007 - Aujourd'hui),09/2007,,56307,CHRYSLER 300C,CHRYSLER 300C Phase 2 Berline 3.0 CRD V6 24V 211 cv Boîte auto,Diesel
-ma-47,CHRYSLER,fa-94,300C,mo-5043,Phase 2 Berline (09/2007 - Aujourd'hui),09/2007,,32722,CHRYSLER 300C,CHRYSLER 300C Phase 2 Berline 2.7 i V6 24V 193 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-5043,Phase 2 Berline (09/2007 - Aujourd'hui),09/2007,,32723,CHRYSLER 300C,CHRYSLER 300C Phase 2 Berline 3.0 CRD V6 24V 218 cv Boîte auto,Diesel
-ma-47,CHRYSLER,fa-94,300C,mo-5043,Phase 2 Berline (09/2007 - Aujourd'hui),09/2007,,58055,CHRYSLER 300C,CHRYSLER 300C Phase 2 Berline 3.5 i V6 AWD 24V 252 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-5043,Phase 2 Berline (09/2007 - Aujourd'hui),09/2007,,57725,CHRYSLER 300C,CHRYSLER 300C Phase 2 Berline 2.7 i V6 Berline 24V 177 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-5043,Phase 2 Berline (09/2007 - Aujourd'hui),09/2007,,32725,CHRYSLER 300C,CHRYSLER 300C Phase 2 Berline 5.7 i V8 16V 340 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-94,300C,mo-5043,Phase 2 Berline (09/2007 - Aujourd'hui),09/2007,,32732,CHRYSLER 300C,CHRYSLER 300C Phase 2 Berline 6.1 SRT-8 V8 16V 431 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2183,IV Phase 2 (07/2004 - 02/2008),07/2004,02/2008,1654,CHRYSLER Voyager,CHRYSLER Voyager IV Phase 2 2.8 CRD 16V 150cv Boîte auto,Diesel
-ma-47,CHRYSLER,fa-110,Voyager,mo-2183,IV Phase 2 (07/2004 - 02/2008),07/2004,02/2008,7994,CHRYSLER Voyager,CHRYSLER Voyager IV Phase 2 2.4 i 16V 150cv,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2183,IV Phase 2 (07/2004 - 02/2008),07/2004,02/2008,1675,CHRYSLER Voyager,CHRYSLER Voyager IV Phase 2 3.3 i 174cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2183,IV Phase 2 (07/2004 - 02/2008),07/2004,02/2008,1673,CHRYSLER Voyager,CHRYSLER Voyager IV Phase 2 2.4 i 16V 150cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2183,IV Phase 2 (07/2004 - 02/2008),07/2004,02/2008,15317,CHRYSLER Voyager,CHRYSLER Voyager IV Phase 2 2.5 CRD 16V 140cv,Diesel
-ma-47,CHRYSLER,fa-110,Voyager,mo-2182,IV (03/2001 - 06/2004),03/2001,06/2004,7993,CHRYSLER Voyager,CHRYSLER Voyager IV 3.3 i 174 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2182,IV (03/2001 - 06/2004),03/2001,06/2004,24555,CHRYSLER Voyager,CHRYSLER Voyager IV 3.8 i 12V AWD 218 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2182,IV (03/2001 - 06/2004),03/2001,06/2004,15315,CHRYSLER Voyager,CHRYSLER Voyager IV 2.4 i 16V 150cv,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2182,IV (03/2001 - 06/2004),03/2001,06/2004,1672,CHRYSLER Voyager,CHRYSLER Voyager IV 2.5 CRD 16V 140cv,Diesel
-ma-47,CHRYSLER,fa-110,Voyager,mo-2182,IV (03/2001 - 06/2004),03/2001,06/2004,15316,CHRYSLER Voyager,CHRYSLER Voyager IV 2.4 i 16V 150cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2182,IV (03/2001 - 06/2004),03/2001,06/2004,37707,CHRYSLER Voyager,CHRYSLER Voyager IV 3.3 i AWD 174 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2182,IV (03/2001 - 06/2004),03/2001,06/2004,2458,CHRYSLER Voyager,CHRYSLER Voyager IV 3.8 i 12V 218cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2180,II (03/1991 - 10/1995),03/1991,10/1995,7990,CHRYSLER Voyager,CHRYSLER Voyager II 3.3 i 150 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2180,II (03/1991 - 10/1995),03/1991,10/1995,24710,CHRYSLER Voyager,CHRYSLER Voyager II 3.3 i AWD 150 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2180,II (03/1991 - 10/1995),03/1991,10/1995,39106,CHRYSLER Voyager,CHRYSLER Voyager II 3.3 i 163 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2180,II (03/1991 - 10/1995),03/1991,10/1995,1668,CHRYSLER Voyager,CHRYSLER Voyager II 2.5 i 102cv,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2180,II (03/1991 - 10/1995),03/1991,10/1995,58059,CHRYSLER Voyager,CHRYSLER Voyager II 3.0 i 141 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2180,II (03/1991 - 10/1995),03/1991,10/1995,69863,CHRYSLER Voyager,CHRYSLER Voyager II 2.5 TD 116 cv,Diesel
-ma-47,CHRYSLER,fa-110,Voyager,mo-2180,II (03/1991 - 10/1995),03/1991,10/1995,1669,CHRYSLER Voyager,CHRYSLER Voyager II 2.5 TD 118 cv,Diesel
-ma-47,CHRYSLER,fa-110,Voyager,mo-2180,II (03/1991 - 10/1995),03/1991,10/1995,67917,CHRYSLER Voyager,CHRYSLER Voyager II 3.0 i 147 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2180,II (03/1991 - 10/1995),03/1991,10/1995,39105,CHRYSLER Voyager,CHRYSLER Voyager II 3.3 i AWD 163 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2181,III (01/1996 - 03/2001),01/1996,03/2001,2456,CHRYSLER Voyager,CHRYSLER Voyager III 3.0 i 150cv,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2181,III (01/1996 - 03/2001),01/1996,03/2001,7992,CHRYSLER Voyager,CHRYSLER Voyager III 3.8 i AWD 166cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2181,III (01/1996 - 03/2001),01/1996,03/2001,32367,CHRYSLER Voyager,CHRYSLER Voyager III 2.4 i 16V 150 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2181,III (01/1996 - 03/2001),01/1996,03/2001,7991,CHRYSLER Voyager,CHRYSLER Voyager III 2.0 i 133cv,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2181,III (01/1996 - 03/2001),01/1996,03/2001,2454,CHRYSLER Voyager,CHRYSLER Voyager III 2.4 i 16V 150cv,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2181,III (01/1996 - 03/2001),01/1996,03/2001,40809,CHRYSLER Voyager,CHRYSLER Voyager III 2.5 TD 116 cv,Diesel
-ma-47,CHRYSLER,fa-110,Voyager,mo-2181,III (01/1996 - 03/2001),01/1996,03/2001,1671,CHRYSLER Voyager,CHRYSLER Voyager III 3.8 i AWD 178cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2181,III (01/1996 - 03/2001),01/1996,03/2001,2457,CHRYSLER Voyager,CHRYSLER Voyager III 3.3 i 158cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2179,I (10/1983 - 02/1991),10/1983,02/1991,15318,CHRYSLER Voyager,CHRYSLER Voyager I 3.0 i 143cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2179,I (10/1983 - 02/1991),10/1983,02/1991,1676,CHRYSLER Voyager,CHRYSLER Voyager I 2.5 i 102cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2179,I (10/1983 - 02/1991),10/1983,02/1991,8672,CHRYSLER Voyager,CHRYSLER Voyager I 2.5 i 102cv,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2179,I (10/1983 - 02/1991),10/1983,02/1991,62171,CHRYSLER Voyager,CHRYSLER Voyager I 3.3 i AWD 150 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-110,Voyager,mo-2179,I (10/1983 - 02/1991),10/1983,02/1991,43709,CHRYSLER Voyager,CHRYSLER Voyager I 3.3 i LWB 150 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-3315,V (01/2008 - Aujourd'hui),01/2008,,51740,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager V 3.6 i 24V 283 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-3315,V (01/2008 - Aujourd'hui),01/2008,,43707,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager V 2.8 CRD 16V DPF 178 cv Boîte auto,Diesel
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-3315,V (01/2008 - Aujourd'hui),01/2008,,29974,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager V 3.8 i 193 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-3315,V (01/2008 - Aujourd'hui),01/2008,,29973,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager V 2.8 CRD 16V 163 cv Boîte auto,Diesel
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1057,IV Phase 2 (07/2004 - 01/2008),07/2004,01/2008,43708,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager IV Phase 2 2.4 i 16V 150 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1057,IV Phase 2 (07/2004 - 01/2008),07/2004,01/2008,7977,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager IV Phase 2 2.5 CRD 16V 140cv,Diesel
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1057,IV Phase 2 (07/2004 - 01/2008),07/2004,01/2008,31775,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager IV Phase 2 2.5 CRD 16V 120 cv,Diesel
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1057,IV Phase 2 (07/2004 - 01/2008),07/2004,01/2008,58056,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager IV Phase 2 3.3 i 170 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1057,IV Phase 2 (07/2004 - 01/2008),07/2004,01/2008,15300,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager IV Phase 2 2.4 i 16V 150cv,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1057,IV Phase 2 (07/2004 - 01/2008),07/2004,01/2008,24536,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager IV Phase 2 3.3 i 4WD 174 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1057,IV Phase 2 (07/2004 - 01/2008),07/2004,01/2008,1655,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager IV Phase 2 3.3 i 174cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1057,IV Phase 2 (07/2004 - 01/2008),07/2004,01/2008,62172,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager IV Phase 2 2.8 CRD 16V Automatic 150 cv Boîte auto,Diesel
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1056,IV (03/2001 - 07/2004),03/2001,07/2004,1653,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager IV 3.3 i 174 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1056,IV (03/2001 - 07/2004),03/2001,07/2004,15299,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager IV 2.4 i 16V 150cv,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1056,IV (03/2001 - 07/2004),03/2001,07/2004,24535,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager IV 3.3 i AWD 174 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1056,IV (03/2001 - 07/2004),03/2001,07/2004,7976,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager IV 2.5 CRD 16V 140cv,Diesel
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1056,IV (03/2001 - 07/2004),03/2001,07/2004,31774,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager IV 2.5 CRD 116 cv,Diesel
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1055,III (01/1996 - 03/2001),01/1996,03/2001,7975,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager III 3.3 i 180cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1055,III (01/1996 - 03/2001),01/1996,03/2001,43706,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager III 3.8 i AWD 166 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1055,III (01/1996 - 03/2001),01/1996,03/2001,43704,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager III 2.4 i 16V 150 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1055,III (01/1996 - 03/2001),01/1996,03/2001,1651,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager III 2.5 TD 115cv,Diesel
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1055,III (01/1996 - 03/2001),01/1996,03/2001,43705,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager III 2.4 i 16V 150 cv,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1055,III (01/1996 - 03/2001),01/1996,03/2001,32368,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager III 3.3 i 158 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1055,III (01/1996 - 03/2001),01/1996,03/2001,1652,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager III 3.8 i AWD 178cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1058,II (04/1992 - 10/1995),04/1992,10/1995,15301,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager II 2.5 TD 118 cv,Diesel
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1058,II (04/1992 - 10/1995),04/1992,10/1995,37705,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager II 3.3 i 163 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1058,II (04/1992 - 10/1995),04/1992,10/1995,7978,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager II 3.3 i 150 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1058,II (04/1992 - 10/1995),04/1992,10/1995,37704,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager II 3.3 i AWD 163 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-100,Grand Voyager,mo-1058,II (04/1992 - 10/1995),04/1992,10/1995,24709,CHRYSLER Grand Voyager,CHRYSLER Grand Voyager II 3.3 i 4WD 150 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-97,Crossfire,mo-802, (07/2003 - 01/2009),07/2003,01/2009,1649,CHRYSLER Crossfire,CHRYSLER Crossfire 3.2 i V6 Roadster 218cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-97,Crossfire,mo-802, (07/2003 - 01/2009),07/2003,01/2009,7972,CHRYSLER Crossfire,CHRYSLER Crossfire SRT-6 3.2 i V6 Coupé 335cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-97,Crossfire,mo-802, (07/2003 - 01/2009),07/2003,01/2009,7971,CHRYSLER Crossfire,CHRYSLER Crossfire 3.2 i V6 Roadster 218cv,Essence
-ma-47,CHRYSLER,fa-97,Crossfire,mo-802, (07/2003 - 01/2009),07/2003,01/2009,15298,CHRYSLER Crossfire,CHRYSLER Crossfire 3.2 i V6 Coupé 218cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-97,Crossfire,mo-802, (07/2003 - 01/2009),07/2003,01/2009,1650,CHRYSLER Crossfire,CHRYSLER Crossfire SRT-6 3.2 i V6 Roadster 335cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-97,Crossfire,mo-802, (07/2003 - 01/2009),07/2003,01/2009,7970,CHRYSLER Crossfire,CHRYSLER Crossfire 3.2 i V6 Coupé 218cv,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-1817,II (03/2000 - 03/2007),03/2000,03/2007,1664,CHRYSLER Sebring,CHRYSLER Sebring II 2.0 i 141cv,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-1817,II (03/2000 - 03/2007),03/2000,03/2007,7987,CHRYSLER Sebring,CHRYSLER Sebring II 2.4 i 152cv,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-1817,II (03/2000 - 03/2007),03/2000,03/2007,7988,CHRYSLER Sebring,CHRYSLER Sebring II 2.7 i V6 203cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-1817,II (03/2000 - 03/2007),03/2000,03/2007,2450,CHRYSLER Sebring,CHRYSLER Sebring II 2.4 i Cabriolet 152cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-1817,II (03/2000 - 03/2007),03/2000,03/2007,15312,CHRYSLER Sebring,CHRYSLER Sebring II 2.0 i Cabriolet 141cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-1817,II (03/2000 - 03/2007),03/2000,03/2007,7986,CHRYSLER Sebring,CHRYSLER Sebring II 2.0 i 141cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-1817,II (03/2000 - 03/2007),03/2000,03/2007,58060,CHRYSLER Sebring,CHRYSLER Sebring II 2.4 i 16V 143 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-1817,II (03/2000 - 03/2007),03/2000,03/2007,2449,CHRYSLER Sebring,CHRYSLER Sebring II 2.4 i Cabriolet 152cv,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-1817,II (03/2000 - 03/2007),03/2000,03/2007,15311,CHRYSLER Sebring,CHRYSLER Sebring II 2.0 i Cabriolet 141cv,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-1817,II (03/2000 - 03/2007),03/2000,03/2007,1665,CHRYSLER Sebring,CHRYSLER Sebring II 2.4 i 152cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-1817,II (03/2000 - 03/2007),03/2000,03/2007,58061,CHRYSLER Sebring,CHRYSLER Sebring II 2.4 i 16V 143 cv,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-1817,II (03/2000 - 03/2007),03/2000,03/2007,2451,CHRYSLER Sebring,CHRYSLER Sebring II 2.7 i V6 Cabriolet 203cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-3317,III Sedan (03/2007 - 03/2011),03/2007,03/2011,29983,CHRYSLER Sebring,CHRYSLER Sebring III Sedan 2.4 i Berline 16V 170 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-3317,III Sedan (03/2007 - 03/2011),03/2007,03/2011,29982,CHRYSLER Sebring,CHRYSLER Sebring III Sedan 2.0 i Berline 16V 156 cv,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-3317,III Sedan (03/2007 - 03/2011),03/2007,03/2011,29981,CHRYSLER Sebring,CHRYSLER Sebring III Sedan 2.0 CRD Berline 140 cv,Diesel
-ma-47,CHRYSLER,fa-107,Sebring,mo-3316,III Coupé Cabriolet (03/2007 - 03/2011),03/2007,03/2011,69143,CHRYSLER Sebring,CHRYSLER Sebring III Coupé Cabriolet 2.7 i V6 24V 192 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-3316,III Coupé Cabriolet (03/2007 - 03/2011),03/2007,03/2011,29978,CHRYSLER Sebring,CHRYSLER Sebring III Coupé Cabriolet 2.0 i Coupé Cabriolet 16V 156 cv,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-3316,III Coupé Cabriolet (03/2007 - 03/2011),03/2007,03/2011,31325,CHRYSLER Sebring,CHRYSLER Sebring III Coupé Cabriolet 2.7 i V6 Coupé Cabriolet 24V 186 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-3316,III Coupé Cabriolet (03/2007 - 03/2011),03/2007,03/2011,29980,CHRYSLER Sebring,CHRYSLER Sebring III Coupé Cabriolet 2.4 i Coupé Cabriolet 16V 170 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-3316,III Coupé Cabriolet (03/2007 - 03/2011),03/2007,03/2011,29976,CHRYSLER Sebring,CHRYSLER Sebring III Coupé Cabriolet 2.0 CRD Coupé Cabriolet 140 cv,Diesel
-ma-47,CHRYSLER,fa-107,Sebring,mo-4599,III Cabriolet (03/2007 - 01/2009),03/2007,01/2009,29979,CHRYSLER Sebring,CHRYSLER Sebring III Cabriolet 2.4 i 16V 170 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-4599,III Cabriolet (03/2007 - 01/2009),03/2007,01/2009,29977,CHRYSLER Sebring,CHRYSLER Sebring III Cabriolet 2.0 i 16V 156 cv,Essence
-ma-47,CHRYSLER,fa-107,Sebring,mo-4599,III Cabriolet (03/2007 - 01/2009),03/2007,01/2009,29975,CHRYSLER Sebring,CHRYSLER Sebring III Cabriolet 2.0 CRD 16V 140 cv,Diesel
-ma-47,CHRYSLER,fa-107,Sebring,mo-2363,I Coupé (05/1995 - 09/2000),05/1995,09/2000,27041,CHRYSLER Sebring,CHRYSLER Sebring I Coupé 2.5 LE 163 cv,Essence
-ma-47,CHRYSLER,fa-108,Stratus,mo-5503,Cabriolet (10/1995 - 12/2000),10/1995,12/2000,39481,CHRYSLER Stratus,CHRYSLER Stratus Cabriolet 2.0 i 16V 131 cv,Essence
-ma-47,CHRYSLER,fa-108,Stratus,mo-5503,Cabriolet (10/1995 - 12/2000),10/1995,12/2000,39480,CHRYSLER Stratus,CHRYSLER Stratus Cabriolet 2.5 i V6 24V 163 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-108,Stratus,mo-5502,Sedan (01/1994 - 12/2000),01/1994,12/2000,15314,CHRYSLER Stratus,CHRYSLER Stratus Sedan 2.0 i 133cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-108,Stratus,mo-5502,Sedan (01/1994 - 12/2000),01/1994,12/2000,15313,CHRYSLER Stratus,CHRYSLER Stratus Sedan 2.0 i 133cv,Essence
-ma-47,CHRYSLER,fa-108,Stratus,mo-5502,Sedan (01/1994 - 12/2000),01/1994,12/2000,2453,CHRYSLER Stratus,CHRYSLER Stratus Sedan 2.4 i 150cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-108,Stratus,mo-5502,Sedan (01/1994 - 12/2000),01/1994,12/2000,1666,CHRYSLER Stratus,CHRYSLER Stratus Sedan 2.5 i V6 163cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-108,Stratus,mo-5502,Sedan (01/1994 - 12/2000),01/1994,12/2000,2452,CHRYSLER Stratus,CHRYSLER Stratus Sedan 2.4 i 150cv,Essence
-ma-47,CHRYSLER,fa-108,Stratus,mo-5502,Sedan (01/1994 - 12/2000),01/1994,12/2000,7989,CHRYSLER Stratus,CHRYSLER Stratus Sedan 2.4 i 140cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-96,Le Baron,mo-1237, (09/1986 - 01/1996),09/1986,01/1996,15296,CHRYSLER Le Baron,CHRYSLER Le Baron 2.5 Cabriolet 102cv,Essence
-ma-47,CHRYSLER,fa-96,Le Baron,mo-1237, (09/1986 - 01/1996),09/1986,01/1996,2440,CHRYSLER Le Baron,CHRYSLER Le Baron 3.0 Cabriolet 141cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-96,Le Baron,mo-1237, (09/1986 - 01/1996),09/1986,01/1996,15295,CHRYSLER Le Baron,CHRYSLER Le Baron 2.2 Turbo Cabriolet 177cv,Essence
-ma-47,CHRYSLER,fa-96,Le Baron,mo-1237, (09/1986 - 01/1996),09/1986,01/1996,7968,CHRYSLER Le Baron,CHRYSLER Le Baron 2.5 Turbo Coupé 152cv,Essence
-ma-47,CHRYSLER,fa-96,Le Baron,mo-1237, (09/1986 - 01/1996),09/1986,01/1996,1647,CHRYSLER Le Baron,CHRYSLER Le Baron 2.5 Coupé 102cv,Essence
-ma-47,CHRYSLER,fa-96,Le Baron,mo-1237, (09/1986 - 01/1996),09/1986,01/1996,58057,CHRYSLER Le Baron,CHRYSLER Le Baron 2.2 Turbo Cabriolet 148 cv,Essence
-ma-47,CHRYSLER,fa-96,Le Baron,mo-1237, (09/1986 - 01/1996),09/1986,01/1996,1648,CHRYSLER Le Baron,CHRYSLER Le Baron 2.5 Turbo Coupé 152cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-96,Le Baron,mo-1237, (09/1986 - 01/1996),09/1986,01/1996,7967,CHRYSLER Le Baron,CHRYSLER Le Baron 2.5 Coupé 102cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-96,Le Baron,mo-1237, (09/1986 - 01/1996),09/1986,01/1996,7966,CHRYSLER Le Baron,CHRYSLER Le Baron 2.2 Turbo Coupé 177cv,Essence
-ma-47,CHRYSLER,fa-96,Le Baron,mo-1237, (09/1986 - 01/1996),09/1986,01/1996,2439,CHRYSLER Le Baron,CHRYSLER Le Baron 3.0 Cabriolet 141cv,Essence
-ma-47,CHRYSLER,fa-96,Le Baron,mo-1237, (09/1986 - 01/1996),09/1986,01/1996,69142,CHRYSLER Le Baron,CHRYSLER Le Baron 2.2 Turbo Coupé 148 cv,Essence
-ma-47,CHRYSLER,fa-96,Le Baron,mo-1237, (09/1986 - 01/1996),09/1986,01/1996,7969,CHRYSLER Le Baron,CHRYSLER Le Baron 3.0 Coupé 141cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-96,Le Baron,mo-1237, (09/1986 - 01/1996),09/1986,01/1996,15297,CHRYSLER Le Baron,CHRYSLER Le Baron 2.5 Turbo 152cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-96,Le Baron,mo-1237, (09/1986 - 01/1996),09/1986,01/1996,32369,CHRYSLER Le Baron,CHRYSLER Le Baron 2.5 Cabriolet 24V 102 cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-96,Le Baron,mo-1236, (09/1981 - 08/1986),09/1981,08/1986,1646,CHRYSLER Le Baron,CHRYSLER Le Baron 2.2 i 102cv,Essence
-ma-47,CHRYSLER,fa-96,Le Baron,mo-1236, (09/1981 - 08/1986),09/1981,08/1986,1971,CHRYSLER Le Baron,CHRYSLER Le Baron 2.2 i 100cv,Essence
-ma-47,CHRYSLER,fa-96,Le Baron,mo-1236, (09/1981 - 08/1986),09/1981,08/1986,7965,CHRYSLER Le Baron,CHRYSLER Le Baron 2.2 i Turbo Cabriolet 148cv,Essence
-ma-47,CHRYSLER,fa-96,Le Baron,mo-1238,GTS (09/1984 - 01/1991),09/1984,01/1991,2437,CHRYSLER Le Baron,CHRYSLER Le Baron GTS 2.2 i 148cv,Essence
-ma-47,CHRYSLER,fa-96,Le Baron,mo-1238,GTS (09/1984 - 01/1991),09/1984,01/1991,2438,CHRYSLER Le Baron,CHRYSLER Le Baron GTS 2.2 i Turbo 148cv,Essence
-ma-47,CHRYSLER,fa-95,300M,mo-120, (01/1998 - 04/2003),01/1998,04/2003,1644,CHRYSLER 300M,CHRYSLER 300M 2.7 i V6 24V 204cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-95,300M,mo-120, (01/1998 - 04/2003),01/1998,04/2003,1645,CHRYSLER 300M,CHRYSLER 300M 3.5 i V6 24V 254cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-95,300M,mo-120, (01/1998 - 04/2003),01/1998,04/2003,1970,CHRYSLER 300M,CHRYSLER 300M 3.5 i V6 24V 252cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-95,300M,mo-120, (01/1998 - 04/2003),01/1998,04/2003,7964,CHRYSLER 300M,CHRYSLER 300M 2.7 i V6 24V 203cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-103,Neon,mo-1463,II (01/1999 - 09/2005),01/1999,09/2005,1657,CHRYSLER Neon,CHRYSLER Neon II 1.6 i 115cv,Essence
-ma-47,CHRYSLER,fa-103,Neon,mo-1463,II (01/1999 - 09/2005),01/1999,09/2005,1658,CHRYSLER Neon,CHRYSLER Neon II 2.0 i 16V R/T 150cv,Essence
-ma-47,CHRYSLER,fa-103,Neon,mo-1463,II (01/1999 - 09/2005),01/1999,09/2005,7979,CHRYSLER Neon,CHRYSLER Neon II 2.0 i 16V 133cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-103,Neon,mo-1463,II (01/1999 - 09/2005),01/1999,09/2005,2445,CHRYSLER Neon,CHRYSLER Neon II 2.0 i 16V 133cv,Essence
-ma-47,CHRYSLER,fa-103,Neon,mo-1464,I (10/1993 - 12/1998),10/1993,12/1998,2446,CHRYSLER Neon,CHRYSLER Neon I 2.0 i 16V 141cv,Essence
-ma-47,CHRYSLER,fa-103,Neon,mo-1464,I (10/1993 - 12/1998),10/1993,12/1998,2447,CHRYSLER Neon,CHRYSLER Neon I 2.0 i 16V 147cv,Essence
-ma-47,CHRYSLER,fa-103,Neon,mo-1464,I (10/1993 - 12/1998),10/1993,12/1998,15302,CHRYSLER Neon,CHRYSLER Neon I 2.0 i 16V 133cv,Essence
-ma-47,CHRYSLER,fa-103,Neon,mo-1464,I (10/1993 - 12/1998),10/1993,12/1998,7980,CHRYSLER Neon,CHRYSLER Neon I 1.8 i 16V 115cv,Essence
-ma-47,CHRYSLER,fa-103,Neon,mo-1464,I (10/1993 - 12/1998),10/1993,12/1998,1659,CHRYSLER Neon,CHRYSLER Neon I 2.0 i 16V 133cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-1013,VIPER,mo-2648, (08/1992 - Aujourd'hui),08/1992,,26613,CHRYSLER VIPER,CHRYSLER VIPER 8.0 406 cv,Essence
-ma-47,CHRYSLER,fa-1013,VIPER,mo-2648, (08/1992 - Aujourd'hui),08/1992,,26615,CHRYSLER VIPER,CHRYSLER VIPER 8.0 455 cv,Essence
-ma-47,CHRYSLER,fa-1013,VIPER,mo-2648, (08/1992 - Aujourd'hui),08/1992,,26611,CHRYSLER VIPER,CHRYSLER VIPER 8.0 394 cv,Essence
-ma-47,CHRYSLER,fa-1013,VIPER,mo-2648, (08/1992 - Aujourd'hui),08/1992,,26141,CHRYSLER VIPER,CHRYSLER VIPER 8.0 384 cv,Essence
-ma-47,CHRYSLER,fa-1013,VIPER,mo-2649,Convertible (08/1992 - Aujourd'hui),08/1992,,26142,CHRYSLER VIPER,CHRYSLER VIPER Convertible 8.0 384 cv,Essence
-ma-47,CHRYSLER,fa-1013,VIPER,mo-2649,Convertible (08/1992 - Aujourd'hui),08/1992,,26614,CHRYSLER VIPER,CHRYSLER VIPER Convertible 8.0 406 cv,Essence
-ma-47,CHRYSLER,fa-1013,VIPER,mo-2649,Convertible (08/1992 - Aujourd'hui),08/1992,,26612,CHRYSLER VIPER,CHRYSLER VIPER Convertible 8.0 394 cv,Essence
-ma-47,CHRYSLER,fa-109,Vision,mo-2172, (10/1992 - 09/1998),10/1992,09/1998,1667,CHRYSLER Vision,CHRYSLER Vision 3.5 V6 211cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-106,Saratoga,mo-1793, (09/1988 - 08/1995),09/1988,08/1995,7985,CHRYSLER Saratoga,CHRYSLER Saratoga 3.0 141cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-1009,CONCORDE,mo-2646,II (10/1997 - 09/2003),10/1997,09/2003,26913,CHRYSLER CONCORDE,CHRYSLER CONCORDE II 2.7 LX 203 cv,Essence
-ma-47,CHRYSLER,fa-1009,CONCORDE,mo-2646,II (10/1997 - 09/2003),10/1997,09/2003,26914,CHRYSLER CONCORDE,CHRYSLER CONCORDE II 3.5 LX 237 cv,Essence
-ma-47,CHRYSLER,fa-1009,CONCORDE,mo-2646,II (10/1997 - 09/2003),10/1997,09/2003,26915,CHRYSLER CONCORDE,CHRYSLER CONCORDE II 3.5 LX Supercharged 253 cv,Essence
-ma-47,CHRYSLER,fa-1009,CONCORDE,mo-2645,I (10/1992 - 09/1997),10/1992,09/1997,26912,CHRYSLER CONCORDE,CHRYSLER CONCORDE I 3.5 LX 211 cv,Essence
-ma-47,CHRYSLER,fa-1009,CONCORDE,mo-2645,I (10/1992 - 09/1997),10/1992,09/1997,26911,CHRYSLER CONCORDE,CHRYSLER CONCORDE I 3.3 LX 163 cv,Essence
-ma-47,CHRYSLER,fa-104,New Yorker,mo-1472, (01/1993 - 09/1998),01/1993,09/1998,1661,CHRYSLER New Yorker,CHRYSLER New Yorker 3.5 V6 211cv Boîte auto,Essence
-ma-47,CHRYSLER,fa-1008,CIRRUS,mo-2644, (05/1994 - 09/2000),05/1994,09/2000,26898,CHRYSLER CIRRUS,CHRYSLER CIRRUS 2.4 LX 140 cv,Essence
-ma-47,CHRYSLER,fa-1008,CIRRUS,mo-2644, (05/1994 - 09/2000),05/1994,09/2000,26897,CHRYSLER CIRRUS,CHRYSLER CIRRUS 2.0 LX 133 cv,Essence
-ma-47,CHRYSLER,fa-1008,CIRRUS,mo-2644, (05/1994 - 09/2000),05/1994,09/2000,26896,CHRYSLER CIRRUS,CHRYSLER CIRRUS 2.0 LX 131 cv,Essence
-ma-47,CHRYSLER,fa-1008,CIRRUS,mo-2644, (05/1994 - 09/2000),05/1994,09/2000,26899,CHRYSLER CIRRUS,CHRYSLER CIRRUS 2.5 LX 163 cv,Essence
-ma-47,CHRYSLER,fa-1010,GS,mo-2647,DAYTONA SHELBY Coupé (10/1984 - 10/1992),10/1984,10/1992,26108,CHRYSLER GS,CHRYSLER GS DAYTONA SHELBY Coupé 2.2 i Turbo 177 cv,Essence
-ma-47,CHRYSLER,fa-1010,GS,mo-2647,DAYTONA SHELBY Coupé (10/1984 - 10/1992),10/1984,10/1992,26126,CHRYSLER GS,CHRYSLER GS DAYTONA SHELBY Coupé 2.5 i Turbo 150 cv,Essence
-ma-47,CHRYSLER,fa-2055,Ypsilon,mo-5150, (09/2011 - Aujourd'hui),09/2011,,40908,CHRYSLER Ypsilon,CHRYSLER Ypsilon 1.2 69 cv,Essence
-ma-47,CHRYSLER,fa-2055,Ypsilon,mo-5150, (09/2011 - Aujourd'hui),09/2011,,40909,CHRYSLER Ypsilon,CHRYSLER Ypsilon 1.3 Multijet 95 cv,Diesel
-ma-47,CHRYSLER,fa-2055,Ypsilon,mo-5150, (09/2011 - Aujourd'hui),09/2011,,40907,CHRYSLER Ypsilon,CHRYSLER Ypsilon 0.9 Twinair 86 cv,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-1638"," (06/2000 - 11/2007)","06/2000","11/2007","15304","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser 2.0 i 141 cv","Essence"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-1638"," (06/2000 - 11/2007)","06/2000","11/2007","15305","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser 2.0 i 141 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-1638"," (06/2000 - 11/2007)","06/2000","11/2007","56309","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser 2.0 i 16V 136 cv","Essence"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-1638"," (06/2000 - 11/2007)","06/2000","11/2007","1663","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser 1.6 i 115 cv","Essence"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-1638"," (06/2000 - 11/2007)","06/2000","11/2007","15309","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser 2.4 i 16V 150 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-1638"," (06/2000 - 11/2007)","06/2000","11/2007","7982","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser 2.2 CRD 121 cv","Diesel"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-1638"," (06/2000 - 11/2007)","06/2000","11/2007","7984","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser 2.4 i Turbo 223 cv","Essence"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-1638"," (06/2000 - 11/2007)","06/2000","11/2007","69803","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser 2.4 i 143 cv","Essence"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-1638"," (06/2000 - 11/2007)","06/2000","11/2007","69804","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser 2.4 i 143 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-1638"," (06/2000 - 11/2007)","06/2000","11/2007","15307","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser 2.4 i 16V 150 cv","Essence"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-1638"," (06/2000 - 11/2007)","06/2000","11/2007","37706","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser 2.0 i 16V 136 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-5045","Phase 2 (08/2005 - 07/2010)","08/2005","07/2010","15306","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser Phase 2 2.4 i 143 cv","Essence"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-5045","Phase 2 (08/2005 - 07/2010)","08/2005","07/2010","15308","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser Phase 2 2.4 i 143 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-5045","Phase 2 (08/2005 - 07/2010)","08/2005","07/2010","7983","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser Phase 2 2.2 CRD 150 cv","Diesel"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-5045","Phase 2 (08/2005 - 07/2010)","08/2005","07/2010","32734","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser Phase 2 2.4 i 16V 150 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-5045","Phase 2 (08/2005 - 07/2010)","08/2005","07/2010","32736","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser Phase 2 2.4 i Turbo 16V 223 cv","Essence"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-5045","Phase 2 (08/2005 - 07/2010)","08/2005","07/2010","32735","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser Phase 2 2.4 i 16V 150 cv","Essence"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-5045","Phase 2 (08/2005 - 07/2010)","08/2005","07/2010","58058","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser Phase 2 2.4 i Turbo 16V 230 cv","Essence"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-1639","Cabriolet (08/2003 - 11/2007)","08/2003","11/2007","7981","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser Cabriolet 2.4 i Cabriolet 143 cv","Essence"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-1639","Cabriolet (08/2003 - 11/2007)","08/2003","11/2007","1662","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser Cabriolet 2.4 i Cabriolet 143 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-105","PT Cruiser","mo-1639","Cabriolet (08/2003 - 11/2007)","08/2003","11/2007","15303","CHRYSLER PT Cruiser","CHRYSLER PT Cruiser Cabriolet 2.4 i Turbo Cabriolet 223 cv","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-118","Berline (06/2004 - 09/2007)","06/2004","09/2007","1969","CHRYSLER 300C","CHRYSLER 300C Berline 3.5 i V6 249cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-118","Berline (06/2004 - 09/2007)","06/2004","09/2007","29971","CHRYSLER 300C","CHRYSLER 300C Berline 6.1 SRT-8 V8 16V 431 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-118","Berline (06/2004 - 09/2007)","06/2004","09/2007","7961","CHRYSLER 300C","CHRYSLER 300C Berline 3.0 CRD V6 218cv Boîte auto","Diesel"
+"ma-47","CHRYSLER","fa-94","300C","mo-118","Berline (06/2004 - 09/2007)","06/2004","09/2007","15292","CHRYSLER 300C","CHRYSLER 300C Berline 5.7 i V8 340cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-118","Berline (06/2004 - 09/2007)","06/2004","09/2007","1642","CHRYSLER 300C","CHRYSLER 300C Berline 2.7 i V6 193cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-119","Touring (06/2004 - 09/2007)","06/2004","09/2007","7962","CHRYSLER 300C","CHRYSLER 300C Touring 2.7 i V6 193cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-119","Touring (06/2004 - 09/2007)","06/2004","09/2007","29972","CHRYSLER 300C","CHRYSLER 300C Touring SRT-8 6.1 V8 16V 431 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-119","Touring (06/2004 - 09/2007)","06/2004","09/2007","7963","CHRYSLER 300C","CHRYSLER 300C Touring 3.5 i V6 249cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-119","Touring (06/2004 - 09/2007)","06/2004","09/2007","24534","CHRYSLER 300C","CHRYSLER 300C Touring 5.7 i V8 340cv 4WD Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-119","Touring (06/2004 - 09/2007)","06/2004","09/2007","15293","CHRYSLER 300C","CHRYSLER 300C Touring 3.0 CRD V6 218cv Boîte auto","Diesel"
+"ma-47","CHRYSLER","fa-94","300C","mo-119","Touring (06/2004 - 09/2007)","06/2004","09/2007","1643","CHRYSLER 300C","CHRYSLER 300C Touring 5.7 i V8 340cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-119","Touring (06/2004 - 09/2007)","06/2004","09/2007","24708","CHRYSLER 300C","CHRYSLER 300C Touring 3.5 i V6 249cv 4WD Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-5044","Phase 2 Touring (09/2007 - 01/2012)","09/2007","01/2012","32733","CHRYSLER 300C","CHRYSLER 300C Phase 2 Touring 6.1 SRT-8 V8 Break 16V 431 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-5044","Phase 2 Touring (09/2007 - 01/2012)","09/2007","01/2012","32729","CHRYSLER 300C","CHRYSLER 300C Phase 2 Touring 3.5 i V6 Break 24V 249 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-5044","Phase 2 Touring (09/2007 - 01/2012)","09/2007","01/2012","32728","CHRYSLER 300C","CHRYSLER 300C Phase 2 Touring 3.5 i V6 4WD Break 24V 249 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-5044","Phase 2 Touring (09/2007 - 01/2012)","09/2007","01/2012","57726","CHRYSLER 300C","CHRYSLER 300C Phase 2 Touring 3.0 CRD V6 Break 24V 211 cv Boîte auto","Diesel"
+"ma-47","CHRYSLER","fa-94","300C","mo-5044","Phase 2 Touring (09/2007 - 01/2012)","09/2007","01/2012","32726","CHRYSLER 300C","CHRYSLER 300C Phase 2 Touring 2.7 i V6 Break 24V 193 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-5044","Phase 2 Touring (09/2007 - 01/2012)","09/2007","01/2012","32730","CHRYSLER 300C","CHRYSLER 300C Phase 2 Touring 5.7 i V8 4WD Break 16V 340 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-5044","Phase 2 Touring (09/2007 - 01/2012)","09/2007","01/2012","32727","CHRYSLER 300C","CHRYSLER 300C Phase 2 Touring 3.0 CRD V6 Break 24V 218 cv Boîte auto","Diesel"
+"ma-47","CHRYSLER","fa-94","300C","mo-5044","Phase 2 Touring (09/2007 - 01/2012)","09/2007","01/2012","56308","CHRYSLER 300C","CHRYSLER 300C Phase 2 Touring 2.7 i V6 Break 24V 177 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-5044","Phase 2 Touring (09/2007 - 01/2012)","09/2007","01/2012","32731","CHRYSLER 300C","CHRYSLER 300C Phase 2 Touring 5.7 i V8 Break 16V 340 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-5043","Phase 2 Berline (09/2007 - Aujourd'hui)","09/2007","","32724","CHRYSLER 300C","CHRYSLER 300C Phase 2 Berline 3.5 i V6 24V 249 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-5043","Phase 2 Berline (09/2007 - Aujourd'hui)","09/2007","","37703","CHRYSLER 300C","CHRYSLER 300C Phase 2 Berline 3.0 CRD DPF V6 24V 239 cv Boîte auto","Diesel"
+"ma-47","CHRYSLER","fa-94","300C","mo-5043","Phase 2 Berline (09/2007 - Aujourd'hui)","09/2007","","56307","CHRYSLER 300C","CHRYSLER 300C Phase 2 Berline 3.0 CRD V6 24V 211 cv Boîte auto","Diesel"
+"ma-47","CHRYSLER","fa-94","300C","mo-5043","Phase 2 Berline (09/2007 - Aujourd'hui)","09/2007","","32722","CHRYSLER 300C","CHRYSLER 300C Phase 2 Berline 2.7 i V6 24V 193 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-5043","Phase 2 Berline (09/2007 - Aujourd'hui)","09/2007","","32723","CHRYSLER 300C","CHRYSLER 300C Phase 2 Berline 3.0 CRD V6 24V 218 cv Boîte auto","Diesel"
+"ma-47","CHRYSLER","fa-94","300C","mo-5043","Phase 2 Berline (09/2007 - Aujourd'hui)","09/2007","","58055","CHRYSLER 300C","CHRYSLER 300C Phase 2 Berline 3.5 i V6 AWD 24V 252 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-5043","Phase 2 Berline (09/2007 - Aujourd'hui)","09/2007","","57725","CHRYSLER 300C","CHRYSLER 300C Phase 2 Berline 2.7 i V6 Berline 24V 177 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-5043","Phase 2 Berline (09/2007 - Aujourd'hui)","09/2007","","32725","CHRYSLER 300C","CHRYSLER 300C Phase 2 Berline 5.7 i V8 16V 340 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-94","300C","mo-5043","Phase 2 Berline (09/2007 - Aujourd'hui)","09/2007","","32732","CHRYSLER 300C","CHRYSLER 300C Phase 2 Berline 6.1 SRT-8 V8 16V 431 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2183","IV Phase 2 (07/2004 - 02/2008)","07/2004","02/2008","1654","CHRYSLER Voyager","CHRYSLER Voyager IV Phase 2 2.8 CRD 16V 150cv Boîte auto","Diesel"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2183","IV Phase 2 (07/2004 - 02/2008)","07/2004","02/2008","7994","CHRYSLER Voyager","CHRYSLER Voyager IV Phase 2 2.4 i 16V 150cv","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2183","IV Phase 2 (07/2004 - 02/2008)","07/2004","02/2008","1675","CHRYSLER Voyager","CHRYSLER Voyager IV Phase 2 3.3 i 174cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2183","IV Phase 2 (07/2004 - 02/2008)","07/2004","02/2008","1673","CHRYSLER Voyager","CHRYSLER Voyager IV Phase 2 2.4 i 16V 150cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2183","IV Phase 2 (07/2004 - 02/2008)","07/2004","02/2008","15317","CHRYSLER Voyager","CHRYSLER Voyager IV Phase 2 2.5 CRD 16V 140cv","Diesel"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2182","IV (03/2001 - 06/2004)","03/2001","06/2004","7993","CHRYSLER Voyager","CHRYSLER Voyager IV 3.3 i 174 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2182","IV (03/2001 - 06/2004)","03/2001","06/2004","24555","CHRYSLER Voyager","CHRYSLER Voyager IV 3.8 i 12V AWD 218 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2182","IV (03/2001 - 06/2004)","03/2001","06/2004","15315","CHRYSLER Voyager","CHRYSLER Voyager IV 2.4 i 16V 150cv","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2182","IV (03/2001 - 06/2004)","03/2001","06/2004","1672","CHRYSLER Voyager","CHRYSLER Voyager IV 2.5 CRD 16V 140cv","Diesel"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2182","IV (03/2001 - 06/2004)","03/2001","06/2004","15316","CHRYSLER Voyager","CHRYSLER Voyager IV 2.4 i 16V 150cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2182","IV (03/2001 - 06/2004)","03/2001","06/2004","37707","CHRYSLER Voyager","CHRYSLER Voyager IV 3.3 i AWD 174 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2182","IV (03/2001 - 06/2004)","03/2001","06/2004","2458","CHRYSLER Voyager","CHRYSLER Voyager IV 3.8 i 12V 218cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2180","II (03/1991 - 10/1995)","03/1991","10/1995","7990","CHRYSLER Voyager","CHRYSLER Voyager II 3.3 i 150 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2180","II (03/1991 - 10/1995)","03/1991","10/1995","24710","CHRYSLER Voyager","CHRYSLER Voyager II 3.3 i AWD 150 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2180","II (03/1991 - 10/1995)","03/1991","10/1995","39106","CHRYSLER Voyager","CHRYSLER Voyager II 3.3 i 163 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2180","II (03/1991 - 10/1995)","03/1991","10/1995","1668","CHRYSLER Voyager","CHRYSLER Voyager II 2.5 i 102cv","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2180","II (03/1991 - 10/1995)","03/1991","10/1995","58059","CHRYSLER Voyager","CHRYSLER Voyager II 3.0 i 141 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2180","II (03/1991 - 10/1995)","03/1991","10/1995","69863","CHRYSLER Voyager","CHRYSLER Voyager II 2.5 TD 116 cv","Diesel"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2180","II (03/1991 - 10/1995)","03/1991","10/1995","1669","CHRYSLER Voyager","CHRYSLER Voyager II 2.5 TD 118 cv","Diesel"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2180","II (03/1991 - 10/1995)","03/1991","10/1995","67917","CHRYSLER Voyager","CHRYSLER Voyager II 3.0 i 147 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2180","II (03/1991 - 10/1995)","03/1991","10/1995","39105","CHRYSLER Voyager","CHRYSLER Voyager II 3.3 i AWD 163 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2181","III (01/1996 - 03/2001)","01/1996","03/2001","2456","CHRYSLER Voyager","CHRYSLER Voyager III 3.0 i 150cv","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2181","III (01/1996 - 03/2001)","01/1996","03/2001","7992","CHRYSLER Voyager","CHRYSLER Voyager III 3.8 i AWD 166cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2181","III (01/1996 - 03/2001)","01/1996","03/2001","32367","CHRYSLER Voyager","CHRYSLER Voyager III 2.4 i 16V 150 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2181","III (01/1996 - 03/2001)","01/1996","03/2001","7991","CHRYSLER Voyager","CHRYSLER Voyager III 2.0 i 133cv","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2181","III (01/1996 - 03/2001)","01/1996","03/2001","2454","CHRYSLER Voyager","CHRYSLER Voyager III 2.4 i 16V 150cv","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2181","III (01/1996 - 03/2001)","01/1996","03/2001","40809","CHRYSLER Voyager","CHRYSLER Voyager III 2.5 TD 116 cv","Diesel"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2181","III (01/1996 - 03/2001)","01/1996","03/2001","1671","CHRYSLER Voyager","CHRYSLER Voyager III 3.8 i AWD 178cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2181","III (01/1996 - 03/2001)","01/1996","03/2001","2457","CHRYSLER Voyager","CHRYSLER Voyager III 3.3 i 158cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2179","I (10/1983 - 02/1991)","10/1983","02/1991","15318","CHRYSLER Voyager","CHRYSLER Voyager I 3.0 i 143cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2179","I (10/1983 - 02/1991)","10/1983","02/1991","1676","CHRYSLER Voyager","CHRYSLER Voyager I 2.5 i 102cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2179","I (10/1983 - 02/1991)","10/1983","02/1991","8672","CHRYSLER Voyager","CHRYSLER Voyager I 2.5 i 102cv","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2179","I (10/1983 - 02/1991)","10/1983","02/1991","62171","CHRYSLER Voyager","CHRYSLER Voyager I 3.3 i AWD 150 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-110","Voyager","mo-2179","I (10/1983 - 02/1991)","10/1983","02/1991","43709","CHRYSLER Voyager","CHRYSLER Voyager I 3.3 i LWB 150 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-3315","V (01/2008 - Aujourd'hui)","01/2008","","51740","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager V 3.6 i 24V 283 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-3315","V (01/2008 - Aujourd'hui)","01/2008","","43707","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager V 2.8 CRD 16V DPF 178 cv Boîte auto","Diesel"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-3315","V (01/2008 - Aujourd'hui)","01/2008","","29974","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager V 3.8 i 193 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-3315","V (01/2008 - Aujourd'hui)","01/2008","","29973","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager V 2.8 CRD 16V 163 cv Boîte auto","Diesel"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1057","IV Phase 2 (07/2004 - 01/2008)","07/2004","01/2008","43708","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager IV Phase 2 2.4 i 16V 150 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1057","IV Phase 2 (07/2004 - 01/2008)","07/2004","01/2008","7977","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager IV Phase 2 2.5 CRD 16V 140cv","Diesel"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1057","IV Phase 2 (07/2004 - 01/2008)","07/2004","01/2008","31775","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager IV Phase 2 2.5 CRD 16V 120 cv","Diesel"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1057","IV Phase 2 (07/2004 - 01/2008)","07/2004","01/2008","58056","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager IV Phase 2 3.3 i 170 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1057","IV Phase 2 (07/2004 - 01/2008)","07/2004","01/2008","15300","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager IV Phase 2 2.4 i 16V 150cv","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1057","IV Phase 2 (07/2004 - 01/2008)","07/2004","01/2008","24536","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager IV Phase 2 3.3 i 4WD 174 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1057","IV Phase 2 (07/2004 - 01/2008)","07/2004","01/2008","1655","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager IV Phase 2 3.3 i 174cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1057","IV Phase 2 (07/2004 - 01/2008)","07/2004","01/2008","62172","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager IV Phase 2 2.8 CRD 16V Automatic 150 cv Boîte auto","Diesel"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1056","IV (03/2001 - 07/2004)","03/2001","07/2004","1653","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager IV 3.3 i 174 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1056","IV (03/2001 - 07/2004)","03/2001","07/2004","15299","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager IV 2.4 i 16V 150cv","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1056","IV (03/2001 - 07/2004)","03/2001","07/2004","24535","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager IV 3.3 i AWD 174 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1056","IV (03/2001 - 07/2004)","03/2001","07/2004","7976","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager IV 2.5 CRD 16V 140cv","Diesel"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1056","IV (03/2001 - 07/2004)","03/2001","07/2004","31774","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager IV 2.5 CRD 116 cv","Diesel"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1055","III (01/1996 - 03/2001)","01/1996","03/2001","7975","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager III 3.3 i 180cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1055","III (01/1996 - 03/2001)","01/1996","03/2001","43706","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager III 3.8 i AWD 166 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1055","III (01/1996 - 03/2001)","01/1996","03/2001","43704","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager III 2.4 i 16V 150 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1055","III (01/1996 - 03/2001)","01/1996","03/2001","1651","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager III 2.5 TD 115cv","Diesel"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1055","III (01/1996 - 03/2001)","01/1996","03/2001","43705","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager III 2.4 i 16V 150 cv","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1055","III (01/1996 - 03/2001)","01/1996","03/2001","32368","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager III 3.3 i 158 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1055","III (01/1996 - 03/2001)","01/1996","03/2001","1652","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager III 3.8 i AWD 178cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1058","II (04/1992 - 10/1995)","04/1992","10/1995","15301","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager II 2.5 TD 118 cv","Diesel"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1058","II (04/1992 - 10/1995)","04/1992","10/1995","37705","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager II 3.3 i 163 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1058","II (04/1992 - 10/1995)","04/1992","10/1995","7978","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager II 3.3 i 150 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1058","II (04/1992 - 10/1995)","04/1992","10/1995","37704","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager II 3.3 i AWD 163 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-100","Grand Voyager","mo-1058","II (04/1992 - 10/1995)","04/1992","10/1995","24709","CHRYSLER Grand Voyager","CHRYSLER Grand Voyager II 3.3 i 4WD 150 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-97","Crossfire","mo-802"," (07/2003 - 01/2009)","07/2003","01/2009","1649","CHRYSLER Crossfire","CHRYSLER Crossfire 3.2 i V6 Roadster 218cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-97","Crossfire","mo-802"," (07/2003 - 01/2009)","07/2003","01/2009","7972","CHRYSLER Crossfire","CHRYSLER Crossfire SRT-6 3.2 i V6 Coupé 335cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-97","Crossfire","mo-802"," (07/2003 - 01/2009)","07/2003","01/2009","7971","CHRYSLER Crossfire","CHRYSLER Crossfire 3.2 i V6 Roadster 218cv","Essence"
+"ma-47","CHRYSLER","fa-97","Crossfire","mo-802"," (07/2003 - 01/2009)","07/2003","01/2009","15298","CHRYSLER Crossfire","CHRYSLER Crossfire 3.2 i V6 Coupé 218cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-97","Crossfire","mo-802"," (07/2003 - 01/2009)","07/2003","01/2009","1650","CHRYSLER Crossfire","CHRYSLER Crossfire SRT-6 3.2 i V6 Roadster 335cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-97","Crossfire","mo-802"," (07/2003 - 01/2009)","07/2003","01/2009","7970","CHRYSLER Crossfire","CHRYSLER Crossfire 3.2 i V6 Coupé 218cv","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-1817","II (03/2000 - 03/2007)","03/2000","03/2007","1664","CHRYSLER Sebring","CHRYSLER Sebring II 2.0 i 141cv","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-1817","II (03/2000 - 03/2007)","03/2000","03/2007","7987","CHRYSLER Sebring","CHRYSLER Sebring II 2.4 i 152cv","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-1817","II (03/2000 - 03/2007)","03/2000","03/2007","7988","CHRYSLER Sebring","CHRYSLER Sebring II 2.7 i V6 203cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-1817","II (03/2000 - 03/2007)","03/2000","03/2007","2450","CHRYSLER Sebring","CHRYSLER Sebring II 2.4 i Cabriolet 152cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-1817","II (03/2000 - 03/2007)","03/2000","03/2007","15312","CHRYSLER Sebring","CHRYSLER Sebring II 2.0 i Cabriolet 141cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-1817","II (03/2000 - 03/2007)","03/2000","03/2007","7986","CHRYSLER Sebring","CHRYSLER Sebring II 2.0 i 141cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-1817","II (03/2000 - 03/2007)","03/2000","03/2007","58060","CHRYSLER Sebring","CHRYSLER Sebring II 2.4 i 16V 143 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-1817","II (03/2000 - 03/2007)","03/2000","03/2007","2449","CHRYSLER Sebring","CHRYSLER Sebring II 2.4 i Cabriolet 152cv","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-1817","II (03/2000 - 03/2007)","03/2000","03/2007","15311","CHRYSLER Sebring","CHRYSLER Sebring II 2.0 i Cabriolet 141cv","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-1817","II (03/2000 - 03/2007)","03/2000","03/2007","1665","CHRYSLER Sebring","CHRYSLER Sebring II 2.4 i 152cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-1817","II (03/2000 - 03/2007)","03/2000","03/2007","58061","CHRYSLER Sebring","CHRYSLER Sebring II 2.4 i 16V 143 cv","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-1817","II (03/2000 - 03/2007)","03/2000","03/2007","2451","CHRYSLER Sebring","CHRYSLER Sebring II 2.7 i V6 Cabriolet 203cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-3317","III Sedan (03/2007 - 03/2011)","03/2007","03/2011","29983","CHRYSLER Sebring","CHRYSLER Sebring III Sedan 2.4 i Berline 16V 170 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-3317","III Sedan (03/2007 - 03/2011)","03/2007","03/2011","29982","CHRYSLER Sebring","CHRYSLER Sebring III Sedan 2.0 i Berline 16V 156 cv","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-3317","III Sedan (03/2007 - 03/2011)","03/2007","03/2011","29981","CHRYSLER Sebring","CHRYSLER Sebring III Sedan 2.0 CRD Berline 140 cv","Diesel"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-3316","III Coupé Cabriolet (03/2007 - 03/2011)","03/2007","03/2011","69143","CHRYSLER Sebring","CHRYSLER Sebring III Coupé Cabriolet 2.7 i V6 24V 192 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-3316","III Coupé Cabriolet (03/2007 - 03/2011)","03/2007","03/2011","29978","CHRYSLER Sebring","CHRYSLER Sebring III Coupé Cabriolet 2.0 i Coupé Cabriolet 16V 156 cv","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-3316","III Coupé Cabriolet (03/2007 - 03/2011)","03/2007","03/2011","31325","CHRYSLER Sebring","CHRYSLER Sebring III Coupé Cabriolet 2.7 i V6 Coupé Cabriolet 24V 186 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-3316","III Coupé Cabriolet (03/2007 - 03/2011)","03/2007","03/2011","29980","CHRYSLER Sebring","CHRYSLER Sebring III Coupé Cabriolet 2.4 i Coupé Cabriolet 16V 170 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-3316","III Coupé Cabriolet (03/2007 - 03/2011)","03/2007","03/2011","29976","CHRYSLER Sebring","CHRYSLER Sebring III Coupé Cabriolet 2.0 CRD Coupé Cabriolet 140 cv","Diesel"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-4599","III Cabriolet (03/2007 - 01/2009)","03/2007","01/2009","29979","CHRYSLER Sebring","CHRYSLER Sebring III Cabriolet 2.4 i 16V 170 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-4599","III Cabriolet (03/2007 - 01/2009)","03/2007","01/2009","29977","CHRYSLER Sebring","CHRYSLER Sebring III Cabriolet 2.0 i 16V 156 cv","Essence"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-4599","III Cabriolet (03/2007 - 01/2009)","03/2007","01/2009","29975","CHRYSLER Sebring","CHRYSLER Sebring III Cabriolet 2.0 CRD 16V 140 cv","Diesel"
+"ma-47","CHRYSLER","fa-107","Sebring","mo-2363","I Coupé (05/1995 - 09/2000)","05/1995","09/2000","27041","CHRYSLER Sebring","CHRYSLER Sebring I Coupé 2.5 LE 163 cv","Essence"
+"ma-47","CHRYSLER","fa-108","Stratus","mo-5503","Cabriolet (10/1995 - 12/2000)","10/1995","12/2000","39481","CHRYSLER Stratus","CHRYSLER Stratus Cabriolet 2.0 i 16V 131 cv","Essence"
+"ma-47","CHRYSLER","fa-108","Stratus","mo-5503","Cabriolet (10/1995 - 12/2000)","10/1995","12/2000","39480","CHRYSLER Stratus","CHRYSLER Stratus Cabriolet 2.5 i V6 24V 163 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-108","Stratus","mo-5502","Sedan (01/1994 - 12/2000)","01/1994","12/2000","15314","CHRYSLER Stratus","CHRYSLER Stratus Sedan 2.0 i 133cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-108","Stratus","mo-5502","Sedan (01/1994 - 12/2000)","01/1994","12/2000","15313","CHRYSLER Stratus","CHRYSLER Stratus Sedan 2.0 i 133cv","Essence"
+"ma-47","CHRYSLER","fa-108","Stratus","mo-5502","Sedan (01/1994 - 12/2000)","01/1994","12/2000","2453","CHRYSLER Stratus","CHRYSLER Stratus Sedan 2.4 i 150cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-108","Stratus","mo-5502","Sedan (01/1994 - 12/2000)","01/1994","12/2000","1666","CHRYSLER Stratus","CHRYSLER Stratus Sedan 2.5 i V6 163cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-108","Stratus","mo-5502","Sedan (01/1994 - 12/2000)","01/1994","12/2000","2452","CHRYSLER Stratus","CHRYSLER Stratus Sedan 2.4 i 150cv","Essence"
+"ma-47","CHRYSLER","fa-108","Stratus","mo-5502","Sedan (01/1994 - 12/2000)","01/1994","12/2000","7989","CHRYSLER Stratus","CHRYSLER Stratus Sedan 2.4 i 140cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-96","Le Baron","mo-1237"," (09/1986 - 01/1996)","09/1986","01/1996","15296","CHRYSLER Le Baron","CHRYSLER Le Baron 2.5 Cabriolet 102cv","Essence"
+"ma-47","CHRYSLER","fa-96","Le Baron","mo-1237"," (09/1986 - 01/1996)","09/1986","01/1996","2440","CHRYSLER Le Baron","CHRYSLER Le Baron 3.0 Cabriolet 141cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-96","Le Baron","mo-1237"," (09/1986 - 01/1996)","09/1986","01/1996","15295","CHRYSLER Le Baron","CHRYSLER Le Baron 2.2 Turbo Cabriolet 177cv","Essence"
+"ma-47","CHRYSLER","fa-96","Le Baron","mo-1237"," (09/1986 - 01/1996)","09/1986","01/1996","7968","CHRYSLER Le Baron","CHRYSLER Le Baron 2.5 Turbo Coupé 152cv","Essence"
+"ma-47","CHRYSLER","fa-96","Le Baron","mo-1237"," (09/1986 - 01/1996)","09/1986","01/1996","1647","CHRYSLER Le Baron","CHRYSLER Le Baron 2.5 Coupé 102cv","Essence"
+"ma-47","CHRYSLER","fa-96","Le Baron","mo-1237"," (09/1986 - 01/1996)","09/1986","01/1996","58057","CHRYSLER Le Baron","CHRYSLER Le Baron 2.2 Turbo Cabriolet 148 cv","Essence"
+"ma-47","CHRYSLER","fa-96","Le Baron","mo-1237"," (09/1986 - 01/1996)","09/1986","01/1996","1648","CHRYSLER Le Baron","CHRYSLER Le Baron 2.5 Turbo Coupé 152cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-96","Le Baron","mo-1237"," (09/1986 - 01/1996)","09/1986","01/1996","7967","CHRYSLER Le Baron","CHRYSLER Le Baron 2.5 Coupé 102cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-96","Le Baron","mo-1237"," (09/1986 - 01/1996)","09/1986","01/1996","7966","CHRYSLER Le Baron","CHRYSLER Le Baron 2.2 Turbo Coupé 177cv","Essence"
+"ma-47","CHRYSLER","fa-96","Le Baron","mo-1237"," (09/1986 - 01/1996)","09/1986","01/1996","2439","CHRYSLER Le Baron","CHRYSLER Le Baron 3.0 Cabriolet 141cv","Essence"
+"ma-47","CHRYSLER","fa-96","Le Baron","mo-1237"," (09/1986 - 01/1996)","09/1986","01/1996","69142","CHRYSLER Le Baron","CHRYSLER Le Baron 2.2 Turbo Coupé 148 cv","Essence"
+"ma-47","CHRYSLER","fa-96","Le Baron","mo-1237"," (09/1986 - 01/1996)","09/1986","01/1996","7969","CHRYSLER Le Baron","CHRYSLER Le Baron 3.0 Coupé 141cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-96","Le Baron","mo-1237"," (09/1986 - 01/1996)","09/1986","01/1996","15297","CHRYSLER Le Baron","CHRYSLER Le Baron 2.5 Turbo 152cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-96","Le Baron","mo-1237"," (09/1986 - 01/1996)","09/1986","01/1996","32369","CHRYSLER Le Baron","CHRYSLER Le Baron 2.5 Cabriolet 24V 102 cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-96","Le Baron","mo-1236"," (09/1981 - 08/1986)","09/1981","08/1986","1646","CHRYSLER Le Baron","CHRYSLER Le Baron 2.2 i 102cv","Essence"
+"ma-47","CHRYSLER","fa-96","Le Baron","mo-1236"," (09/1981 - 08/1986)","09/1981","08/1986","1971","CHRYSLER Le Baron","CHRYSLER Le Baron 2.2 i 100cv","Essence"
+"ma-47","CHRYSLER","fa-96","Le Baron","mo-1236"," (09/1981 - 08/1986)","09/1981","08/1986","7965","CHRYSLER Le Baron","CHRYSLER Le Baron 2.2 i Turbo Cabriolet 148cv","Essence"
+"ma-47","CHRYSLER","fa-96","Le Baron","mo-1238","GTS (09/1984 - 01/1991)","09/1984","01/1991","2437","CHRYSLER Le Baron","CHRYSLER Le Baron GTS 2.2 i 148cv","Essence"
+"ma-47","CHRYSLER","fa-96","Le Baron","mo-1238","GTS (09/1984 - 01/1991)","09/1984","01/1991","2438","CHRYSLER Le Baron","CHRYSLER Le Baron GTS 2.2 i Turbo 148cv","Essence"
+"ma-47","CHRYSLER","fa-95","300M","mo-120"," (01/1998 - 04/2003)","01/1998","04/2003","1644","CHRYSLER 300M","CHRYSLER 300M 2.7 i V6 24V 204cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-95","300M","mo-120"," (01/1998 - 04/2003)","01/1998","04/2003","1645","CHRYSLER 300M","CHRYSLER 300M 3.5 i V6 24V 254cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-95","300M","mo-120"," (01/1998 - 04/2003)","01/1998","04/2003","1970","CHRYSLER 300M","CHRYSLER 300M 3.5 i V6 24V 252cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-95","300M","mo-120"," (01/1998 - 04/2003)","01/1998","04/2003","7964","CHRYSLER 300M","CHRYSLER 300M 2.7 i V6 24V 203cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-103","Neon","mo-1463","II (01/1999 - 09/2005)","01/1999","09/2005","1657","CHRYSLER Neon","CHRYSLER Neon II 1.6 i 115cv","Essence"
+"ma-47","CHRYSLER","fa-103","Neon","mo-1463","II (01/1999 - 09/2005)","01/1999","09/2005","1658","CHRYSLER Neon","CHRYSLER Neon II 2.0 i 16V R/T 150cv","Essence"
+"ma-47","CHRYSLER","fa-103","Neon","mo-1463","II (01/1999 - 09/2005)","01/1999","09/2005","7979","CHRYSLER Neon","CHRYSLER Neon II 2.0 i 16V 133cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-103","Neon","mo-1463","II (01/1999 - 09/2005)","01/1999","09/2005","2445","CHRYSLER Neon","CHRYSLER Neon II 2.0 i 16V 133cv","Essence"
+"ma-47","CHRYSLER","fa-103","Neon","mo-1464","I (10/1993 - 12/1998)","10/1993","12/1998","2446","CHRYSLER Neon","CHRYSLER Neon I 2.0 i 16V 141cv","Essence"
+"ma-47","CHRYSLER","fa-103","Neon","mo-1464","I (10/1993 - 12/1998)","10/1993","12/1998","2447","CHRYSLER Neon","CHRYSLER Neon I 2.0 i 16V 147cv","Essence"
+"ma-47","CHRYSLER","fa-103","Neon","mo-1464","I (10/1993 - 12/1998)","10/1993","12/1998","15302","CHRYSLER Neon","CHRYSLER Neon I 2.0 i 16V 133cv","Essence"
+"ma-47","CHRYSLER","fa-103","Neon","mo-1464","I (10/1993 - 12/1998)","10/1993","12/1998","7980","CHRYSLER Neon","CHRYSLER Neon I 1.8 i 16V 115cv","Essence"
+"ma-47","CHRYSLER","fa-103","Neon","mo-1464","I (10/1993 - 12/1998)","10/1993","12/1998","1659","CHRYSLER Neon","CHRYSLER Neon I 2.0 i 16V 133cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-1013","VIPER","mo-2648"," (08/1992 - Aujourd'hui)","08/1992","","26613","CHRYSLER VIPER","CHRYSLER VIPER 8.0 406 cv","Essence"
+"ma-47","CHRYSLER","fa-1013","VIPER","mo-2648"," (08/1992 - Aujourd'hui)","08/1992","","26615","CHRYSLER VIPER","CHRYSLER VIPER 8.0 455 cv","Essence"
+"ma-47","CHRYSLER","fa-1013","VIPER","mo-2648"," (08/1992 - Aujourd'hui)","08/1992","","26611","CHRYSLER VIPER","CHRYSLER VIPER 8.0 394 cv","Essence"
+"ma-47","CHRYSLER","fa-1013","VIPER","mo-2648"," (08/1992 - Aujourd'hui)","08/1992","","26141","CHRYSLER VIPER","CHRYSLER VIPER 8.0 384 cv","Essence"
+"ma-47","CHRYSLER","fa-1013","VIPER","mo-2649","Convertible (08/1992 - Aujourd'hui)","08/1992","","26142","CHRYSLER VIPER","CHRYSLER VIPER Convertible 8.0 384 cv","Essence"
+"ma-47","CHRYSLER","fa-1013","VIPER","mo-2649","Convertible (08/1992 - Aujourd'hui)","08/1992","","26614","CHRYSLER VIPER","CHRYSLER VIPER Convertible 8.0 406 cv","Essence"
+"ma-47","CHRYSLER","fa-1013","VIPER","mo-2649","Convertible (08/1992 - Aujourd'hui)","08/1992","","26612","CHRYSLER VIPER","CHRYSLER VIPER Convertible 8.0 394 cv","Essence"
+"ma-47","CHRYSLER","fa-109","Vision","mo-2172"," (10/1992 - 09/1998)","10/1992","09/1998","1667","CHRYSLER Vision","CHRYSLER Vision 3.5 V6 211cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-106","Saratoga","mo-1793"," (09/1988 - 08/1995)","09/1988","08/1995","7985","CHRYSLER Saratoga","CHRYSLER Saratoga 3.0 141cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-1009","CONCORDE","mo-2646","II (10/1997 - 09/2003)","10/1997","09/2003","26913","CHRYSLER CONCORDE","CHRYSLER CONCORDE II 2.7 LX 203 cv","Essence"
+"ma-47","CHRYSLER","fa-1009","CONCORDE","mo-2646","II (10/1997 - 09/2003)","10/1997","09/2003","26914","CHRYSLER CONCORDE","CHRYSLER CONCORDE II 3.5 LX 237 cv","Essence"
+"ma-47","CHRYSLER","fa-1009","CONCORDE","mo-2646","II (10/1997 - 09/2003)","10/1997","09/2003","26915","CHRYSLER CONCORDE","CHRYSLER CONCORDE II 3.5 LX Supercharged 253 cv","Essence"
+"ma-47","CHRYSLER","fa-1009","CONCORDE","mo-2645","I (10/1992 - 09/1997)","10/1992","09/1997","26912","CHRYSLER CONCORDE","CHRYSLER CONCORDE I 3.5 LX 211 cv","Essence"
+"ma-47","CHRYSLER","fa-1009","CONCORDE","mo-2645","I (10/1992 - 09/1997)","10/1992","09/1997","26911","CHRYSLER CONCORDE","CHRYSLER CONCORDE I 3.3 LX 163 cv","Essence"
+"ma-47","CHRYSLER","fa-104","New Yorker","mo-1472"," (01/1993 - 09/1998)","01/1993","09/1998","1661","CHRYSLER New Yorker","CHRYSLER New Yorker 3.5 V6 211cv Boîte auto","Essence"
+"ma-47","CHRYSLER","fa-1008","CIRRUS","mo-2644"," (05/1994 - 09/2000)","05/1994","09/2000","26898","CHRYSLER CIRRUS","CHRYSLER CIRRUS 2.4 LX 140 cv","Essence"
+"ma-47","CHRYSLER","fa-1008","CIRRUS","mo-2644"," (05/1994 - 09/2000)","05/1994","09/2000","26897","CHRYSLER CIRRUS","CHRYSLER CIRRUS 2.0 LX 133 cv","Essence"
+"ma-47","CHRYSLER","fa-1008","CIRRUS","mo-2644"," (05/1994 - 09/2000)","05/1994","09/2000","26896","CHRYSLER CIRRUS","CHRYSLER CIRRUS 2.0 LX 131 cv","Essence"
+"ma-47","CHRYSLER","fa-1008","CIRRUS","mo-2644"," (05/1994 - 09/2000)","05/1994","09/2000","26899","CHRYSLER CIRRUS","CHRYSLER CIRRUS 2.5 LX 163 cv","Essence"
+"ma-47","CHRYSLER","fa-1010","GS","mo-2647","DAYTONA SHELBY Coupé (10/1984 - 10/1992)","10/1984","10/1992","26108","CHRYSLER GS","CHRYSLER GS DAYTONA SHELBY Coupé 2.2 i Turbo 177 cv","Essence"
+"ma-47","CHRYSLER","fa-1010","GS","mo-2647","DAYTONA SHELBY Coupé (10/1984 - 10/1992)","10/1984","10/1992","26126","CHRYSLER GS","CHRYSLER GS DAYTONA SHELBY Coupé 2.5 i Turbo 150 cv","Essence"
+"ma-47","CHRYSLER","fa-2055","Ypsilon","mo-5150"," (09/2011 - Aujourd'hui)","09/2011","","40908","CHRYSLER Ypsilon","CHRYSLER Ypsilon 1.2 69 cv","Essence"
+"ma-47","CHRYSLER","fa-2055","Ypsilon","mo-5150"," (09/2011 - Aujourd'hui)","09/2011","","40909","CHRYSLER Ypsilon","CHRYSLER Ypsilon 1.3 Multijet 95 cv","Diesel"
+"ma-47","CHRYSLER","fa-2055","Ypsilon","mo-5150"," (09/2011 - Aujourd'hui)","09/2011","","40907","CHRYSLER Ypsilon","CHRYSLER Ypsilon 0.9 Twinair 86 cv","Essence"

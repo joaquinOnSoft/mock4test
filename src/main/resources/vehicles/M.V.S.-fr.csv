@@ -1,3 +1,3 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-291,M.V.S.,fa-1826,Venturi,mo-3479, (01/1986 - 12/1996),01/1986,12/1996,70490,M.V.S. Venturi,M.V.S. Venturi Coupé 210 2.5 V6 Turbo 12V Coupé 210 cv,Essence
-ma-291,M.V.S.,fa-1826,Venturi,mo-3479, (01/1986 - 12/1996),01/1986,12/1996,70489,M.V.S. Venturi,M.V.S. Venturi Transcup 210 2.5 V6 Turbo 12V Cabriolet 210 cv,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-291","M.V.S.","fa-1826","Venturi","mo-3479"," (01/1986 - 12/1996)","01/1986","12/1996","70490","M.V.S. Venturi","M.V.S. Venturi Coupé 210 2.5 V6 Turbo 12V Coupé 210 cv","Essence"
+"ma-291","M.V.S.","fa-1826","Venturi","mo-3479"," (01/1986 - 12/1996)","01/1986","12/1996","70489","M.V.S. Venturi","M.V.S. Venturi Transcup 210 2.5 V6 Turbo 12V Cabriolet 210 cv","Essence"

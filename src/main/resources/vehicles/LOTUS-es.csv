@@ -1,55 +1,55 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-270,LOTUS,fa-1805,Elise,mo-3435, (10/2000 - 03/2010),10/2000,03/2010,49361,LOTUS Elise,LOTUS Elise 1.8 i descapotable 16V 220 cv,Gasolina
-ma-270,LOTUS,fa-1805,Elise,mo-3435, (10/2000 - 03/2010),10/2000,03/2010,28019,LOTUS Elise,LOTUS Elise 111 R 1.8 i Descapotable 192 cv,Gasolina
-ma-270,LOTUS,fa-1805,Elise,mo-3435, (10/2000 - 03/2010),10/2000,03/2010,28020,LOTUS Elise,LOTUS Elise 1.8 i Descapotable 122 cv,Gasolina
-ma-270,LOTUS,fa-1805,Elise,mo-3435, (10/2000 - 03/2010),10/2000,03/2010,28018,LOTUS Elise,LOTUS Elise 111 S 1.8 i Descapotable 160 cv,Gasolina
-ma-270,LOTUS,fa-1805,Elise,mo-3435, (10/2000 - 03/2010),10/2000,03/2010,41962,LOTUS Elise,LOTUS Elise 1.8 i Descapotable 16V 137 cv,Gasolina
-ma-270,LOTUS,fa-1805,Elise,mo-3436, (07/1996 - 05/2002),07/1996,05/2002,28021,LOTUS Elise,LOTUS Elise 1.8 i Descapotable 120 cv,Gasolina
-ma-270,LOTUS,fa-1805,Elise,mo-3436, (07/1996 - 05/2002),07/1996,05/2002,28022,LOTUS Elise,LOTUS Elise 111 S 1.8 i Descapotable 145 cv,Gasolina
-ma-270,LOTUS,fa-1805,Elise,mo-5614,S3 (04/2010 - Hoy),04/2010,,41963,LOTUS Elise,LOTUS Elise S3 1.6 i Roadster 16V 136 cv,Gasolina
-ma-270,LOTUS,fa-1805,Elise,mo-5614,S3 (04/2010 - Hoy),04/2010,,69114,LOTUS Elise,LOTUS Elise S3 1.8 i Roadster 16V Compresseur 220 cv,Gasolina
-ma-270,LOTUS,fa-1805,Elise,mo-5614,S3 (04/2010 - Hoy),04/2010,,41965,LOTUS Elise,LOTUS Elise S3 1.8 i Roadster 16V Compresseur 222 cv,Gasolina
-ma-270,LOTUS,fa-1805,Elise,mo-5614,S3 (04/2010 - Hoy),04/2010,,41964,LOTUS Elise,LOTUS Elise S3 1.8 i Roadster 16V 192 cv,Gasolina
-ma-270,LOTUS,fa-1805,Elise,mo-5614,S3 (04/2010 - Hoy),04/2010,,68383,LOTUS Elise,LOTUS Elise S3 CUP 250 1.8 i Roadster 16V 246 cv,Gasolina
-ma-270,LOTUS,fa-1805,Elise,mo-7709,340 R (02/2000 - 02/2001),02/2000,02/2001,68382,LOTUS Elise,LOTUS Elise 340 R 1.8 16V 180 cv,Gasolina
-ma-270,LOTUS,fa-1810,Exige,mo-3441, (10/2000 - 01/2011),10/2000,01/2011,30342,LOTUS Exige,LOTUS Exige 1.8 i Roadster Cup 16V 240 cv,Gasolina
-ma-270,LOTUS,fa-1810,Exige,mo-3441, (10/2000 - 01/2011),10/2000,01/2011,27594,LOTUS Exige,LOTUS Exige 1.8 16V 192 cv,Gasolina
-ma-270,LOTUS,fa-1810,Exige,mo-3441, (10/2000 - 01/2011),10/2000,01/2011,41958,LOTUS Exige,LOTUS Exige Cup 265e 1.8 i Roadster 16V Compresseur 268 cv,Gasolina
-ma-270,LOTUS,fa-1810,Exige,mo-3441, (10/2000 - 01/2011),10/2000,01/2011,41957,LOTUS Exige,LOTUS Exige Cup 260 1.8 i Roadster 16V Compresseur 260 cv,Gasolina
-ma-270,LOTUS,fa-1810,Exige,mo-3441, (10/2000 - 01/2011),10/2000,01/2011,28030,LOTUS Exige,LOTUS Exige S 1.8 i Roadster 222 cv,Gasolina
-ma-270,LOTUS,fa-1810,Exige,mo-3441, (10/2000 - 01/2011),10/2000,01/2011,27548,LOTUS Exige,LOTUS Exige 1.8 16V 180 cv,Gasolina
-ma-270,LOTUS,fa-1810,Exige,mo-3441, (10/2000 - 01/2011),10/2000,01/2011,41959,LOTUS Exige,LOTUS Exige GT3 1.8 i Roadster 16V Compresseur 275 cv,Gasolina
-ma-270,LOTUS,fa-1810,Exige,mo-5615,2 (10/2011 - Hoy),10/2011,,50355,LOTUS Exige,LOTUS Exige 2 S 3.5 i V6 Roadster 24V IPS Compresseur 350 cv Transmisión automática,Gasolina
-ma-270,LOTUS,fa-1810,Exige,mo-5615,2 (10/2011 - Hoy),10/2011,,41961,LOTUS Exige,LOTUS Exige 2 S 3.5 i V6 Roadster 24V Compresseur 350 cv,Gasolina
-ma-270,LOTUS,fa-1810,Exige,mo-5615,2 (10/2011 - Hoy),10/2011,,50354,LOTUS Exige,LOTUS Exige 2 S 3.5 i V6 coupe 24V IPS Compresseur 350 cv Transmisión automática,Gasolina
-ma-270,LOTUS,fa-1810,Exige,mo-5615,2 (10/2011 - Hoy),10/2011,,41960,LOTUS Exige,LOTUS Exige 2 S 3.5 i V6 Coupe 24V Compresseur 350 cv,Gasolina
-ma-270,LOTUS,fa-1807,Esprit,mo-3438, (01/1974 - 12/2004),01/1974,12/2004,35255,LOTUS Esprit,LOTUS Esprit 2.2 Turbo Fi 16V 290 cv,Gasolina
-ma-270,LOTUS,fa-1807,Esprit,mo-3438, (01/1974 - 12/2004),01/1974,12/2004,27211,LOTUS Esprit,LOTUS Esprit 3.5 V8 32V Turbo 354 cv,Gasolina
-ma-270,LOTUS,fa-1807,Esprit,mo-3438, (01/1974 - 12/2004),01/1974,12/2004,28026,LOTUS Esprit,LOTUS Esprit 2.2 Turbo Coupe 210 cv,Gasolina
-ma-270,LOTUS,fa-1807,Esprit,mo-3438, (01/1974 - 12/2004),01/1974,12/2004,28027,LOTUS Esprit,LOTUS Esprit 2.0 Coupe 160 cv,Gasolina
-ma-270,LOTUS,fa-1807,Esprit,mo-3438, (01/1974 - 12/2004),01/1974,12/2004,28025,LOTUS Esprit,LOTUS Esprit 2.2 Coupe 160 cv,Gasolina
-ma-270,LOTUS,fa-1807,Esprit,mo-3438, (01/1974 - 12/2004),01/1974,12/2004,35256,LOTUS Esprit,LOTUS Esprit 2.2 Turbo Fi 16V 306 cv,Gasolina
-ma-270,LOTUS,fa-1807,Esprit,mo-3438, (01/1974 - 12/2004),01/1974,12/2004,69116,LOTUS Esprit,LOTUS Esprit S4 2.2 16V Turbo 218 cv,Gasolina
-ma-270,LOTUS,fa-1807,Esprit,mo-3438, (01/1974 - 12/2004),01/1974,12/2004,27201,LOTUS Esprit,LOTUS Esprit 2.2 16V Turbo SE 268 cv,Gasolina
-ma-270,LOTUS,fa-2045,Evora,mo-5101, (07/2008 - Hoy),07/2008,,35253,LOTUS Evora,LOTUS Evora 3.5 V6 350 cv,Gasolina
-ma-270,LOTUS,fa-2045,Evora,mo-5101, (07/2008 - Hoy),07/2008,,50352,LOTUS Evora,LOTUS Evora 3.5 V6 coupe 24V 406 cv Transmisión automática,Gasolina
-ma-270,LOTUS,fa-2045,Evora,mo-5101, (07/2008 - Hoy),07/2008,,35251,LOTUS Evora,LOTUS Evora 3.5 V6 280 cv Transmisión automática,Gasolina
-ma-270,LOTUS,fa-2045,Evora,mo-5101, (07/2008 - Hoy),07/2008,,49360,LOTUS Evora,LOTUS Evora 3.5 V6 24V 350 cv Transmisión automática,Gasolina
-ma-270,LOTUS,fa-2045,Evora,mo-5101, (07/2008 - Hoy),07/2008,,35252,LOTUS Evora,LOTUS Evora 3.5 V6 280 cv,Gasolina
-ma-270,LOTUS,fa-2045,Evora,mo-5101, (07/2008 - Hoy),07/2008,,50353,LOTUS Evora,LOTUS Evora 3.5 V6 coupe 24V 406 cv,Gasolina
-ma-270,LOTUS,fa-1320,ELAN,mo-3434, (01/1989 - 12/1995),01/1989,12/1995,27442,LOTUS ELAN,LOTUS ELAN 1.6 i 16V Turbo 167 cv,Gasolina
-ma-270,LOTUS,fa-1320,ELAN,mo-3434, (01/1989 - 12/1995),01/1989,12/1995,27419,LOTUS ELAN,LOTUS ELAN 1.6 i 16V 132 cv,Gasolina
-ma-270,LOTUS,fa-1320,ELAN,mo-3434, (01/1989 - 12/1995),01/1989,12/1995,27298,LOTUS ELAN,LOTUS ELAN 1.6 i 16V Turbo 156 cv,Gasolina
-ma-270,LOTUS,fa-1808,Europa,mo-5977,S (07/2006 - 01/2010),07/2006,01/2010,49362,LOTUS Europa,LOTUS Europa S 2.0 Turbo descapotable 16V 224 cv,Gasolina
-ma-270,LOTUS,fa-1808,Europa,mo-5977,S (07/2006 - 01/2010),07/2006,01/2010,28017,LOTUS Europa,LOTUS Europa S 340R 1.8 i Descapotable 177 cv,Gasolina
-ma-270,LOTUS,fa-1808,Europa,mo-3439, (01/1971 - 12/1975),01/1971,12/1975,28028,LOTUS Europa,LOTUS Europa 1.6 Descapotable 96 cv,Gasolina
-ma-270,LOTUS,fa-1808,Europa,mo-3439, (01/1971 - 12/1975),01/1971,12/1975,27181,LOTUS Europa,LOTUS Europa 1.5 78 cv,Gasolina
-ma-270,LOTUS,fa-1809,Excel,mo-3440, (10/1982 - 07/1992),10/1982,07/1992,28029,LOTUS Excel,LOTUS Excel 2.2 Coupe 160 cv Transmisión automática,Gasolina
-ma-270,LOTUS,fa-1809,Excel,mo-3440, (10/1982 - 07/1992),10/1982,07/1992,27416,LOTUS Excel,LOTUS Excel 2.2 SE/SA 184 cv,Gasolina
-ma-270,LOTUS,fa-1809,Excel,mo-3440, (10/1982 - 07/1992),10/1982,07/1992,35254,LOTUS Excel,LOTUS Excel 2.2 2+2 162 cv,Gasolina
-ma-270,LOTUS,fa-1806,Elite,mo-3437, (01/1974 - 12/1982),01/1974,12/1982,28023,LOTUS Elite,LOTUS Elite 2.2 Coupe 160 cv,Gasolina
-ma-270,LOTUS,fa-1806,Elite,mo-3437, (01/1974 - 12/1982),01/1974,12/1982,28024,LOTUS Elite,LOTUS Elite 2.0 Coupe 160 cv,Gasolina
-ma-270,LOTUS,fa-1803,Eclat,mo-3433, (01/1974 - 12/1986),01/1974,12/1986,28016,LOTUS Eclat,LOTUS Eclat 2.0 Coupe 160 cv,Gasolina
-ma-270,LOTUS,fa-1803,Eclat,mo-3433, (01/1974 - 12/1986),01/1974,12/1986,27517,LOTUS Eclat,LOTUS Eclat 2.2 162 cv,Gasolina
-ma-270,LOTUS,fa-2474,Eletre,mo-7874, (10/2022 - Hoy),10/2022,,70637,LOTUS Eletre,LOTUS Eletre EV AWD 612 cv Transmisión automática,Electrico
-ma-270,LOTUS,fa-2474,Eletre,mo-7874, (10/2022 - Hoy),10/2022,,70638,LOTUS Eletre,LOTUS Eletre EV AWD 918 cv Transmisión automática,Electrico
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-270","LOTUS","fa-1805","Elise","mo-3435"," (10/2000 - 03/2010)","10/2000","03/2010","49361","LOTUS Elise","LOTUS Elise 1.8 i descapotable 16V 220 cv","Gasolina"
+"ma-270","LOTUS","fa-1805","Elise","mo-3435"," (10/2000 - 03/2010)","10/2000","03/2010","28019","LOTUS Elise","LOTUS Elise 111 R 1.8 i Descapotable 192 cv","Gasolina"
+"ma-270","LOTUS","fa-1805","Elise","mo-3435"," (10/2000 - 03/2010)","10/2000","03/2010","28020","LOTUS Elise","LOTUS Elise 1.8 i Descapotable 122 cv","Gasolina"
+"ma-270","LOTUS","fa-1805","Elise","mo-3435"," (10/2000 - 03/2010)","10/2000","03/2010","28018","LOTUS Elise","LOTUS Elise 111 S 1.8 i Descapotable 160 cv","Gasolina"
+"ma-270","LOTUS","fa-1805","Elise","mo-3435"," (10/2000 - 03/2010)","10/2000","03/2010","41962","LOTUS Elise","LOTUS Elise 1.8 i Descapotable 16V 137 cv","Gasolina"
+"ma-270","LOTUS","fa-1805","Elise","mo-3436"," (07/1996 - 05/2002)","07/1996","05/2002","28021","LOTUS Elise","LOTUS Elise 1.8 i Descapotable 120 cv","Gasolina"
+"ma-270","LOTUS","fa-1805","Elise","mo-3436"," (07/1996 - 05/2002)","07/1996","05/2002","28022","LOTUS Elise","LOTUS Elise 111 S 1.8 i Descapotable 145 cv","Gasolina"
+"ma-270","LOTUS","fa-1805","Elise","mo-5614","S3 (04/2010 - Hoy)","04/2010","","41963","LOTUS Elise","LOTUS Elise S3 1.6 i Roadster 16V 136 cv","Gasolina"
+"ma-270","LOTUS","fa-1805","Elise","mo-5614","S3 (04/2010 - Hoy)","04/2010","","69114","LOTUS Elise","LOTUS Elise S3 1.8 i Roadster 16V Compresseur 220 cv","Gasolina"
+"ma-270","LOTUS","fa-1805","Elise","mo-5614","S3 (04/2010 - Hoy)","04/2010","","41965","LOTUS Elise","LOTUS Elise S3 1.8 i Roadster 16V Compresseur 222 cv","Gasolina"
+"ma-270","LOTUS","fa-1805","Elise","mo-5614","S3 (04/2010 - Hoy)","04/2010","","41964","LOTUS Elise","LOTUS Elise S3 1.8 i Roadster 16V 192 cv","Gasolina"
+"ma-270","LOTUS","fa-1805","Elise","mo-5614","S3 (04/2010 - Hoy)","04/2010","","68383","LOTUS Elise","LOTUS Elise S3 CUP 250 1.8 i Roadster 16V 246 cv","Gasolina"
+"ma-270","LOTUS","fa-1805","Elise","mo-7709","340 R (02/2000 - 02/2001)","02/2000","02/2001","68382","LOTUS Elise","LOTUS Elise 340 R 1.8 16V 180 cv","Gasolina"
+"ma-270","LOTUS","fa-1810","Exige","mo-3441"," (10/2000 - 01/2011)","10/2000","01/2011","30342","LOTUS Exige","LOTUS Exige 1.8 i Roadster Cup 16V 240 cv","Gasolina"
+"ma-270","LOTUS","fa-1810","Exige","mo-3441"," (10/2000 - 01/2011)","10/2000","01/2011","27594","LOTUS Exige","LOTUS Exige 1.8 16V 192 cv","Gasolina"
+"ma-270","LOTUS","fa-1810","Exige","mo-3441"," (10/2000 - 01/2011)","10/2000","01/2011","41958","LOTUS Exige","LOTUS Exige Cup 265e 1.8 i Roadster 16V Compresseur 268 cv","Gasolina"
+"ma-270","LOTUS","fa-1810","Exige","mo-3441"," (10/2000 - 01/2011)","10/2000","01/2011","41957","LOTUS Exige","LOTUS Exige Cup 260 1.8 i Roadster 16V Compresseur 260 cv","Gasolina"
+"ma-270","LOTUS","fa-1810","Exige","mo-3441"," (10/2000 - 01/2011)","10/2000","01/2011","28030","LOTUS Exige","LOTUS Exige S 1.8 i Roadster 222 cv","Gasolina"
+"ma-270","LOTUS","fa-1810","Exige","mo-3441"," (10/2000 - 01/2011)","10/2000","01/2011","27548","LOTUS Exige","LOTUS Exige 1.8 16V 180 cv","Gasolina"
+"ma-270","LOTUS","fa-1810","Exige","mo-3441"," (10/2000 - 01/2011)","10/2000","01/2011","41959","LOTUS Exige","LOTUS Exige GT3 1.8 i Roadster 16V Compresseur 275 cv","Gasolina"
+"ma-270","LOTUS","fa-1810","Exige","mo-5615","2 (10/2011 - Hoy)","10/2011","","50355","LOTUS Exige","LOTUS Exige 2 S 3.5 i V6 Roadster 24V IPS Compresseur 350 cv Transmisión automática","Gasolina"
+"ma-270","LOTUS","fa-1810","Exige","mo-5615","2 (10/2011 - Hoy)","10/2011","","41961","LOTUS Exige","LOTUS Exige 2 S 3.5 i V6 Roadster 24V Compresseur 350 cv","Gasolina"
+"ma-270","LOTUS","fa-1810","Exige","mo-5615","2 (10/2011 - Hoy)","10/2011","","50354","LOTUS Exige","LOTUS Exige 2 S 3.5 i V6 coupe 24V IPS Compresseur 350 cv Transmisión automática","Gasolina"
+"ma-270","LOTUS","fa-1810","Exige","mo-5615","2 (10/2011 - Hoy)","10/2011","","41960","LOTUS Exige","LOTUS Exige 2 S 3.5 i V6 Coupe 24V Compresseur 350 cv","Gasolina"
+"ma-270","LOTUS","fa-1807","Esprit","mo-3438"," (01/1974 - 12/2004)","01/1974","12/2004","35255","LOTUS Esprit","LOTUS Esprit 2.2 Turbo Fi 16V 290 cv","Gasolina"
+"ma-270","LOTUS","fa-1807","Esprit","mo-3438"," (01/1974 - 12/2004)","01/1974","12/2004","27211","LOTUS Esprit","LOTUS Esprit 3.5 V8 32V Turbo 354 cv","Gasolina"
+"ma-270","LOTUS","fa-1807","Esprit","mo-3438"," (01/1974 - 12/2004)","01/1974","12/2004","28026","LOTUS Esprit","LOTUS Esprit 2.2 Turbo Coupe 210 cv","Gasolina"
+"ma-270","LOTUS","fa-1807","Esprit","mo-3438"," (01/1974 - 12/2004)","01/1974","12/2004","28027","LOTUS Esprit","LOTUS Esprit 2.0 Coupe 160 cv","Gasolina"
+"ma-270","LOTUS","fa-1807","Esprit","mo-3438"," (01/1974 - 12/2004)","01/1974","12/2004","28025","LOTUS Esprit","LOTUS Esprit 2.2 Coupe 160 cv","Gasolina"
+"ma-270","LOTUS","fa-1807","Esprit","mo-3438"," (01/1974 - 12/2004)","01/1974","12/2004","35256","LOTUS Esprit","LOTUS Esprit 2.2 Turbo Fi 16V 306 cv","Gasolina"
+"ma-270","LOTUS","fa-1807","Esprit","mo-3438"," (01/1974 - 12/2004)","01/1974","12/2004","69116","LOTUS Esprit","LOTUS Esprit S4 2.2 16V Turbo 218 cv","Gasolina"
+"ma-270","LOTUS","fa-1807","Esprit","mo-3438"," (01/1974 - 12/2004)","01/1974","12/2004","27201","LOTUS Esprit","LOTUS Esprit 2.2 16V Turbo SE 268 cv","Gasolina"
+"ma-270","LOTUS","fa-2045","Evora","mo-5101"," (07/2008 - Hoy)","07/2008","","35253","LOTUS Evora","LOTUS Evora 3.5 V6 350 cv","Gasolina"
+"ma-270","LOTUS","fa-2045","Evora","mo-5101"," (07/2008 - Hoy)","07/2008","","50352","LOTUS Evora","LOTUS Evora 3.5 V6 coupe 24V 406 cv Transmisión automática","Gasolina"
+"ma-270","LOTUS","fa-2045","Evora","mo-5101"," (07/2008 - Hoy)","07/2008","","35251","LOTUS Evora","LOTUS Evora 3.5 V6 280 cv Transmisión automática","Gasolina"
+"ma-270","LOTUS","fa-2045","Evora","mo-5101"," (07/2008 - Hoy)","07/2008","","49360","LOTUS Evora","LOTUS Evora 3.5 V6 24V 350 cv Transmisión automática","Gasolina"
+"ma-270","LOTUS","fa-2045","Evora","mo-5101"," (07/2008 - Hoy)","07/2008","","35252","LOTUS Evora","LOTUS Evora 3.5 V6 280 cv","Gasolina"
+"ma-270","LOTUS","fa-2045","Evora","mo-5101"," (07/2008 - Hoy)","07/2008","","50353","LOTUS Evora","LOTUS Evora 3.5 V6 coupe 24V 406 cv","Gasolina"
+"ma-270","LOTUS","fa-1320","ELAN","mo-3434"," (01/1989 - 12/1995)","01/1989","12/1995","27442","LOTUS ELAN","LOTUS ELAN 1.6 i 16V Turbo 167 cv","Gasolina"
+"ma-270","LOTUS","fa-1320","ELAN","mo-3434"," (01/1989 - 12/1995)","01/1989","12/1995","27419","LOTUS ELAN","LOTUS ELAN 1.6 i 16V 132 cv","Gasolina"
+"ma-270","LOTUS","fa-1320","ELAN","mo-3434"," (01/1989 - 12/1995)","01/1989","12/1995","27298","LOTUS ELAN","LOTUS ELAN 1.6 i 16V Turbo 156 cv","Gasolina"
+"ma-270","LOTUS","fa-1808","Europa","mo-5977","S (07/2006 - 01/2010)","07/2006","01/2010","49362","LOTUS Europa","LOTUS Europa S 2.0 Turbo descapotable 16V 224 cv","Gasolina"
+"ma-270","LOTUS","fa-1808","Europa","mo-5977","S (07/2006 - 01/2010)","07/2006","01/2010","28017","LOTUS Europa","LOTUS Europa S 340R 1.8 i Descapotable 177 cv","Gasolina"
+"ma-270","LOTUS","fa-1808","Europa","mo-3439"," (01/1971 - 12/1975)","01/1971","12/1975","28028","LOTUS Europa","LOTUS Europa 1.6 Descapotable 96 cv","Gasolina"
+"ma-270","LOTUS","fa-1808","Europa","mo-3439"," (01/1971 - 12/1975)","01/1971","12/1975","27181","LOTUS Europa","LOTUS Europa 1.5 78 cv","Gasolina"
+"ma-270","LOTUS","fa-1809","Excel","mo-3440"," (10/1982 - 07/1992)","10/1982","07/1992","28029","LOTUS Excel","LOTUS Excel 2.2 Coupe 160 cv Transmisión automática","Gasolina"
+"ma-270","LOTUS","fa-1809","Excel","mo-3440"," (10/1982 - 07/1992)","10/1982","07/1992","27416","LOTUS Excel","LOTUS Excel 2.2 SE/SA 184 cv","Gasolina"
+"ma-270","LOTUS","fa-1809","Excel","mo-3440"," (10/1982 - 07/1992)","10/1982","07/1992","35254","LOTUS Excel","LOTUS Excel 2.2 2+2 162 cv","Gasolina"
+"ma-270","LOTUS","fa-1806","Elite","mo-3437"," (01/1974 - 12/1982)","01/1974","12/1982","28023","LOTUS Elite","LOTUS Elite 2.2 Coupe 160 cv","Gasolina"
+"ma-270","LOTUS","fa-1806","Elite","mo-3437"," (01/1974 - 12/1982)","01/1974","12/1982","28024","LOTUS Elite","LOTUS Elite 2.0 Coupe 160 cv","Gasolina"
+"ma-270","LOTUS","fa-1803","Eclat","mo-3433"," (01/1974 - 12/1986)","01/1974","12/1986","28016","LOTUS Eclat","LOTUS Eclat 2.0 Coupe 160 cv","Gasolina"
+"ma-270","LOTUS","fa-1803","Eclat","mo-3433"," (01/1974 - 12/1986)","01/1974","12/1986","27517","LOTUS Eclat","LOTUS Eclat 2.2 162 cv","Gasolina"
+"ma-270","LOTUS","fa-2474","Eletre","mo-7874"," (10/2022 - Hoy)","10/2022","","70637","LOTUS Eletre","LOTUS Eletre EV AWD 612 cv Transmisión automática","Electrico"
+"ma-270","LOTUS","fa-2474","Eletre","mo-7874"," (10/2022 - Hoy)","10/2022","","70638","LOTUS Eletre","LOTUS Eletre EV AWD 918 cv Transmisión automática","Electrico"

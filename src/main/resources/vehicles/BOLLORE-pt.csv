@@ -1,4 +1,4 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-402,BOLLORE,fa-2383,Bluecar,mo-7518,Bluesummer (02/2010 - Hoje),02/2010,,65671,BOLLORE Bluecar,BOLLORE Bluecar Bluesummer EV50 Cabriolet 68 cv Caixa Automática,Electrique
-ma-402,BOLLORE,fa-2383,Bluecar,mo-7519,Blueutility (02/2010 - Hoje),02/2010,,65699,BOLLORE Bluecar,BOLLORE Bluecar Blueutility Golia EV50 Fourgon 68 cv Caixa Automática,Electrique
-ma-402,BOLLORE,fa-2383,Bluecar,mo-7519,Blueutility (02/2010 - Hoje),02/2010,,65677,BOLLORE Bluecar,BOLLORE Bluecar Blueutility EV50 68 cv Caixa Automática,Electrique
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-402","BOLLORE","fa-2383","Bluecar","mo-7518","Bluesummer (02/2010 - Hoje)","02/2010","","65671","BOLLORE Bluecar","BOLLORE Bluecar Bluesummer EV50 Cabriolet 68 cv Caixa Automática","Electrique"
+"ma-402","BOLLORE","fa-2383","Bluecar","mo-7519","Blueutility (02/2010 - Hoje)","02/2010","","65699","BOLLORE Bluecar","BOLLORE Bluecar Blueutility Golia EV50 Fourgon 68 cv Caixa Automática","Electrique"
+"ma-402","BOLLORE","fa-2383","Bluecar","mo-7519","Blueutility (02/2010 - Hoje)","02/2010","","65677","BOLLORE Bluecar","BOLLORE Bluecar Blueutility EV50 68 cv Caixa Automática","Electrique"

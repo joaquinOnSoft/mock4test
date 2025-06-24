@@ -9,8 +9,9 @@ import com.joaquinonsoft.mock4test.util.DateOfBirthGenerator;
 import com.joaquinonsoft.mock4test.util.RndUtil;
 import lombok.AccessLevel;
 import lombok.Getter;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 
 import java.io.FileNotFoundException;
 import java.time.LocalDate;
@@ -20,7 +21,7 @@ import java.util.Locale;
 @Getter
 public class Person extends Field{
     @Getter(AccessLevel.NONE)
-    private final static Logger log = LoggerFactory.getLogger(Person.class);
+    private final static Logger log = LogManager.getLogger(Person.class);
 
     @Getter(AccessLevel.NONE)
     private volatile static List<FamilyName> familyNames;
@@ -90,7 +91,7 @@ public class Person extends Field{
             IIdentityCard idCard = IdentityCardFactory.getIdentityCard(locale);
             nationalIdentityCard = idCard.generateId();
         } catch (IllegalArgumentException e) {
-            log.error("Identity card generation: ", e);
+            log.error("Identity card generation: ");
         }
 
         initFullName();

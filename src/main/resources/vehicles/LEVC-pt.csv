@@ -1,2 +1,2 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-406,LEVC,fa-2394,TX,mo-7582,(HRE) (12/2017 - Hoje),12/2017,,67226,LEVC TX,LEVC TX (HRE) eCity 1.5 12V 150 PHEV 82 cv Caixa Automática,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-406","LEVC","fa-2394","TX","mo-7582","(HRE) (12/2017 - Hoje)","12/2017","","67226","LEVC TX","LEVC TX (HRE) eCity 1.5 12V 150 PHEV 82 cv Caixa Automática","Essence"

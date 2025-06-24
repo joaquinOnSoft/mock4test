@@ -1,19 +1,19 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-308,TATA PL,fa-2159,Telcoline,mo-5919, (06/1995 - Hoy),06/1995,,28646,TATA PL Telcoline,TATA PL Telcoline 2.0 D Pickup 63 cv,Diesel
-ma-308,TATA PL,fa-2159,Telcoline,mo-5919, (06/1995 - Hoy),06/1995,,28647,TATA PL Telcoline,TATA PL Telcoline 2.0 TD Pickup 90 cv,Diesel
-ma-308,TATA PL,fa-2159,Telcoline,mo-5919, (06/1995 - Hoy),06/1995,,35295,TATA PL Telcoline,TATA PL Telcoline 2.0 TD 4x4 90 cv,Diesel
-ma-308,TATA PL,fa-2159,Telcoline,mo-5919, (06/1995 - Hoy),06/1995,,35294,TATA PL Telcoline,TATA PL Telcoline 2.0 D 68 cv,Diesel
-ma-308,TATA PL,fa-2157,Safari,mo-5917, (03/1999 - Hoy),03/1999,,28645,TATA PL Safari,TATA PL Safari 2.0 TD 4x4 Familiar 90 cv,Diesel
-ma-308,TATA PL,fa-2160,Telcosport,mo-5920, (09/1994 - Hoy),09/1994,,68979,TATA PL Telcosport,TATA PL Telcosport 2.0 D 4x4 68 cv,Diesel
-ma-308,TATA PL,fa-2160,Telcosport,mo-5920, (09/1994 - Hoy),09/1994,,68980,TATA PL Telcosport,TATA PL Telcosport 2.0 TD 4x4 90 cv,Diesel
-ma-308,TATA PL,fa-2160,Telcosport,mo-5920, (09/1994 - Hoy),09/1994,,52364,TATA PL Telcosport,TATA PL Telcosport 2.0 D familiar 63 cv,Diesel
-ma-308,TATA PL,fa-2160,Telcosport,mo-5920, (09/1994 - Hoy),09/1994,,68981,TATA PL Telcosport,TATA PL Telcosport 2.0 TD 90 cv,Diesel
-ma-308,TATA PL,fa-2160,Telcosport,mo-5920, (09/1994 - Hoy),09/1994,,52363,TATA PL Telcosport,TATA PL Telcosport 2.0 D familiar 68 cv,Diesel
-ma-308,TATA PL,fa-2158,Sumo,mo-5918, (06/1998 - Hoy),06/1998,,68978,TATA PL Sumo,TATA PL Sumo 2.0 TD 4x4 familiar 90 cv,Diesel
-ma-308,TATA PL,fa-2156,Loadbeta,mo-5916, (10/1994 - Hoy),10/1994,,68973,TATA PL Loadbeta,TATA PL Loadbeta 2.0 D furgón corto 68 cv,Diesel
-ma-308,TATA PL,fa-2156,Loadbeta,mo-5916, (10/1994 - Hoy),10/1994,,68977,TATA PL Loadbeta,TATA PL Loadbeta 2.0 TD Pickup 90 cv,Diesel
-ma-308,TATA PL,fa-2156,Loadbeta,mo-5916, (10/1994 - Hoy),10/1994,,68975,TATA PL Loadbeta,TATA PL Loadbeta 2.0 D Pickup 68 cv,Diesel
-ma-308,TATA PL,fa-2156,Loadbeta,mo-5916, (10/1994 - Hoy),10/1994,,68976,TATA PL Loadbeta,TATA PL Loadbeta 2.0 TD Pickup 4WD 90 cv,Diesel
-ma-308,TATA PL,fa-2156,Loadbeta,mo-5916, (10/1994 - Hoy),10/1994,,68974,TATA PL Loadbeta,TATA PL Loadbeta 2.0 D Pickup 63 cv,Diesel
-ma-308,TATA PL,fa-2155,Ghurka,mo-5915, (08/1995 - Hoy),08/1995,,68971,TATA PL Ghurka,TATA PL Ghurka 2.0 D 4WD 68 cv,Diesel
-ma-308,TATA PL,fa-2155,Ghurka,mo-5915, (08/1995 - Hoy),08/1995,,68972,TATA PL Ghurka,TATA PL Ghurka 2.0 TD 4WD 90 cv,Diesel
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-308","TATA PL","fa-2159","Telcoline","mo-5919"," (06/1995 - Hoy)","06/1995","","28646","TATA PL Telcoline","TATA PL Telcoline 2.0 D Pickup 63 cv","Diesel"
+"ma-308","TATA PL","fa-2159","Telcoline","mo-5919"," (06/1995 - Hoy)","06/1995","","28647","TATA PL Telcoline","TATA PL Telcoline 2.0 TD Pickup 90 cv","Diesel"
+"ma-308","TATA PL","fa-2159","Telcoline","mo-5919"," (06/1995 - Hoy)","06/1995","","35295","TATA PL Telcoline","TATA PL Telcoline 2.0 TD 4x4 90 cv","Diesel"
+"ma-308","TATA PL","fa-2159","Telcoline","mo-5919"," (06/1995 - Hoy)","06/1995","","35294","TATA PL Telcoline","TATA PL Telcoline 2.0 D 68 cv","Diesel"
+"ma-308","TATA PL","fa-2157","Safari","mo-5917"," (03/1999 - Hoy)","03/1999","","28645","TATA PL Safari","TATA PL Safari 2.0 TD 4x4 Familiar 90 cv","Diesel"
+"ma-308","TATA PL","fa-2160","Telcosport","mo-5920"," (09/1994 - Hoy)","09/1994","","68979","TATA PL Telcosport","TATA PL Telcosport 2.0 D 4x4 68 cv","Diesel"
+"ma-308","TATA PL","fa-2160","Telcosport","mo-5920"," (09/1994 - Hoy)","09/1994","","68980","TATA PL Telcosport","TATA PL Telcosport 2.0 TD 4x4 90 cv","Diesel"
+"ma-308","TATA PL","fa-2160","Telcosport","mo-5920"," (09/1994 - Hoy)","09/1994","","52364","TATA PL Telcosport","TATA PL Telcosport 2.0 D familiar 63 cv","Diesel"
+"ma-308","TATA PL","fa-2160","Telcosport","mo-5920"," (09/1994 - Hoy)","09/1994","","68981","TATA PL Telcosport","TATA PL Telcosport 2.0 TD 90 cv","Diesel"
+"ma-308","TATA PL","fa-2160","Telcosport","mo-5920"," (09/1994 - Hoy)","09/1994","","52363","TATA PL Telcosport","TATA PL Telcosport 2.0 D familiar 68 cv","Diesel"
+"ma-308","TATA PL","fa-2158","Sumo","mo-5918"," (06/1998 - Hoy)","06/1998","","68978","TATA PL Sumo","TATA PL Sumo 2.0 TD 4x4 familiar 90 cv","Diesel"
+"ma-308","TATA PL","fa-2156","Loadbeta","mo-5916"," (10/1994 - Hoy)","10/1994","","68973","TATA PL Loadbeta","TATA PL Loadbeta 2.0 D furgón corto 68 cv","Diesel"
+"ma-308","TATA PL","fa-2156","Loadbeta","mo-5916"," (10/1994 - Hoy)","10/1994","","68977","TATA PL Loadbeta","TATA PL Loadbeta 2.0 TD Pickup 90 cv","Diesel"
+"ma-308","TATA PL","fa-2156","Loadbeta","mo-5916"," (10/1994 - Hoy)","10/1994","","68975","TATA PL Loadbeta","TATA PL Loadbeta 2.0 D Pickup 68 cv","Diesel"
+"ma-308","TATA PL","fa-2156","Loadbeta","mo-5916"," (10/1994 - Hoy)","10/1994","","68976","TATA PL Loadbeta","TATA PL Loadbeta 2.0 TD Pickup 4WD 90 cv","Diesel"
+"ma-308","TATA PL","fa-2156","Loadbeta","mo-5916"," (10/1994 - Hoy)","10/1994","","68974","TATA PL Loadbeta","TATA PL Loadbeta 2.0 D Pickup 63 cv","Diesel"
+"ma-308","TATA PL","fa-2155","Ghurka","mo-5915"," (08/1995 - Hoy)","08/1995","","68971","TATA PL Ghurka","TATA PL Ghurka 2.0 D 4WD 68 cv","Diesel"
+"ma-308","TATA PL","fa-2155","Ghurka","mo-5915"," (08/1995 - Hoy)","08/1995","","68972","TATA PL Ghurka","TATA PL Ghurka 2.0 TD 4WD 90 cv","Diesel"

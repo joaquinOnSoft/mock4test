@@ -1,172 +1,172 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-272,ALPINA,fa-1291,B3,mo-3007,(E46) (05/1999 - Hoy),05/1999,,27227,ALPINA B3,ALPINA B3 (E46) 3.3 tracción integrale 280 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-3007,(E46) (05/1999 - Hoy),05/1999,,27334,ALPINA B3,ALPINA B3 (E46) 3.4 S 305 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-3007,(E46) (05/1999 - Hoy),05/1999,,27429,ALPINA B3,ALPINA B3 (E46) 3.3 280 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7684,Touring (F31) (03/2013 - 06/2019),03/2013,06/2019,68267,ALPINA B3,ALPINA B3 Touring (F31) S BITURBO 440 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7684,Touring (F31) (03/2013 - 06/2019),03/2013,06/2019,68266,ALPINA B3,ALPINA B3 Touring (F31) S BITURBO tracción intégrale 440 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7684,Touring (F31) (03/2013 - 06/2019),03/2013,06/2019,68265,ALPINA B3,ALPINA B3 Touring (F31) BITURBO 409 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7684,Touring (F31) (03/2013 - 06/2019),03/2013,06/2019,68264,ALPINA B3,ALPINA B3 Touring (F31) BITURBO tracción intégrale 409 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7685,Touring (G21) (09/2019 - Hoy),09/2019,,68268,ALPINA B3,ALPINA B3 Touring (G21) BITURBO tracción intégrale 462 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7683,(G20) (09/2019 - Hoy),09/2019,,68263,ALPINA B3,ALPINA B3 (G20) BITURBO tracción intégrale 462 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-3008,Coupe (E46) (09/1999 - Hoy),09/1999,,27435,ALPINA B3,ALPINA B3 Coupe (E46) 3.3 280 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-3008,Coupe (E46) (09/1999 - Hoy),09/1999,,27389,ALPINA B3,ALPINA B3 Coupe (E46) 3.4 S 305 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7677,(E90) (09/2007 - 05/2013),09/2007,05/2013,68244,ALPINA B3,ALPINA B3 (E90) Bi-Turbo 360 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7677,(E90) (09/2007 - 05/2013),09/2007,05/2013,68243,ALPINA B3,ALPINA B3 (E90) Bi-Turbo tracción intégrale 360 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7677,(E90) (09/2007 - 05/2013),09/2007,05/2013,68246,ALPINA B3,ALPINA B3 (E90) S Bi-Turbo 400 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7677,(E90) (09/2007 - 05/2013),09/2007,05/2013,68245,ALPINA B3,ALPINA B3 (E90) S Bi-Turbo tracción intégrale 400 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-3009,Touring (E46) (02/2000 - Hoy),02/2000,,27376,ALPINA B3,ALPINA B3 Touring (E46) 3.3 tracción integrale 280 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-3009,Touring (E46) (02/2000 - Hoy),02/2000,,27604,ALPINA B3,ALPINA B3 Touring (E46) 3.4 S 305 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-3009,Touring (E46) (02/2000 - Hoy),02/2000,,27268,ALPINA B3,ALPINA B3 Touring (E46) 3.3 280 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7681,Touring (E91) (09/2007 - 05/2013),09/2007,05/2013,68257,ALPINA B3,ALPINA B3 Touring (E91) S Bi-Turbo tracción intégrale 400 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7681,Touring (E91) (09/2007 - 05/2013),09/2007,05/2013,68256,ALPINA B3,ALPINA B3 Touring (E91) Bi-Turbo 360 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7681,Touring (E91) (09/2007 - 05/2013),09/2007,05/2013,68255,ALPINA B3,ALPINA B3 Touring (E91) Bi-Turbo tracción intégrale 360 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7681,Touring (E91) (09/2007 - 05/2013),09/2007,05/2013,68258,ALPINA B3,ALPINA B3 Touring (E91) S Bi-Turbo 400 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7678,coupe (E92) (09/2007 - 02/2014),09/2007,02/2014,68251,ALPINA B3,ALPINA B3 coupe (E92) S Bi-Turbo 400 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7678,coupe (E92) (09/2007 - 02/2014),09/2007,02/2014,68250,ALPINA B3,ALPINA B3 coupe (E92) S Bi-Turbo tracción intégrale 400 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7678,coupe (E92) (09/2007 - 02/2014),09/2007,02/2014,68248,ALPINA B3,ALPINA B3 coupe (E92) Bi-Turbo 360 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7678,coupe (E92) (09/2007 - 02/2014),09/2007,02/2014,68249,ALPINA B3,ALPINA B3 coupe (E92) GT3 408 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7678,coupe (E92) (09/2007 - 02/2014),09/2007,02/2014,68247,ALPINA B3,ALPINA B3 coupe (E92) Bi-Turbo tracción intégrale 360 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-3001,Touring (E30) (09/1987 - 06/1992),09/1987,06/1992,27593,ALPINA B3,ALPINA B3 Touring (E30) 2.7 204 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7682,(F30) (03/2013 - 08/2018),03/2013,08/2018,68260,ALPINA B3,ALPINA B3 (F30) BITURBO 409 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7682,(F30) (03/2013 - 08/2018),03/2013,08/2018,68261,ALPINA B3,ALPINA B3 (F30) S BITURBO tracción intégrale 440 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7682,(F30) (03/2013 - 08/2018),03/2013,08/2018,68259,ALPINA B3,ALPINA B3 (F30) BITURBO tracción intégrale 409 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7682,(F30) (03/2013 - 08/2018),03/2013,08/2018,68262,ALPINA B3,ALPINA B3 (F30) S BITURBO 440 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7679,descapotable (E30) (09/1987 - 06/1992),09/1987,06/1992,68252,ALPINA B3,ALPINA B3 descapotable (E30) 2.7 204 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7680,descapotable (E93) (09/2007 - 05/2013),09/2007,05/2013,68254,ALPINA B3,ALPINA B3 descapotable (E93) S Bi-Turbo 400 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-7680,descapotable (E93) (09/2007 - 05/2013),09/2007,05/2013,68253,ALPINA B3,ALPINA B3 descapotable (E93) BiTurbo 360 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-3006,Descapotable (E36) (04/1993 - 03/1999),04/1993,03/1999,27178,ALPINA B3,ALPINA B3 Descapotable (E36) 3.2 265 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-3006,Descapotable (E36) (04/1993 - 03/1999),04/1993,03/1999,27116,ALPINA B3,ALPINA B3 Descapotable (E36) 3.0 250 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-3010,Descapotable (E46) (10/2000 - Hoy),10/2000,,27257,ALPINA B3,ALPINA B3 Descapotable (E46) 3.4 S 305 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-3010,Descapotable (E46) (10/2000 - Hoy),10/2000,,27263,ALPINA B3,ALPINA B3 Descapotable (E46) 3.3 280 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-3005,Coupe (E36) (04/1996 - 03/1999),04/1996,03/1999,27562,ALPINA B3,ALPINA B3 Coupe (E36) 3.2 265 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-3004,Touring (E36) (04/1993 - 03/1999),04/1993,03/1999,27243,ALPINA B3,ALPINA B3 Touring (E36) 3.2 265 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-3004,Touring (E36) (04/1993 - 03/1999),04/1993,03/1999,27546,ALPINA B3,ALPINA B3 Touring (E36) 3.0 250 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-3003,(E36) (04/1993 - 05/1999),04/1993,05/1999,27430,ALPINA B3,ALPINA B3 (E36) 3.0 250 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-3003,(E36) (04/1993 - 05/1999),04/1993,05/1999,27561,ALPINA B3,ALPINA B3 (E36) 3.2 265 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-3000,(E30) (09/1987 - 06/1992),09/1987,06/1992,27568,ALPINA B3,ALPINA B3 (E30) 2.7 204 cv,Gasolina
-ma-272,ALPINA,fa-1291,B3,mo-3000,(E30) (09/1987 - 06/1992),09/1987,06/1992,27137,ALPINA B3,ALPINA B3 (E30) 2.7 tracción integrale 204 cv,Gasolina
-ma-272,ALPINA,fa-2420,B5,mo-7689,(E60) (03/2005 - 09/2010),03/2005,09/2010,68274,ALPINA B5,ALPINA B5 (E60) S 530 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2420,B5,mo-7689,(E60) (03/2005 - 09/2010),03/2005,09/2010,68273,ALPINA B5,ALPINA B5 (E60) 4.4 500 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2420,B5,mo-7691,(F10) (09/2010 - 12/2016),09/2010,12/2016,68277,ALPINA B5,ALPINA B5 (F10) BITURBO 507 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2420,B5,mo-7691,(F10) (09/2010 - 12/2016),09/2010,12/2016,68278,ALPINA B5,ALPINA B5 (F10) BITURBO 540 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2420,B5,mo-7691,(F10) (09/2010 - 12/2016),09/2010,12/2016,68279,ALPINA B5,ALPINA B5 (F10) BITURBO 600 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2420,B5,mo-7692,(G30) (03/2017 - Hoy),03/2017,,68281,ALPINA B5,ALPINA B5 (G30) BITURBO 621 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2420,B5,mo-7692,(G30) (03/2017 - Hoy),03/2017,,68280,ALPINA B5,ALPINA B5 (G30) BITURBO 608 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2420,B5,mo-7694,(G31) (03/2017 - Hoy),03/2017,,68286,ALPINA B5,ALPINA B5 (G31) BITURBO 621 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2420,B5,mo-7694,(G31) (03/2017 - Hoy),03/2017,,68285,ALPINA B5,ALPINA B5 (G31) BITURBO 608 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2420,B5,mo-7690,(E61) (03/2005 - 09/2010),03/2005,09/2010,68275,ALPINA B5,ALPINA B5 (E61) 4.4 500 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2420,B5,mo-7690,(E61) (03/2005 - 09/2010),03/2005,09/2010,68276,ALPINA B5,ALPINA B5 (E61) S 530 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2420,B5,mo-7693,(F11) (09/2010 - 12/2016),09/2010,12/2016,68282,ALPINA B5,ALPINA B5 (F11) BITURBO 507 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2420,B5,mo-7693,(F11) (09/2010 - 12/2016),09/2010,12/2016,68283,ALPINA B5,ALPINA B5 (F11) BITURBO 540 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2420,B5,mo-7693,(F11) (09/2010 - 12/2016),09/2010,12/2016,68284,ALPINA B5,ALPINA B5 (F11) BITURBO 600 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2421,D5,mo-7695,(F10) (09/2011 - 12/2016),09/2011,12/2016,68287,ALPINA D5,ALPINA D5 (F10) BITURBO 350 cv Transmisión automática,Diesel
-ma-272,ALPINA,fa-2421,D5,mo-7698,(G31) (07/2017 - Hoy),07/2017,,68292,ALPINA D5,ALPINA D5 (G31) S tracción intégrale 408 cv Transmisión automática,Diesel
-ma-272,ALPINA,fa-2421,D5,mo-7698,(G31) (07/2017 - Hoy),07/2017,,68291,ALPINA D5,ALPINA D5 (G31) S tracción intégrale 388 cv Transmisión automática,Diesel
-ma-272,ALPINA,fa-2421,D5,mo-7696,(G30) (07/2017 - Hoy),07/2017,,68289,ALPINA D5,ALPINA D5 (G30) S tracción intégrale 408 cv Transmisión automática,Diesel
-ma-272,ALPINA,fa-2421,D5,mo-7696,(G30) (07/2017 - Hoy),07/2017,,68288,ALPINA D5,ALPINA D5 (G30) S tracción intégrale 388 cv Transmisión automática,Diesel
-ma-272,ALPINA,fa-2421,D5,mo-7697,(F11) (09/2011 - 12/2016),09/2011,12/2016,68290,ALPINA D5,ALPINA D5 (F11) BITURBO 350 cv Transmisión automática,Diesel
-ma-272,ALPINA,fa-1288,B10,mo-2994,(E39) (12/1996 - Hoy),12/1996,,27608,ALPINA B10,ALPINA B10 (E39) 4.6 V8 340 cv,Gasolina
-ma-272,ALPINA,fa-1288,B10,mo-2994,(E39) (12/1996 - Hoy),12/1996,,27431,ALPINA B10,ALPINA B10 (E39) 3.3 280 cv,Gasolina
-ma-272,ALPINA,fa-1288,B10,mo-2994,(E39) (12/1996 - Hoy),12/1996,,27509,ALPINA B10,ALPINA B10 (E39) 3.2 260 cv,Gasolina
-ma-272,ALPINA,fa-1288,B10,mo-2994,(E39) (12/1996 - Hoy),12/1996,,27598,ALPINA B10,ALPINA B10 (E39) 4.6 V8 347 cv,Gasolina
-ma-272,ALPINA,fa-1288,B10,mo-2994,(E39) (12/1996 - Hoy),12/1996,,27171,ALPINA B10,ALPINA B10 (E39) 4.8 V8 375 cv,Gasolina
-ma-272,ALPINA,fa-1288,B10,mo-2992,(E34) (04/1988 - 04/1995),04/1988,04/1995,27195,ALPINA B10,ALPINA B10 (E34) 4.6 340 cv,Gasolina
-ma-272,ALPINA,fa-1288,B10,mo-2992,(E34) (04/1988 - 04/1995),04/1988,04/1995,27353,ALPINA B10,ALPINA B10 (E34) 3.5 254 cv,Gasolina
-ma-272,ALPINA,fa-1288,B10,mo-2992,(E34) (04/1988 - 04/1995),04/1988,04/1995,27459,ALPINA B10,ALPINA B10 (E34) 3.5 Biturbo 360 cv,Gasolina
-ma-272,ALPINA,fa-1288,B10,mo-2992,(E34) (04/1988 - 04/1995),04/1988,04/1995,27450,ALPINA B10,ALPINA B10 (E34) 3.0 tracción integrale 231 cv,Gasolina
-ma-272,ALPINA,fa-1288,B10,mo-2992,(E34) (04/1988 - 04/1995),04/1988,04/1995,27286,ALPINA B10,ALPINA B10 (E34) 4.0 316 cv,Gasolina
-ma-272,ALPINA,fa-1288,B10,mo-2995,Touring (E39) (08/1997 - Hoy),08/1997,,27510,ALPINA B10,ALPINA B10 Touring (E39) 3.3 280 cv,Gasolina
-ma-272,ALPINA,fa-1288,B10,mo-2995,Touring (E39) (08/1997 - Hoy),08/1997,,27482,ALPINA B10,ALPINA B10 Touring (E39) 4.8 V8 375 cv,Gasolina
-ma-272,ALPINA,fa-1288,B10,mo-2995,Touring (E39) (08/1997 - Hoy),08/1997,,27543,ALPINA B10,ALPINA B10 Touring (E39) 3.2 260 cv,Gasolina
-ma-272,ALPINA,fa-1288,B10,mo-2995,Touring (E39) (08/1997 - Hoy),08/1997,,27213,ALPINA B10,ALPINA B10 Touring (E39) 4.6 V8 347 cv,Gasolina
-ma-272,ALPINA,fa-1288,B10,mo-2995,Touring (E39) (08/1997 - Hoy),08/1997,,27620,ALPINA B10,ALPINA B10 Touring (E39) 4.6 V8 340 cv,Gasolina
-ma-272,ALPINA,fa-1288,B10,mo-2993,Touring (E34) (11/1993 - 04/1996),11/1993,04/1996,27556,ALPINA B10,ALPINA B10 Touring (E34) 4.0 316 cv,Gasolina
-ma-272,ALPINA,fa-1288,B10,mo-2993,Touring (E34) (11/1993 - 04/1996),11/1993,04/1996,27602,ALPINA B10,ALPINA B10 Touring (E34) 3.0 tracción integrale 231 cv,Gasolina
-ma-272,ALPINA,fa-1288,B10,mo-2993,Touring (E34) (11/1993 - 04/1996),11/1993,04/1996,27584,ALPINA B10,ALPINA B10 Touring (E34) 4.6 340 cv,Gasolina
-ma-272,ALPINA,fa-1974,D3,mo-3784,(E90/E91/E92) (01/2006 - 10/2013),01/2006,10/2013,39323,ALPINA D3,ALPINA D3 (E90/E91/E92) 2.0 d Biturbo Coupe 16V 213 cv,Diesel
-ma-272,ALPINA,fa-1974,D3,mo-3784,(E90/E91/E92) (01/2006 - 10/2013),01/2006,10/2013,39322,ALPINA D3,ALPINA D3 (E90/E91/E92) 2.0 d BiTurbo Berlina 16V 200 cv,Diesel
-ma-272,ALPINA,fa-1974,D3,mo-3784,(E90/E91/E92) (01/2006 - 10/2013),01/2006,10/2013,39326,ALPINA D3,ALPINA D3 (E90/E91/E92) 2.0 d 1BiTurbo Touring 16V 200 cv,Diesel
-ma-272,ALPINA,fa-1974,D3,mo-3784,(E90/E91/E92) (01/2006 - 10/2013),01/2006,10/2013,39324,ALPINA D3,ALPINA D3 (E90/E91/E92) 2.0 d Biturbo Berlina 16V 213 cv,Diesel
-ma-272,ALPINA,fa-1974,D3,mo-3784,(E90/E91/E92) (01/2006 - 10/2013),01/2006,10/2013,39325,ALPINA D3,ALPINA D3 (E90/E91/E92) 2.0 d Biturbo Touring 16V 213 cv,Diesel
-ma-272,ALPINA,fa-1974,D3,mo-6787,(F31) (03/2014 - Hoy),03/2014,,59047,ALPINA D3,ALPINA D3 (F31) BITURBO tracción intégrale 350 cv Transmisión automática,Diesel
-ma-272,ALPINA,fa-1974,D3,mo-6787,(F31) (03/2014 - Hoy),03/2014,,68271,ALPINA D3,ALPINA D3 (F31) BITURBO 350 cv Transmisión automática,Diesel
-ma-272,ALPINA,fa-1974,D3,mo-7686,(F30) (07/2013 - 07/2018),07/2013,07/2018,68269,ALPINA D3,ALPINA D3 (F30) BITURBO 350 cv Transmisión automática,Diesel
-ma-272,ALPINA,fa-1974,D3,mo-7688,(G21) (05/2020 - Hoy),05/2020,,68272,ALPINA D3,ALPINA D3 (G21) S tracción intégrale 355 cv Transmisión automática,Diesel
-ma-272,ALPINA,fa-1974,D3,mo-7687,(G20) (05/2020 - Hoy),05/2020,,68270,ALPINA D3,ALPINA D3 (G20) S tracción intégrale 355 cv Transmisión automática,Diesel
-ma-272,ALPINA,fa-1290,B12,mo-2997,(E32) (07/1988 - 01/1994),07/1988,01/1994,27165,ALPINA B12,ALPINA B12 (E32) 5.0 351 cv,Gasolina
-ma-272,ALPINA,fa-1290,B12,mo-2999,(E31) (06/1990 - 12/1996),06/1990,12/1996,27474,ALPINA B12,ALPINA B12 (E31) 5.7 416 cv,Gasolina
-ma-272,ALPINA,fa-1290,B12,mo-2999,(E31) (06/1990 - 12/1996),06/1990,12/1996,27399,ALPINA B12,ALPINA B12 (E31) 5.0 351 cv,Gasolina
-ma-272,ALPINA,fa-1290,B12,mo-2998,(E38) (12/1995 - 07/2001),12/1995,07/2001,27491,ALPINA B12,ALPINA B12 (E38) 5.7 388 cv,Gasolina
-ma-272,ALPINA,fa-1290,B12,mo-2998,(E38) (12/1995 - 07/2001),12/1995,07/2001,27163,ALPINA B12,ALPINA B12 (E38) 6.0 430 cv,Gasolina
-ma-272,ALPINA,fa-1310,D10,mo-3043,(E39) (09/1999 - Hoy),09/1999,,27477,ALPINA D10,ALPINA D10 (E39) 3.0 D Biturbo 245 cv,Diesel
-ma-272,ALPINA,fa-1310,D10,mo-3044,Touring (E39) (09/1999 - Hoy),09/1999,,27368,ALPINA D10,ALPINA D10 Touring (E39) 3.0 D Biturbo 245 cv,Diesel
-ma-272,ALPINA,fa-2416,B4,mo-7670,Gran Coupe (G26) (03/2022 - Hoy),03/2022,,68234,ALPINA B4,ALPINA B4 Gran Coupe (G26) 3.0 BiTurbo tracción intégrale Switch-Tronic 495 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2416,B4,mo-7663,coupe (F32) (03/2014 - Hoy),03/2014,,68226,ALPINA B4,ALPINA B4 coupe (F32) 3.0 BiTurbo Switch-Tronic 409 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2416,B4,mo-7663,coupe (F32) (03/2014 - Hoy),03/2014,,68230,ALPINA B4,ALPINA B4 coupe (F32) S Edition 99 3.0 BiTurbo Switch-Tronic 452 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2416,B4,mo-7663,coupe (F32) (03/2014 - Hoy),03/2014,,68220,ALPINA B4,ALPINA B4 coupe (F32) 3.0 BiTurbo tracción intégrale Switch-Tronic 409 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2416,B4,mo-7663,coupe (F32) (03/2014 - Hoy),03/2014,,68227,ALPINA B4,ALPINA B4 coupe (F32) S 3.0 BiTurbo tracción intégrale Switch-Tronic 440 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2416,B4,mo-7663,coupe (F32) (03/2014 - Hoy),03/2014,,68228,ALPINA B4,ALPINA B4 coupe (F32) S Edition 99 3.0 BiTurbo tracción intégrale Switch-Tronic 452 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2416,B4,mo-7663,coupe (F32) (03/2014 - Hoy),03/2014,,68229,ALPINA B4,ALPINA B4 coupe (F32) S 3.0 BiTurbo Switch-Tronic 440 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2416,B4,mo-7669,descapotable (F33) (03/2014 - Hoy),03/2014,,68231,ALPINA B4,ALPINA B4 descapotable (F33) 3.0 BiTurbo Switch-Tronic 409 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2416,B4,mo-7669,descapotable (F33) (03/2014 - Hoy),03/2014,,68232,ALPINA B4,ALPINA B4 descapotable (F33) S 3.0 BiTurbo Switch-Tronic 440 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2416,B4,mo-7669,descapotable (F33) (03/2014 - Hoy),03/2014,,68233,ALPINA B4,ALPINA B4 descapotable (F33) S Edition 99 3.0 BiTurbo Switch-Tronic 452 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2417,D4,mo-7676,descapotable (F33) (09/2014 - Hoy),09/2014,,68242,ALPINA D4,ALPINA D4 descapotable (F33) BITURBO 350 cv Transmisión automática,Diesel
-ma-272,ALPINA,fa-2417,D4,mo-7671,coupe (F32) (09/2014 - Hoy),09/2014,,68235,ALPINA D4,ALPINA D4 coupe (F32) BITURBO 350 cv Transmisión automática,Diesel
-ma-272,ALPINA,fa-1289,B11,mo-2996,(E32) (01/1987 - 02/1994),01/1987,02/1994,27215,ALPINA B11,ALPINA B11 (E32) 3.5 250 cv,Gasolina
-ma-272,ALPINA,fa-1289,B11,mo-2996,(E32) (01/1987 - 02/1994),01/1987,02/1994,27247,ALPINA B11,ALPINA B11 (E32) 4.0 316 cv,Gasolina
-ma-272,ALPINA,fa-1289,B11,mo-2996,(E32) (01/1987 - 02/1994),01/1987,02/1994,27142,ALPINA B11,ALPINA B11 (E32) 3.5 241 cv,Gasolina
-ma-272,ALPINA,fa-1289,B11,mo-2996,(E32) (01/1987 - 02/1994),01/1987,02/1994,27162,ALPINA B11,ALPINA B11 (E32) 3.5 254 cv,Gasolina
-ma-272,ALPINA,fa-1296,B9,mo-3025,Coupe (E24) (07/1982 - 12/1985),07/1982,12/1985,27581,ALPINA B9,ALPINA B9 Coupe (E24) 3.5 245 cv,Gasolina
-ma-272,ALPINA,fa-1296,B9,mo-3024,(E28) (11/1981 - 12/1985),11/1981,12/1985,27445,ALPINA B9,ALPINA B9 (E28) 3.0 245 cv,Gasolina
-ma-272,ALPINA,fa-1294,B7,mo-7705,(G12) (02/2016 - Hoy),02/2016,,68307,ALPINA B7,ALPINA B7 (G12) BITURBO tracción intégrale 608 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1294,B7,mo-3018,(E24) (12/1978 - 06/1988),12/1978,06/1988,27170,ALPINA B7,ALPINA B7 (E24) 3.0 301 cv,Gasolina
-ma-272,ALPINA,fa-1294,B7,mo-3018,(E24) (12/1978 - 06/1988),12/1978,06/1988,27317,ALPINA B7,ALPINA B7 (E24) 3.5 330 cv,Gasolina
-ma-272,ALPINA,fa-1294,B7,mo-3018,(E24) (12/1978 - 06/1988),12/1978,06/1988,27254,ALPINA B7,ALPINA B7 (E24) 3.5 320 cv,Gasolina
-ma-272,ALPINA,fa-1294,B7,mo-7704,(F01, F02) (03/2009 - 01/2016),03/2009,01/2016,68303,ALPINA B7,ALPINA B7 (F01, F02) BITURBO tracción intégrale 507 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1294,B7,mo-7704,(F01, F02) (03/2009 - 01/2016),03/2009,01/2016,68304,ALPINA B7,ALPINA B7 (F01, F02) BITURBO tracción intégrale 540 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1294,B7,mo-7704,(F01, F02) (03/2009 - 01/2016),03/2009,01/2016,68305,ALPINA B7,ALPINA B7 (F01, F02) BITURBO 507 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1294,B7,mo-7704,(F01, F02) (03/2009 - 01/2016),03/2009,01/2016,68306,ALPINA B7,ALPINA B7 (F01, F02) BITURBO 540 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1294,B7,mo-3019,(E65) (01/2004 - 12/2008),01/2004,12/2008,27251,ALPINA B7,ALPINA B7 (E65) 4.4 500 cv,Gasolina
-ma-272,ALPINA,fa-1294,B7,mo-3016,(E12) (12/1978 - 05/1982),12/1978,05/1982,27267,ALPINA B7,ALPINA B7 (E12) 3.5 330 cv,Gasolina
-ma-272,ALPINA,fa-1294,B7,mo-3016,(E12) (12/1978 - 05/1982),12/1978,05/1982,27348,ALPINA B7,ALPINA B7 (E12) 3.0 301 cv,Gasolina
-ma-272,ALPINA,fa-1294,B7,mo-3017,(E28) (04/1984 - 12/1987),04/1984,12/1987,27292,ALPINA B7,ALPINA B7 (E28) 3.0 301 cv,Gasolina
-ma-272,ALPINA,fa-1294,B7,mo-3017,(E28) (04/1984 - 12/1987),04/1984,12/1987,27352,ALPINA B7,ALPINA B7 (E28) 3.5 320 cv,Gasolina
-ma-272,ALPINA,fa-1293,B6,mo-7700,(F13) (09/2011 - 03/2016),09/2011,03/2016,68295,ALPINA B6,ALPINA B6 (F13) BITURBO 540 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1293,B6,mo-7700,(F13) (09/2011 - 03/2016),09/2011,03/2016,68296,ALPINA B6,ALPINA B6 (F13) BITURBO 600 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1293,B6,mo-7701,(E64) (04/2006 - 08/2010),04/2006,08/2010,68298,ALPINA B6,ALPINA B6 (E64) 4.4 530 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1293,B6,mo-7701,(E64) (04/2006 - 08/2010),04/2006,08/2010,68297,ALPINA B6,ALPINA B6 (E64) 4.4 500 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1293,B6,mo-3015,(E36) (03/1992 - 07/1993),03/1992,07/1993,27398,ALPINA B6,ALPINA B6 (E36) 2.8 241 cv,Gasolina
-ma-272,ALPINA,fa-1293,B6,mo-7702,(F12) (09/2011 - 03/2016),09/2011,03/2016,68299,ALPINA B6,ALPINA B6 (F12) BITURBO 540 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1293,B6,mo-7702,(F12) (09/2011 - 03/2016),09/2011,03/2016,68300,ALPINA B6,ALPINA B6 (F12) BITURBO 600 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1293,B6,mo-3013,(E21) (03/1978 - 03/1983),03/1978,03/1983,27361,ALPINA B6,ALPINA B6 (E21) 2.8 200 cv,Gasolina
-ma-272,ALPINA,fa-1293,B6,mo-3013,(E21) (03/1978 - 03/1983),03/1978,03/1983,27290,ALPINA B6,ALPINA B6 (E21) 2.8 218 cv,Gasolina
-ma-272,ALPINA,fa-1293,B6,mo-3014,(E30) (11/1983 - 12/1990),11/1983,12/1990,27270,ALPINA B6,ALPINA B6 (E30) 2.8 209 cv,Gasolina
-ma-272,ALPINA,fa-1293,B6,mo-3014,(E30) (11/1983 - 12/1990),11/1983,12/1990,68179,ALPINA B6,ALPINA B6 (E30) 3.4 261 cv,Gasolina
-ma-272,ALPINA,fa-1293,B6,mo-3014,(E30) (11/1983 - 12/1990),11/1983,12/1990,68178,ALPINA B6,ALPINA B6 (E30) 3.4 254 cv,Gasolina
-ma-272,ALPINA,fa-1293,B6,mo-7703,(F06) (04/2014 - 03/2016),04/2014,03/2016,68301,ALPINA B6,ALPINA B6 (F06) BITURBO tracción intégrale 540 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1293,B6,mo-7703,(F06) (04/2014 - 03/2016),04/2014,03/2016,68302,ALPINA B6,ALPINA B6 (F06) BITURBO tracción intégrale 600 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1293,B6,mo-7699,(E63) (04/2006 - 08/2010),04/2006,08/2010,68293,ALPINA B6,ALPINA B6 (E63) 4.4 500 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1293,B6,mo-7699,(E63) (04/2006 - 08/2010),04/2006,08/2010,68294,ALPINA B6,ALPINA B6 (E63) 4.4 530 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1372,Roadster,mo-3787,V8 (Z8) (01/2002 - 12/2003),01/2002,12/2003,27535,ALPINA Roadster,ALPINA Roadster V8 (Z8) 4.8 V8 381 cv,Gasolina
-ma-272,ALPINA,fa-1372,Roadster,mo-3785,Limited Edition (Z1) (01/1990 - 12/1991),01/1990,12/1991,27118,ALPINA Roadster,ALPINA Roadster Limited Edition (Z1) 2.7 200 cv,Gasolina
-ma-272,ALPINA,fa-1372,Roadster,mo-3786,S (Z4) (01/2004 - 12/2006),01/2004,12/2006,27272,ALPINA Roadster,ALPINA Roadster S (Z4) 3.3 300 cv,Gasolina
-ma-272,ALPINA,fa-1306,C2,mo-3038,(E30) (07/1985 - 03/1988),07/1985,03/1988,27545,ALPINA C2,ALPINA C2 (E30) 2.7 204 cv,Gasolina
-ma-272,ALPINA,fa-1306,C2,mo-3038,(E30) (07/1985 - 03/1988),07/1985,03/1988,27303,ALPINA C2,ALPINA C2 (E30) 2.7 tracción integrale 209 cv,Gasolina
-ma-272,ALPINA,fa-1306,C2,mo-3038,(E30) (07/1985 - 03/1988),07/1985,03/1988,27628,ALPINA C2,ALPINA C2 (E30) 2.7 209 cv,Gasolina
-ma-272,ALPINA,fa-1306,C2,mo-3038,(E30) (07/1985 - 03/1988),07/1985,03/1988,27392,ALPINA C2,ALPINA C2 (E30) 2.5 185 cv,Gasolina
-ma-272,ALPINA,fa-1306,C2,mo-3039,Descapotable (E30) (02/1986 - 07/1987),02/1986,07/1987,27212,ALPINA C2,ALPINA C2 Descapotable (E30) 2.7 209 cv,Gasolina
-ma-272,ALPINA,fa-2419,XD3,mo-7675,(G01) (07/2018 - Hoy),07/2018,,68241,ALPINA XD3,ALPINA XD3 (G01) BITURBO tracción intégrale 394 cv Transmisión automática,Diesel
-ma-272,ALPINA,fa-2419,XD3,mo-7675,(G01) (07/2018 - Hoy),07/2018,,68240,ALPINA XD3,ALPINA XD3 (G01) BITURBO tracción intégrale 388 cv Transmisión automática,Diesel
-ma-272,ALPINA,fa-2419,XD3,mo-7674,(F25) (04/2013 - 06/2018),04/2013,06/2018,68239,ALPINA XD3,ALPINA XD3 (F25) BITURBO tracción intégrale 350 cv Transmisión automática,Diesel
-ma-272,ALPINA,fa-1295,B8,mo-7707,(B16) (07/2020 - Hoy),07/2020,,68309,ALPINA B8,ALPINA B8 (B16) BITURBO tracción intégrale 621 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-1295,B8,mo-3022,Coupe (E36) (01/1995 - 03/1998),01/1995,03/1998,27161,ALPINA B8,ALPINA B8 Coupe (E36) 4.6 333 cv,Gasolina
-ma-272,ALPINA,fa-1295,B8,mo-3023,Descapotable (E36) (01/1995 - 03/1998),01/1995,03/1998,27239,ALPINA B8,ALPINA B8 Descapotable (E36) 4.6 333 cv,Gasolina
-ma-272,ALPINA,fa-1295,B8,mo-3020,(E36) (01/1995 - 03/1998),01/1995,03/1998,27157,ALPINA B8,ALPINA B8 (E36) 4.6 333 cv,Gasolina
-ma-272,ALPINA,fa-1295,B8,mo-3021,Touring (E36) (01/1995 - 03/1998),01/1995,03/1998,27222,ALPINA B8,ALPINA B8 Touring (E36) 4.6 333 cv,Gasolina
-ma-272,ALPINA,fa-2418,XD4,mo-7673,(G02) (07/2018 - Hoy),07/2018,,68237,ALPINA XD4,ALPINA XD4 (G02) BITURBO tracción intégrale 388 cv Transmisión automática,Diesel
-ma-272,ALPINA,fa-2418,XD4,mo-7673,(G02) (07/2018 - Hoy),07/2018,,68238,ALPINA XD4,ALPINA XD4 (G02) BITURBO tracción intégrale 394 cv Transmisión automática,Diesel
-ma-272,ALPINA,fa-1305,C1,mo-3036,(E21) (03/1980 - 07/1983),03/1980,07/1983,27379,ALPINA C1,ALPINA C1 (E21) 2.3 170 cv,Gasolina
-ma-272,ALPINA,fa-1305,C1,mo-3037,(E30) (08/1983 - 06/1988),08/1983,06/1988,27288,ALPINA C1,ALPINA C1 (E30) 2.5 190 cv,Gasolina
-ma-272,ALPINA,fa-1305,C1,mo-3037,(E30) (08/1983 - 06/1988),08/1983,06/1988,27375,ALPINA C1,ALPINA C1 (E30) 2.3 170 cv,Gasolina
-ma-272,ALPINA,fa-2422,XB7,mo-7706,(G07) (05/2020 - Hoy),05/2020,,68337,ALPINA XB7,ALPINA XB7 (G07) BITURBO Mild-Hybrid 621 cv Transmisión automática,Gasolina
-ma-272,ALPINA,fa-2422,XB7,mo-7706,(G07) (05/2020 - Hoy),05/2020,,68308,ALPINA XB7,ALPINA XB7 (G07) BITURBO 621 cv Transmisión automática,Gasolina
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-272","ALPINA","fa-1291","B3","mo-3007","(E46) (05/1999 - Hoy)","05/1999","","27227","ALPINA B3","ALPINA B3 (E46) 3.3 tracción integrale 280 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-3007","(E46) (05/1999 - Hoy)","05/1999","","27334","ALPINA B3","ALPINA B3 (E46) 3.4 S 305 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-3007","(E46) (05/1999 - Hoy)","05/1999","","27429","ALPINA B3","ALPINA B3 (E46) 3.3 280 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7684","Touring (F31) (03/2013 - 06/2019)","03/2013","06/2019","68267","ALPINA B3","ALPINA B3 Touring (F31) S BITURBO 440 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7684","Touring (F31) (03/2013 - 06/2019)","03/2013","06/2019","68266","ALPINA B3","ALPINA B3 Touring (F31) S BITURBO tracción intégrale 440 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7684","Touring (F31) (03/2013 - 06/2019)","03/2013","06/2019","68265","ALPINA B3","ALPINA B3 Touring (F31) BITURBO 409 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7684","Touring (F31) (03/2013 - 06/2019)","03/2013","06/2019","68264","ALPINA B3","ALPINA B3 Touring (F31) BITURBO tracción intégrale 409 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7685","Touring (G21) (09/2019 - Hoy)","09/2019","","68268","ALPINA B3","ALPINA B3 Touring (G21) BITURBO tracción intégrale 462 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7683","(G20) (09/2019 - Hoy)","09/2019","","68263","ALPINA B3","ALPINA B3 (G20) BITURBO tracción intégrale 462 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-3008","Coupe (E46) (09/1999 - Hoy)","09/1999","","27435","ALPINA B3","ALPINA B3 Coupe (E46) 3.3 280 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-3008","Coupe (E46) (09/1999 - Hoy)","09/1999","","27389","ALPINA B3","ALPINA B3 Coupe (E46) 3.4 S 305 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7677","(E90) (09/2007 - 05/2013)","09/2007","05/2013","68244","ALPINA B3","ALPINA B3 (E90) Bi-Turbo 360 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7677","(E90) (09/2007 - 05/2013)","09/2007","05/2013","68243","ALPINA B3","ALPINA B3 (E90) Bi-Turbo tracción intégrale 360 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7677","(E90) (09/2007 - 05/2013)","09/2007","05/2013","68246","ALPINA B3","ALPINA B3 (E90) S Bi-Turbo 400 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7677","(E90) (09/2007 - 05/2013)","09/2007","05/2013","68245","ALPINA B3","ALPINA B3 (E90) S Bi-Turbo tracción intégrale 400 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-3009","Touring (E46) (02/2000 - Hoy)","02/2000","","27376","ALPINA B3","ALPINA B3 Touring (E46) 3.3 tracción integrale 280 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-3009","Touring (E46) (02/2000 - Hoy)","02/2000","","27604","ALPINA B3","ALPINA B3 Touring (E46) 3.4 S 305 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-3009","Touring (E46) (02/2000 - Hoy)","02/2000","","27268","ALPINA B3","ALPINA B3 Touring (E46) 3.3 280 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7681","Touring (E91) (09/2007 - 05/2013)","09/2007","05/2013","68257","ALPINA B3","ALPINA B3 Touring (E91) S Bi-Turbo tracción intégrale 400 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7681","Touring (E91) (09/2007 - 05/2013)","09/2007","05/2013","68256","ALPINA B3","ALPINA B3 Touring (E91) Bi-Turbo 360 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7681","Touring (E91) (09/2007 - 05/2013)","09/2007","05/2013","68255","ALPINA B3","ALPINA B3 Touring (E91) Bi-Turbo tracción intégrale 360 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7681","Touring (E91) (09/2007 - 05/2013)","09/2007","05/2013","68258","ALPINA B3","ALPINA B3 Touring (E91) S Bi-Turbo 400 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7678","coupe (E92) (09/2007 - 02/2014)","09/2007","02/2014","68251","ALPINA B3","ALPINA B3 coupe (E92) S Bi-Turbo 400 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7678","coupe (E92) (09/2007 - 02/2014)","09/2007","02/2014","68250","ALPINA B3","ALPINA B3 coupe (E92) S Bi-Turbo tracción intégrale 400 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7678","coupe (E92) (09/2007 - 02/2014)","09/2007","02/2014","68248","ALPINA B3","ALPINA B3 coupe (E92) Bi-Turbo 360 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7678","coupe (E92) (09/2007 - 02/2014)","09/2007","02/2014","68249","ALPINA B3","ALPINA B3 coupe (E92) GT3 408 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7678","coupe (E92) (09/2007 - 02/2014)","09/2007","02/2014","68247","ALPINA B3","ALPINA B3 coupe (E92) Bi-Turbo tracción intégrale 360 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-3001","Touring (E30) (09/1987 - 06/1992)","09/1987","06/1992","27593","ALPINA B3","ALPINA B3 Touring (E30) 2.7 204 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7682","(F30) (03/2013 - 08/2018)","03/2013","08/2018","68260","ALPINA B3","ALPINA B3 (F30) BITURBO 409 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7682","(F30) (03/2013 - 08/2018)","03/2013","08/2018","68261","ALPINA B3","ALPINA B3 (F30) S BITURBO tracción intégrale 440 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7682","(F30) (03/2013 - 08/2018)","03/2013","08/2018","68259","ALPINA B3","ALPINA B3 (F30) BITURBO tracción intégrale 409 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7682","(F30) (03/2013 - 08/2018)","03/2013","08/2018","68262","ALPINA B3","ALPINA B3 (F30) S BITURBO 440 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7679","descapotable (E30) (09/1987 - 06/1992)","09/1987","06/1992","68252","ALPINA B3","ALPINA B3 descapotable (E30) 2.7 204 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7680","descapotable (E93) (09/2007 - 05/2013)","09/2007","05/2013","68254","ALPINA B3","ALPINA B3 descapotable (E93) S Bi-Turbo 400 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-7680","descapotable (E93) (09/2007 - 05/2013)","09/2007","05/2013","68253","ALPINA B3","ALPINA B3 descapotable (E93) BiTurbo 360 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-3006","Descapotable (E36) (04/1993 - 03/1999)","04/1993","03/1999","27178","ALPINA B3","ALPINA B3 Descapotable (E36) 3.2 265 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-3006","Descapotable (E36) (04/1993 - 03/1999)","04/1993","03/1999","27116","ALPINA B3","ALPINA B3 Descapotable (E36) 3.0 250 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-3010","Descapotable (E46) (10/2000 - Hoy)","10/2000","","27257","ALPINA B3","ALPINA B3 Descapotable (E46) 3.4 S 305 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-3010","Descapotable (E46) (10/2000 - Hoy)","10/2000","","27263","ALPINA B3","ALPINA B3 Descapotable (E46) 3.3 280 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-3005","Coupe (E36) (04/1996 - 03/1999)","04/1996","03/1999","27562","ALPINA B3","ALPINA B3 Coupe (E36) 3.2 265 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-3004","Touring (E36) (04/1993 - 03/1999)","04/1993","03/1999","27243","ALPINA B3","ALPINA B3 Touring (E36) 3.2 265 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-3004","Touring (E36) (04/1993 - 03/1999)","04/1993","03/1999","27546","ALPINA B3","ALPINA B3 Touring (E36) 3.0 250 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-3003","(E36) (04/1993 - 05/1999)","04/1993","05/1999","27430","ALPINA B3","ALPINA B3 (E36) 3.0 250 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-3003","(E36) (04/1993 - 05/1999)","04/1993","05/1999","27561","ALPINA B3","ALPINA B3 (E36) 3.2 265 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-3000","(E30) (09/1987 - 06/1992)","09/1987","06/1992","27568","ALPINA B3","ALPINA B3 (E30) 2.7 204 cv","Gasolina"
+"ma-272","ALPINA","fa-1291","B3","mo-3000","(E30) (09/1987 - 06/1992)","09/1987","06/1992","27137","ALPINA B3","ALPINA B3 (E30) 2.7 tracción integrale 204 cv","Gasolina"
+"ma-272","ALPINA","fa-2420","B5","mo-7689","(E60) (03/2005 - 09/2010)","03/2005","09/2010","68274","ALPINA B5","ALPINA B5 (E60) S 530 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2420","B5","mo-7689","(E60) (03/2005 - 09/2010)","03/2005","09/2010","68273","ALPINA B5","ALPINA B5 (E60) 4.4 500 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2420","B5","mo-7691","(F10) (09/2010 - 12/2016)","09/2010","12/2016","68277","ALPINA B5","ALPINA B5 (F10) BITURBO 507 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2420","B5","mo-7691","(F10) (09/2010 - 12/2016)","09/2010","12/2016","68278","ALPINA B5","ALPINA B5 (F10) BITURBO 540 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2420","B5","mo-7691","(F10) (09/2010 - 12/2016)","09/2010","12/2016","68279","ALPINA B5","ALPINA B5 (F10) BITURBO 600 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2420","B5","mo-7692","(G30) (03/2017 - Hoy)","03/2017","","68281","ALPINA B5","ALPINA B5 (G30) BITURBO 621 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2420","B5","mo-7692","(G30) (03/2017 - Hoy)","03/2017","","68280","ALPINA B5","ALPINA B5 (G30) BITURBO 608 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2420","B5","mo-7694","(G31) (03/2017 - Hoy)","03/2017","","68286","ALPINA B5","ALPINA B5 (G31) BITURBO 621 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2420","B5","mo-7694","(G31) (03/2017 - Hoy)","03/2017","","68285","ALPINA B5","ALPINA B5 (G31) BITURBO 608 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2420","B5","mo-7690","(E61) (03/2005 - 09/2010)","03/2005","09/2010","68275","ALPINA B5","ALPINA B5 (E61) 4.4 500 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2420","B5","mo-7690","(E61) (03/2005 - 09/2010)","03/2005","09/2010","68276","ALPINA B5","ALPINA B5 (E61) S 530 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2420","B5","mo-7693","(F11) (09/2010 - 12/2016)","09/2010","12/2016","68282","ALPINA B5","ALPINA B5 (F11) BITURBO 507 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2420","B5","mo-7693","(F11) (09/2010 - 12/2016)","09/2010","12/2016","68283","ALPINA B5","ALPINA B5 (F11) BITURBO 540 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2420","B5","mo-7693","(F11) (09/2010 - 12/2016)","09/2010","12/2016","68284","ALPINA B5","ALPINA B5 (F11) BITURBO 600 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2421","D5","mo-7695","(F10) (09/2011 - 12/2016)","09/2011","12/2016","68287","ALPINA D5","ALPINA D5 (F10) BITURBO 350 cv Transmisión automática","Diesel"
+"ma-272","ALPINA","fa-2421","D5","mo-7698","(G31) (07/2017 - Hoy)","07/2017","","68292","ALPINA D5","ALPINA D5 (G31) S tracción intégrale 408 cv Transmisión automática","Diesel"
+"ma-272","ALPINA","fa-2421","D5","mo-7698","(G31) (07/2017 - Hoy)","07/2017","","68291","ALPINA D5","ALPINA D5 (G31) S tracción intégrale 388 cv Transmisión automática","Diesel"
+"ma-272","ALPINA","fa-2421","D5","mo-7696","(G30) (07/2017 - Hoy)","07/2017","","68289","ALPINA D5","ALPINA D5 (G30) S tracción intégrale 408 cv Transmisión automática","Diesel"
+"ma-272","ALPINA","fa-2421","D5","mo-7696","(G30) (07/2017 - Hoy)","07/2017","","68288","ALPINA D5","ALPINA D5 (G30) S tracción intégrale 388 cv Transmisión automática","Diesel"
+"ma-272","ALPINA","fa-2421","D5","mo-7697","(F11) (09/2011 - 12/2016)","09/2011","12/2016","68290","ALPINA D5","ALPINA D5 (F11) BITURBO 350 cv Transmisión automática","Diesel"
+"ma-272","ALPINA","fa-1288","B10","mo-2994","(E39) (12/1996 - Hoy)","12/1996","","27608","ALPINA B10","ALPINA B10 (E39) 4.6 V8 340 cv","Gasolina"
+"ma-272","ALPINA","fa-1288","B10","mo-2994","(E39) (12/1996 - Hoy)","12/1996","","27431","ALPINA B10","ALPINA B10 (E39) 3.3 280 cv","Gasolina"
+"ma-272","ALPINA","fa-1288","B10","mo-2994","(E39) (12/1996 - Hoy)","12/1996","","27509","ALPINA B10","ALPINA B10 (E39) 3.2 260 cv","Gasolina"
+"ma-272","ALPINA","fa-1288","B10","mo-2994","(E39) (12/1996 - Hoy)","12/1996","","27598","ALPINA B10","ALPINA B10 (E39) 4.6 V8 347 cv","Gasolina"
+"ma-272","ALPINA","fa-1288","B10","mo-2994","(E39) (12/1996 - Hoy)","12/1996","","27171","ALPINA B10","ALPINA B10 (E39) 4.8 V8 375 cv","Gasolina"
+"ma-272","ALPINA","fa-1288","B10","mo-2992","(E34) (04/1988 - 04/1995)","04/1988","04/1995","27195","ALPINA B10","ALPINA B10 (E34) 4.6 340 cv","Gasolina"
+"ma-272","ALPINA","fa-1288","B10","mo-2992","(E34) (04/1988 - 04/1995)","04/1988","04/1995","27353","ALPINA B10","ALPINA B10 (E34) 3.5 254 cv","Gasolina"
+"ma-272","ALPINA","fa-1288","B10","mo-2992","(E34) (04/1988 - 04/1995)","04/1988","04/1995","27459","ALPINA B10","ALPINA B10 (E34) 3.5 Biturbo 360 cv","Gasolina"
+"ma-272","ALPINA","fa-1288","B10","mo-2992","(E34) (04/1988 - 04/1995)","04/1988","04/1995","27450","ALPINA B10","ALPINA B10 (E34) 3.0 tracción integrale 231 cv","Gasolina"
+"ma-272","ALPINA","fa-1288","B10","mo-2992","(E34) (04/1988 - 04/1995)","04/1988","04/1995","27286","ALPINA B10","ALPINA B10 (E34) 4.0 316 cv","Gasolina"
+"ma-272","ALPINA","fa-1288","B10","mo-2995","Touring (E39) (08/1997 - Hoy)","08/1997","","27510","ALPINA B10","ALPINA B10 Touring (E39) 3.3 280 cv","Gasolina"
+"ma-272","ALPINA","fa-1288","B10","mo-2995","Touring (E39) (08/1997 - Hoy)","08/1997","","27482","ALPINA B10","ALPINA B10 Touring (E39) 4.8 V8 375 cv","Gasolina"
+"ma-272","ALPINA","fa-1288","B10","mo-2995","Touring (E39) (08/1997 - Hoy)","08/1997","","27543","ALPINA B10","ALPINA B10 Touring (E39) 3.2 260 cv","Gasolina"
+"ma-272","ALPINA","fa-1288","B10","mo-2995","Touring (E39) (08/1997 - Hoy)","08/1997","","27213","ALPINA B10","ALPINA B10 Touring (E39) 4.6 V8 347 cv","Gasolina"
+"ma-272","ALPINA","fa-1288","B10","mo-2995","Touring (E39) (08/1997 - Hoy)","08/1997","","27620","ALPINA B10","ALPINA B10 Touring (E39) 4.6 V8 340 cv","Gasolina"
+"ma-272","ALPINA","fa-1288","B10","mo-2993","Touring (E34) (11/1993 - 04/1996)","11/1993","04/1996","27556","ALPINA B10","ALPINA B10 Touring (E34) 4.0 316 cv","Gasolina"
+"ma-272","ALPINA","fa-1288","B10","mo-2993","Touring (E34) (11/1993 - 04/1996)","11/1993","04/1996","27602","ALPINA B10","ALPINA B10 Touring (E34) 3.0 tracción integrale 231 cv","Gasolina"
+"ma-272","ALPINA","fa-1288","B10","mo-2993","Touring (E34) (11/1993 - 04/1996)","11/1993","04/1996","27584","ALPINA B10","ALPINA B10 Touring (E34) 4.6 340 cv","Gasolina"
+"ma-272","ALPINA","fa-1974","D3","mo-3784","(E90/E91/E92) (01/2006 - 10/2013)","01/2006","10/2013","39323","ALPINA D3","ALPINA D3 (E90/E91/E92) 2.0 d Biturbo Coupe 16V 213 cv","Diesel"
+"ma-272","ALPINA","fa-1974","D3","mo-3784","(E90/E91/E92) (01/2006 - 10/2013)","01/2006","10/2013","39322","ALPINA D3","ALPINA D3 (E90/E91/E92) 2.0 d BiTurbo Berlina 16V 200 cv","Diesel"
+"ma-272","ALPINA","fa-1974","D3","mo-3784","(E90/E91/E92) (01/2006 - 10/2013)","01/2006","10/2013","39326","ALPINA D3","ALPINA D3 (E90/E91/E92) 2.0 d 1BiTurbo Touring 16V 200 cv","Diesel"
+"ma-272","ALPINA","fa-1974","D3","mo-3784","(E90/E91/E92) (01/2006 - 10/2013)","01/2006","10/2013","39324","ALPINA D3","ALPINA D3 (E90/E91/E92) 2.0 d Biturbo Berlina 16V 213 cv","Diesel"
+"ma-272","ALPINA","fa-1974","D3","mo-3784","(E90/E91/E92) (01/2006 - 10/2013)","01/2006","10/2013","39325","ALPINA D3","ALPINA D3 (E90/E91/E92) 2.0 d Biturbo Touring 16V 213 cv","Diesel"
+"ma-272","ALPINA","fa-1974","D3","mo-6787","(F31) (03/2014 - Hoy)","03/2014","","59047","ALPINA D3","ALPINA D3 (F31) BITURBO tracción intégrale 350 cv Transmisión automática","Diesel"
+"ma-272","ALPINA","fa-1974","D3","mo-6787","(F31) (03/2014 - Hoy)","03/2014","","68271","ALPINA D3","ALPINA D3 (F31) BITURBO 350 cv Transmisión automática","Diesel"
+"ma-272","ALPINA","fa-1974","D3","mo-7686","(F30) (07/2013 - 07/2018)","07/2013","07/2018","68269","ALPINA D3","ALPINA D3 (F30) BITURBO 350 cv Transmisión automática","Diesel"
+"ma-272","ALPINA","fa-1974","D3","mo-7688","(G21) (05/2020 - Hoy)","05/2020","","68272","ALPINA D3","ALPINA D3 (G21) S tracción intégrale 355 cv Transmisión automática","Diesel"
+"ma-272","ALPINA","fa-1974","D3","mo-7687","(G20) (05/2020 - Hoy)","05/2020","","68270","ALPINA D3","ALPINA D3 (G20) S tracción intégrale 355 cv Transmisión automática","Diesel"
+"ma-272","ALPINA","fa-1290","B12","mo-2997","(E32) (07/1988 - 01/1994)","07/1988","01/1994","27165","ALPINA B12","ALPINA B12 (E32) 5.0 351 cv","Gasolina"
+"ma-272","ALPINA","fa-1290","B12","mo-2999","(E31) (06/1990 - 12/1996)","06/1990","12/1996","27474","ALPINA B12","ALPINA B12 (E31) 5.7 416 cv","Gasolina"
+"ma-272","ALPINA","fa-1290","B12","mo-2999","(E31) (06/1990 - 12/1996)","06/1990","12/1996","27399","ALPINA B12","ALPINA B12 (E31) 5.0 351 cv","Gasolina"
+"ma-272","ALPINA","fa-1290","B12","mo-2998","(E38) (12/1995 - 07/2001)","12/1995","07/2001","27491","ALPINA B12","ALPINA B12 (E38) 5.7 388 cv","Gasolina"
+"ma-272","ALPINA","fa-1290","B12","mo-2998","(E38) (12/1995 - 07/2001)","12/1995","07/2001","27163","ALPINA B12","ALPINA B12 (E38) 6.0 430 cv","Gasolina"
+"ma-272","ALPINA","fa-1310","D10","mo-3043","(E39) (09/1999 - Hoy)","09/1999","","27477","ALPINA D10","ALPINA D10 (E39) 3.0 D Biturbo 245 cv","Diesel"
+"ma-272","ALPINA","fa-1310","D10","mo-3044","Touring (E39) (09/1999 - Hoy)","09/1999","","27368","ALPINA D10","ALPINA D10 Touring (E39) 3.0 D Biturbo 245 cv","Diesel"
+"ma-272","ALPINA","fa-2416","B4","mo-7670","Gran Coupe (G26) (03/2022 - Hoy)","03/2022","","68234","ALPINA B4","ALPINA B4 Gran Coupe (G26) 3.0 BiTurbo tracción intégrale Switch-Tronic 495 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2416","B4","mo-7663","coupe (F32) (03/2014 - Hoy)","03/2014","","68226","ALPINA B4","ALPINA B4 coupe (F32) 3.0 BiTurbo Switch-Tronic 409 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2416","B4","mo-7663","coupe (F32) (03/2014 - Hoy)","03/2014","","68230","ALPINA B4","ALPINA B4 coupe (F32) S Edition 99 3.0 BiTurbo Switch-Tronic 452 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2416","B4","mo-7663","coupe (F32) (03/2014 - Hoy)","03/2014","","68220","ALPINA B4","ALPINA B4 coupe (F32) 3.0 BiTurbo tracción intégrale Switch-Tronic 409 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2416","B4","mo-7663","coupe (F32) (03/2014 - Hoy)","03/2014","","68227","ALPINA B4","ALPINA B4 coupe (F32) S 3.0 BiTurbo tracción intégrale Switch-Tronic 440 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2416","B4","mo-7663","coupe (F32) (03/2014 - Hoy)","03/2014","","68228","ALPINA B4","ALPINA B4 coupe (F32) S Edition 99 3.0 BiTurbo tracción intégrale Switch-Tronic 452 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2416","B4","mo-7663","coupe (F32) (03/2014 - Hoy)","03/2014","","68229","ALPINA B4","ALPINA B4 coupe (F32) S 3.0 BiTurbo Switch-Tronic 440 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2416","B4","mo-7669","descapotable (F33) (03/2014 - Hoy)","03/2014","","68231","ALPINA B4","ALPINA B4 descapotable (F33) 3.0 BiTurbo Switch-Tronic 409 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2416","B4","mo-7669","descapotable (F33) (03/2014 - Hoy)","03/2014","","68232","ALPINA B4","ALPINA B4 descapotable (F33) S 3.0 BiTurbo Switch-Tronic 440 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2416","B4","mo-7669","descapotable (F33) (03/2014 - Hoy)","03/2014","","68233","ALPINA B4","ALPINA B4 descapotable (F33) S Edition 99 3.0 BiTurbo Switch-Tronic 452 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2417","D4","mo-7676","descapotable (F33) (09/2014 - Hoy)","09/2014","","68242","ALPINA D4","ALPINA D4 descapotable (F33) BITURBO 350 cv Transmisión automática","Diesel"
+"ma-272","ALPINA","fa-2417","D4","mo-7671","coupe (F32) (09/2014 - Hoy)","09/2014","","68235","ALPINA D4","ALPINA D4 coupe (F32) BITURBO 350 cv Transmisión automática","Diesel"
+"ma-272","ALPINA","fa-1289","B11","mo-2996","(E32) (01/1987 - 02/1994)","01/1987","02/1994","27215","ALPINA B11","ALPINA B11 (E32) 3.5 250 cv","Gasolina"
+"ma-272","ALPINA","fa-1289","B11","mo-2996","(E32) (01/1987 - 02/1994)","01/1987","02/1994","27247","ALPINA B11","ALPINA B11 (E32) 4.0 316 cv","Gasolina"
+"ma-272","ALPINA","fa-1289","B11","mo-2996","(E32) (01/1987 - 02/1994)","01/1987","02/1994","27142","ALPINA B11","ALPINA B11 (E32) 3.5 241 cv","Gasolina"
+"ma-272","ALPINA","fa-1289","B11","mo-2996","(E32) (01/1987 - 02/1994)","01/1987","02/1994","27162","ALPINA B11","ALPINA B11 (E32) 3.5 254 cv","Gasolina"
+"ma-272","ALPINA","fa-1296","B9","mo-3025","Coupe (E24) (07/1982 - 12/1985)","07/1982","12/1985","27581","ALPINA B9","ALPINA B9 Coupe (E24) 3.5 245 cv","Gasolina"
+"ma-272","ALPINA","fa-1296","B9","mo-3024","(E28) (11/1981 - 12/1985)","11/1981","12/1985","27445","ALPINA B9","ALPINA B9 (E28) 3.0 245 cv","Gasolina"
+"ma-272","ALPINA","fa-1294","B7","mo-7705","(G12) (02/2016 - Hoy)","02/2016","","68307","ALPINA B7","ALPINA B7 (G12) BITURBO tracción intégrale 608 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1294","B7","mo-3018","(E24) (12/1978 - 06/1988)","12/1978","06/1988","27170","ALPINA B7","ALPINA B7 (E24) 3.0 301 cv","Gasolina"
+"ma-272","ALPINA","fa-1294","B7","mo-3018","(E24) (12/1978 - 06/1988)","12/1978","06/1988","27317","ALPINA B7","ALPINA B7 (E24) 3.5 330 cv","Gasolina"
+"ma-272","ALPINA","fa-1294","B7","mo-3018","(E24) (12/1978 - 06/1988)","12/1978","06/1988","27254","ALPINA B7","ALPINA B7 (E24) 3.5 320 cv","Gasolina"
+"ma-272","ALPINA","fa-1294","B7","mo-7704","(F01, F02) (03/2009 - 01/2016)","03/2009","01/2016","68303","ALPINA B7","ALPINA B7 (F01, F02) BITURBO tracción intégrale 507 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1294","B7","mo-7704","(F01, F02) (03/2009 - 01/2016)","03/2009","01/2016","68304","ALPINA B7","ALPINA B7 (F01, F02) BITURBO tracción intégrale 540 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1294","B7","mo-7704","(F01, F02) (03/2009 - 01/2016)","03/2009","01/2016","68305","ALPINA B7","ALPINA B7 (F01, F02) BITURBO 507 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1294","B7","mo-7704","(F01, F02) (03/2009 - 01/2016)","03/2009","01/2016","68306","ALPINA B7","ALPINA B7 (F01, F02) BITURBO 540 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1294","B7","mo-3019","(E65) (01/2004 - 12/2008)","01/2004","12/2008","27251","ALPINA B7","ALPINA B7 (E65) 4.4 500 cv","Gasolina"
+"ma-272","ALPINA","fa-1294","B7","mo-3016","(E12) (12/1978 - 05/1982)","12/1978","05/1982","27267","ALPINA B7","ALPINA B7 (E12) 3.5 330 cv","Gasolina"
+"ma-272","ALPINA","fa-1294","B7","mo-3016","(E12) (12/1978 - 05/1982)","12/1978","05/1982","27348","ALPINA B7","ALPINA B7 (E12) 3.0 301 cv","Gasolina"
+"ma-272","ALPINA","fa-1294","B7","mo-3017","(E28) (04/1984 - 12/1987)","04/1984","12/1987","27292","ALPINA B7","ALPINA B7 (E28) 3.0 301 cv","Gasolina"
+"ma-272","ALPINA","fa-1294","B7","mo-3017","(E28) (04/1984 - 12/1987)","04/1984","12/1987","27352","ALPINA B7","ALPINA B7 (E28) 3.5 320 cv","Gasolina"
+"ma-272","ALPINA","fa-1293","B6","mo-7700","(F13) (09/2011 - 03/2016)","09/2011","03/2016","68295","ALPINA B6","ALPINA B6 (F13) BITURBO 540 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1293","B6","mo-7700","(F13) (09/2011 - 03/2016)","09/2011","03/2016","68296","ALPINA B6","ALPINA B6 (F13) BITURBO 600 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1293","B6","mo-7701","(E64) (04/2006 - 08/2010)","04/2006","08/2010","68298","ALPINA B6","ALPINA B6 (E64) 4.4 530 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1293","B6","mo-7701","(E64) (04/2006 - 08/2010)","04/2006","08/2010","68297","ALPINA B6","ALPINA B6 (E64) 4.4 500 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1293","B6","mo-3015","(E36) (03/1992 - 07/1993)","03/1992","07/1993","27398","ALPINA B6","ALPINA B6 (E36) 2.8 241 cv","Gasolina"
+"ma-272","ALPINA","fa-1293","B6","mo-7702","(F12) (09/2011 - 03/2016)","09/2011","03/2016","68299","ALPINA B6","ALPINA B6 (F12) BITURBO 540 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1293","B6","mo-7702","(F12) (09/2011 - 03/2016)","09/2011","03/2016","68300","ALPINA B6","ALPINA B6 (F12) BITURBO 600 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1293","B6","mo-3013","(E21) (03/1978 - 03/1983)","03/1978","03/1983","27361","ALPINA B6","ALPINA B6 (E21) 2.8 200 cv","Gasolina"
+"ma-272","ALPINA","fa-1293","B6","mo-3013","(E21) (03/1978 - 03/1983)","03/1978","03/1983","27290","ALPINA B6","ALPINA B6 (E21) 2.8 218 cv","Gasolina"
+"ma-272","ALPINA","fa-1293","B6","mo-3014","(E30) (11/1983 - 12/1990)","11/1983","12/1990","27270","ALPINA B6","ALPINA B6 (E30) 2.8 209 cv","Gasolina"
+"ma-272","ALPINA","fa-1293","B6","mo-3014","(E30) (11/1983 - 12/1990)","11/1983","12/1990","68179","ALPINA B6","ALPINA B6 (E30) 3.4 261 cv","Gasolina"
+"ma-272","ALPINA","fa-1293","B6","mo-3014","(E30) (11/1983 - 12/1990)","11/1983","12/1990","68178","ALPINA B6","ALPINA B6 (E30) 3.4 254 cv","Gasolina"
+"ma-272","ALPINA","fa-1293","B6","mo-7703","(F06) (04/2014 - 03/2016)","04/2014","03/2016","68301","ALPINA B6","ALPINA B6 (F06) BITURBO tracción intégrale 540 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1293","B6","mo-7703","(F06) (04/2014 - 03/2016)","04/2014","03/2016","68302","ALPINA B6","ALPINA B6 (F06) BITURBO tracción intégrale 600 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1293","B6","mo-7699","(E63) (04/2006 - 08/2010)","04/2006","08/2010","68293","ALPINA B6","ALPINA B6 (E63) 4.4 500 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1293","B6","mo-7699","(E63) (04/2006 - 08/2010)","04/2006","08/2010","68294","ALPINA B6","ALPINA B6 (E63) 4.4 530 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1372","Roadster","mo-3787","V8 (Z8) (01/2002 - 12/2003)","01/2002","12/2003","27535","ALPINA Roadster","ALPINA Roadster V8 (Z8) 4.8 V8 381 cv","Gasolina"
+"ma-272","ALPINA","fa-1372","Roadster","mo-3785","Limited Edition (Z1) (01/1990 - 12/1991)","01/1990","12/1991","27118","ALPINA Roadster","ALPINA Roadster Limited Edition (Z1) 2.7 200 cv","Gasolina"
+"ma-272","ALPINA","fa-1372","Roadster","mo-3786","S (Z4) (01/2004 - 12/2006)","01/2004","12/2006","27272","ALPINA Roadster","ALPINA Roadster S (Z4) 3.3 300 cv","Gasolina"
+"ma-272","ALPINA","fa-1306","C2","mo-3038","(E30) (07/1985 - 03/1988)","07/1985","03/1988","27545","ALPINA C2","ALPINA C2 (E30) 2.7 204 cv","Gasolina"
+"ma-272","ALPINA","fa-1306","C2","mo-3038","(E30) (07/1985 - 03/1988)","07/1985","03/1988","27303","ALPINA C2","ALPINA C2 (E30) 2.7 tracción integrale 209 cv","Gasolina"
+"ma-272","ALPINA","fa-1306","C2","mo-3038","(E30) (07/1985 - 03/1988)","07/1985","03/1988","27628","ALPINA C2","ALPINA C2 (E30) 2.7 209 cv","Gasolina"
+"ma-272","ALPINA","fa-1306","C2","mo-3038","(E30) (07/1985 - 03/1988)","07/1985","03/1988","27392","ALPINA C2","ALPINA C2 (E30) 2.5 185 cv","Gasolina"
+"ma-272","ALPINA","fa-1306","C2","mo-3039","Descapotable (E30) (02/1986 - 07/1987)","02/1986","07/1987","27212","ALPINA C2","ALPINA C2 Descapotable (E30) 2.7 209 cv","Gasolina"
+"ma-272","ALPINA","fa-2419","XD3","mo-7675","(G01) (07/2018 - Hoy)","07/2018","","68241","ALPINA XD3","ALPINA XD3 (G01) BITURBO tracción intégrale 394 cv Transmisión automática","Diesel"
+"ma-272","ALPINA","fa-2419","XD3","mo-7675","(G01) (07/2018 - Hoy)","07/2018","","68240","ALPINA XD3","ALPINA XD3 (G01) BITURBO tracción intégrale 388 cv Transmisión automática","Diesel"
+"ma-272","ALPINA","fa-2419","XD3","mo-7674","(F25) (04/2013 - 06/2018)","04/2013","06/2018","68239","ALPINA XD3","ALPINA XD3 (F25) BITURBO tracción intégrale 350 cv Transmisión automática","Diesel"
+"ma-272","ALPINA","fa-1295","B8","mo-7707","(B16) (07/2020 - Hoy)","07/2020","","68309","ALPINA B8","ALPINA B8 (B16) BITURBO tracción intégrale 621 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-1295","B8","mo-3022","Coupe (E36) (01/1995 - 03/1998)","01/1995","03/1998","27161","ALPINA B8","ALPINA B8 Coupe (E36) 4.6 333 cv","Gasolina"
+"ma-272","ALPINA","fa-1295","B8","mo-3023","Descapotable (E36) (01/1995 - 03/1998)","01/1995","03/1998","27239","ALPINA B8","ALPINA B8 Descapotable (E36) 4.6 333 cv","Gasolina"
+"ma-272","ALPINA","fa-1295","B8","mo-3020","(E36) (01/1995 - 03/1998)","01/1995","03/1998","27157","ALPINA B8","ALPINA B8 (E36) 4.6 333 cv","Gasolina"
+"ma-272","ALPINA","fa-1295","B8","mo-3021","Touring (E36) (01/1995 - 03/1998)","01/1995","03/1998","27222","ALPINA B8","ALPINA B8 Touring (E36) 4.6 333 cv","Gasolina"
+"ma-272","ALPINA","fa-2418","XD4","mo-7673","(G02) (07/2018 - Hoy)","07/2018","","68237","ALPINA XD4","ALPINA XD4 (G02) BITURBO tracción intégrale 388 cv Transmisión automática","Diesel"
+"ma-272","ALPINA","fa-2418","XD4","mo-7673","(G02) (07/2018 - Hoy)","07/2018","","68238","ALPINA XD4","ALPINA XD4 (G02) BITURBO tracción intégrale 394 cv Transmisión automática","Diesel"
+"ma-272","ALPINA","fa-1305","C1","mo-3036","(E21) (03/1980 - 07/1983)","03/1980","07/1983","27379","ALPINA C1","ALPINA C1 (E21) 2.3 170 cv","Gasolina"
+"ma-272","ALPINA","fa-1305","C1","mo-3037","(E30) (08/1983 - 06/1988)","08/1983","06/1988","27288","ALPINA C1","ALPINA C1 (E30) 2.5 190 cv","Gasolina"
+"ma-272","ALPINA","fa-1305","C1","mo-3037","(E30) (08/1983 - 06/1988)","08/1983","06/1988","27375","ALPINA C1","ALPINA C1 (E30) 2.3 170 cv","Gasolina"
+"ma-272","ALPINA","fa-2422","XB7","mo-7706","(G07) (05/2020 - Hoy)","05/2020","","68337","ALPINA XB7","ALPINA XB7 (G07) BITURBO Mild-Hybrid 621 cv Transmisión automática","Gasolina"
+"ma-272","ALPINA","fa-2422","XB7","mo-7706","(G07) (05/2020 - Hoy)","05/2020","","68308","ALPINA XB7","ALPINA XB7 (G07) BITURBO 621 cv Transmisión automática","Gasolina"

@@ -1,14 +1,14 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-92,G.M.E.,fa-279,Midi,mo-1398, (01/1989 - 10/1994),01/1989,10/1994,24634,G.M.E. Midi,G.M.E. Midi 2.2 D 4x4 minibús 61cv,Diesel
-ma-92,G.M.E.,fa-279,Midi,mo-1398, (01/1989 - 10/1994),01/1989,10/1994,20187,G.M.E. Midi,G.M.E. Midi 2.0 Furgón 81cv,Gasolina
-ma-92,G.M.E.,fa-279,Midi,mo-1398, (01/1989 - 10/1994),01/1989,10/1994,25050,G.M.E. Midi,G.M.E. Midi 2.0 4x4 Furgón 81cv,Gasolina
-ma-92,G.M.E.,fa-279,Midi,mo-1398, (01/1989 - 10/1994),01/1989,10/1994,5352,G.M.E. Midi,G.M.E. Midi 2.0 TD minibús 69cv,Diesel
-ma-92,G.M.E.,fa-279,Midi,mo-1398, (01/1989 - 10/1994),01/1989,10/1994,20188,G.M.E. Midi,G.M.E. Midi 2.0 D Furgón 61cv,Diesel
-ma-92,G.M.E.,fa-279,Midi,mo-1398, (01/1989 - 10/1994),01/1989,10/1994,14725,G.M.E. Midi,G.M.E. Midi 2.0 minibús 81cv,Gasolina
-ma-92,G.M.E.,fa-279,Midi,mo-1398, (01/1989 - 10/1994),01/1989,10/1994,24878,G.M.E. Midi,G.M.E. Midi 2.0 4x4 minibús 81cv,Gasolina
-ma-92,G.M.E.,fa-279,Midi,mo-1398, (01/1989 - 10/1994),01/1989,10/1994,3751,G.M.E. Midi,G.M.E. Midi 2.0 TD Furgón 69cv,Diesel
-ma-92,G.M.E.,fa-279,Midi,mo-1398, (01/1989 - 10/1994),01/1989,10/1994,5353,G.M.E. Midi,G.M.E. Midi 2.2 D Furgón 61cv,Diesel
-ma-92,G.M.E.,fa-279,Midi,mo-1398, (01/1989 - 10/1994),01/1989,10/1994,5354,G.M.E. Midi,G.M.E. Midi 2.2 D minibús 61cv,Diesel
-ma-92,G.M.E.,fa-279,Midi,mo-1398, (01/1989 - 10/1994),01/1989,10/1994,24633,G.M.E. Midi,G.M.E. Midi 2.2 D 4x4 Furgón 61cv,Diesel
-ma-92,G.M.E.,fa-280,Rascal,mo-1702, (01/1989 - 10/1994),01/1989,10/1994,3753,G.M.E. Rascal,G.M.E. Rascal 1.0 Pickup 45cv,Gasolina
-ma-92,G.M.E.,fa-280,Rascal,mo-1702, (01/1989 - 10/1994),01/1989,10/1994,5355,G.M.E. Rascal,G.M.E. Rascal 1.0 Furgón 45cv,Gasolina
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-92","G.M.E.","fa-279","Midi","mo-1398"," (01/1989 - 10/1994)","01/1989","10/1994","24634","G.M.E. Midi","G.M.E. Midi 2.2 D 4x4 minibús 61cv","Diesel"
+"ma-92","G.M.E.","fa-279","Midi","mo-1398"," (01/1989 - 10/1994)","01/1989","10/1994","20187","G.M.E. Midi","G.M.E. Midi 2.0 Furgón 81cv","Gasolina"
+"ma-92","G.M.E.","fa-279","Midi","mo-1398"," (01/1989 - 10/1994)","01/1989","10/1994","25050","G.M.E. Midi","G.M.E. Midi 2.0 4x4 Furgón 81cv","Gasolina"
+"ma-92","G.M.E.","fa-279","Midi","mo-1398"," (01/1989 - 10/1994)","01/1989","10/1994","5352","G.M.E. Midi","G.M.E. Midi 2.0 TD minibús 69cv","Diesel"
+"ma-92","G.M.E.","fa-279","Midi","mo-1398"," (01/1989 - 10/1994)","01/1989","10/1994","20188","G.M.E. Midi","G.M.E. Midi 2.0 D Furgón 61cv","Diesel"
+"ma-92","G.M.E.","fa-279","Midi","mo-1398"," (01/1989 - 10/1994)","01/1989","10/1994","14725","G.M.E. Midi","G.M.E. Midi 2.0 minibús 81cv","Gasolina"
+"ma-92","G.M.E.","fa-279","Midi","mo-1398"," (01/1989 - 10/1994)","01/1989","10/1994","24878","G.M.E. Midi","G.M.E. Midi 2.0 4x4 minibús 81cv","Gasolina"
+"ma-92","G.M.E.","fa-279","Midi","mo-1398"," (01/1989 - 10/1994)","01/1989","10/1994","3751","G.M.E. Midi","G.M.E. Midi 2.0 TD Furgón 69cv","Diesel"
+"ma-92","G.M.E.","fa-279","Midi","mo-1398"," (01/1989 - 10/1994)","01/1989","10/1994","5353","G.M.E. Midi","G.M.E. Midi 2.2 D Furgón 61cv","Diesel"
+"ma-92","G.M.E.","fa-279","Midi","mo-1398"," (01/1989 - 10/1994)","01/1989","10/1994","5354","G.M.E. Midi","G.M.E. Midi 2.2 D minibús 61cv","Diesel"
+"ma-92","G.M.E.","fa-279","Midi","mo-1398"," (01/1989 - 10/1994)","01/1989","10/1994","24633","G.M.E. Midi","G.M.E. Midi 2.2 D 4x4 Furgón 61cv","Diesel"
+"ma-92","G.M.E.","fa-280","Rascal","mo-1702"," (01/1989 - 10/1994)","01/1989","10/1994","3753","G.M.E. Rascal","G.M.E. Rascal 1.0 Pickup 45cv","Gasolina"
+"ma-92","G.M.E.","fa-280","Rascal","mo-1702"," (01/1989 - 10/1994)","01/1989","10/1994","5355","G.M.E. Rascal","G.M.E. Rascal 1.0 Furgón 45cv","Gasolina"

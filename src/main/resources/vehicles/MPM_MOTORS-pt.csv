@@ -1,2 +1,2 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-408,MPM MOTORS,fa-2425,ERELIS,mo-7715,PS160 (11/2018 - Hoje),11/2018,,68673,MPM MOTORS ERELIS,MPM MOTORS ERELIS PS160 1.2 T 131 cv,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-408","MPM MOTORS","fa-2425","ERELIS","mo-7715","PS160 (11/2018 - Hoje)","11/2018","","68673","MPM MOTORS ERELIS","MPM MOTORS ERELIS PS160 1.2 T 131 cv","Essence"

@@ -1,10 +1,9 @@
 package com.joaquinonsoft.mock4test.identitycard;
 
-import java.util.Random;
-
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
+import java.util.Random;
 
 /// Austria uses a Geburtsdatum und Personenkennzeichen (GPK) for some identification purposes,
 /// but it's not a single universal ID. The most common "ID" is arguably the passport number or

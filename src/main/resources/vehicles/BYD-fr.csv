@@ -1,13 +1,13 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-413,BYD,fa-2443,SEAL,mo-7775, (07/2022 - Aujourd'hui),07/2022,,69799,BYD SEAL,BYD SEAL EV 82.5 kWh 313 cv Boîte auto,Electrique
-ma-413,BYD,fa-2443,SEAL,mo-7775, (07/2022 - Aujourd'hui),07/2022,,69800,BYD SEAL,BYD SEAL EV 82.5 kWh AWD 530 cv Boîte auto,Electrique
-ma-413,BYD,fa-2443,SEAL,mo-7805,U (02/2024 - Aujourd'hui),02/2024,,70071,BYD SEAL,BYD SEAL U EV 71.8 kWh 218 cv Boîte auto,Electrique
-ma-413,BYD,fa-2443,SEAL,mo-7805,U (02/2024 - Aujourd'hui),02/2024,,70070,BYD SEAL,BYD SEAL U EV 87.0 kWh 218 cv Boîte auto,Electrique
-ma-413,BYD,fa-2443,SEAL,mo-7805,U (02/2024 - Aujourd'hui),02/2024,,70551,BYD SEAL,BYD SEAL U 1.5 16V 324 PHEV AWD CVT 130 cv Boîte auto,Essence
-ma-413,BYD,fa-2443,SEAL,mo-7805,U (02/2024 - Aujourd'hui),02/2024,,70550,BYD SEAL,BYD SEAL U 1.5 16V 218 PHEV CVT 98 cv Boîte auto,Essence
-ma-413,BYD,fa-2438,ATTO,mo-7764,3 (02/2022 - Aujourd'hui),02/2022,,69665,BYD ATTO,BYD ATTO 3 EV 60.5 kWh 204 cv Boîte auto,Electrique
-ma-413,BYD,fa-2451,HAN,mo-7799, (07/2020 - Aujourd'hui),07/2020,,70047,BYD HAN,BYD HAN EV 85.4 kWh AWD 517 cv Boîte auto,Electrique
-ma-413,BYD,fa-2454,DOLPHIN,mo-7803, (08/2021 - Aujourd'hui),08/2021,,70068,BYD DOLPHIN,BYD DOLPHIN EV 60.5 kWh 204 cv Boîte auto,Electrique
-ma-413,BYD,fa-2456,ETP3,mo-7808, (10/2023 - Aujourd'hui),10/2023,,70080,BYD ETP3,BYD ETP3 EV 45 kWh 136 cv Boîte auto,Electrique
-ma-413,BYD,fa-2455,TANG,mo-7806, (06/2018 - Aujourd'hui),06/2018,,70073,BYD TANG,BYD TANG EV 86.4 kWh AWD 517 cv Boîte auto,Electrique
-ma-413,BYD,fa-2455,TANG,mo-7806, (06/2018 - Aujourd'hui),06/2018,,70072,BYD TANG,BYD TANG EV 108.8 kWh AWD 408 cv Boîte auto,Electrique
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-413","BYD","fa-2443","SEAL","mo-7775"," (07/2022 - Aujourd'hui)","07/2022","","69799","BYD SEAL","BYD SEAL EV 82.5 kWh 313 cv Boîte auto","Electrique"
+"ma-413","BYD","fa-2443","SEAL","mo-7775"," (07/2022 - Aujourd'hui)","07/2022","","69800","BYD SEAL","BYD SEAL EV 82.5 kWh AWD 530 cv Boîte auto","Electrique"
+"ma-413","BYD","fa-2443","SEAL","mo-7805","U (02/2024 - Aujourd'hui)","02/2024","","70071","BYD SEAL","BYD SEAL U EV 71.8 kWh 218 cv Boîte auto","Electrique"
+"ma-413","BYD","fa-2443","SEAL","mo-7805","U (02/2024 - Aujourd'hui)","02/2024","","70070","BYD SEAL","BYD SEAL U EV 87.0 kWh 218 cv Boîte auto","Electrique"
+"ma-413","BYD","fa-2443","SEAL","mo-7805","U (02/2024 - Aujourd'hui)","02/2024","","70551","BYD SEAL","BYD SEAL U 1.5 16V 324 PHEV AWD CVT 130 cv Boîte auto","Essence"
+"ma-413","BYD","fa-2443","SEAL","mo-7805","U (02/2024 - Aujourd'hui)","02/2024","","70550","BYD SEAL","BYD SEAL U 1.5 16V 218 PHEV CVT 98 cv Boîte auto","Essence"
+"ma-413","BYD","fa-2438","ATTO","mo-7764","3 (02/2022 - Aujourd'hui)","02/2022","","69665","BYD ATTO","BYD ATTO 3 EV 60.5 kWh 204 cv Boîte auto","Electrique"
+"ma-413","BYD","fa-2451","HAN","mo-7799"," (07/2020 - Aujourd'hui)","07/2020","","70047","BYD HAN","BYD HAN EV 85.4 kWh AWD 517 cv Boîte auto","Electrique"
+"ma-413","BYD","fa-2454","DOLPHIN","mo-7803"," (08/2021 - Aujourd'hui)","08/2021","","70068","BYD DOLPHIN","BYD DOLPHIN EV 60.5 kWh 204 cv Boîte auto","Electrique"
+"ma-413","BYD","fa-2456","ETP3","mo-7808"," (10/2023 - Aujourd'hui)","10/2023","","70080","BYD ETP3","BYD ETP3 EV 45 kWh 136 cv Boîte auto","Electrique"
+"ma-413","BYD","fa-2455","TANG","mo-7806"," (06/2018 - Aujourd'hui)","06/2018","","70073","BYD TANG","BYD TANG EV 86.4 kWh AWD 517 cv Boîte auto","Electrique"
+"ma-413","BYD","fa-2455","TANG","mo-7806"," (06/2018 - Aujourd'hui)","06/2018","","70072","BYD TANG","BYD TANG EV 108.8 kWh AWD 408 cv Boîte auto","Electrique"

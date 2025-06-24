@@ -1,3 +1,3 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-417,XPENG,fa-2467,G9,mo-7838, (09/2022 - Hoje),09/2022,,70343,XPENG G9,XPENG G9 EV Performance AWD 551 cv Caixa Automática,Electrique
-ma-417,XPENG,fa-2467,G9,mo-7838, (09/2022 - Hoje),09/2022,,70342,XPENG G9,XPENG G9 EV 313 cv Caixa Automática,Electrique
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-417","XPENG","fa-2467","G9","mo-7838"," (09/2022 - Hoje)","09/2022","","70343","XPENG G9","XPENG G9 EV Performance AWD 551 cv Caixa Automática","Electrique"
+"ma-417","XPENG","fa-2467","G9","mo-7838"," (09/2022 - Hoje)","09/2022","","70342","XPENG G9","XPENG G9 EV 313 cv Caixa Automática","Electrique"

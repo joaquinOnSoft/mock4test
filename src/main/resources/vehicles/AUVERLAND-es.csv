@@ -1,3 +1,3 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-341,AUVERLAND,fa-2284,A3,mo-6862,vehículo tout terrain fermé (07/1987 - 12/2011),07/1987,12/2011,59777,AUVERLAND A3,AUVERLAND A3 vehículo tout terrain fermé 1.9 D 4WD 64 cv,Diesel
-ma-341,AUVERLAND,fa-2284,A3,mo-6860,vehículo tout terrain à carrosserie ouverte (07/1987 - 12/2011),07/1987,12/2011,59774,AUVERLAND A3,AUVERLAND A3 vehículo tout terrain à carrosserie ouverte 1.9 D 4WD 64 cv,Diesel
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-341","AUVERLAND","fa-2284","A3","mo-6862","vehículo tout terrain fermé (07/1987 - 12/2011)","07/1987","12/2011","59777","AUVERLAND A3","AUVERLAND A3 vehículo tout terrain fermé 1.9 D 4WD 64 cv","Diesel"
+"ma-341","AUVERLAND","fa-2284","A3","mo-6860","vehículo tout terrain à carrosserie ouverte (07/1987 - 12/2011)","07/1987","12/2011","59774","AUVERLAND A3","AUVERLAND A3 vehículo tout terrain à carrosserie ouverte 1.9 D 4WD 64 cv","Diesel"

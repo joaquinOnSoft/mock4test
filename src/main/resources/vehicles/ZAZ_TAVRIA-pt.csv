@@ -1,2 +1,2 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-301,ZAZ TAVRIA,fa-1944,Tavria,mo-3665, (09/1990 - 12/1993),09/1990,12/1993,28657,ZAZ TAVRIA Tavria,ZAZ TAVRIA Tavria 1.1 51 cv,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-301","ZAZ TAVRIA","fa-1944","Tavria","mo-3665"," (09/1990 - 12/1993)","09/1990","12/1993","28657","ZAZ TAVRIA Tavria","ZAZ TAVRIA Tavria 1.1 51 cv","Essence"

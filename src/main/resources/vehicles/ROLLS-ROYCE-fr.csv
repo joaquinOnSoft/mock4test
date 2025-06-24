@@ -1,13 +1,13 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-266,ROLLS-ROYCE,fa-1367,Phantom,mo-3136, (05/2003 - 07/2017),05/2003,07/2017,27240,ROLLS-ROYCE Phantom,ROLLS-ROYCE Phantom 6.75 460 cv Boîte auto,Essence
-ma-266,ROLLS-ROYCE,fa-1873,Silver,mo-3566,Shadow II (01/1977 - 12/1980),01/1977,12/1980,68989,ROLLS-ROYCE Silver,ROLLS-ROYCE Silver Shadow II 6.75 250 cv Boîte auto,Essence
-ma-266,ROLLS-ROYCE,fa-1873,Silver,mo-3565,Spirit (01/1980 - 12/1989),01/1980,12/1989,68991,ROLLS-ROYCE Silver,ROLLS-ROYCE Silver Spirit 6.75 239 cv Boîte auto,Essence
-ma-266,ROLLS-ROYCE,fa-1873,Silver,mo-3565,Spirit (01/1980 - 12/1989),01/1980,12/1989,68990,ROLLS-ROYCE Silver,ROLLS-ROYCE Silver Spirit 6.75 260 cv Boîte auto,Essence
-ma-266,ROLLS-ROYCE,fa-1873,Silver,mo-3151,Seraph (03/1998 - 09/2002),03/1998,09/2002,27400,ROLLS-ROYCE Silver,ROLLS-ROYCE Silver Seraph 5.4 326 cv Boîte auto,Essence
-ma-266,ROLLS-ROYCE,fa-1873,Silver,mo-3567,Wraith II (01/1978 - 12/1980),01/1978,12/1980,68994,ROLLS-ROYCE Silver,ROLLS-ROYCE Silver Wraith II 6.75 223 cv,Essence
-ma-266,ROLLS-ROYCE,fa-1873,Silver,mo-3564,Spur (01/1980 - 12/1999),01/1980,12/1999,68992,ROLLS-ROYCE Silver,ROLLS-ROYCE Silver Spur 6.75 260 cv Boîte auto,Essence
-ma-266,ROLLS-ROYCE,fa-1873,Silver,mo-3564,Spur (01/1980 - 12/1999),01/1980,12/1999,68993,ROLLS-ROYCE Silver,ROLLS-ROYCE Silver Spur 6.75 305 cv Boîte auto,Essence
-ma-266,ROLLS-ROYCE,fa-1307,Corniche,mo-7030, (01/1971 - 01/2002),01/1971,01/2002,68987,ROLLS-ROYCE Corniche,ROLLS-ROYCE Corniche 6.75 241 cv Boîte auto,Essence
-ma-266,ROLLS-ROYCE,fa-1307,Corniche,mo-7030, (01/1971 - 01/2002),01/1971,01/2002,68986,ROLLS-ROYCE Corniche,ROLLS-ROYCE Corniche 6.75 260 cv Boîte auto,Essence
-ma-266,ROLLS-ROYCE,fa-1307,Corniche,mo-3040, (01/2000 - 09/2002),01/2000,09/2002,27164,ROLLS-ROYCE Corniche,ROLLS-ROYCE Corniche 6.75 V8 Turbo 329 cv,Essence
-ma-266,ROLLS-ROYCE,fa-1870,Camargue,mo-3561, (12/1975 - 06/1985),12/1975,06/1985,68985,ROLLS-ROYCE Camargue,ROLLS-ROYCE Camargue 6.75 212 cv Boîte auto,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-266","ROLLS-ROYCE","fa-1367","Phantom","mo-3136"," (05/2003 - 07/2017)","05/2003","07/2017","27240","ROLLS-ROYCE Phantom","ROLLS-ROYCE Phantom 6.75 460 cv Boîte auto","Essence"
+"ma-266","ROLLS-ROYCE","fa-1873","Silver","mo-3566","Shadow II (01/1977 - 12/1980)","01/1977","12/1980","68989","ROLLS-ROYCE Silver","ROLLS-ROYCE Silver Shadow II 6.75 250 cv Boîte auto","Essence"
+"ma-266","ROLLS-ROYCE","fa-1873","Silver","mo-3565","Spirit (01/1980 - 12/1989)","01/1980","12/1989","68991","ROLLS-ROYCE Silver","ROLLS-ROYCE Silver Spirit 6.75 239 cv Boîte auto","Essence"
+"ma-266","ROLLS-ROYCE","fa-1873","Silver","mo-3565","Spirit (01/1980 - 12/1989)","01/1980","12/1989","68990","ROLLS-ROYCE Silver","ROLLS-ROYCE Silver Spirit 6.75 260 cv Boîte auto","Essence"
+"ma-266","ROLLS-ROYCE","fa-1873","Silver","mo-3151","Seraph (03/1998 - 09/2002)","03/1998","09/2002","27400","ROLLS-ROYCE Silver","ROLLS-ROYCE Silver Seraph 5.4 326 cv Boîte auto","Essence"
+"ma-266","ROLLS-ROYCE","fa-1873","Silver","mo-3567","Wraith II (01/1978 - 12/1980)","01/1978","12/1980","68994","ROLLS-ROYCE Silver","ROLLS-ROYCE Silver Wraith II 6.75 223 cv","Essence"
+"ma-266","ROLLS-ROYCE","fa-1873","Silver","mo-3564","Spur (01/1980 - 12/1999)","01/1980","12/1999","68992","ROLLS-ROYCE Silver","ROLLS-ROYCE Silver Spur 6.75 260 cv Boîte auto","Essence"
+"ma-266","ROLLS-ROYCE","fa-1873","Silver","mo-3564","Spur (01/1980 - 12/1999)","01/1980","12/1999","68993","ROLLS-ROYCE Silver","ROLLS-ROYCE Silver Spur 6.75 305 cv Boîte auto","Essence"
+"ma-266","ROLLS-ROYCE","fa-1307","Corniche","mo-7030"," (01/1971 - 01/2002)","01/1971","01/2002","68987","ROLLS-ROYCE Corniche","ROLLS-ROYCE Corniche 6.75 241 cv Boîte auto","Essence"
+"ma-266","ROLLS-ROYCE","fa-1307","Corniche","mo-7030"," (01/1971 - 01/2002)","01/1971","01/2002","68986","ROLLS-ROYCE Corniche","ROLLS-ROYCE Corniche 6.75 260 cv Boîte auto","Essence"
+"ma-266","ROLLS-ROYCE","fa-1307","Corniche","mo-3040"," (01/2000 - 09/2002)","01/2000","09/2002","27164","ROLLS-ROYCE Corniche","ROLLS-ROYCE Corniche 6.75 V8 Turbo 329 cv","Essence"
+"ma-266","ROLLS-ROYCE","fa-1870","Camargue","mo-3561"," (12/1975 - 06/1985)","12/1975","06/1985","68985","ROLLS-ROYCE Camargue","ROLLS-ROYCE Camargue 6.75 212 cv Boîte auto","Essence"

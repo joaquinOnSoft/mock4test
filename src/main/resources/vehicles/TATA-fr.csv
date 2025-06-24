@@ -1,16 +1,16 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-294,TATA,fa-2062,Xenon,mo-5184, (01/2009 - Aujourd'hui),01/2009,,35591,TATA Xenon,TATA Xenon 2.2 Dicor 4WD Pickup Simple Cabine 16V 140 cv,Diesel
-ma-294,TATA,fa-2062,Xenon,mo-5184, (01/2009 - Aujourd'hui),01/2009,,35589,TATA Xenon,TATA Xenon 2.2 Dicor 2WD Pickup Simple Cabine 16V 140 cv,Diesel
-ma-294,TATA,fa-2062,Xenon,mo-5184, (01/2009 - Aujourd'hui),01/2009,,35590,TATA Xenon,TATA Xenon 2.2 Dicor 4WD Pickup double cabine 16V 140 cv,Diesel
-ma-294,TATA,fa-2062,Xenon,mo-5184, (01/2009 - Aujourd'hui),01/2009,,35588,TATA Xenon,TATA Xenon 2.2 Dicor 2WD Pickup double cabine 16V 140 cv,Diesel
-ma-294,TATA,fa-2060,Indica,mo-5181,V2 (01/2008 - Aujourd'hui),01/2008,,68961,TATA Indica,TATA Indica V2 1.4 MPFi 85 cv,Essence
-ma-294,TATA,fa-2060,Indica,mo-5181,V2 (01/2008 - Aujourd'hui),01/2008,,68963,TATA Indica,TATA Indica V2 1.4 TDi 71 cv,Diesel
-ma-294,TATA,fa-2060,Indica,mo-5181,V2 (01/2008 - Aujourd'hui),01/2008,,68962,TATA Indica,TATA Indica V2 1.4 MPFi Bifuel 85 cv,Essence
-ma-294,TATA,fa-2060,Indica,mo-7160,Vista (01/2008 - 12/2010),01/2008,12/2010,68967,TATA Indica,TATA Indica Vista 1.3 TDi 16V 75 cv,Diesel
-ma-294,TATA,fa-2060,Indica,mo-7160,Vista (01/2008 - 12/2010),01/2008,12/2010,68968,TATA Indica,TATA Indica Vista 1.4 MPFi 85 cv,Essence
-ma-294,TATA,fa-2060,Indica,mo-7160,Vista (01/2008 - 12/2010),01/2008,12/2010,68969,TATA Indica,TATA Indica Vista 1.4 MPFi Bifuel 85 cv,Essence
-ma-294,TATA,fa-2060,Indica,mo-5180,V2 SW / Indigo (01/2008 - Aujourd'hui),01/2008,,68965,TATA Indica,TATA Indica V2 SW / Indigo 1.4 MPFi Bifuel 85 cv,Essence
-ma-294,TATA,fa-2060,Indica,mo-5180,V2 SW / Indigo (01/2008 - Aujourd'hui),01/2008,,68964,TATA Indica,TATA Indica V2 SW / Indigo 1.4 MPFi 85 cv,Essence
-ma-294,TATA,fa-2060,Indica,mo-5180,V2 SW / Indigo (01/2008 - Aujourd'hui),01/2008,,68966,TATA Indica,TATA Indica V2 SW / Indigo 1.4 TDi 71 cv,Diesel
-ma-294,TATA,fa-1906,Safari,mo-5179, (07/2006 - Aujourd'hui),07/2006,,35587,TATA Safari,TATA Safari Grand 2.2 Dicor 4WD 16V 140 cv,Diesel
-ma-294,TATA,fa-1906,Safari,mo-5179, (07/2006 - Aujourd'hui),07/2006,,35586,TATA Safari,TATA Safari 2.2 Dicor 4WD 16V 140 cv,Diesel
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-294","TATA","fa-2062","Xenon","mo-5184"," (01/2009 - Aujourd'hui)","01/2009","","35591","TATA Xenon","TATA Xenon 2.2 Dicor 4WD Pickup Simple Cabine 16V 140 cv","Diesel"
+"ma-294","TATA","fa-2062","Xenon","mo-5184"," (01/2009 - Aujourd'hui)","01/2009","","35589","TATA Xenon","TATA Xenon 2.2 Dicor 2WD Pickup Simple Cabine 16V 140 cv","Diesel"
+"ma-294","TATA","fa-2062","Xenon","mo-5184"," (01/2009 - Aujourd'hui)","01/2009","","35590","TATA Xenon","TATA Xenon 2.2 Dicor 4WD Pickup double cabine 16V 140 cv","Diesel"
+"ma-294","TATA","fa-2062","Xenon","mo-5184"," (01/2009 - Aujourd'hui)","01/2009","","35588","TATA Xenon","TATA Xenon 2.2 Dicor 2WD Pickup double cabine 16V 140 cv","Diesel"
+"ma-294","TATA","fa-2060","Indica","mo-5181","V2 (01/2008 - Aujourd'hui)","01/2008","","68961","TATA Indica","TATA Indica V2 1.4 MPFi 85 cv","Essence"
+"ma-294","TATA","fa-2060","Indica","mo-5181","V2 (01/2008 - Aujourd'hui)","01/2008","","68963","TATA Indica","TATA Indica V2 1.4 TDi 71 cv","Diesel"
+"ma-294","TATA","fa-2060","Indica","mo-5181","V2 (01/2008 - Aujourd'hui)","01/2008","","68962","TATA Indica","TATA Indica V2 1.4 MPFi Bifuel 85 cv","Essence"
+"ma-294","TATA","fa-2060","Indica","mo-7160","Vista (01/2008 - 12/2010)","01/2008","12/2010","68967","TATA Indica","TATA Indica Vista 1.3 TDi 16V 75 cv","Diesel"
+"ma-294","TATA","fa-2060","Indica","mo-7160","Vista (01/2008 - 12/2010)","01/2008","12/2010","68968","TATA Indica","TATA Indica Vista 1.4 MPFi 85 cv","Essence"
+"ma-294","TATA","fa-2060","Indica","mo-7160","Vista (01/2008 - 12/2010)","01/2008","12/2010","68969","TATA Indica","TATA Indica Vista 1.4 MPFi Bifuel 85 cv","Essence"
+"ma-294","TATA","fa-2060","Indica","mo-5180","V2 SW / Indigo (01/2008 - Aujourd'hui)","01/2008","","68965","TATA Indica","TATA Indica V2 SW / Indigo 1.4 MPFi Bifuel 85 cv","Essence"
+"ma-294","TATA","fa-2060","Indica","mo-5180","V2 SW / Indigo (01/2008 - Aujourd'hui)","01/2008","","68964","TATA Indica","TATA Indica V2 SW / Indigo 1.4 MPFi 85 cv","Essence"
+"ma-294","TATA","fa-2060","Indica","mo-5180","V2 SW / Indigo (01/2008 - Aujourd'hui)","01/2008","","68966","TATA Indica","TATA Indica V2 SW / Indigo 1.4 TDi 71 cv","Diesel"
+"ma-294","TATA","fa-1906","Safari","mo-5179"," (07/2006 - Aujourd'hui)","07/2006","","35587","TATA Safari","TATA Safari Grand 2.2 Dicor 4WD 16V 140 cv","Diesel"
+"ma-294","TATA","fa-1906","Safari","mo-5179"," (07/2006 - Aujourd'hui)","07/2006","","35586","TATA Safari","TATA Safari 2.2 Dicor 4WD 16V 140 cv","Diesel"

@@ -1,9 +1,9 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-285,EBRO,fa-1751,Patrol,mo-5827,260 (01/1985 - 12/1998),01/1985,12/1998,43896,EBRO Patrol,EBRO Patrol 260 2.8 D Break 77 cv,Diesel
-ma-285,EBRO,fa-1751,Patrol,mo-5827,260 (01/1985 - 12/1998),01/1985,12/1998,43901,EBRO Patrol,EBRO Patrol 260 3.3 D Break 95 cv,Diesel
-ma-285,EBRO,fa-1751,Patrol,mo-5827,260 (01/1985 - 12/1998),01/1985,12/1998,43899,EBRO Patrol,EBRO Patrol 260 2.8 D Pickup 94 cv,Diesel
-ma-285,EBRO,fa-1751,Patrol,mo-5827,260 (01/1985 - 12/1998),01/1985,12/1998,43895,EBRO Patrol,EBRO Patrol 260 2.8 D Break 115 cv,Diesel
-ma-285,EBRO,fa-1751,Patrol,mo-5827,260 (01/1985 - 12/1998),01/1985,12/1998,43897,EBRO Patrol,EBRO Patrol 260 2.8 D Break 92 cv,Diesel
-ma-285,EBRO,fa-1751,Patrol,mo-5827,260 (01/1985 - 12/1998),01/1985,12/1998,43900,EBRO Patrol,EBRO Patrol 260 3.2 D Break 110 cv,Diesel
-ma-285,EBRO,fa-1751,Patrol,mo-5827,260 (01/1985 - 12/1998),01/1985,12/1998,43898,EBRO Patrol,EBRO Patrol 260 2.8 D Break 94 cv,Diesel
-ma-285,EBRO,fa-1751,Patrol,mo-3339,160 (11/1979 - 01/1985),11/1979,01/1985,41691,EBRO Patrol,EBRO Patrol 160 2.7 D Break 67 cv,Diesel
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-285","EBRO","fa-1751","Patrol","mo-5827","260 (01/1985 - 12/1998)","01/1985","12/1998","43896","EBRO Patrol","EBRO Patrol 260 2.8 D Break 77 cv","Diesel"
+"ma-285","EBRO","fa-1751","Patrol","mo-5827","260 (01/1985 - 12/1998)","01/1985","12/1998","43901","EBRO Patrol","EBRO Patrol 260 3.3 D Break 95 cv","Diesel"
+"ma-285","EBRO","fa-1751","Patrol","mo-5827","260 (01/1985 - 12/1998)","01/1985","12/1998","43899","EBRO Patrol","EBRO Patrol 260 2.8 D Pickup 94 cv","Diesel"
+"ma-285","EBRO","fa-1751","Patrol","mo-5827","260 (01/1985 - 12/1998)","01/1985","12/1998","43895","EBRO Patrol","EBRO Patrol 260 2.8 D Break 115 cv","Diesel"
+"ma-285","EBRO","fa-1751","Patrol","mo-5827","260 (01/1985 - 12/1998)","01/1985","12/1998","43897","EBRO Patrol","EBRO Patrol 260 2.8 D Break 92 cv","Diesel"
+"ma-285","EBRO","fa-1751","Patrol","mo-5827","260 (01/1985 - 12/1998)","01/1985","12/1998","43900","EBRO Patrol","EBRO Patrol 260 3.2 D Break 110 cv","Diesel"
+"ma-285","EBRO","fa-1751","Patrol","mo-5827","260 (01/1985 - 12/1998)","01/1985","12/1998","43898","EBRO Patrol","EBRO Patrol 260 2.8 D Break 94 cv","Diesel"
+"ma-285","EBRO","fa-1751","Patrol","mo-3339","160 (11/1979 - 01/1985)","11/1979","01/1985","41691","EBRO Patrol","EBRO Patrol 160 2.7 D Break 67 cv","Diesel"

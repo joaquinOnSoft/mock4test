@@ -1,4 +1,4 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-401,MIA ELECTRIC,fa-2356,MIA,mo-7427, (01/2011 - 04/2014),01/2011,04/2014,65333,MIA ELECTRIC MIA,MIA ELECTRIC MIA Electric 24 cv Boîte auto,Electrique
-ma-401,MIA ELECTRIC,fa-2356,MIA,mo-7427, (01/2011 - 04/2014),01/2011,04/2014,65336,MIA ELECTRIC MIA,MIA ELECTRIC MIA U Electric 24 cv Boîte auto,Electrique
-ma-401,MIA ELECTRIC,fa-2356,MIA,mo-7427, (01/2011 - 04/2014),01/2011,04/2014,65335,MIA ELECTRIC MIA,MIA ELECTRIC MIA L Electric 24 cv Boîte auto,Electrique
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-401","MIA ELECTRIC","fa-2356","MIA","mo-7427"," (01/2011 - 04/2014)","01/2011","04/2014","65333","MIA ELECTRIC MIA","MIA ELECTRIC MIA Electric 24 cv Boîte auto","Electrique"
+"ma-401","MIA ELECTRIC","fa-2356","MIA","mo-7427"," (01/2011 - 04/2014)","01/2011","04/2014","65336","MIA ELECTRIC MIA","MIA ELECTRIC MIA U Electric 24 cv Boîte auto","Electrique"
+"ma-401","MIA ELECTRIC","fa-2356","MIA","mo-7427"," (01/2011 - 04/2014)","01/2011","04/2014","65335","MIA ELECTRIC MIA","MIA ELECTRIC MIA L Electric 24 cv Boîte auto","Electrique"

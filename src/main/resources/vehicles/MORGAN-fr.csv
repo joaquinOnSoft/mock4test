@@ -1,11 +1,11 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-289,MORGAN,fa-1824,Plus,mo-3476,4 (01/1985 - Aujourd'hui),01/1985,,29040,MORGAN Plus,MORGAN Plus 4 2.0 Cabriolet 138 cv,Essence
-ma-289,MORGAN,fa-1824,Plus,mo-3476,4 (01/1985 - Aujourd'hui),01/1985,,29039,MORGAN Plus,MORGAN Plus 4 2.0 Cabriolet 122 cv,Essence
-ma-289,MORGAN,fa-1824,Plus,mo-3476,4 (01/1985 - Aujourd'hui),01/1985,,59358,MORGAN Plus,MORGAN Plus 4 2.0 i 155 cv,Essence
-ma-289,MORGAN,fa-1824,Plus,mo-3476,4 (01/1985 - Aujourd'hui),01/1985,,29038,MORGAN Plus,MORGAN Plus 4 2.0 Cabriolet 136 cv,Essence
-ma-289,MORGAN,fa-1824,Plus,mo-3476,4 (01/1985 - Aujourd'hui),01/1985,,59359,MORGAN Plus,MORGAN Plus 4 2.0 i 144 cv,Essence
-ma-289,MORGAN,fa-1824,Plus,mo-3477,8 (10/1968 - Aujourd'hui),10/1968,,29042,MORGAN Plus,MORGAN Plus 8 3.5 V8 Cabriolet 157 cv,Essence
-ma-289,MORGAN,fa-1824,Plus,mo-3477,8 (10/1968 - Aujourd'hui),10/1968,,29041,MORGAN Plus,MORGAN Plus 8 3.9 V8 Cabriolet 185 cv,Essence
-ma-289,MORGAN,fa-1824,Plus,mo-3477,8 (10/1968 - Aujourd'hui),10/1968,,29043,MORGAN Plus,MORGAN Plus 8 3.5 i V8 Cabriolet 164 cv,Essence
-ma-289,MORGAN,fa-1823,4/4,mo-3475, (01/1968 - 01/2003),01/1968,01/2003,59347,MORGAN 4/4,MORGAN 4/4 2.0 144 cv,Essence
-ma-289,MORGAN,fa-1823,4/4,mo-3475, (01/1968 - 01/2003),01/1968,01/2003,29428,MORGAN 4/4,MORGAN 4/4 1.6 Cabriolet 87 cv,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-289","MORGAN","fa-1824","Plus","mo-3476","4 (01/1985 - Aujourd'hui)","01/1985","","29040","MORGAN Plus","MORGAN Plus 4 2.0 Cabriolet 138 cv","Essence"
+"ma-289","MORGAN","fa-1824","Plus","mo-3476","4 (01/1985 - Aujourd'hui)","01/1985","","29039","MORGAN Plus","MORGAN Plus 4 2.0 Cabriolet 122 cv","Essence"
+"ma-289","MORGAN","fa-1824","Plus","mo-3476","4 (01/1985 - Aujourd'hui)","01/1985","","59358","MORGAN Plus","MORGAN Plus 4 2.0 i 155 cv","Essence"
+"ma-289","MORGAN","fa-1824","Plus","mo-3476","4 (01/1985 - Aujourd'hui)","01/1985","","29038","MORGAN Plus","MORGAN Plus 4 2.0 Cabriolet 136 cv","Essence"
+"ma-289","MORGAN","fa-1824","Plus","mo-3476","4 (01/1985 - Aujourd'hui)","01/1985","","59359","MORGAN Plus","MORGAN Plus 4 2.0 i 144 cv","Essence"
+"ma-289","MORGAN","fa-1824","Plus","mo-3477","8 (10/1968 - Aujourd'hui)","10/1968","","29042","MORGAN Plus","MORGAN Plus 8 3.5 V8 Cabriolet 157 cv","Essence"
+"ma-289","MORGAN","fa-1824","Plus","mo-3477","8 (10/1968 - Aujourd'hui)","10/1968","","29041","MORGAN Plus","MORGAN Plus 8 3.9 V8 Cabriolet 185 cv","Essence"
+"ma-289","MORGAN","fa-1824","Plus","mo-3477","8 (10/1968 - Aujourd'hui)","10/1968","","29043","MORGAN Plus","MORGAN Plus 8 3.5 i V8 Cabriolet 164 cv","Essence"
+"ma-289","MORGAN","fa-1823","4/4","mo-3475"," (01/1968 - 01/2003)","01/1968","01/2003","59347","MORGAN 4/4","MORGAN 4/4 2.0 144 cv","Essence"
+"ma-289","MORGAN","fa-1823","4/4","mo-3475"," (01/1968 - 01/2003)","01/1968","01/2003","29428","MORGAN 4/4","MORGAN 4/4 1.6 Cabriolet 87 cv","Essence"

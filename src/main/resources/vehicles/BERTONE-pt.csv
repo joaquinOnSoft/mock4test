@@ -1,5 +1,5 @@
-brandId,brandName,familyId,familyName,modelId,modelName,manufacturedFrom,manufacturedTo,typeId,typeName,typeFullName,energy
-ma-304,BERTONE,fa-2005,Freeclimber,mo-4649, (06/1989 - 12/1996),06/1989,12/1996,32104,BERTONE Freeclimber,BERTONE Freeclimber 2 1.6 i 100 cv,Essence
-ma-304,BERTONE,fa-2005,Freeclimber,mo-4649, (06/1989 - 12/1996),06/1989,12/1996,32107,BERTONE Freeclimber,BERTONE Freeclimber 2.7 i 129 cv,Essence
-ma-304,BERTONE,fa-2005,Freeclimber,mo-4649, (06/1989 - 12/1996),06/1989,12/1996,32106,BERTONE Freeclimber,BERTONE Freeclimber 2.4 TD 115 cv,Diesel
-ma-304,BERTONE,fa-2005,Freeclimber,mo-4649, (06/1989 - 12/1996),06/1989,12/1996,32105,BERTONE Freeclimber,BERTONE Freeclimber 2.0 i 129 cv,Essence
+"brandId","brandName","familyId","familyName","modelId","modelName","manufacturedFrom","manufacturedTo","typeId","typeName","typeFullName","energy"
+"ma-304","BERTONE","fa-2005","Freeclimber","mo-4649"," (06/1989 - 12/1996)","06/1989","12/1996","32104","BERTONE Freeclimber","BERTONE Freeclimber 2 1.6 i 100 cv","Essence"
+"ma-304","BERTONE","fa-2005","Freeclimber","mo-4649"," (06/1989 - 12/1996)","06/1989","12/1996","32107","BERTONE Freeclimber","BERTONE Freeclimber 2.7 i 129 cv","Essence"
+"ma-304","BERTONE","fa-2005","Freeclimber","mo-4649"," (06/1989 - 12/1996)","06/1989","12/1996","32106","BERTONE Freeclimber","BERTONE Freeclimber 2.4 TD 115 cv","Diesel"
+"ma-304","BERTONE","fa-2005","Freeclimber","mo-4649"," (06/1989 - 12/1996)","06/1989","12/1996","32105","BERTONE Freeclimber","BERTONE Freeclimber 2.0 i 129 cv","Essence"
