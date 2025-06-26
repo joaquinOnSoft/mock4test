@@ -1,5 +1,6 @@
 package com.joaquinonsoft.mock4test.dto;
 
+import com.opencsv.bean.CsvBindByName;
 import lombok.Getter;
 import lombok.Setter;
 import org.jsefa.csv.annotation.CsvDataType;
@@ -12,6 +13,6 @@ import org.jsefa.csv.annotation.CsvField;
 @Setter
 @CsvDataType()
 public class FamilyNameDTO {
-    @CsvField(pos = 1)
+    @CsvBindByName(column = "Family Name")
     private String familyName;
 }

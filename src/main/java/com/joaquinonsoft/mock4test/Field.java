@@ -10,8 +10,11 @@ import java.util.List;
 import java.util.Locale;
 
 public class Field {
-    public static final String LANG_TAG_ES_ES = "es-ES";
-    public static final String LANG_ES = "es";
+    protected static final String LANG_TAG_ES_ES = "es-ES";
+    protected static final String LANG_ES = "es";
+
+    private static final char COMMA = ',';
+    private static final char QUOTE = '"';
 
     protected Locale locale;
 
@@ -35,26 +38,27 @@ public class Field {
         File csv = FileUtil.getLocalizedCSVFromResources(locale, alias);
         Reader reader = new BufferedReader(new FileReader(csv));
 
-        ;
+        CsvToBean<?> csvReader;
+
         if(withQuoteChar){
-            CsvToBean<?> csvReader = new CsvToBeanBuilder(reader)
+            csvReader = new CsvToBeanBuilder(reader)
                     .withType(dto)
-                    .withSeparator(',')
-                    .withQuoteChar('"')
+                    .withSeparator(COMMA)
+                    .withQuoteChar(QUOTE)
                     .withIgnoreLeadingWhiteSpace(true)
                     .withIgnoreEmptyLine(true)
                     .build();
 
-            return csvReader.parse();
         }
         else{
-            CSVReader csvReader = new CSVReader(new FileReader(csv));
-            CsvToBean<?> csv2Bean = new CsvToBean();
-            csv2Bean.setCsvReader(csvReader);
-            //csv2Beand.setMappingStrategy(setColumMapping());
-
-            return csv2Bean.parse();
+            csvReader = new CsvToBeanBuilder(reader)
+                    .withType(dto)
+                    .withSeparator(COMMA)
+                    .withIgnoreLeadingWhiteSpace(true)
+                    .withIgnoreEmptyLine(true)
+                    .build();
         }
 
+        return csvReader.parse();
     }
 }

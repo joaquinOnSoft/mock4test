@@ -121,6 +121,7 @@ public class Vehicle extends Field {
 
     @SuppressWarnings("unchecked")
     private void initDictionaries() throws Mock4TestException {
+        //Intentional double checking brandVehicles initialization
         if(brandVehicles == null) {
             synchronized (this) {
                 if(brandVehicles == null) {
