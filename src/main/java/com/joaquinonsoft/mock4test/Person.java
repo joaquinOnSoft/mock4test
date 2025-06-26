@@ -1,8 +1,8 @@
 package com.joaquinonsoft.mock4test;
 
-import com.joaquinonsoft.mock4test.dto.FamilyName;
-import com.joaquinonsoft.mock4test.dto.Job;
-import com.joaquinonsoft.mock4test.dto.Name;
+import com.joaquinonsoft.mock4test.dto.FamilyNameDTO;
+import com.joaquinonsoft.mock4test.dto.JobDTO;
+import com.joaquinonsoft.mock4test.dto.NameDTO;
 import com.joaquinonsoft.mock4test.identitycard.IIdentityCard;
 import com.joaquinonsoft.mock4test.identitycard.IdentityCardFactory;
 import com.joaquinonsoft.mock4test.util.DateOfBirthGenerator;
@@ -24,13 +24,13 @@ public class Person extends Field{
     private final static Logger log = LogManager.getLogger(Person.class);
 
     @Getter(AccessLevel.NONE)
-    private volatile static List<FamilyName> familyNames;
+    private volatile static List<FamilyNameDTO> familyNames;
     @Getter(AccessLevel.NONE)
-    private volatile static List<Name> femaleNames;
+    private volatile static List<NameDTO> femaleNames;
     @Getter(AccessLevel.NONE)
-    private volatile static List<Name> maleNames;
+    private volatile static List<NameDTO> maleNames;
     @Getter(AccessLevel.NONE)
-    private volatile static List<Job> jobs;
+    private volatile static List<JobDTO> jobs;
 
     private String bio;
     private String firstName;
@@ -49,7 +49,7 @@ public class Person extends Field{
     private final LocalDate birthdate;
 
     public Person() throws Mock4TestException {
-        this(Locale.forLanguageTag("es-ES"));
+        this(Locale.forLanguageTag(LANG_TAG_ES_ES));
     }
 
     public Person(Locale locale) throws Mock4TestException {
@@ -60,7 +60,7 @@ public class Person extends Field{
         if(familyNames != null){
             lastName = getFamilyName();
 
-            if(locale.getLanguage().compareTo("es") == 0){
+            if(locale.getLanguage().compareTo(LANG_ES) == 0){
                 secondLastName = getFamilyName();
             }
         }
@@ -110,11 +110,11 @@ public class Person extends Field{
             synchronized (this) {
                 if(maleNames == null) {
                     try {
-                        maleNames = (List<Name>) loadCSV("person/male-name", Name.class);
-                        femaleNames = (List<Name>) loadCSV("person/female-name", Name.class);
-                        familyNames = (List<FamilyName>) loadCSV("person/family-name", FamilyName.class);
+                        maleNames = (List<NameDTO>) loadCSV("person/male-name", NameDTO.class);
+                        femaleNames = (List<NameDTO>) loadCSV("person/female-name", NameDTO.class);
+                        familyNames = (List<FamilyNameDTO>) loadCSV("person/family-name", FamilyNameDTO.class);
 
-                        jobs = (List<Job>) loadCSV("person/job", Job.class);
+                        jobs = (List<JobDTO>) loadCSV("person/job", JobDTO.class);
                     } catch (FileNotFoundException e) {
                         throw new Mock4TestException(e);
                     }
@@ -142,7 +142,7 @@ public class Person extends Field{
 
     private void initJob(){
         if(jobs != null) {
-            Job job = jobs.get(RndUtil.getInstance().nextIntInRange(0, jobs.size() - 1));
+            JobDTO job = jobs.get(RndUtil.getInstance().nextIntInRange(0, jobs.size() - 1));
 
             jobArea = job.getJobArea();
             jobDescriptor = job.getJobDescriptor();

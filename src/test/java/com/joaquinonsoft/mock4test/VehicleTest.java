@@ -1,6 +1,6 @@
 package com.joaquinonsoft.mock4test;
 
-import com.joaquinonsoft.mock4test.dto.Car;
+import com.joaquinonsoft.mock4test.dto.VehicleDTO;
 import com.joaquinonsoft.mock4test.util.DateUtil;
 import org.junit.jupiter.api.Test;
 
@@ -26,7 +26,7 @@ public class VehicleTest {
     @Test
     @SuppressWarnings("unchecked")
     public void loadCSV(){
-        List<Car> cars;
+        List<VehicleDTO> cars;
         try {
             Vehicle vehicle = new Vehicle(Locale.FRENCH,
                     DateUtil.nowYearMonthXYearsAgo(5),
@@ -34,7 +34,7 @@ public class VehicleTest {
                     Brand.values());
 
             for(Brand brand: Brand.values()){
-                cars = (List<Car>) vehicle.loadCSV( "vehicles/" + brand.toString(), Car.class);
+                cars = (List<VehicleDTO>) vehicle.loadCSV( "vehicles/" + brand.toString(), VehicleDTO.class, true);
                 assertNotNull(cars);
             }
         } catch (Mock4TestException | FileNotFoundException e) {

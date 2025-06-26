@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Objects;
 import java.util.stream.Collectors;
 
-public class CarFilter {
+public class VehicleFilter {
 
     /**
      * Filters a list of Car objects to include only those manufactured within a specified date range.
@@ -17,7 +17,7 @@ public class CarFilter {
      * @param endDate The end date of the manufacturing range (inclusive).
      * @return A new List<Car> containing only the cars that fall within the specified manufacturing date range.
      */
-    public static List<Car> filterCarsByManufactureDate(List<Car> cars, YearMonth startDate, YearMonth endDate) {
+    public static List<VehicleDTO> filterCarsByManufactureDate(List<VehicleDTO> cars, YearMonth startDate, YearMonth endDate) {
         if (cars == null || cars.isEmpty()) {
             return List.of(); // Return an empty list if the input list is null or empty
         }

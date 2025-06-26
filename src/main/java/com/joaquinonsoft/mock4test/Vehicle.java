@@ -1,7 +1,7 @@
 package com.joaquinonsoft.mock4test;
 
-import com.joaquinonsoft.mock4test.dto.Car;
-import com.joaquinonsoft.mock4test.dto.CarFilter;
+import com.joaquinonsoft.mock4test.dto.VehicleDTO;
+import com.joaquinonsoft.mock4test.dto.VehicleFilter;
 import com.joaquinonsoft.mock4test.util.DateUtil;
 import com.joaquinonsoft.mock4test.util.RndUtil;
 import lombok.AccessLevel;
@@ -49,7 +49,7 @@ public class Vehicle extends Field {
     private volatile static Brand[] selectedBrands;
 
     @Getter(AccessLevel.NONE)
-    private static List<List<Car>> brandVehicles;
+    private static List<List<VehicleDTO>> brandVehicles;
 
     /// Create a random vehicle, in **Spanish**, manufactured in the last 10 years from
     /// one of the following brands (the most commons in Europe):
@@ -102,11 +102,11 @@ public class Vehicle extends Field {
 
         if(brandVehicles != null && !brandVehicles.isEmpty()){
             int indexBrand = RndUtil.getInstance().nextIntInRange(0, brandVehicles.size() - 1);
-            List<Car> cars = brandVehicles.get(indexBrand);
+            List<VehicleDTO> cars = brandVehicles.get(indexBrand);
 
             int numCars = cars.size();
             int indexCar = RndUtil.getInstance().nextIntInRange(0, numCars - 1);
-            Car selectedCar = cars.get(indexCar);
+            VehicleDTO selectedCar = cars.get(indexCar);
 
             brandName = selectedCar.getBrandName();
             familyName = selectedCar.getFamilyName();
@@ -126,11 +126,11 @@ public class Vehicle extends Field {
                 if(brandVehicles == null) {
                     brandVehicles = new LinkedList<>();
                     try {
-                        List<Car> cars;
+                        List<VehicleDTO> cars;
                         for(Brand brand: selectedBrands){
                             log.info(brand);
-                            cars = (List<Car>) loadCSV("vehicles/" + brand.toString(), Car.class);
-                            cars = CarFilter.filterCarsByManufactureDate(cars, fromDateFilter, toDateFilter);
+                            cars = (List<VehicleDTO>) loadCSV("vehicles/" + brand.toString(), VehicleDTO.class, true);
+                            cars = VehicleFilter.filterCarsByManufactureDate(cars, fromDateFilter, toDateFilter);
                             if(cars != null && !cars.isEmpty()){
                                 brandVehicles.add(cars);
                             }

@@ -11,7 +11,7 @@ import org.jsefa.csv.annotation.CsvField;
 @Getter
 @Setter
 @CsvDataType()
-public class FamilyName {
+public class FamilyNameDTO {
     @CsvField(pos = 1)
     private String familyName;
 }

@@ -14,7 +14,7 @@ import java.time.YearMonth;
 @Getter
 @Setter
 @CsvDataType()
-public class Car {
+public class VehicleDTO {
     @CsvField(pos = 1)
     private String brandId;
     @CsvField(pos = 2)
