@@ -14,7 +14,7 @@ Create fake vehicle information containing: brand, family, model type energy...
 ## Example of use
 
 ```java
-    // import com.joaquinonsoft.mock4test.Person;
+    // import com.openmock.Person;
 
     //Instanciate a Person object using the default locale `es_ES`
     Person personES = new Person();
@@ -29,7 +29,7 @@ Create fake vehicle information containing: brand, family, model type energy...
 ```
 
 ```java
-    // import com.joaquinonsoft.mock4test.Person;
+    // import com.openmock.Person;
 
     //Instanciate a Person object using locale french/France `fr_FR`
     Person personFR = new Person(new Locale("fr", "FR"));
