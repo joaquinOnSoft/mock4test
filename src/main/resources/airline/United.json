@@ -1,0 +1,660 @@
+{
+  "name" : "United",
+  "code" : "UA",
+  "web" : "https://www.united.com",
+  "lounge" : "United Club",
+  "reservationsPhone" : "+1 800 864 8331",
+  "frequentFlyerProgram" : "MileagePlus",
+  "alliance" : "Star Alliance",
+  "magazine" : "Hemispheres",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 767-300ER (76A) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 138
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 46
+    }, {
+      "seatClass" : "Polaris",
+      "numSeats" : 30
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 767-300ER (76C) Layout 3",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 135
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 49
+    }, {
+      "seatClass" : "Polaris",
+      "numSeats" : 30
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 767-300ER (76L) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 99
+    }, {
+      "seatClass" : "Polaris",
+      "numSeats" : 46
+    }, {
+      "seatClass" : "Premium Plus",
+      "numSeats" : 22
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 767-400ER (764)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 133
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 70
+    }, {
+      "seatClass" : "Polaris",
+      "numSeats" : 39
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-200 (772) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 108
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 113
+    }, {
+      "seatClass" : "Polaris (frmly Business)",
+      "numSeats" : 40
+    }, {
+      "seatClass" : "Polaris (frmly First)",
+      "numSeats" : 8
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-200 (772) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 145
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 72
+    }, {
+      "seatClass" : "Polaris",
+      "numSeats" : 50
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-200 (772) Layout 3",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 234
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 102
+    }, {
+      "seatClass" : "Polaris",
+      "numSeats" : 28
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-200 (772) Layout 4",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 258
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 78
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 28
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-200 (772) Layout 5",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 156
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 46
+    }, {
+      "seatClass" : "Premium Plus",
+      "numSeats" : 24
+    }, {
+      "seatClass" : "United Polaris Business",
+      "numSeats" : 50
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-300ER (77W)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 204
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 62
+    }, {
+      "seatClass" : "Polaris",
+      "numSeats" : 60
+    }, {
+      "seatClass" : "Premium Plus",
+      "numSeats" : 24
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-10 (781)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 199
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 54
+    }, {
+      "seatClass" : "Polaris",
+      "numSeats" : 44
+    }, {
+      "seatClass" : "Premium Plus",
+      "numSeats" : 21
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-8 (788) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 113
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 70
+    }, {
+      "seatClass" : "Polaris",
+      "numSeats" : 36
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-8 (788) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 158
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 36
+    }, {
+      "seatClass" : "Polaris",
+      "numSeats" : 28
+    }, {
+      "seatClass" : "Premium Plus",
+      "numSeats" : 21
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-9 (789) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 116
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 88
+    }, {
+      "seatClass" : "Polaris",
+      "numSeats" : 48
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-9 (789) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 149
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 39
+    }, {
+      "seatClass" : "Polaris",
+      "numSeats" : 48
+    }, {
+      "seatClass" : "Premium Plus",
+      "numSeats" : 21
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A319 (319) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 78
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 42
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 8
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A319 (319) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 78
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 36
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 12
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 96
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 42
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 12
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737 MAX 9 (7M9)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 117
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 42
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 20
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-700 (737) Domestic Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 66
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 40
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 12
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-700 (737) Domestic Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 12
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 78
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 36
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-700 (737) Micronesia",
+    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 104
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 12
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 90
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 48
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 16
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 102
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 48
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 16
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738) Layout 3",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 96
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 54
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 16
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738) Layout 4",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 16
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 108
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 42
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-900 (739) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 96
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 51
+    }, {
+      "seatClass" : "First Class",
+      "numSeats" : 20
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-900 (739) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 117
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 42
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 20
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-900 (739) Layout 3",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 120
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 39
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 20
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 757-200 (752) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 108
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 45
+    }, {
+      "seatClass" : "Polaris",
+      "numSeats" : 16
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 757-200 (752) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 28
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 72
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 42
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 757-200 (752) Layout 3",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 118
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 42
+    }, {
+      "seatClass" : "Polaris",
+      "numSeats" : 16
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 757-300 (753)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 158
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 50
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 24
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer EMB 170 (E70)",
+    "amenities" : [ "FOOD", "INTERNET" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 48
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 16
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 6
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer EMB 175 (E75)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 48
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 16
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 12
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer ERJ-175 (E75) [SkyWest]",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 52
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 12
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 12
+    } ]
+  }, {
+    "type" : "REGIONAL_JETS",
+    "name" : "Bombardier CRJ-200 (CR2)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 46
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 4
+    } ]
+  }, {
+    "type" : "REGIONAL_JETS",
+    "name" : "Bombardier CRJ-550 (CRJ)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 20
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 20
+    }, {
+      "seatClass" : "United First",
+      "numSeats" : 10
+    } ]
+  }, {
+    "type" : "REGIONAL_JETS",
+    "name" : "Bombardier CRJ-700 (CR7)",
+    "amenities" : [ ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 48
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 16
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 6
+    } ]
+  }, {
+    "type" : "REGIONAL_JETS",
+    "name" : "Embraer ERJ-135 (ER3)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 31
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 6
+    } ]
+  }, {
+    "type" : "REGIONAL_JETS",
+    "name" : "Embraer ERJ-145 (ERJ)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 44
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 6
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "Bombardier Q200 (DH2)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 37
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "Bombardier Q300 (DH3)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 50
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "Bombardier Q400 (DH4) Layout 1",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 54
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 10
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 7
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "Bombardier Q400 (DH4) Layout 2",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 70
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 4
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "Embraer EMB-120 (EM2) Layout 1",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 30
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "Embraer EMB-120 (EM2) Layout 2",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 30
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "Saab 340B (SF3)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 34
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

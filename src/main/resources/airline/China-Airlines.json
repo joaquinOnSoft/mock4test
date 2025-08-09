@@ -1,0 +1,95 @@
+{
+  "name" : "China Airlines",
+  "code" : "CI",
+  "web" : "https://www.china-airlines.com/us/en",
+  "lounge" : "Dynasty Lounge",
+  "reservationsPhone" : "886-2-2545-5700",
+  "frequentFlyerProgram" : "Dynasty Flyer",
+  "alliance" : "SkyTeam",
+  "magazine" : "Dynasty",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-300 (333) Layout 1",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 36
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 277
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-300 (333) Layout 2",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 30
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 277
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A350-900 (359)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 243
+    }, {
+      "seatClass" : "Premium Business",
+      "numSeats" : 32
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 31
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 747-400 (744) V2",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 49
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 314
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 12
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-300ER (77W)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 40
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 256
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 62
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 150
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer E-190",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 104
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

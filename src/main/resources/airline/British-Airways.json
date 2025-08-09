@@ -1,0 +1,375 @@
+{
+  "name" : "British Airways",
+  "code" : "BA",
+  "web" : "https://www.britishairways.com",
+  "lounge" : "First, Galleries, Terraces and Executive Club lounges",
+  "reservationsPhone" : "1-800-955-2748",
+  "frequentFlyerProgram" : "Executive Club",
+  "alliance" : "oneworld",
+  "magazine" : "High Life and Business Life",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A350-1000 (351)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Club World",
+      "numSeats" : 56
+    }, {
+      "seatClass" : "World Traveller",
+      "numSeats" : 219
+    }, {
+      "seatClass" : "World Traveller Plus",
+      "numSeats" : 56
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A380-800 (388)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Club World",
+      "numSeats" : 97
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 14
+    }, {
+      "seatClass" : "World Traveller",
+      "numSeats" : 303
+    }, {
+      "seatClass" : "World Traveller Plus",
+      "numSeats" : 55
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 747-400 (744) Layout 1",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Club World",
+      "numSeats" : 52
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 14
+    }, {
+      "seatClass" : "World Traveller",
+      "numSeats" : 243
+    }, {
+      "seatClass" : "World Traveller Plus",
+      "numSeats" : 36
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 747-400 (744) Layout 2",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Club World",
+      "numSeats" : 86
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 14
+    }, {
+      "seatClass" : "World Traveller",
+      "numSeats" : 145
+    }, {
+      "seatClass" : "World Traveller Plus",
+      "numSeats" : 30
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-200 (772) Four Class",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Club World",
+      "numSeats" : 48
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 14
+    }, {
+      "seatClass" : "World Traveller",
+      "numSeats" : 122
+    }, {
+      "seatClass" : "World Traveller Plus",
+      "numSeats" : 40
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-200 (772) Gatwick Three Class",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Club World",
+      "numSeats" : 32
+    }, {
+      "seatClass" : "World Traveller",
+      "numSeats" : 252
+    }, {
+      "seatClass" : "World Traveller Plus",
+      "numSeats" : 48
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-200 (772) Three Class Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Club World",
+      "numSeats" : 48
+    }, {
+      "seatClass" : "World Traveller",
+      "numSeats" : 203
+    }, {
+      "seatClass" : "World Traveller Plus",
+      "numSeats" : 24
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-200 (772) Three Class Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Club World",
+      "numSeats" : 40
+    }, {
+      "seatClass" : "World Traveller",
+      "numSeats" : 219
+    }, {
+      "seatClass" : "World Traveller Plus",
+      "numSeats" : 24
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-200 (772) Three Class Layout 3",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Club World",
+      "numSeats" : 32
+    }, {
+      "seatClass" : "World Traveller",
+      "numSeats" : 252
+    }, {
+      "seatClass" : "World Traveller Plus",
+      "numSeats" : 52
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-300 (773)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Club World",
+      "numSeats" : 56
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 14
+    }, {
+      "seatClass" : "World Traveller",
+      "numSeats" : 185
+    }, {
+      "seatClass" : "World Traveller Plus",
+      "numSeats" : 44
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-10 (781)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Club World",
+      "numSeats" : 48
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "World Traveller",
+      "numSeats" : 165
+    }, {
+      "seatClass" : "World Traveller Plus",
+      "numSeats" : 35
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-8 (788)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Club World",
+      "numSeats" : 35
+    }, {
+      "seatClass" : "World Traveller",
+      "numSeats" : 154
+    }, {
+      "seatClass" : "World Traveller Plus",
+      "numSeats" : 25
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-9 (789)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Club World",
+      "numSeats" : 42
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "World Traveller",
+      "numSeats" : 127
+    }, {
+      "seatClass" : "World Traveller Plus",
+      "numSeats" : 39
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A318 (318)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Club World London City",
+      "numSeats" : 32
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A319 (319) Domestic Layout 1",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "UK Domestic",
+      "numSeats" : 143
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A319 (319) Domestic Layout 2",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "UK Domestic",
+      "numSeats" : 132
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A319 (319) Domestic Layout 3",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "UK Domestic",
+      "numSeats" : 144
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A319 (319) European",
+    "amenities" : [ "FOOD", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Club Europe",
+      "numSeats" : 40
+    }, {
+      "seatClass" : "Euro Traveller",
+      "numSeats" : 83
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) Domestic Layout 1",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "UK Domestic",
+      "numSeats" : 168
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) Domestic Layout 2",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "UK Domestic",
+      "numSeats" : 171
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) European",
+    "amenities" : [ "FOOD", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Club Europe",
+      "numSeats" : 48
+    }, {
+      "seatClass" : "Euro Traveller",
+      "numSeats" : 96
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321 (321) Domestic",
+    "amenities" : [ "FOOD", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "UK Domestic",
+      "numSeats" : 205
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321 (321) European",
+    "amenities" : [ "FOOD", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Club Europe",
+      "numSeats" : 54
+    }, {
+      "seatClass" : "Euro Traveller",
+      "numSeats" : 123
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321 (321) International",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Club World",
+      "numSeats" : 23
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 131
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321neo (321) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Club Europe",
+      "numSeats" : 20
+    }, {
+      "seatClass" : "Euro Traveller",
+      "numSeats" : 188
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321neo (321) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Club Europe",
+      "numSeats" : 20
+    }, {
+      "seatClass" : "Euro Traveller",
+      "numSeats" : 190
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer E-170 European",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Club Europe",
+      "numSeats" : 52
+    }, {
+      "seatClass" : "Euro Traveller",
+      "numSeats" : 24
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer E-170 UK Domestic",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "UK Domestic",
+      "numSeats" : 76
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer E-190 European",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Club Europe",
+      "numSeats" : 38
+    }, {
+      "seatClass" : "Euro Traveller",
+      "numSeats" : 60
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer E-190 UK Domestic",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "UK Domestic",
+      "numSeats" : 98
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

@@ -1,0 +1,63 @@
+{
+  "name" : "UTair Aviation",
+  "code" : "UT",
+  "web" : "https://www.utair.ru/en",
+  "lounge" : "N/A",
+  "reservationsPhone" : "+7 8 809 505 33 77",
+  "frequentFlyerProgram" : "Utair STATUS",
+  "alliance" : "N/A",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 767-200ER (762)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 249
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-400 (734)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 159
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-500 (735)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 126
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738) V1",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 12
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 147
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738) V2",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 186
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "ATR 72-500 (AT7)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 70
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

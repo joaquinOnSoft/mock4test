@@ -1,0 +1,114 @@
+{
+  "name" : "South African Airways",
+  "code" : "SA",
+  "web" : "https://www.flysaa.com",
+  "lounge" : "Cycad and Baobab Lounges",
+  "reservationsPhone" : "1-800-722-9675",
+  "frequentFlyerProgram" : "Voyager",
+  "alliance" : "Star Alliance",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-200 (332)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 36
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 186
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-300 (333)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 46
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 203
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A340-300 (343) Layout 1",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 38
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 215
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A340-300 (343) Layout 2",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 36
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 215
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A340-600 (346)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 42
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 275
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A350-900 (359) Layout 1",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 28
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 298
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A350-900 (359) Layout 2",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 30
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 246
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 63
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A319 (319)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 25
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 95
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 24
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 114
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

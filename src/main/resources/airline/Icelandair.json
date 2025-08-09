@@ -1,0 +1,67 @@
+{
+  "name" : "Icelandair",
+  "code" : "FI",
+  "web" : "https://www.icelandair.com/",
+  "lounge" : "Saga Lounge",
+  "reservationsPhone" : "1-800-223-5500 ext. 1",
+  "frequentFlyerProgram" : "Saga Club",
+  "alliance" : "N/A",
+  "magazine" : "Icelandair Info",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 767-300ER (76W)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 234
+    }, {
+      "seatClass" : "Saga",
+      "numSeats" : 25
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737 MAX 8 (7M8)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 144
+    }, {
+      "seatClass" : "Saga",
+      "numSeats" : 16
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 757-200 (752) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 161
+    }, {
+      "seatClass" : "Saga",
+      "numSeats" : 22
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 757-200 (752) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 151
+    }, {
+      "seatClass" : "Saga",
+      "numSeats" : 20
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 757-300 (753)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 194
+    }, {
+      "seatClass" : "Saga",
+      "numSeats" : 22
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

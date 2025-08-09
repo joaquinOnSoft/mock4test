@@ -1,0 +1,37 @@
+{
+  "name" : "Air Belgium",
+  "code" : "KF",
+  "web" : "http://www.airbelgium.com/en",
+  "lounge" : "Air Belgium Lounge",
+  "reservationsPhone" : "",
+  "frequentFlyerProgram" : "N/A",
+  "alliance" : "N/A",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A340-300 (343) Layout 1",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 45
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 212
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A340-300 (343) Layout 2",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 32
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 212
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 21
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

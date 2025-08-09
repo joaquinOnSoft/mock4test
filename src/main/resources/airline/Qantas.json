@@ -1,0 +1,180 @@
+{
+  "name" : "Qantas",
+  "code" : "QF",
+  "web" : "https://www.qantas.com",
+  "lounge" : "Qantas Club",
+  "reservationsPhone" : "0477 726 827",
+  "frequentFlyerProgram" : "Qantas Frequent Flyer",
+  "alliance" : "oneworld",
+  "magazine" : "Qantas Magazine",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-200 (332) International",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 36
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 199
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-200 (332) Layout 1 (Domestic/Intl)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 28
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 243
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-200 (332) Layout 2 (Domestic/Intl)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 27
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 224
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-300 (333)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 28
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 269
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A380-800 (388) Layout 1",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 64
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 371
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 14
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 35
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A380-800 (388) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 70
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 341
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 14
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 60
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 747-400 (744)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 58
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 270
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 36
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-9 (789)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 42
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 166
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 28
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 717-200 (717)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 125
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 717-200 (717) Two Class",
+    "amenities" : [ "FOOD", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 12
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 98
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 12
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 162
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "QantasLink - Airbus A320 (320)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 180
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "Bombardier Q400 (DH4)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 74
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "de Havilland Dash 8-200 (DH2)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 36
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "de Havilland Dash 8-300 (DH3)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 50
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

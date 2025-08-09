@@ -1,0 +1,86 @@
+{
+  "name" : "Air Mauritius",
+  "code" : "MK",
+  "web" : "https://www.airmauritius.com/",
+  "lounge" : "Hong Kong International Airport Plaza Premium Lounge",
+  "reservationsPhone" : "+230 207 7070",
+  "frequentFlyerProgram" : "Kestrelflyer Program",
+  "alliance" : "N/A",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-200 (332)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 18
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 255
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330neo (339)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 28
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 260
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A340-300 (343) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 34
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 268
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A340-300 (343) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 34
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 266
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A350-900 (359)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 28
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 298
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A319 (319)",
+    "amenities" : [ "FOOD", "INTERNET", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 16
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 108
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "ATR 72-500 (AT7)",
+    "amenities" : [ "FOOD", "INTERNET", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 72
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

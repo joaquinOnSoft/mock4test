@@ -1,0 +1,171 @@
+{
+  "name" : "Cathay Pacific",
+  "code" : "CX",
+  "web" : "https://www.cathaypacific.com/cx/en_US.html",
+  "lounge" : "Cathay Pacific Lounges",
+  "reservationsPhone" : "1-877-609-2233",
+  "frequentFlyerProgram" : "Asia Miles Credit Card",
+  "alliance" : "oneworld",
+  "magazine" : "Discovery",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-300 (33E) Two Class Layout 1",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 39
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 223
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-300 (33K) Three Class",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 39
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 191
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 21
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-300 (33P) Two Class Layout 2",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 24
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 293
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A350-1000 (351)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 46
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 256
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 32
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A350-900 (35G)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 38
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 214
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 28
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-200 (772) New Regional",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 42
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 293
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-300 (73Z) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 42
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 356
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-300ER (73Z) Layout 6",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 42
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 356
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-300ER (77A) Layout 4",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 53
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 168
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 39
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 34
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-300ER (77G) Layout 3",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 40
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 268
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 32
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-300ER (77H) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 53
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 182
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 6
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 34
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-300ER (77K) Layout 5",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 39
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 297
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 32
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

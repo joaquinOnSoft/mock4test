@@ -1,0 +1,123 @@
+{
+  "name" : "EVA Air",
+  "code" : "BR",
+  "web" : "https://www.evaair.com/en-us/",
+  "lounge" : "Evergreen Lounge",
+  "reservationsPhone" : "+886-3-3516431",
+  "frequentFlyerProgram" : "Infinity MileageLands",
+  "alliance" : "Star Alliance",
+  "magazine" : "Verve",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-200 (332)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 228
+    }, {
+      "seatClass" : "Premium Laurel",
+      "numSeats" : 24
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-300 (333)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 279
+    }, {
+      "seatClass" : "Premium Laurel",
+      "numSeats" : 30
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-300ER (77A/77W) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 238
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 56
+    }, {
+      "seatClass" : "Royal Laurel",
+      "numSeats" : 39
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-300ER (77B) Layout 4",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 258
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 56
+    }, {
+      "seatClass" : "Royal Laurel",
+      "numSeats" : 39
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-300ER (77M) Layout 3",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 221
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 64
+    }, {
+      "seatClass" : "Royal Laurel",
+      "numSeats" : 38
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-300ER (77N/77W) Layout 1",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 211
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 64
+    }, {
+      "seatClass" : "Royal Laurel",
+      "numSeats" : 38
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-10 (781)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 308
+    }, {
+      "seatClass" : "Royal Laurel",
+      "numSeats" : 34
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-9 (789)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 278
+    }, {
+      "seatClass" : "Royal Laurel",
+      "numSeats" : 26
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321 (321)",
+    "amenities" : [ "FOOD", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 176
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

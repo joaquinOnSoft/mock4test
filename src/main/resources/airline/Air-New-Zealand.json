@@ -1,0 +1,116 @@
+{
+  "name" : "Air New Zealand",
+  "code" : "NZ",
+  "web" : "https://www.airnewzealand.com",
+  "lounge" : "Koru Club",
+  "reservationsPhone" : "1-800-262-1234",
+  "frequentFlyerProgram" : "Airpoints",
+  "alliance" : "Star Alliance",
+  "magazine" : "Kia Ora",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-200ER (772)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business Premier",
+      "numSeats" : 26
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 246
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 40
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-300 (773)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business Premier",
+      "numSeats" : 44
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 244
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 54
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-9 (789) Layout 1",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business Premiere",
+      "numSeats" : 18
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 263
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 21
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-9 (789) Layout 2",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business Premiere",
+      "numSeats" : 27
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 215
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 33
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) Domestic",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 171
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) International",
+    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 168
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320neo (320)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 165
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321neo (321)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 214
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "ATR 72-500",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 68
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "Bombardier Q300",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 50
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

@@ -1,0 +1,20 @@
+{
+  "name" : "Peach",
+  "code" : "MM",
+  "web" : "https://www.flypeach.com/pc/en",
+  "lounge" : "N/A",
+  "reservationsPhone" : "03-4580-8181",
+  "frequentFlyerProgram" : "N/A",
+  "alliance" : "N/A",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 180
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

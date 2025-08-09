@@ -1,0 +1,23 @@
+{
+  "name" : "Porter",
+  "code" : "PD",
+  "web" : "https://www.flyporter.com",
+  "lounge" : "Porter Passenger Lounge at Toronto City Centre Airport and Ottawa International Airport",
+  "reservationsPhone" : "416-619-8622",
+  "frequentFlyerProgram" : "VIPorter",
+  "alliance" : "N/A",
+  "magazine" : "Re:porter",
+  "aircrafts" : [ {
+    "type" : "TURBOPROPS",
+    "name" : "Bombardier Q400 (DH4)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 68
+    }, {
+      "seatClass" : "Premium",
+      "numSeats" : 6
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

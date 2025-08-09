@@ -1,0 +1,145 @@
+{
+  "name" : "Etihad",
+  "code" : "EY",
+  "web" : "https://www.etihad.com/en-us/",
+  "lounge" : "Diamond, Pearl and Worldwide Lounges",
+  "reservationsPhone" : "800-2277",
+  "frequentFlyerProgram" : "Etihad Guest",
+  "alliance" : "N/A",
+  "magazine" : "Etihad Inflight",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-200",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 22
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 240
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-300 (333)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 32
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 191
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 8
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A380-800 (388)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 70
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 415
+    }, {
+      "seatClass" : "First Class",
+      "numSeats" : 9
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-300ER (77W) Three Class",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 40
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 282
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 8
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-300ER (77W) Two Class Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 28
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 374
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-300ER (77W) Two Class Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 40
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 330
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-10 (781)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 32
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 267
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-9 (789) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 28
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 195
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 8
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-9 (789) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 28
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 271
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320)",
+    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 16
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 120
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321 (321)",
+    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 16
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 158
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

@@ -1,0 +1,61 @@
+{
+  "name" : "Nordwind Airlines",
+  "code" : "N4",
+  "web" : "https://nordwindairlines.ru",
+  "lounge" : "N/A",
+  "reservationsPhone" : "+7 (495) 730-43-30",
+  "frequentFlyerProgram" : "N/A",
+  "alliance" : "N/A",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-200 (332)",
+    "amenities" : [ "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 24
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 255
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-200ER (772)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 6
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 387
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321 (321)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 220
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 189
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 767-300ER (763)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 12
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 278
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

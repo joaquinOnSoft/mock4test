@@ -1,0 +1,117 @@
+{
+  "name" : "Alitalia",
+  "code" : "AZ",
+  "web" : "https://www.alitalia.com",
+  "lounge" : "Freccia Alata",
+  "reservationsPhone" : "1-800-223-5730",
+  "frequentFlyerProgram" : "Club MilleMiglia",
+  "alliance" : "SkyTeam",
+  "magazine" : "Ulisse",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-200 (332)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 20
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 219
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 17
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-200ER (772)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 30
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 239
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 24
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A319 (319) One Class",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 101
+    }, {
+      "seatClass" : "Economy Comfort",
+      "numSeats" : 37
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) Layout 1",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 128
+    }, {
+      "seatClass" : "Economy Comfort",
+      "numSeats" : 37
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) Layout 2",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 34
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 114
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321 (321) Layout 1",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 163
+    }, {
+      "seatClass" : "Economy Comfort",
+      "numSeats" : 37
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321 (321) Layout 2",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 28
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 158
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer E-175",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 71
+    }, {
+      "seatClass" : "Economy Comfort",
+      "numSeats" : 17
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer E-190",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 83
+    }, {
+      "seatClass" : "Economy Comfort",
+      "numSeats" : 17
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

@@ -1,0 +1,31 @@
+{
+  "name" : "Air Malta",
+  "code" : "KM",
+  "web" : "https://www.airmalta.com/?cjevent=a493294ea49711e983ad00440a240613",
+  "lounge" : "La Valette",
+  "reservationsPhone" : "",
+  "frequentFlyerProgram" : "Flypass / KMiles",
+  "alliance" : "N/A",
+  "magazine" : "Sky Life",
+  "aircrafts" : [ {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) Layout 1",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 12
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 138
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) Layout 2",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 144
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

@@ -1,0 +1,45 @@
+{
+  "name" : "Kenya Airways",
+  "code" : "KQ",
+  "web" : "https://www.kenya-airways.com/",
+  "lounge" : "Simba Premier World Lounge",
+  "reservationsPhone" : "+254 20 327 4747",
+  "frequentFlyerProgram" : "Flying Blue",
+  "alliance" : "SkyTeam",
+  "magazine" : "Msafiri Magazine",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-8 (788)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 204
+    }, {
+      "seatClass" : "Premier World",
+      "numSeats" : 30
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738)",
+    "amenities" : [ "FOOD", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 129
+    }, {
+      "seatClass" : "Premier World",
+      "numSeats" : 16
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer E-190",
+    "amenities" : [ "FOOD", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 84
+    }, {
+      "seatClass" : "Premier World",
+      "numSeats" : 12
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

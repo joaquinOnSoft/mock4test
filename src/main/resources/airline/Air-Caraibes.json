@@ -1,0 +1,103 @@
+{
+  "name" : "Air Caraibes",
+  "code" : "TX",
+  "web" : "https://www.aircaraibes.com/",
+  "lounge" : "Salon Lounge",
+  "reservationsPhone" : "+33 0820 835 835",
+  "frequentFlyerProgram" : "N/A",
+  "alliance" : "N/A",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-200 (332) Layout 1",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Classe Caraibes",
+      "numSeats" : 24
+    }, {
+      "seatClass" : "Classe Madras",
+      "numSeats" : 12
+    }, {
+      "seatClass" : "Classe Soleil",
+      "numSeats" : 267
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-200 (332) Layout 2",
+    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Classe Soleil",
+      "numSeats" : 318
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-300 (333) Layout 1",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Classe Caraibes",
+      "numSeats" : 35
+    }, {
+      "seatClass" : "Classe Madras",
+      "numSeats" : 12
+    }, {
+      "seatClass" : "Classe Soleil",
+      "numSeats" : 307
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-300 (333) Layout 2",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Classe Caraibes",
+      "numSeats" : 28
+    }, {
+      "seatClass" : "Classe Soleil",
+      "numSeats" : 350
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A350-1000 (351)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Classe Caraibes",
+      "numSeats" : 45
+    }, {
+      "seatClass" : "Classe Madras",
+      "numSeats" : 24
+    }, {
+      "seatClass" : "Classe Soleil",
+      "numSeats" : 360
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A350-900 (359)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Classe Caraibes",
+      "numSeats" : 45
+    }, {
+      "seatClass" : "Classe Madras",
+      "numSeats" : 18
+    }, {
+      "seatClass" : "Classe Soleil",
+      "numSeats" : 326
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "ATR 72-500 (ATR)",
+    "amenities" : [ ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 70
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "ATR 72-600 (ATR)",
+    "amenities" : [ ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 74
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

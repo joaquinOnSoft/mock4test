@@ -1,0 +1,314 @@
+{
+  "name" : "Lufthansa",
+  "code" : "LH",
+  "web" : "https://www.lufthansa.com/us/en/homepage",
+  "lounge" : "Lufthansa Lounges",
+  "reservationsPhone" : "01805-59-59",
+  "frequentFlyerProgram" : "Miles & More",
+  "alliance" : "Star Alliance",
+  "magazine" : "Lufthansa Magazin",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-300 (333) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 30
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 177
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 21
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-300 (333) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 42
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 145
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 21
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-300 (333) Layout 3",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 42
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 185
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 28
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A340-300 (343) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 30
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 221
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 28
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A340-300 (343) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 42
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 181
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 28
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A340-300 (343) Layout 3",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 18
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 261
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 19
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A340-600 (346) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 44
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 213
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 32
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A340-600 (346) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 56
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 189
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 28
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A350-900 (359) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 48
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 224
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 21
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A350-900 (359) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 36
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 262
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 21
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A380-800 (388)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 78
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 371
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 52
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 747-400 (744) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 53
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 308
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 32
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 747-400 (744) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 67
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 272
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 32
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 747-8 (748)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 80
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 244
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 32
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A319 (319)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 24
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 102
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) Layout 1",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 28
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 126
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) Layout 2",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 28
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 138
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321 (321)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 26
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 166
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321neo (321)",
+    "amenities" : [ "FOOD", "INTERNET" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 32
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 167
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer E-190",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 92
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer E-195",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 104
+    } ]
+  }, {
+    "type" : "REGIONAL_JETS",
+    "name" : "Bombardier CRJ-900",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 11
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 68
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

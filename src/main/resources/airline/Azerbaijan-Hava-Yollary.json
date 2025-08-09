@@ -1,0 +1,89 @@
+{
+  "name" : "Azerbaijan Hava Yollary",
+  "code" : "J2",
+  "web" : "https://www.azal.az/",
+  "lounge" : "N/A",
+  "reservationsPhone" : "+ 994 (12) 598-88-80",
+  "frequentFlyerProgram" : "AZAL Miles",
+  "alliance" : "N/A",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A340-500 (345)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 36
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 201
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 767-300ER (76W)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 21
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 165
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-8 Dreamliner (788)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 18
+    }, {
+      "seatClass" : "Comfort Club",
+      "numSeats" : 35
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 159
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A319 (319)",
+    "amenities" : [ "FOOD", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 108
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320)",
+    "amenities" : [ "FOOD", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 20
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 126
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 757-200 (752)",
+    "amenities" : [ "FOOD", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 22
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 158
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer E-190 (E90)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 106
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

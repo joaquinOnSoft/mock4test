@@ -1,0 +1,55 @@
+{
+  "name" : "Jetstar",
+  "code" : "JQ",
+  "web" : "https://www.jetstar.com/",
+  "lounge" : "Qantas Lounge",
+  "reservationsPhone" : "131-538 (+61 3 9092 6500)",
+  "frequentFlyerProgram" : "Qantas Frequent Flyer",
+  "alliance" : "N/A",
+  "magazine" : "Jetstar Magazine",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-8 (788)",
+    "amenities" : [ "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 21
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 314
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) Layout 1",
+    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 180
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) Layout 2",
+    "amenities" : [ "FOOD", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 186
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321 (321) Layout 1",
+    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 220
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321 (321) Layout 2",
+    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 230
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

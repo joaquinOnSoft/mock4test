@@ -1,0 +1,28 @@
+{
+  "name" : "Transavia Airlines",
+  "code" : "HV",
+  "web" : "https://www.transavia.com/",
+  "lounge" : "N/A",
+  "reservationsPhone" : "+33 08 92 05 88 88",
+  "frequentFlyerProgram" : "Flying Blue",
+  "alliance" : "N/A",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-700 (73G)",
+    "amenities" : [ "FOOD", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 149
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738)",
+    "amenities" : [ "FOOD", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 189
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

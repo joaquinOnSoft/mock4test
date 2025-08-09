@@ -1,0 +1,51 @@
+{
+  "name" : "TAAG",
+  "code" : "DT",
+  "web" : "http://www.taag.com/en/",
+  "lounge" : "N/A",
+  "reservationsPhone" : "+244 9231 90 000",
+  "frequentFlyerProgram" : "UMBI UMBI",
+  "alliance" : "N/A",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-200ER (772)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 51
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 190
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 14
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-300ER (77W)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 56
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 224
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 12
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-700 (73G)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 12
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 138
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

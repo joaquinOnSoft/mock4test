@@ -1,0 +1,84 @@
+{
+  "name" : "JetBlue",
+  "code" : "B6",
+  "web" : "https://www.jetblue.com/",
+  "lounge" : "N/A",
+  "reservationsPhone" : "1-800-JETBLUE",
+  "frequentFlyerProgram" : "JetBlue TrueBlue",
+  "alliance" : "N/A",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Core",
+      "numSeats" : 108
+    }, {
+      "seatClass" : "Even More Space",
+      "numSeats" : 42
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (32M) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Core",
+      "numSeats" : 120
+    }, {
+      "seatClass" : "Even More Space",
+      "numSeats" : 42
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321 (321) Non-Mint",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Core",
+      "numSeats" : 158
+    }, {
+      "seatClass" : "Even More Space",
+      "numSeats" : 42
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321 (32S) Mint",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 12
+    }, {
+      "seatClass" : "Business (Suite)",
+      "numSeats" : 4
+    }, {
+      "seatClass" : "Core",
+      "numSeats" : 102
+    }, {
+      "seatClass" : "Even More Space",
+      "numSeats" : 41
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321neo (3N1)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Core",
+      "numSeats" : 158
+    }, {
+      "seatClass" : "Even More Space",
+      "numSeats" : 42
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer E-190 (E90)",
+    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Core",
+      "numSeats" : 84
+    }, {
+      "seatClass" : "Even More Space",
+      "numSeats" : 16
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

@@ -1,0 +1,56 @@
+{
+  "name" : "Aircalin",
+  "code" : "SB",
+  "web" : "https://us.aircalin.com/en",
+  "lounge" : "Hibiscus Lounge",
+  "reservationsPhone" : "",
+  "frequentFlyerProgram" : "Flying Blue",
+  "alliance" : "N/A",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-200 (332)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 242
+    }, {
+      "seatClass" : "Hibiscus",
+      "numSeats" : 24
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-900neo (339)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 244
+    }, {
+      "seatClass" : "Hibiscus",
+      "numSeats" : 26
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 21
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320-200 (320)",
+    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 138
+    }, {
+      "seatClass" : "Hibiscus",
+      "numSeats" : 8
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "Twin Otter DHC6",
+    "amenities" : [ ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 16
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

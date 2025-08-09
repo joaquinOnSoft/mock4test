@@ -1,0 +1,28 @@
+{
+  "name" : "Sunwing",
+  "code" : "WG",
+  "web" : "https://www.sunwing.ca/",
+  "lounge" : "Plaza Premium Lounge",
+  "reservationsPhone" : "1 (888) 307-2523",
+  "frequentFlyerProgram" : "",
+  "alliance" : "N/A",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737 MAX 8 (7M8)",
+    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 189
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738)",
+    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 189
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

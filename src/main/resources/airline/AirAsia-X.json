@@ -1,0 +1,23 @@
+{
+  "name" : "AirAsia X",
+  "code" : "D7",
+  "web" : "https://www.airasia.com/booking/home/en/gb",
+  "lounge" : "N/A",
+  "reservationsPhone" : "+61 2 8188 2133",
+  "frequentFlyerProgram" : "AirAsia Big Loyalty",
+  "alliance" : "N/A",
+  "magazine" : "Travel 3 Sixty",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-300 (333)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 12
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 365
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

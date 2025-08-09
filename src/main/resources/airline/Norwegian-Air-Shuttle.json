@@ -1,0 +1,28 @@
+{
+  "name" : "Norwegian Air Shuttle",
+  "code" : "DY",
+  "web" : "https://www.norwegian.com/us/",
+  "lounge" : "N/A",
+  "reservationsPhone" : "+44 (0)208 099 7254",
+  "frequentFlyerProgram" : "Norweigan Reward",
+  "alliance" : "N/A",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737 MAX 8 (7M8)",
+    "amenities" : [ "FOOD", "INTERNET" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 189
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738)",
+    "amenities" : [ "FOOD", "INTERNET", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 186
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

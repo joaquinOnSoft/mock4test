@@ -10,6 +10,19 @@ repositories {
 }
 
 dependencies {
+    // Jackson Databind » 2.19.1
+    //
+    // General data-binding functionality for Jackson: works on core streaming API
+    // https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind
+    implementation("com.fasterxml.jackson.core:jackson-databind:2.19.1")
+
+    // Jackson Dataformat XML
+    //
+    // Data format extension for Jackson to offer alternative support for serializing POJOs as XML and d
+    // https://mvnrepository.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformat-xml
+    implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.19.1")
+
+
     //OpenCSV » 5.11
     //
     //A simple library for reading and writing CSV in Java

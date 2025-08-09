@@ -1,0 +1,45 @@
+{
+  "name" : "Bamboo Airways",
+  "code" : "QH",
+  "web" : "https://www.bambooairways.com/en/",
+  "lounge" : "N/A",
+  "reservationsPhone" : "024 32333233",
+  "frequentFlyerProgram" : "Bamboo Club",
+  "alliance" : "N/A",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A319-100 (319)",
+    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 120
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320-200 (320)",
+    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 162
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321neo (321)",
+    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 188
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

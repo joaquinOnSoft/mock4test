@@ -1,0 +1,64 @@
+{
+  "name" : "Spirit",
+  "code" : "NK",
+  "web" : "https://www.spirit.com",
+  "lounge" : "N/A",
+  "reservationsPhone" : "1-801-401-2222",
+  "frequentFlyerProgram" : "Free Spirit",
+  "alliance" : "N/A",
+  "magazine" : "Skylights",
+  "aircrafts" : [ {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A319-100 (319)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Big Front",
+      "numSeats" : 10
+    }, {
+      "seatClass" : "Deluxe Leather",
+      "numSeats" : 135
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320-200 (320) Layout 1",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Big Front",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "Deluxe Leather",
+      "numSeats" : 174
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320-200 (320) Layout 2",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 174
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320neo (320)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Big Front",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "Deluxe Leather",
+      "numSeats" : 174
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321-200 (321)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Big Front",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "Deluxe Leather",
+      "numSeats" : 220
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

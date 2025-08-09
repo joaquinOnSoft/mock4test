@@ -1,0 +1,36 @@
+{
+  "name" : "Southwest",
+  "code" : "WN",
+  "web" : "https://www.southwest.com",
+  "lounge" : "N/A",
+  "reservationsPhone" : "1-800-IFLYSWA",
+  "frequentFlyerProgram" : "Miles Credit Card",
+  "alliance" : "N/A",
+  "magazine" : "Spirit",
+  "aircrafts" : [ {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737 MAX 8 (7M8)",
+    "amenities" : [ "FOOD", "INTERNET" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 175
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-700 (737)",
+    "amenities" : [ "FOOD", "INTERNET" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 143
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738)",
+    "amenities" : [ "FOOD", "INTERNET" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 175
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

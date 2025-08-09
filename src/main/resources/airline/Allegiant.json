@@ -1,0 +1,34 @@
+{
+  "name" : "Allegiant",
+  "code" : "G4",
+  "web" : "https://www.allegiantair.com/",
+  "lounge" : "None",
+  "reservationsPhone" : "1-866-719-3910",
+  "frequentFlyerProgram" : "None",
+  "alliance" : "N/A",
+  "magazine" : "Sunseeker",
+  "aircrafts" : [ {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A319 (319)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Coach",
+      "numSeats" : 138
+    }, {
+      "seatClass" : "Legroom +",
+      "numSeats" : 18
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Coach",
+      "numSeats" : 159
+    }, {
+      "seatClass" : "Legroom +",
+      "numSeats" : 18
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

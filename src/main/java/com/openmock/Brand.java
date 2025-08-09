@@ -1,5 +1,6 @@
 package com.openmock;
 
+/// Most popular vehicle brands
 public enum Brand {
     ABARTH("ABARTH"),
     AIWAYS("AIWAYS"),

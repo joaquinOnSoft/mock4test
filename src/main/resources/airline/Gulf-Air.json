@@ -1,0 +1,56 @@
+{
+  "name" : "Gulf Air",
+  "code" : "GF",
+  "web" : "https://www.gulfair.com/",
+  "lounge" : "Falcon Gold Lounge",
+  "reservationsPhone" : "+973 1737 3737",
+  "frequentFlyerProgram" : "Falconflyer",
+  "alliance" : "N/A",
+  "magazine" : "Gulf Life",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-9 (789)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 256
+    }, {
+      "seatClass" : "Falcon Gold",
+      "numSeats" : 26
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) Layout 1",
+    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 120
+    }, {
+      "seatClass" : "Falcon Gold",
+      "numSeats" : 16
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320ER (320) Layout 2",
+    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 96
+    }, {
+      "seatClass" : "Falcon Gold",
+      "numSeats" : 14
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321ER (321)",
+    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 161
+    }, {
+      "seatClass" : "Falcon Gold",
+      "numSeats" : 8
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

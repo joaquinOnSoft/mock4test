@@ -1,0 +1,28 @@
+{
+  "name" : "Air Corsica",
+  "code" : "XK",
+  "web" : "https://www.aircorsica.com/",
+  "lounge" : "N/A",
+  "reservationsPhone" : "0 825 35 35 35",
+  "frequentFlyerProgram" : "Flying Blue",
+  "alliance" : "N/A",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320-200 (320)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 180
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "ATR 72-500 (AT7)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 70
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

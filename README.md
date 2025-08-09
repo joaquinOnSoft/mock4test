@@ -4,6 +4,7 @@
 
 ## Classes
 
+ - [Element](doc/Element.md)
  - [Person](doc/Person.md)
  - [Vehicle](doc/Vehicle.md)
 

@@ -1,0 +1,106 @@
+{
+  "name" : "Vietnam Airlines",
+  "code" : "VN",
+  "web" : "https://www.vietnamairlines.com",
+  "lounge" : "N/A",
+  "reservationsPhone" : "+61 1 300 888 028",
+  "frequentFlyerProgram" : "Lotus Miles",
+  "alliance" : "SkyTeam",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A350-900 (350) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 29
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 231
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 45
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A350-900 (350) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 29
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 240
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 36
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-9 (789) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 28
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 211
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 35
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-9 (789) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 28
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 283
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321-200 (321) Layout 1",
+    "amenities" : [ "FOOD", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 16
+    }, {
+      "seatClass" : "Eonomy",
+      "numSeats" : 162
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321-200 (321) Layout 2",
+    "amenities" : [ "FOOD", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 16
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 168
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321-200 (321) Layout 3",
+    "amenities" : [ "FOOD", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 196
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "ATR 72-500 (AT7)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 66
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

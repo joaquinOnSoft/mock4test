@@ -1,0 +1,23 @@
+{
+  "name" : "Norwegian Air UK",
+  "code" : "DI",
+  "web" : "https://www.norwegian.com/uk/",
+  "lounge" : "Norwegian Air's Lounges Worldwide",
+  "reservationsPhone" : "+47 21 51 81 71.",
+  "frequentFlyerProgram" : "N/A",
+  "alliance" : "N/A",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-9",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 282
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 56
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

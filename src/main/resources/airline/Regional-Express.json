@@ -1,0 +1,20 @@
+{
+  "name" : "Regional Express",
+  "code" : "ZL",
+  "web" : "http://www.rex.com.au/",
+  "lounge" : "REX Lounge",
+  "reservationsPhone" : "+61 2 6393 5550",
+  "frequentFlyerProgram" : "REX Flyer",
+  "alliance" : "N/A",
+  "magazine" : "OUTthere",
+  "aircrafts" : [ {
+    "type" : "TURBOPROPS",
+    "name" : "SAAB 340B (SF3)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 33
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

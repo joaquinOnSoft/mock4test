@@ -1,0 +1,120 @@
+{
+  "name" : "Aeromexico",
+  "code" : "AM",
+  "web" : "https://www.aeromexico.com",
+  "lounge" : "Salon Premier",
+  "reservationsPhone" : "1-800-247-3737",
+  "frequentFlyerProgram" : "Club Premier",
+  "alliance" : "SkyTeam",
+  "magazine" : "Escala",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-8 (788)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "AM Plus",
+      "numSeats" : 9
+    }, {
+      "seatClass" : "Clase Premier",
+      "numSeats" : 32
+    }, {
+      "seatClass" : "Main Cabin Economy",
+      "numSeats" : 202
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-9 (789)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "AM Plus",
+      "numSeats" : 27
+    }, {
+      "seatClass" : "Clase Premier",
+      "numSeats" : 36
+    }, {
+      "seatClass" : "Main Cabin Economy",
+      "numSeats" : 211
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737 MAX 8 (7M8)",
+    "amenities" : [ "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "AM Plus",
+      "numSeats" : 18
+    }, {
+      "seatClass" : "Clase Premier",
+      "numSeats" : 16
+    }, {
+      "seatClass" : "Main Cabin Economy",
+      "numSeats" : 132
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-700 (737)",
+    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "AM Plus",
+      "numSeats" : 18
+    }, {
+      "seatClass" : "Clase Premier",
+      "numSeats" : 12
+    }, {
+      "seatClass" : "Main Cabin Economy",
+      "numSeats" : 94
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738) Layout 1",
+    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "AM Plus",
+      "numSeats" : 18
+    }, {
+      "seatClass" : "Clase Premier",
+      "numSeats" : 16
+    }, {
+      "seatClass" : "Main Cabin Economy",
+      "numSeats" : 126
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "AM Plus",
+      "numSeats" : 18
+    }, {
+      "seatClass" : "Main Cabin Economy",
+      "numSeats" : 168
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer 170 (E70)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Main Cabin Economy",
+      "numSeats" : 76
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer 190 (E90) Layout 1",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Clase Premier",
+      "numSeats" : 11
+    }, {
+      "seatClass" : "Main Cabin Economy",
+      "numSeats" : 88
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer 190 (E90) Layout 2",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Main Cabin Economy",
+      "numSeats" : 98
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

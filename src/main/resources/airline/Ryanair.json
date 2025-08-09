@@ -1,0 +1,23 @@
+{
+  "name" : "Ryanair",
+  "code" : "FR",
+  "web" : "https://www.ryanair.com",
+  "lounge" : "N/A",
+  "reservationsPhone" : "0871-246-0000",
+  "frequentFlyerProgram" : "N/A",
+  "alliance" : "N/A",
+  "magazine" : "Ryanair Mag",
+  "aircrafts" : [ {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 138
+    }, {
+      "seatClass" : "Premium",
+      "numSeats" : 51
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

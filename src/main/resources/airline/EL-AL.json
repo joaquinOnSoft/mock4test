@@ -1,0 +1,79 @@
+{
+  "name" : "EL AL",
+  "code" : "LY",
+  "web" : "https://www.elal.com/en/USA/Pages/default.aspx",
+  "lounge" : "King David Lounge",
+  "reservationsPhone" : "+972-3-9771111",
+  "frequentFlyerProgram" : "Matmid Club",
+  "alliance" : "N/A",
+  "magazine" : "Atmosphere",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-200ER (772)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 35
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 204
+    }, {
+      "seatClass" : "Economy Seat PLUS",
+      "numSeats" : 34
+    }, {
+      "seatClass" : "First",
+      "numSeats" : 6
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-8 (788)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 20
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 183
+    }, {
+      "seatClass" : "Premium",
+      "numSeats" : 35
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-9 (789)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business First",
+      "numSeats" : 32
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 222
+    }, {
+      "seatClass" : "Premium",
+      "numSeats" : 28
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738)",
+    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 16
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 150
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-900 (739)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 16
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 159
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

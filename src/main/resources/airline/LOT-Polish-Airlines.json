@@ -1,0 +1,118 @@
+{
+  "name" : "LOT Polish Airlines",
+  "code" : "LO",
+  "web" : "http://www.lot.com/us/en/",
+  "lounge" : "In Non-Schengen area",
+  "reservationsPhone" : "http://www.lot.com/Portal/EN/aspx/Content__LOT_Offices.aspx",
+  "frequentFlyerProgram" : "Miles & More",
+  "alliance" : "Star Alliance",
+  "magazine" : "Kaleidoscope",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-8 (788)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business Class",
+      "numSeats" : 18
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 213
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 21
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-9 (789)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business Class",
+      "numSeats" : 24
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 249
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 21
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737 MAX 8 (7M8)",
+    "amenities" : [ "FOOD", "AC_POWER" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 20
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 138
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 18
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-400 (734)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 18
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 108
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 18
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738)",
+    "amenities" : [ "FOOD", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 18
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 148
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 18
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer ERJ-170 (E70)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 70
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer ERJ-175 (E75)",
+    "amenities" : [ "FOOD", "AC_POWER" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 14
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 52
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 16
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Embraer ERJ-195 (E95)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 20
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 80
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 12
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

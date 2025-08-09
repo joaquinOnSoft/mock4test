@@ -1,0 +1,28 @@
+{
+  "name" : "Air Arabia",
+  "code" : "G9",
+  "web" : "https://www.airarabia.com/en",
+  "lounge" : "N/A",
+  "reservationsPhone" : "(02) 6315888",
+  "frequentFlyerProgram" : "N/A",
+  "alliance" : "N/A",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320)",
+    "amenities" : [ "FOOD", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 174
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321 (321)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 216
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

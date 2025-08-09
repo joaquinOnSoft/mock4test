@@ -1,0 +1,67 @@
+{
+  "name" : "Frontier",
+  "code" : "F9",
+  "web" : "https://www.flyfrontier.com/",
+  "lounge" : "N/A",
+  "reservationsPhone" : "1-800-432-1FLY",
+  "frequentFlyerProgram" : "Early Returns",
+  "alliance" : "N/A",
+  "magazine" : "Wild Blue Yonder",
+  "aircrafts" : [ {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A319 (319) Layout 1",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 126
+    }, {
+      "seatClass" : "Stretch",
+      "numSeats" : 24
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A319 (319) Layout 2",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 114
+    }, {
+      "seatClass" : "Stretch",
+      "numSeats" : 24
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) Layout 1",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 150
+    }, {
+      "seatClass" : "Stretch",
+      "numSeats" : 30
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) Layout 2",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 132
+    }, {
+      "seatClass" : "Stretch",
+      "numSeats" : 36
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321 (321)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 200
+    }, {
+      "seatClass" : "Stretch",
+      "numSeats" : 30
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

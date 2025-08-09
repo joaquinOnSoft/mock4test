@@ -1,0 +1,58 @@
+{
+  "name" : "CEBU Pacific Air",
+  "code" : "5J",
+  "web" : "https://www.cebupacificair.com/",
+  "lounge" : "N/A",
+  "reservationsPhone" : "+63-2-7020-888",
+  "frequentFlyerProgram" : "GetGo",
+  "alliance" : "N/A",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-300 (333)",
+    "amenities" : [ "FOOD", "INTERNET" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 436
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A319 (319)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 156
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 180
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321neo (321)",
+    "amenities" : [ "FOOD", "AC_POWER" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 126
+    }, {
+      "seatClass" : "Premium",
+      "numSeats" : 16
+    }, {
+      "seatClass" : "Standard Plus",
+      "numSeats" : 97
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "ATR 72-500",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 72
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

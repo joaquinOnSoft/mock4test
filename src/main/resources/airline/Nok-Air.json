@@ -1,0 +1,36 @@
+{
+  "name" : "Nok Air",
+  "code" : "DD",
+  "web" : "https://www.nokair.com",
+  "lounge" : "N/A",
+  "reservationsPhone" : "1318",
+  "frequentFlyerProgram" : "Nok Fan Club",
+  "alliance" : "N/A",
+  "magazine" : null,
+  "aircrafts" : [ {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (738)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 189
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "ATR 72-200 (ATR)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 66
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "Bombardier Q400 (DH4)",
+    "amenities" : [ ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 86
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

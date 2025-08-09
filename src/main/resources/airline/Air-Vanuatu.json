@@ -1,0 +1,31 @@
+{
+  "name" : "Air Vanuatu",
+  "code" : "NF",
+  "web" : "",
+  "lounge" : "N/A",
+  "reservationsPhone" : "+61 1300 780 737",
+  "frequentFlyerProgram" : "Qantas Frequent Flyer",
+  "alliance" : "N/A",
+  "magazine" : "Island Spirit",
+  "aircrafts" : [ {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Boeing 737-800 (73H)",
+    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 8
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 162
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "ATR 72-600 (AT7)",
+    "amenities" : [ "FOOD" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 70
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

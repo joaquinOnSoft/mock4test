@@ -1,0 +1,161 @@
+{
+  "name" : "Philippine Airlines",
+  "code" : "PR",
+  "web" : "https://www.philippineairlines.com",
+  "lounge" : "Mabuhay Lounge",
+  "reservationsPhone" : "1-632-817-8000",
+  "frequentFlyerProgram" : "Mabuhay Miles",
+  "alliance" : "N/A",
+  "magazine" : "Mabuhay",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-300 (333) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 18
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 312
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 33
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-300 (333) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 18
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 267
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 24
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A350-900 (359)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 30
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 241
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 24
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 777-300ER (777)",
+    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Fiesta Economy",
+      "numSeats" : 328
+    }, {
+      "seatClass" : "Mabuhay Business",
+      "numSeats" : 42
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) Layout 1",
+    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Fiesta Economy",
+      "numSeats" : 144
+    }, {
+      "seatClass" : "Mabuhay Business",
+      "numSeats" : 12
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) Layout 2",
+    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Fiesta Economy",
+      "numSeats" : 144
+    }, {
+      "seatClass" : "Mabuhay Business",
+      "numSeats" : 12
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A320 (320) Layout 3",
+    "amenities" : [ "FOOD", "VIDEO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 168
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 12
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321ceo (321)",
+    "amenities" : [ "FOOD", "AC_POWER" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 12
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 169
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 18
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321neo (321) Layout 1 (LR)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 12
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 156
+    } ]
+  }, {
+    "type" : "NARROW_BODY_JETS",
+    "name" : "Airbus A321neo (321) Layout 2 (SR)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Business",
+      "numSeats" : 12
+    }, {
+      "seatClass" : "Economy",
+      "numSeats" : 183
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "Bombardier Q300 (DH3)",
+    "amenities" : [ ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 56
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "Bombardier Q400 (DH4)",
+    "amenities" : [ ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 76
+    } ]
+  }, {
+    "type" : "TURBOPROPS",
+    "name" : "Bombardier Q400NG (DH4)",
+    "amenities" : [ ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 80
+    }, {
+      "seatClass" : "Economy Plus",
+      "numSeats" : 6
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}

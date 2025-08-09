@@ -1,0 +1,96 @@
+{
+  "name" : "Virgin Atlantic",
+  "code" : "VS",
+  "web" : "https://www.virginatlantic.com",
+  "lounge" : "Clubhouses",
+  "reservationsPhone" : "0871-984-0840",
+  "frequentFlyerProgram" : "Flying Club",
+  "alliance" : "N/A",
+  "magazine" : "seatback",
+  "aircrafts" : [ {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-200 (332) Layout 1",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 212
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 35
+    }, {
+      "seatClass" : "Upper Class",
+      "numSeats" : 19
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-200 (332) Layout 2",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 212
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 36
+    }, {
+      "seatClass" : "Upper Class",
+      "numSeats" : 19
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A330-300 (333)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 185
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 48
+    }, {
+      "seatClass" : "Upper Class",
+      "numSeats" : 31
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Airbus A350-1000 (351)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 235
+    }, {
+      "seatClass" : "Premium",
+      "numSeats" : 56
+    }, {
+      "seatClass" : "Upper Class",
+      "numSeats" : 44
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 747-400 (744)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 375
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 66
+    }, {
+      "seatClass" : "Upper Class",
+      "numSeats" : 14
+    } ]
+  }, {
+    "type" : "WIDE_BODY_JETS",
+    "name" : "Boeing 787-9 (789)",
+    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
+    "seats" : [ {
+      "seatClass" : "Economy",
+      "numSeats" : 192
+    }, {
+      "seatClass" : "Premium Economy",
+      "numSeats" : 35
+    }, {
+      "seatClass" : "Upper Class",
+      "numSeats" : 31
+    } ]
+  } ],
+  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+}
