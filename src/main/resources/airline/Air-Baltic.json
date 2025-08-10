@@ -1,44 +1,76 @@
 {
-  "name" : "Air Baltic",
-  "code" : "BT",
-  "web" : "https://www.airbaltic.com/",
-  "lounge" : "International Business Lounge",
-  "reservationsPhone" : "6610819",
-  "frequentFlyerProgram" : "AirBaltic Club",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A220-300 (CS3)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 145
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-300 (733)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 144
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-500 (735)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 120
-    } ]
-  }, {
-    "type" : "TURBOPROPS",
-    "name" : "Bombardier Q400 (DH4)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 76
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Air Baltic",
+  "code": "BT",
+  "web": "https://www.airbaltic.com/",
+  "lounge": "International Business Lounge",
+  "reservationsPhone": "6610819",
+  "frequentFlyerProgram": "AirBaltic Club",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A220-300 (CS3)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 145
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-300 (733)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 144
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-500 (735)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 120
+        }
+      ]
+    },
+    {
+      "type": "TURBOPROPS",
+      "name": "Bombardier Q400 (DH4)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 76
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

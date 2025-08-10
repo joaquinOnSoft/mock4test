@@ -1,78 +1,144 @@
 {
-  "name" : "Uzbekistan Airways",
-  "code" : "HY",
-  "web" : "https://m.uzairways.com/",
-  "lounge" : "CIP",
-  "reservationsPhone" : "+998 78 140 02 00",
-  "frequentFlyerProgram" : "UzAirPlus Contact Number",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 767-300ER (76L)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 18
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 246
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 787-8 (788) Layout 1",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 24
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 222
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 787-8 (788) Layout 2",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 24
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 246
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320-214 (320)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 138
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 757-200 (752) Layout 1",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 26
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 158
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 757-200 (752) Layout 2",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 22
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 168
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Uzbekistan Airways",
+  "code": "HY",
+  "web": "https://m.uzairways.com/",
+  "lounge": "CIP",
+  "reservationsPhone": "+998 78 140 02 00",
+  "frequentFlyerProgram": "UzAirPlus Contact Number",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 767-300ER (76L)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 18
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 246
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 787-8 (788) Layout 1",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 24
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 222
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 787-8 (788) Layout 2",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 24
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 246
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320-214 (320)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 138
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 757-200 (752) Layout 1",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 26
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 158
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 757-200 (752) Layout 2",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 22
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 168
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

@@ -1,28 +1,46 @@
 {
-  "name" : "FlyOne",
-  "code" : "5F",
-  "web" : "https://flyone.md/",
-  "lounge" : "N/A",
-  "reservationsPhone" : "+373 22 100003",
-  "frequentFlyerProgram" : "N/A",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A319-100 (319)",
-    "amenities" : [ ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 132
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320-200 (320)",
-    "amenities" : [ ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 192
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "FlyOne",
+  "code": "5F",
+  "web": "https://flyone.md/",
+  "lounge": "N/A",
+  "reservationsPhone": "+373 22 100003",
+  "frequentFlyerProgram": "N/A",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A319-100 (319)",
+      "amenities": [],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 132
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320-200 (320)",
+      "amenities": [],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 192
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

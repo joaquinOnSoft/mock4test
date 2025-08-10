@@ -1,5 +1,8 @@
 package com.openmock;
 
+import com.fasterxml.jackson.annotation.JsonCreator;
+import com.fasterxml.jackson.annotation.JsonValue;
+
 public enum Amenity {
     AUDIO("Audio"),
     VIDEO("Video"),
@@ -14,12 +17,18 @@ public enum Amenity {
         this.label = label;
     }
 
-    public static Amenity valueOfLabel(String label) {
+    @JsonCreator
+    public static Amenity fromLabel(String label) {
         for (Amenity e : values()) {
             if (e.label.equals(label)) {
                 return e;
             }
         }
         return null;
+    }
+
+    @JsonValue
+    public String getLabel() {
+        return label;
     }
 }

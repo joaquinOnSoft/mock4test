@@ -1,67 +1,121 @@
 {
-  "name" : "TACA",
-  "code" : "TA",
-  "web" : "https://taca.alternativeairlines.com/",
-  "lounge" : "TACA VIP",
-  "reservationsPhone" : "1-800-400-8222",
-  "frequentFlyerProgram" : "Life Miles",
-  "alliance" : "N/A",
-  "magazine" : "Explore TACA",
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-200 (332)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 30
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 222
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A319 (319)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 108
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320 (320)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 138
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321 (321)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 182
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Embraer E-190",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 88
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "TACA",
+  "code": "TA",
+  "web": "https://taca.alternativeairlines.com/",
+  "lounge": "TACA VIP",
+  "reservationsPhone": "1-800-400-8222",
+  "frequentFlyerProgram": "Life Miles",
+  "alliance": "N/A",
+  "magazine": "Explore TACA",
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-200 (332)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 30
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 222
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A319 (319)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 108
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320 (320)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 138
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321 (321)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 182
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Embraer E-190",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 88
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

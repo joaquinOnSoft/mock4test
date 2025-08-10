@@ -1,45 +1,78 @@
 {
-  "name" : "Aerolineas Argentinas",
-  "code" : "AR",
-  "web" : "https://www.aerolineas.com.ar/",
-  "lounge" : "Salon Condor",
-  "reservationsPhone" : "1-800-688-0008",
-  "frequentFlyerProgram" : "Aerolíneas Plus",
-  "alliance" : "SkyTeam",
-  "magazine" : "The Lowe Road",
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-200 (332)",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Club Condor",
-      "numSeats" : 24
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 248
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-700 (737)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Club Economy",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 120
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738)",
-    "amenities" : [ "FOOD", "INTERNET" ],
-    "seats" : [ {
-      "seatClass" : "Club Economy",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 162
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Aerolineas Argentinas",
+  "code": "AR",
+  "web": "https://www.aerolineas.com.ar/",
+  "lounge": "Salon Condor",
+  "reservationsPhone": "1-800-688-0008",
+  "frequentFlyerProgram": "Aerolíneas Plus",
+  "alliance": "SkyTeam",
+  "magazine": "The Lowe Road",
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-200 (332)",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Club Condor",
+          "numSeats": 24
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 248
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-700 (737)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Club Economy",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 120
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738)",
+      "amenities": [
+        "FOOD",
+        "INTERNET"
+      ],
+      "seats": [
+        {
+          "seatClass": "Club Economy",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 162
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

@@ -1,84 +1,144 @@
 {
-  "name" : "RwandAir",
-  "code" : "WB",
-  "web" : "https://www.rwandair.com/",
-  "lounge" : "N/A",
-  "reservationsPhone" : "+61 2 8248 0050",
-  "frequentFlyerProgram" : "Dream Miles",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-200 (332)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 20
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 203
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 21
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-300 (333)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 30
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 223
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 21
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-700 (737)",
-    "amenities" : [ "FOOD", "VIDEO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 108
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738)",
-    "amenities" : [ "FOOD", "VIDEO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 16
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 138
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Bombardier CRJ-900 (CR9)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 7
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 68
-    } ]
-  }, {
-    "type" : "TURBOPROPS",
-    "name" : "Bombardier Dash 8 Q400 (DH4)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 7
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 60
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "RwandAir",
+  "code": "WB",
+  "web": "https://www.rwandair.com/",
+  "lounge": "N/A",
+  "reservationsPhone": "+61 2 8248 0050",
+  "frequentFlyerProgram": "Dream Miles",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-200 (332)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 20
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 203
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 21
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-300 (333)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 30
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 223
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 21
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-700 (737)",
+      "amenities": [
+        "FOOD",
+        "VIDEO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 108
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738)",
+      "amenities": [
+        "FOOD",
+        "VIDEO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 16
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 138
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Bombardier CRJ-900 (CR9)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 7
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 68
+        }
+      ]
+    },
+    {
+      "type": "TURBOPROPS",
+      "name": "Bombardier Dash 8 Q400 (DH4)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 7
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 60
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

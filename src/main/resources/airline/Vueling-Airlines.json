@@ -1,36 +1,63 @@
 {
-  "name" : "Vueling Airlines",
-  "code" : "VY",
-  "web" : "https://www.vueling.com/en",
-  "lounge" : "N/A",
-  "reservationsPhone" : "",
-  "frequentFlyerProgram" : "Iberia Plus",
-  "alliance" : "N/A",
-  "magazine" : "Ling Magazine",
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A319 (319)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 144
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320 (320)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 180
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321 (321)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 220
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Vueling Airlines",
+  "code": "VY",
+  "web": "https://www.vueling.com/en",
+  "lounge": "N/A",
+  "reservationsPhone": "",
+  "frequentFlyerProgram": "Iberia Plus",
+  "alliance": "N/A",
+  "magazine": "Ling Magazine",
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A319 (319)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 144
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320 (320)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 180
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321 (321)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 220
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

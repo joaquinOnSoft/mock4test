@@ -1,117 +1,216 @@
 {
-  "name" : "Oman Air",
-  "code" : "WY",
-  "web" : "https://www.omanair.com/",
-  "lounge" : "Oman Air Lounge",
-  "reservationsPhone" : "+968-2453-1111",
-  "frequentFlyerProgram" : "Sindbad Frequent Flyer",
-  "alliance" : "N/A",
-  "magazine" : "Wings of Oman",
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-200 (332)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 20
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 196
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-300 (333)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 20
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 204
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 6
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 787-8 (788) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 18
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 249
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 787-8 (788) Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 30
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 204
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 787-9 (789) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 30
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 258
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 787-9 (789) Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 24
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 232
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 8
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-700 (73G)",
-    "amenities" : [ "FOOD", "VIDEO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 102
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 144
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-900ER (739)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 171
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Oman Air",
+  "code": "WY",
+  "web": "https://www.omanair.com/",
+  "lounge": "Oman Air Lounge",
+  "reservationsPhone": "+968-2453-1111",
+  "frequentFlyerProgram": "Sindbad Frequent Flyer",
+  "alliance": "N/A",
+  "magazine": "Wings of Oman",
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-200 (332)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 20
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 196
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-300 (333)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 20
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 204
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 6
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 787-8 (788) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 18
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 249
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 787-8 (788) Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 30
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 204
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 787-9 (789) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 30
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 258
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 787-9 (789) Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 24
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 232
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 8
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-700 (73G)",
+      "amenities": [
+        "FOOD",
+        "VIDEO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 102
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 144
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-900ER (739)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 171
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

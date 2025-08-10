@@ -1,52 +1,87 @@
 {
-  "name" : "Silver",
-  "code" : "3M",
-  "web" : "https://www.silverairways.com/",
-  "lounge" : "N/A",
-  "reservationsPhone" : "+1 866 359 8784",
-  "frequentFlyerProgram" : "United MileagePlus",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "TURBOPROPS",
-    "name" : "ATR 42-600 (ATR)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 46
-    } ]
-  }, {
-    "type" : "TURBOPROPS",
-    "name" : "ATR 72-600 (ATR)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 70
-    } ]
-  }, {
-    "type" : "TURBOPROPS",
-    "name" : "Saab 340 B (SFB)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 34
-    } ]
-  }, {
-    "type" : "TURBOPROPS",
-    "name" : "Seaborne - DHC-6 Twin Otter Seaplane (DHT)",
-    "amenities" : [ ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 15
-    } ]
-  }, {
-    "type" : "TURBOPROPS",
-    "name" : "Seaborne - Saab 340B (SFB)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 34
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Silver",
+  "code": "3M",
+  "web": "https://www.silverairways.com/",
+  "lounge": "N/A",
+  "reservationsPhone": "+1 866 359 8784",
+  "frequentFlyerProgram": "United MileagePlus",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "TURBOPROPS",
+      "name": "ATR 42-600 (ATR)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 46
+        }
+      ]
+    },
+    {
+      "type": "TURBOPROPS",
+      "name": "ATR 72-600 (ATR)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 70
+        }
+      ]
+    },
+    {
+      "type": "TURBOPROPS",
+      "name": "Saab 340 B (SFB)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 34
+        }
+      ]
+    },
+    {
+      "type": "TURBOPROPS",
+      "name": "Seaborne - DHC-6 Twin Otter Seaplane (DHT)",
+      "amenities": [],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 15
+        }
+      ]
+    },
+    {
+      "type": "TURBOPROPS",
+      "name": "Seaborne - Saab 340B (SFB)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 34
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

@@ -1,136 +1,249 @@
 {
-  "name" : "Aeroflot",
-  "code" : "SU",
-  "web" : "http://www.aeroflot.com/ru-en",
-  "lounge" : "Lounge information",
-  "reservationsPhone" : "8-800-333-5555",
-  "frequentFlyerProgram" : "Aeroflot Bonus",
-  "alliance" : "SkyTeam",
-  "magazine" : "AEROFLOT",
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-200 (332)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 34
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 207
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-300 (333) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 28
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 268
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-300 (333) Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 36
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 265
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 777-300ER (773)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 30
-    }, {
-      "seatClass" : "Comfort",
-      "numSeats" : 48
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 324
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320 (320) Layout 1",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 20
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 120
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320 (320) Layout 2",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 150
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321 (321) Layout 1",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 28
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 142
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321 (321) Layout 2",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 16
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 167
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321 (321) Layout 3",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 16
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 167
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 20
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 138
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Sukhoi Superjet 100-95B (SU9)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 75
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Aeroflot",
+  "code": "SU",
+  "web": "http://www.aeroflot.com/ru-en",
+  "lounge": "Lounge information",
+  "reservationsPhone": "8-800-333-5555",
+  "frequentFlyerProgram": "Aeroflot Bonus",
+  "alliance": "SkyTeam",
+  "magazine": "AEROFLOT",
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-200 (332)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 34
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 207
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-300 (333) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 28
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 268
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-300 (333) Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 36
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 265
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 777-300ER (773)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 30
+        },
+        {
+          "seatClass": "Comfort",
+          "numSeats": 48
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 324
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320 (320) Layout 1",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 20
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 120
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320 (320) Layout 2",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 150
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321 (321) Layout 1",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 28
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 142
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321 (321) Layout 2",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 16
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 167
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321 (321) Layout 3",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 16
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 167
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 20
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 138
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Sukhoi Superjet 100-95B (SU9)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 75
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

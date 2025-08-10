@@ -1,106 +1,188 @@
 {
-  "name" : "Xiamen Airlines",
-  "code" : "MF",
-  "web" : "https://www.xiamenair.com/en-us/",
-  "lounge" : "First Class Lounge, Xiamen Airport",
-  "reservationsPhone" : "+61 28 317 5555",
-  "frequentFlyerProgram" : "Egret Club",
-  "alliance" : "SkyTeam",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 787-8 (788)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 18
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 215
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 4
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 787-9 (789)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 30
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 260
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-700 (73G)",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 120
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738) Layout 2",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 162
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738) Layout 3",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 156
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738) One Class",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 184
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 757-200 (752) Layout 1",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 158
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 8
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 757-200 (752) Layout 2",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 164
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 8
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Xiamen Airlines",
+  "code": "MF",
+  "web": "https://www.xiamenair.com/en-us/",
+  "lounge": "First Class Lounge, Xiamen Airport",
+  "reservationsPhone": "+61 28 317 5555",
+  "frequentFlyerProgram": "Egret Club",
+  "alliance": "SkyTeam",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 787-8 (788)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 18
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 215
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 4
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 787-9 (789)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 30
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 260
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-700 (73G)",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 120
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738) Layout 2",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 162
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738) Layout 3",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 156
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738) One Class",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 184
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 757-200 (752) Layout 1",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 158
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 8
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 757-200 (752) Layout 2",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 164
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 8
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

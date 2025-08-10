@@ -1,56 +1,102 @@
 {
-  "name" : "Air Austral",
-  "code" : "UU",
-  "web" : "http://www.air-austral.com/en.html",
-  "lounge" : "N/A",
-  "reservationsPhone" : "",
-  "frequentFlyerProgram" : "N/A",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 777-300ER (77W)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Club Austral",
-      "numSeats" : 14
-    }, {
-      "seatClass" : "Confort",
-      "numSeats" : 40
-    }, {
-      "seatClass" : "Loisirs",
-      "numSeats" : 384
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 787-8 (788)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Confort",
-      "numSeats" : 18
-    }, {
-      "seatClass" : "Loisirs",
-      "numSeats" : 244
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738)",
-    "amenities" : [ "FOOD", "INTERNET", "VIDEO" ],
-    "seats" : [ {
-      "seatClass" : "Confort",
-      "numSeats" : 18
-    }, {
-      "seatClass" : "Loisirs",
-      "numSeats" : 144
-    } ]
-  }, {
-    "type" : "TURBOPROPS",
-    "name" : "ATR 72-500 (AT7)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 64
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Air Austral",
+  "code": "UU",
+  "web": "http://www.air-austral.com/en.html",
+  "lounge": "N/A",
+  "reservationsPhone": "",
+  "frequentFlyerProgram": "N/A",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 777-300ER (77W)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Club Austral",
+          "numSeats": 14
+        },
+        {
+          "seatClass": "Confort",
+          "numSeats": 40
+        },
+        {
+          "seatClass": "Loisirs",
+          "numSeats": 384
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 787-8 (788)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Confort",
+          "numSeats": 18
+        },
+        {
+          "seatClass": "Loisirs",
+          "numSeats": 244
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "VIDEO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Confort",
+          "numSeats": 18
+        },
+        {
+          "seatClass": "Loisirs",
+          "numSeats": 144
+        }
+      ]
+    },
+    {
+      "type": "TURBOPROPS",
+      "name": "ATR 72-500 (AT7)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 64
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

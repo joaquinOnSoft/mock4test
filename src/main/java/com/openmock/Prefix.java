@@ -9,16 +9,16 @@ public enum Prefix {
 
     public final String pref;
 
-    private Prefix(String label) {
+    Prefix(String label) {
         this.pref = label;
     }
 
-    public Prefix getPrefix(LocalDate birthdate, Sex sex){
+    public Prefix getPrefix(LocalDate birthdate, Sex sex) {
         Prefix prefix = MR;
 
-        if( sex == Sex.FEMALE){
+        if (sex == Sex.FEMALE) {
             prefix = MS;
-            if(birthdate  != null ) {
+            if (birthdate != null) {
                 if (!birthdate.isBefore(LocalDate.now().minusYears(18))) {
                     prefix = MISS;
                 }

@@ -1,26 +1,45 @@
 {
-  "name" : "Vistara",
-  "code" : "UK",
-  "web" : "https://www.airvistara.com/",
-  "lounge" : "Vistara Lounge",
-  "reservationsPhone" : "+91 92 8922 8888",
-  "frequentFlyerProgram" : "Club Vistara",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320ceo & neo (320)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 126
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 24
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Vistara",
+  "code": "UK",
+  "web": "https://www.airvistara.com/",
+  "lounge": "Vistara Lounge",
+  "reservationsPhone": "+91 92 8922 8888",
+  "frequentFlyerProgram": "Club Vistara",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320ceo & neo (320)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 126
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 24
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

@@ -1,51 +1,93 @@
 {
-  "name" : "Skylanes",
-  "code" : "86",
-  "web" : "http://bit.ly/2qRCStz",
-  "lounge" : "Sky Room",
-  "reservationsPhone" : "",
-  "frequentFlyerProgram" : "Lanes Plus",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 777-300ER (777)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 53
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 180
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 6
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 34
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737 MAX 8 (7M8)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 16
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 101
-    }, {
-      "seatClass" : "TEST",
-      "numSeats" : 74
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738)",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 156
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Skylanes",
+  "code": "86",
+  "web": "http://bit.ly/2qRCStz",
+  "lounge": "Sky Room",
+  "reservationsPhone": "",
+  "frequentFlyerProgram": "Lanes Plus",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 777-300ER (777)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 53
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 180
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 6
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 34
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737 MAX 8 (7M8)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 16
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 101
+        },
+        {
+          "seatClass": "TEST",
+          "numSeats": 74
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738)",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 156
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

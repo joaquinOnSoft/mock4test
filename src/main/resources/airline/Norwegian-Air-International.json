@@ -1,28 +1,52 @@
 {
-  "name" : "Norwegian Air International",
-  "code" : "D8",
-  "web" : "https://www.norwegian.com/",
-  "lounge" : "Norwegian Air's Lounges Worldwide",
-  "reservationsPhone" : "1-800-357-4159",
-  "frequentFlyerProgram" : "N/A",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737 MAX 8 (7M8)",
-    "amenities" : [ "INTERNET" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 189
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738)",
-    "amenities" : [ "FOOD", "INTERNET", "VIDEO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 186
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Norwegian Air International",
+  "code": "D8",
+  "web": "https://www.norwegian.com/",
+  "lounge": "Norwegian Air's Lounges Worldwide",
+  "reservationsPhone": "1-800-357-4159",
+  "frequentFlyerProgram": "N/A",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737 MAX 8 (7M8)",
+      "amenities": [
+        "INTERNET"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 189
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "VIDEO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 186
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

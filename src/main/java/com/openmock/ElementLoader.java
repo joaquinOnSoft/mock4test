@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 import java.util.List;
 import java.util.Locale;
 
-public class ElementLoader extends AbstractLoader{
+public class ElementLoader extends AbstractLoader {
     private volatile static List<Element> elements;
 
     public ElementLoader() throws OpenMockException {
@@ -21,9 +21,9 @@ public class ElementLoader extends AbstractLoader{
 
     @SuppressWarnings("unchecked")
     private void initDictionaries() throws OpenMockException {
-        if(elements == null) {
+        if (elements == null) {
             synchronized (this) {
-                if(elements == null) {
+                if (elements == null) {
                     try {
                         elements = (List<Element>) loadCSV("element/periodic-of-elements", Element.class, false);
                     } catch (FileNotFoundException e) {
@@ -34,10 +34,10 @@ public class ElementLoader extends AbstractLoader{
         }
     }
 
-    public Element getElement(){
+    public Element getElement() {
         Element element = null;
 
-        if(elements != null){
+        if (elements != null) {
             int numElements = elements.size() - 1;
             int index = RndUtil.getInstance().nextIntInRange(0, numElements);
 

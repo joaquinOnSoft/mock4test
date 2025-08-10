@@ -1,172 +1,310 @@
 {
-  "name" : "Asiana",
-  "code" : "OZ",
-  "web" : "https://flyasiana.com/",
-  "lounge" : "Asiana Lounges",
-  "reservationsPhone" : "1-800-227-4262",
-  "frequentFlyerProgram" : "Asiana Club",
-  "alliance" : "Star Alliance",
-  "magazine" : "Asiana",
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-300 (333) Layout 1",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 30
-    }, {
-      "seatClass" : "Travel",
-      "numSeats" : 260
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-300 (333) Layout 2",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 30
-    }, {
-      "seatClass" : "Travel",
-      "numSeats" : 245
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A350-900 (359)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business Smartium",
-      "numSeats" : 28
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 247
-    }, {
-      "seatClass" : "Economy Smartium",
-      "numSeats" : 36
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A380-800 (388)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 66
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Travel",
-      "numSeats" : 417
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 747-400 (747)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 45
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 10
-    }, {
-      "seatClass" : "Travel",
-      "numSeats" : 304
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 767-300 (763)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 15
-    }, {
-      "seatClass" : "Travel",
-      "numSeats" : 235
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 777-200ER (772) Layout 1",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 24
-    }, {
-      "seatClass" : "Travel",
-      "numSeats" : 271
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 777-200ER (772) Layout 2",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 28
-    }, {
-      "seatClass" : "Travel",
-      "numSeats" : 272
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 777-200ER (772) Layout 3",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 28
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Travel",
-      "numSeats" : 226
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320-200 (320)",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Travel",
-      "numSeats" : 135
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321-100 (321)",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Travel",
-      "numSeats" : 200
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321-200 (321) Layout 1",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Travel",
-      "numSeats" : 159
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321-200 (321) Layout 2",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Travel",
-      "numSeats" : 165
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321-200 (321) Layout 3",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Travel",
-      "numSeats" : 195
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Asiana",
+  "code": "OZ",
+  "web": "https://flyasiana.com/",
+  "lounge": "Asiana Lounges",
+  "reservationsPhone": "1-800-227-4262",
+  "frequentFlyerProgram": "Asiana Club",
+  "alliance": "Star Alliance",
+  "magazine": "Asiana",
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-300 (333) Layout 1",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 30
+        },
+        {
+          "seatClass": "Travel",
+          "numSeats": 260
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-300 (333) Layout 2",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 30
+        },
+        {
+          "seatClass": "Travel",
+          "numSeats": 245
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A350-900 (359)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business Smartium",
+          "numSeats": 28
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 247
+        },
+        {
+          "seatClass": "Economy Smartium",
+          "numSeats": 36
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A380-800 (388)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 66
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Travel",
+          "numSeats": 417
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 747-400 (747)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 45
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 10
+        },
+        {
+          "seatClass": "Travel",
+          "numSeats": 304
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 767-300 (763)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 15
+        },
+        {
+          "seatClass": "Travel",
+          "numSeats": 235
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 777-200ER (772) Layout 1",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 24
+        },
+        {
+          "seatClass": "Travel",
+          "numSeats": 271
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 777-200ER (772) Layout 2",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 28
+        },
+        {
+          "seatClass": "Travel",
+          "numSeats": 272
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 777-200ER (772) Layout 3",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 28
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Travel",
+          "numSeats": 226
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320-200 (320)",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Travel",
+          "numSeats": 135
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321-100 (321)",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Travel",
+          "numSeats": 200
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321-200 (321) Layout 1",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Travel",
+          "numSeats": 159
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321-200 (321) Layout 2",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Travel",
+          "numSeats": 165
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321-200 (321) Layout 3",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Travel",
+          "numSeats": 195
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

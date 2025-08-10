@@ -13,7 +13,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class ElementLoaderTest {
     private static final int HYDROGEN_ATOMIC_NUM = 1;
-    private static final int OGANESSON_ATOMIC_NUM =118;
+    private static final int OGANESSON_ATOMIC_NUM = 118;
     private static final List<String> radioactiveElements = Arrays.asList(
             "Ac", "Am", "At", "Bh", "Bi", "Bk", "Cf", "Cm", "Cn", "Db",
             "Ds", "Es", "Fl", "Fm", "Fr", "Hs", "Lr", "Lv", "Mc", "Md",
@@ -28,17 +28,17 @@ public class ElementLoaderTest {
         assertNotNull(symbol);
         assertTrue(symbol.length() <= 2);
         assertTrue(Character.isUpperCase(symbol.charAt(0)));
-        if(symbol.length() == 2){
+        if (symbol.length() == 2) {
             assertTrue(Character.isLowerCase(symbol.charAt(1)));
         }
 
-        if(element.isRadioactive()){
+        if (element.isRadioactive()) {
             assertTrue(radioactiveElements.contains(symbol));
         }
     }
 
     @RepeatedTest(500)
-    public void elementSpanish(){
+    public void elementSpanish() {
         try {
             ElementLoader loader = new ElementLoader();
             validateElement(loader.getElement());
@@ -58,7 +58,7 @@ public class ElementLoaderTest {
             "pt-PT",
             "zh-CN"
     })
-    public void elementSpanish(String langTag){
+    public void elementSpanish(String langTag) {
         try {
             ElementLoader loader = new ElementLoader(Locale.forLanguageTag(langTag));
             validateElement(loader.getElement());
@@ -68,7 +68,7 @@ public class ElementLoaderTest {
     }
 
     @Test
-    public void toJSON(){
+    public void toJSON() {
         try {
             ElementLoader loader = new ElementLoader();
             String json = loader.getElement().toJSON();
@@ -83,7 +83,7 @@ public class ElementLoaderTest {
     }
 
     @Test
-    public void toXML(){
+    public void toXML() {
         try {
             ElementLoader loader = new ElementLoader();
             String json = loader.getElement().toXML();

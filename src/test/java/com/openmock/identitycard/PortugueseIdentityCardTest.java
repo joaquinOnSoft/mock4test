@@ -4,15 +4,15 @@ import org.junit.jupiter.api.BeforeAll;
 
 import java.util.stream.Stream;
 
-public class PortugueseIdentityCardTest extends AbstractIdentityCardTest{
+public class PortugueseIdentityCardTest extends AbstractIdentityCardTest {
 
     @BeforeAll
-    public static void init(){
+    public static void init() {
         card = new PortugueseIdentityCard();
     }
 
 
-    protected static Stream<String> validIds(){
+    protected static Stream<String> validIds() {
         return Stream.of(
                 // Valid id, commonly used in examples
                 "000000000ZZ4",
@@ -28,7 +28,7 @@ public class PortugueseIdentityCardTest extends AbstractIdentityCardTest{
         );
     }
 
-    protected static Stream<String> invalidIds(){
+    protected static Stream<String> invalidIds() {
         return Stream.of(
                 "50678943ZY",
                 "50678943ZX0",

@@ -1,44 +1,80 @@
 {
-  "name" : "Volaris",
-  "code" : "Y4",
-  "web" : "https://www.volaris.com/",
-  "lounge" : "N/A",
-  "reservationsPhone" : "",
-  "frequentFlyerProgram" : "VClub",
-  "alliance" : "N/A",
-  "magazine" : "V",
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A319 (319)",
-    "amenities" : [ "FOOD", "AC_POWER", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 144
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320 (320)",
-    "amenities" : [ "FOOD", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 174
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320neo (320)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 186
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321 (321)",
-    "amenities" : [ "FOOD", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 220
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Volaris",
+  "code": "Y4",
+  "web": "https://www.volaris.com/",
+  "lounge": "N/A",
+  "reservationsPhone": "",
+  "frequentFlyerProgram": "VClub",
+  "alliance": "N/A",
+  "magazine": "V",
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A319 (319)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 144
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320 (320)",
+      "amenities": [
+        "FOOD",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 174
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320neo (320)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 186
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321 (321)",
+      "amenities": [
+        "FOOD",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 220
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

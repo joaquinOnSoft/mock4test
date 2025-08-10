@@ -1,118 +1,213 @@
 {
-  "name" : "SAS",
-  "code" : "SK",
-  "web" : "https://www.flysas.com/en/",
-  "lounge" : "SAS Lounges",
-  "reservationsPhone" : "1-800-437-5807",
-  "frequentFlyerProgram" : "EuroBonus",
-  "alliance" : "Star Alliance",
-  "magazine" : "Scanorama",
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-300 (333)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 32
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 174
-    }, {
-      "seatClass" : "SAS Plus",
-      "numSeats" : 56
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A340-300 (343)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 40
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 179
-    }, {
-      "seatClass" : "SAS Plus",
-      "numSeats" : 28
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A350-900 (359)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 40
-    }, {
-      "seatClass" : "SAS Go",
-      "numSeats" : 228
-    }, {
-      "seatClass" : "SAS Plus",
-      "numSeats" : 32
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A319 (319)",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 141
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320 (320)",
-    "amenities" : [ "FOOD", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 168
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320neo (320)",
-    "amenities" : [ "FOOD", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 174
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321 (321)",
-    "amenities" : [ "FOOD", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 198
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-700 (737) Layout 1",
-    "amenities" : [ "FOOD", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 141
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-700 (737) Layout 2",
-    "amenities" : [ "FOOD", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 140
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738)",
-    "amenities" : [ "FOOD", "INTERNET", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 181
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Bombardier CRJ-900 (CR9)",
-    "amenities" : [ "FOOD", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 88
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "SAS",
+  "code": "SK",
+  "web": "https://www.flysas.com/en/",
+  "lounge": "SAS Lounges",
+  "reservationsPhone": "1-800-437-5807",
+  "frequentFlyerProgram": "EuroBonus",
+  "alliance": "Star Alliance",
+  "magazine": "Scanorama",
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-300 (333)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 32
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 174
+        },
+        {
+          "seatClass": "SAS Plus",
+          "numSeats": 56
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A340-300 (343)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 40
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 179
+        },
+        {
+          "seatClass": "SAS Plus",
+          "numSeats": 28
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A350-900 (359)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 40
+        },
+        {
+          "seatClass": "SAS Go",
+          "numSeats": 228
+        },
+        {
+          "seatClass": "SAS Plus",
+          "numSeats": 32
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A319 (319)",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 141
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320 (320)",
+      "amenities": [
+        "FOOD",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 168
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320neo (320)",
+      "amenities": [
+        "FOOD",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 174
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321 (321)",
+      "amenities": [
+        "FOOD",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 198
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-700 (737) Layout 1",
+      "amenities": [
+        "FOOD",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 141
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-700 (737) Layout 2",
+      "amenities": [
+        "FOOD",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 140
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 181
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Bombardier CRJ-900 (CR9)",
+      "amenities": [
+        "FOOD",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 88
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

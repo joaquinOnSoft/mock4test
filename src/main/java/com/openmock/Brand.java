@@ -129,7 +129,7 @@ public enum Brand {
     }
 
     @Override
-    public String toString(){
+    public String toString() {
         return brand;
     }
 }

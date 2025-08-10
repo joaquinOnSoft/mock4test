@@ -1,10 +1,14 @@
 package com.openmock;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.opencsv.bean.CsvToBean;
 import com.opencsv.bean.CsvToBeanBuilder;
 import com.openmock.util.FileUtil;
 
 import java.io.*;
+import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
 import java.util.List;
 import java.util.Locale;
 
@@ -43,5 +47,13 @@ public abstract class AbstractLoader {
         }
 
         return csvReader.parse();
+    }
+
+    protected <T> T loadJSON(String alias, Class<T> pojo) throws IOException {
+        File jsonFile = FileUtil.getLocalizedJSONFromResources(locale, alias);
+        String jsonStr = Files.readString(jsonFile.toPath(), StandardCharsets.UTF_8);
+
+        ObjectMapper mapper = new ObjectMapper();
+        return mapper.readValue(jsonStr, pojo);
     }
 }

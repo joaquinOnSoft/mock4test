@@ -14,7 +14,7 @@ import java.util.Objects;
 import java.util.stream.Collectors;
 
 @Log4j2
-public class VehicleLoader extends AbstractLoader{
+public class VehicleLoader extends AbstractLoader {
     private final YearMonth fromDateFilter;
     private final YearMonth toDateFilter;
 
@@ -28,7 +28,6 @@ public class VehicleLoader extends AbstractLoader{
     private volatile static Brand[] selectedBrands;
 
     private static List<List<Vehicle>> brandVehicles;
-
 
 
     /// Create a random vehicle, in **Spanish**, manufactured in the last 10 years from
@@ -45,6 +44,7 @@ public class VehicleLoader extends AbstractLoader{
     ///  - RENAULT
     ///  - TOYOTA
     ///  - VOLKSWAGEN
+    ///
     /// @throws OpenMockException If is not possible to load the brands information
     public VehicleLoader() throws OpenMockException {
         this(Locale.forLanguageTag("es-ES"));
@@ -64,6 +64,7 @@ public class VehicleLoader extends AbstractLoader{
     ///  - RENAULT
     ///  - TOYOTA
     ///  - VOLKSWAGEN
+    ///
     /// @param locale Language locale to be used to retrieve the information
     /// @throws OpenMockException If is not possible to load the brands information
     public VehicleLoader(Locale locale) throws OpenMockException {
@@ -81,9 +82,9 @@ public class VehicleLoader extends AbstractLoader{
         initDictionaries();
     }
 
-    public Vehicle getVehicle(){
+    public Vehicle getVehicle() {
         Vehicle selectedCar = null;
-        if(brandVehicles != null && !brandVehicles.isEmpty()){
+        if (brandVehicles != null && !brandVehicles.isEmpty()) {
             int indexBrand = RndUtil.getInstance().nextIntInRange(0, brandVehicles.size() - 1);
             List<Vehicle> cars = brandVehicles.get(indexBrand);
 
@@ -97,17 +98,17 @@ public class VehicleLoader extends AbstractLoader{
     @SuppressWarnings("unchecked")
     private void initDictionaries() throws OpenMockException {
         //Intentional double-checking brandVehicles initialization
-        if(brandVehicles == null) {
+        if (brandVehicles == null) {
             synchronized (this) {
-                if(brandVehicles == null) {
+                if (brandVehicles == null) {
                     brandVehicles = new LinkedList<>();
                     try {
                         List<Vehicle> cars;
-                        for(Brand brand: selectedBrands){
+                        for (Brand brand : selectedBrands) {
                             log.info(brand);
                             cars = (List<Vehicle>) loadCSV("vehicles/" + brand.toString(), Vehicle.class, true);
                             cars = filterCarsByManufactureDate(cars, fromDateFilter, toDateFilter);
-                            if(cars != null && !cars.isEmpty()){
+                            if (cars != null && !cars.isEmpty()) {
                                 brandVehicles.add(cars);
                             }
                         }
@@ -124,9 +125,9 @@ public class VehicleLoader extends AbstractLoader{
      * The filter considers cars whose 'manufacturedFrom' date is before or equal to the 'endDate',
      * and whose 'manufacturedTo' date is after or equal to the 'startDate'.
      *
-     * @param cars The list of Car objects to filter.
+     * @param cars      The list of Car objects to filter.
      * @param startDate The start date of the manufacturing range (inclusive).
-     * @param endDate The end date of the manufacturing range (inclusive).
+     * @param endDate   The end date of the manufacturing range (inclusive).
      * @return A new List<Car> containing only the cars that fall within the specified manufacturing date range.
      */
     public List<Vehicle> filterCarsByManufactureDate(List<Vehicle> cars, YearMonth startDate, YearMonth endDate) {

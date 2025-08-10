@@ -10,7 +10,7 @@ import java.util.Locale;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class FileUtilTest{
+public class FileUtilTest {
     @Test
     public void testDeleteFile() {
         String fileName = "filename.txt";
@@ -40,7 +40,7 @@ public class FileUtilTest{
     public void testIsFile() {
         String cwd = null;
         try {
-            cwd = (new File( "." )).getCanonicalPath();
+            cwd = (new File(".")).getCanonicalPath();
         } catch (IOException e) {
             fail(e.getMessage());
         }
@@ -49,7 +49,7 @@ public class FileUtilTest{
     }
 
     @Test
-    public void getLocalizedCSVFromResources(){
+    public void getLocalizedCSVFromResources() {
         File csvUK = FileUtil.getLocalizedCSVFromResources(Locale.UK, "person/family-name");
         assertNotNull(csvUK);
         assertTrue(csvUK.getAbsolutePath().endsWith("family-name-en.csv"));
@@ -62,4 +62,12 @@ public class FileUtilTest{
         File csvPrc = FileUtil.getLocalizedCSVFromResources(Locale.PRC, "person/family-name");
         assertNull(csvPrc);
     }
+
+    @Test
+    public void getLocalizedJSONFromResources() {
+        File jsonEN = FileUtil.getLocalizedJSONFromResources(Locale.UK, "airline/Aegean-Airlines");
+        assertNotNull(jsonEN);
+        assertTrue(jsonEN.getAbsolutePath().endsWith("Aegean-Airlines-en.json"));
+    }
+
 }

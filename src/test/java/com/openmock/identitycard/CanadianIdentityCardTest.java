@@ -33,7 +33,7 @@ public class CanadianIdentityCardTest extends AbstractIdentityCardTest {
                 "12345678",     // Too short
                 "1234567890",   // Too long
                 "ABCDEFGHI",    // Non-numeric
-                "12345678A" ,    // Contains letter
+                "12345678A",    // Contains letter
                 "123456789",  // No cumple el algoritmo
                 "193456788",  // Dígito verificador incorrecto
                 "12345678",   // Muy corto

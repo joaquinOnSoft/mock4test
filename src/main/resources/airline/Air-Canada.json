@@ -1,324 +1,586 @@
 {
-  "name" : "Air Canada",
-  "code" : "AC",
-  "web" : "https://www.aircanada.com",
-  "lounge" : "Maple Leaf Lounge",
-  "reservationsPhone" : "1-800-361-5373",
-  "frequentFlyerProgram" : "Aeroplan",
-  "alliance" : "Star Alliance",
-  "magazine" : "enRoute",
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-300 (333) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 27
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 244
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 21
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-300 (333) Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 255
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 30
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 767-300ER (763)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 24
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 187
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 777-200LR (77L) Three Class",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 40
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 236
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 777-300ER (77W) Three Class Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 40
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 336
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 777-300ER (77W) Three Class Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 28
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 398
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 787-8 (788)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 20
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 214
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 21
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 787-9 (789)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 30
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 247
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 21
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "rouge - Boeing 767-300ER (763)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 219
-    }, {
-      "seatClass" : "Premium Rouge",
-      "numSeats" : 24
-    }, {
-      "seatClass" : "Rouge Plus",
-      "numSeats" : 36
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A220-300 (CS3)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 125
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A319-100 (319)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 14
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 106
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320-200 (320)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 14
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 96
-    }, {
-      "seatClass" : "Preferred Seating",
-      "numSeats" : 36
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321-200 (321) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 16
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 174
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737 MAX 8 (7M8)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 16
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 153
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Embraer E-175",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 64
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Embraer E-190",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 9
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 68
-    }, {
-      "seatClass" : "Preferred Seating",
-      "numSeats" : 20
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "rouge - Airbus A319-100 (319)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 116
-    }, {
-      "seatClass" : "Premium Rouge",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Rouge Plus",
-      "numSeats" : 8
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "rouge - Airbus A320-200 (320)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 150
-    }, {
-      "seatClass" : "Premium Rouge",
-      "numSeats" : 12
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "rouge - Airbus A321-200 (321) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 163
-    }, {
-      "seatClass" : "Premium Rouge",
-      "numSeats" : 16
-    }, {
-      "seatClass" : "Rouge Plus",
-      "numSeats" : 21
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "rouge - Airbus A321-200 (321) Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 220
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Bombardier CRJ-100/200",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 50
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Bombardier CRJ-705",
-    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 10
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 65
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Bombardier CRJ-900",
-    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 64
-    } ]
-  }, {
-    "type" : "TURBOPROPS",
-    "name" : "Beechcraft 1900D",
-    "amenities" : [ ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 18
-    } ]
-  }, {
-    "type" : "TURBOPROPS",
-    "name" : "Bombardier Q400",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 74
-    } ]
-  }, {
-    "type" : "TURBOPROPS",
-    "name" : "de Havilland Dash 8 (100)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 37
-    } ]
-  }, {
-    "type" : "TURBOPROPS",
-    "name" : "de Havilland Dash 8 (300)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 50
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Air Canada",
+  "code": "AC",
+  "web": "https://www.aircanada.com",
+  "lounge": "Maple Leaf Lounge",
+  "reservationsPhone": "1-800-361-5373",
+  "frequentFlyerProgram": "Aeroplan",
+  "alliance": "Star Alliance",
+  "magazine": "enRoute",
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-300 (333) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 27
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 244
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 21
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-300 (333) Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 255
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 30
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 767-300ER (763)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 24
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 187
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 777-200LR (77L) Three Class",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 40
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 236
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 777-300ER (77W) Three Class Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 40
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 336
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 777-300ER (77W) Three Class Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 28
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 398
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 787-8 (788)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 20
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 214
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 21
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 787-9 (789)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 30
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 247
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 21
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "rouge - Boeing 767-300ER (763)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 219
+        },
+        {
+          "seatClass": "Premium Rouge",
+          "numSeats": 24
+        },
+        {
+          "seatClass": "Rouge Plus",
+          "numSeats": 36
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A220-300 (CS3)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 125
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A319-100 (319)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 14
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 106
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320-200 (320)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 14
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 96
+        },
+        {
+          "seatClass": "Preferred Seating",
+          "numSeats": 36
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321-200 (321) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 16
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 174
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737 MAX 8 (7M8)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 16
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 153
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Embraer E-175",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 64
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Embraer E-190",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 9
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 68
+        },
+        {
+          "seatClass": "Preferred Seating",
+          "numSeats": 20
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "rouge - Airbus A319-100 (319)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 116
+        },
+        {
+          "seatClass": "Premium Rouge",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Rouge Plus",
+          "numSeats": 8
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "rouge - Airbus A320-200 (320)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 150
+        },
+        {
+          "seatClass": "Premium Rouge",
+          "numSeats": 12
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "rouge - Airbus A321-200 (321) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 163
+        },
+        {
+          "seatClass": "Premium Rouge",
+          "numSeats": 16
+        },
+        {
+          "seatClass": "Rouge Plus",
+          "numSeats": 21
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "rouge - Airbus A321-200 (321) Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 220
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Bombardier CRJ-100/200",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 50
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Bombardier CRJ-705",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 10
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 65
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Bombardier CRJ-900",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 64
+        }
+      ]
+    },
+    {
+      "type": "TURBOPROPS",
+      "name": "Beechcraft 1900D",
+      "amenities": [],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 18
+        }
+      ]
+    },
+    {
+      "type": "TURBOPROPS",
+      "name": "Bombardier Q400",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 74
+        }
+      ]
+    },
+    {
+      "type": "TURBOPROPS",
+      "name": "de Havilland Dash 8 (100)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 37
+        }
+      ]
+    },
+    {
+      "type": "TURBOPROPS",
+      "name": "de Havilland Dash 8 (300)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 50
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

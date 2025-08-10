@@ -1,4 +1,5 @@
 package com.openmock.util;
+
 import java.time.LocalDate;
 
 
@@ -53,6 +54,7 @@ public class DateOfBirthGenerator {
 
     /**
      * Generates a random date of birth following the age distribution of the Spanish population.
+     *
      * @return A random date of birth as a LocalDate object.
      */
     public static LocalDate generate() {
@@ -93,25 +95,22 @@ public class DateOfBirthGenerator {
 
         // 3. Calculate the date of birth based on the generated age
         // We use the reference date for the population data (April 1, 2025).
-        int month = random.nextIntInRange(1,12);
+        int month = random.nextIntInRange(1, 12);
         LocalDate currentDate = LocalDate.now();
         return currentDate.minusYears(generatedAge)
                 .withMonth(month)
                 .withDayOfMonth(getRandomDayInMonth(month));
     }
 
-    private static int getRandomDayInMonth(int month){
+    private static int getRandomDayInMonth(int month) {
         int day;
         switch (month) {
-            case 1, 3, 5, 7, 8, 10, 12 ->
-                day = random.nextIntInRange(1,31);
+            case 1, 3, 5, 7, 8, 10, 12 -> day = random.nextIntInRange(1, 31);
             case 2 ->
                 //leap year not supported
-                day = random.nextIntInRange(1,28);
-            case 4, 6, 9, 11 ->
-                    day = random.nextIntInRange(1,30);
-            default ->
-                throw new IllegalArgumentException("Invalid month number " + month);
+                    day = random.nextIntInRange(1, 28);
+            case 4, 6, 9, 11 -> day = random.nextIntInRange(1, 30);
+            default -> throw new IllegalArgumentException("Invalid month number " + month);
         }
         return day;
     }

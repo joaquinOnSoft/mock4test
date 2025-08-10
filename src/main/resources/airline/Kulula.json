@@ -1,20 +1,35 @@
 {
-  "name" : "Kulula",
-  "code" : "MN",
-  "web" : "https://www.kulula.com",
-  "lounge" : "N/A",
-  "reservationsPhone" : "+27 11 921 0500",
-  "frequentFlyerProgram" : "N/A",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738)",
-    "amenities" : [ ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 189
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Kulula",
+  "code": "MN",
+  "web": "https://www.kulula.com",
+  "lounge": "N/A",
+  "reservationsPhone": "+27 11 921 0500",
+  "frequentFlyerProgram": "N/A",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738)",
+      "amenities": [],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 189
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

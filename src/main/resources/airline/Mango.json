@@ -1,20 +1,38 @@
 {
-  "name" : "Mango",
-  "code" : "JE",
-  "web" : "https://ww5.flymango.com/",
-  "lounge" : "N/A",
-  "reservationsPhone" : "+27 (11) 086 6100",
-  "frequentFlyerProgram" : "N/A",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738)",
-    "amenities" : [ "FOOD", "INTERNET" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 186
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Mango",
+  "code": "JE",
+  "web": "https://ww5.flymango.com/",
+  "lounge": "N/A",
+  "reservationsPhone": "+27 (11) 086 6100",
+  "frequentFlyerProgram": "N/A",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738)",
+      "amenities": [
+        "FOOD",
+        "INTERNET"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 186
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

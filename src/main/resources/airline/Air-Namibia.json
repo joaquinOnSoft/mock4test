@@ -1,42 +1,74 @@
 {
-  "name" : "Air Namibia",
-  "code" : "SW",
-  "web" : "http://www.airnamibia.com/",
-  "lounge" : "N/A",
-  "reservationsPhone" : "+1 877 777 6030",
-  "frequentFlyerProgram" : "Reward$",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-200 (332)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 30
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 214
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A319-100 (319)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 16
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 96
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Embraer ERJ-135 (ER3)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 37
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Air Namibia",
+  "code": "SW",
+  "web": "http://www.airnamibia.com/",
+  "lounge": "N/A",
+  "reservationsPhone": "+1 877 777 6030",
+  "frequentFlyerProgram": "Reward$",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-200 (332)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 30
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 214
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A319-100 (319)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 16
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 96
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Embraer ERJ-135 (ER3)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 37
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

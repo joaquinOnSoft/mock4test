@@ -1,36 +1,68 @@
 {
-  "name" : "InterJet",
-  "code" : "4O",
-  "web" : "https://www.interjet.com/en-us",
-  "lounge" : "N/A",
-  "reservationsPhone" : "1 866 285 9525",
-  "frequentFlyerProgram" : "Club Interjet",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320 (320)",
-    "amenities" : [ "FOOD", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 150
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321neo (321)",
-    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 192
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Sukhoi Superjet 100-95 (SU9)",
-    "amenities" : [ "FOOD", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 93
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "InterJet",
+  "code": "4O",
+  "web": "https://www.interjet.com/en-us",
+  "lounge": "N/A",
+  "reservationsPhone": "1 866 285 9525",
+  "frequentFlyerProgram": "Club Interjet",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320 (320)",
+      "amenities": [
+        "FOOD",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 150
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321neo (321)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 192
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Sukhoi Superjet 100-95 (SU9)",
+      "amenities": [
+        "FOOD",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 93
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

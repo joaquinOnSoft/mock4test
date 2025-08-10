@@ -1,108 +1,191 @@
 {
-  "name" : "Ethiopian Airlines",
-  "code" : "ET",
-  "web" : "https://www.ethiopianairlines.com/AA/EN",
-  "lounge" : "Cloud Nine Lounge",
-  "reservationsPhone" : "+43 125 302 2575",
-  "frequentFlyerProgram" : "ShebaMiles",
-  "alliance" : "Star Alliance",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A350-900 (350)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Cloud Nine Business",
-      "numSeats" : 30
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 313
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 767-300ER (763)",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Cloud Nine Business",
-      "numSeats" : 24
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 199
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 777-200LR (77L)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Cloud Nine Business",
-      "numSeats" : 28
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 287
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 777-300ER (77W)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Cloud Nine Business",
-      "numSeats" : 28
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 365
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 787-8 (788)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Cloud Nine Business",
-      "numSeats" : 24
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 246
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-700 (737)",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Cloud Nine Business",
-      "numSeats" : 16
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 102
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738)",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Cloud Nine Business",
-      "numSeats" : 16
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 138
-    } ]
-  }, {
-    "type" : "TURBOPROPS",
-    "name" : "Bombardier Q400 (DH4) Layout 1",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Cloud Nine Business",
-      "numSeats" : 7
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 64
-    } ]
-  }, {
-    "type" : "TURBOPROPS",
-    "name" : "Bombardier Q400 (DH4) Layout 2",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 78
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Ethiopian Airlines",
+  "code": "ET",
+  "web": "https://www.ethiopianairlines.com/AA/EN",
+  "lounge": "Cloud Nine Lounge",
+  "reservationsPhone": "+43 125 302 2575",
+  "frequentFlyerProgram": "ShebaMiles",
+  "alliance": "Star Alliance",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A350-900 (350)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Cloud Nine Business",
+          "numSeats": 30
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 313
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 767-300ER (763)",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Cloud Nine Business",
+          "numSeats": 24
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 199
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 777-200LR (77L)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Cloud Nine Business",
+          "numSeats": 28
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 287
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 777-300ER (77W)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Cloud Nine Business",
+          "numSeats": 28
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 365
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 787-8 (788)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Cloud Nine Business",
+          "numSeats": 24
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 246
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-700 (737)",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Cloud Nine Business",
+          "numSeats": 16
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 102
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738)",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Cloud Nine Business",
+          "numSeats": 16
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 138
+        }
+      ]
+    },
+    {
+      "type": "TURBOPROPS",
+      "name": "Bombardier Q400 (DH4) Layout 1",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Cloud Nine Business",
+          "numSeats": 7
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 64
+        }
+      ]
+    },
+    {
+      "type": "TURBOPROPS",
+      "name": "Bombardier Q400 (DH4) Layout 2",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 78
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

@@ -1,20 +1,41 @@
 {
-  "name" : "Sun Country",
-  "code" : "SY",
-  "web" : "https://www.suncountry.com",
-  "lounge" : "N/A",
-  "reservationsPhone" : "1-800-800-6557",
-  "frequentFlyerProgram" : "Ufly Rewards",
-  "alliance" : "N/A",
-  "magazine" : "Sun Country Magazine",
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 183
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Sun Country",
+  "code": "SY",
+  "web": "https://www.suncountry.com",
+  "lounge": "N/A",
+  "reservationsPhone": "1-800-800-6557",
+  "frequentFlyerProgram": "Ufly Rewards",
+  "alliance": "N/A",
+  "magazine": "Sun Country Magazine",
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 183
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

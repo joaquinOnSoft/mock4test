@@ -25,11 +25,11 @@ public abstract class AbstractIdentityCardTest {
     @RepeatedTest(10)
     void generateId() {
         String generatedId = card.generateId();
-         assertTrue(card.isValid(generatedId));
+        assertTrue(card.isValid(generatedId));
     }
 
     @RepeatedTest(10)
-    public void generatePTCardId(){
-        System.out.println(getClass() + ": "+ card.generateId());
+    public void generatePTCardId() {
+        System.out.println(getClass() + ": " + card.generateId());
     }
 }

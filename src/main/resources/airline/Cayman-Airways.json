@@ -1,39 +1,65 @@
 {
-  "name" : "Cayman Airways",
-  "code" : "KX",
-  "web" : "https://www.caymanairways.com/",
-  "lounge" : "N/A",
-  "reservationsPhone" : "+55 0800 031 3360",
-  "frequentFlyerProgram" : "Butterfield Miles",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-300 (733)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 114
-    } ]
-  }, {
-    "type" : "TURBOPROPS",
-    "name" : "DHC-6 Twin Otter (DHT)",
-    "amenities" : [ ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 17
-    } ]
-  }, {
-    "type" : "TURBOPROPS",
-    "name" : "Saab 340B (SFB)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 34
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Cayman Airways",
+  "code": "KX",
+  "web": "https://www.caymanairways.com/",
+  "lounge": "N/A",
+  "reservationsPhone": "+55 0800 031 3360",
+  "frequentFlyerProgram": "Butterfield Miles",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-300 (733)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 114
+        }
+      ]
+    },
+    {
+      "type": "TURBOPROPS",
+      "name": "DHC-6 Twin Otter (DHT)",
+      "amenities": [],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 17
+        }
+      ]
+    },
+    {
+      "type": "TURBOPROPS",
+      "name": "Saab 340B (SFB)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 34
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

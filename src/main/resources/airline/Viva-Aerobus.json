@@ -1,34 +1,58 @@
 {
-  "name" : "Viva Aerobus",
-  "code" : "VB",
-  "web" : "https://www.vivaaerobus.com/en",
-  "lounge" : "N/A",
-  "reservationsPhone" : "+52 (81) 82 15 05 20",
-  "frequentFlyerProgram" : "N/A",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320 (320)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 144
-    }, {
-      "seatClass" : "Space Plus",
-      "numSeats" : 36
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320neo (320)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 150
-    }, {
-      "seatClass" : "Space Plus",
-      "numSeats" : 36
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Viva Aerobus",
+  "code": "VB",
+  "web": "https://www.vivaaerobus.com/en",
+  "lounge": "N/A",
+  "reservationsPhone": "+52 (81) 82 15 05 20",
+  "frequentFlyerProgram": "N/A",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320 (320)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 144
+        },
+        {
+          "seatClass": "Space Plus",
+          "numSeats": 36
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320neo (320)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 150
+        },
+        {
+          "seatClass": "Space Plus",
+          "numSeats": 36
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

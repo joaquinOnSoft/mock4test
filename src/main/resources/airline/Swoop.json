@@ -1,20 +1,39 @@
 {
-  "name" : "Swoop",
-  "code" : "WO",
-  "web" : "https://www.flyswoop.com/",
-  "lounge" : "N/A",
-  "reservationsPhone" : "+1 587 441 1001",
-  "frequentFlyerProgram" : "N/A",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 189
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Swoop",
+  "code": "WO",
+  "web": "https://www.flyswoop.com/",
+  "lounge": "N/A",
+  "reservationsPhone": "+1 587 441 1001",
+  "frequentFlyerProgram": "N/A",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 189
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

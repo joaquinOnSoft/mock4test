@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class PersonLoaderTest {
     @Test
-    public void getValues(){
+    public void getValues() {
         try {
             PersonLoader loaderES = new PersonLoader();
             Person personES = loaderES.getPerson();

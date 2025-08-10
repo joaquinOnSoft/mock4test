@@ -1,40 +1,68 @@
 {
-  "name" : "tigerair Australia",
-  "code" : "TT",
-  "web" : "https://tigerair.com.au",
-  "lounge" : "N/A",
-  "reservationsPhone" : "1300 174 266",
-  "frequentFlyerProgram" : "N/A",
-  "alliance" : "N/A",
-  "magazine" : "Tiger Tales",
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320 (320)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 126
-    }, {
-      "seatClass" : "Extra Leg Room",
-      "numSeats" : 18
-    }, {
-      "seatClass" : "Up Front",
-      "numSeats" : 36
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738)",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 108
-    }, {
-      "seatClass" : "Extra Leg Room",
-      "numSeats" : 42
-    }, {
-      "seatClass" : "Up Front",
-      "numSeats" : 30
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "tigerair Australia",
+  "code": "TT",
+  "web": "https://tigerair.com.au",
+  "lounge": "N/A",
+  "reservationsPhone": "1300 174 266",
+  "frequentFlyerProgram": "N/A",
+  "alliance": "N/A",
+  "magazine": "Tiger Tales",
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320 (320)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 126
+        },
+        {
+          "seatClass": "Extra Leg Room",
+          "numSeats": 18
+        },
+        {
+          "seatClass": "Up Front",
+          "numSeats": 36
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738)",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 108
+        },
+        {
+          "seatClass": "Extra Leg Room",
+          "numSeats": 42
+        },
+        {
+          "seatClass": "Up Front",
+          "numSeats": 30
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

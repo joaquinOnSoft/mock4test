@@ -22,7 +22,7 @@ public class FileUtil {
         List<String> suffixes = getLocalizedSuffix(locale);
 
         InputStream resource = null;
-        for(String suffix: suffixes){
+        for (String suffix : suffixes) {
             resource = FileUtil.class.getClassLoader().getResourceAsStream(alias + suffix + ".csv");
             if (resource != null) {
                 break;
@@ -32,14 +32,22 @@ public class FileUtil {
         return resource;
     }
 
-    public static File getLocalizedCSVFromResources(Locale locale, String alias) throws IllegalArgumentException{
+    public static File getLocalizedJSONFromResources(Locale locale, String alias) throws IllegalArgumentException {
+        return getLocalizedFileFromResources(locale, alias, ".json");
+    }
+
+    public static File getLocalizedCSVFromResources(Locale locale, String alias) throws IllegalArgumentException {
+        return getLocalizedFileFromResources(locale, alias, ".csv");
+    }
+
+    public static File getLocalizedFileFromResources(Locale locale, String alias, String extension) throws IllegalArgumentException {
         File csv = null;
         List<String> suffixes = getLocalizedSuffix(locale);
 
         URL resource;
-        for(String suffix: suffixes){
-            resource = FileUtil.class.getClassLoader().getResource(alias + suffix + ".csv");
-            if(resource != null){
+        for (String suffix : suffixes) {
+            resource = FileUtil.class.getClassLoader().getResource(alias + suffix + extension);
+            if (resource != null) {
                 csv = new File(resource.getFile());
                 break;
             }
@@ -50,7 +58,7 @@ public class FileUtil {
 
     private static List<String> getLocalizedSuffix(Locale locale) {
         List<String> suffixes = new LinkedList<>();
-        if(locale != null){
+        if (locale != null) {
             suffixes.add("-" + locale.getLanguage() + "-" + locale.getCountry());
             suffixes.add("-" + locale.getLanguage());
             suffixes.add("");
@@ -60,12 +68,13 @@ public class FileUtil {
 
     /**
      * Get file from classpath, resources folder
-     * SEE: Java Read a file from resources folder
-     * https://www.mkyong.com/java/java-read-a-file-from-resources-folder/
+     * SEE:
+     * <a href="https://www.mkyong.com/java/java-read-a-file-from-resources-folder/">Java Read a file from resources folder</a>
+     *
      * @param fileName
      * @return
      */
-    public static File getFileFromResources(String fileName) throws IllegalArgumentException{
+    public static File getFileFromResources(String fileName) throws IllegalArgumentException {
         URL resource = FileUtil.class.getClassLoader().getResource(fileName);
         if (resource == null) {
             throw new IllegalArgumentException("file is not found!");
@@ -88,7 +97,7 @@ public class FileUtil {
         boolean isFile = false;
 
         File f = new File(path);
-        if(f.exists() && !f.isDirectory()) {
+        if (f.exists() && !f.isDirectory()) {
             isFile = true;
         }
 
@@ -99,7 +108,7 @@ public class FileUtil {
         boolean deleted = false;
 
         File f = new File(path);
-        if(f.exists()) {
+        if (f.exists()) {
             deleted = f.delete();
         }
 
@@ -118,12 +127,10 @@ public class FileUtil {
             log.debug("Loading");
             prop.load(propFile);
             log.debug("Loaded");
-        }
-        catch (FileNotFoundException e) {
+        } catch (FileNotFoundException e) {
             System.err.println("Properties file not found");
             e.getSuppressed();
-        }
-        catch (IOException e) {
+        } catch (IOException e) {
             System.err.println("Properties file: " + e.getMessage());
         }
 
@@ -138,7 +145,7 @@ public class FileUtil {
         String strRandom = String.format("%05d", random);
 
         String name = strDate + strRandom;
-        name += extension.startsWith(".") ? extension :  "." + extension;
+        name += extension.startsWith(".") ? extension : "." + extension;
 
         return name;
     }

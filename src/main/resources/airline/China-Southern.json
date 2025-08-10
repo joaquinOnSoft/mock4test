@@ -1,333 +1,547 @@
 {
-  "name" : "China Southern",
-  "code" : "CZ",
-  "web" : "https://global.csair.com/",
-  "lounge" : "N/A",
-  "reservationsPhone" : "020-95539",
-  "frequentFlyerProgram" : "N/A",
-  "alliance" : "SkyTeam",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-200 (332) Layout 1",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 24
-    }, {
-      "seatClass" : "Deluxe First",
-      "numSeats" : 4
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 142
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 48
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-200 (332) Layout 2",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 24
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 184
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 50
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-300 (333) Layout 1",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 24
-    }, {
-      "seatClass" : "Deluxe First",
-      "numSeats" : 4
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 208
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 48
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-300 (333) Layout 2",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 30
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 197
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 48
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A380-800 (388)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 70
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 428
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 8
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 777-200 (772) Layout 1",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 53
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 207
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 777-200 (772) Layout 2",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 18
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 316
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 40
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 777-300ER (77W)",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 34
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 227
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 4
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 44
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 787-8 (788)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 24
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 200
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 4
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 787-9 (789)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 28
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 241
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 28
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A319 (319)",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 90
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320 (320)",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 120
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321 (321)",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 143
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-300 (733) Layout 1",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 130
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-300 (733) Layout 2",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 148
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-300 (733) Layout 3",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 140
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-300 (733) Layout 4",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 144
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-700 (737) Layout 1",
-    "amenities" : [ "FOOD", "VIDEO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 88
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-700 (737) Layout 2",
-    "amenities" : [ "FOOD", "VIDEO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 96
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-700 (737) Layout 3",
-    "amenities" : [ "FOOD", "VIDEO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 119
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738) Layout 1",
-    "amenities" : [ "FOOD", "VIDEO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 132
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738) Layout 2",
-    "amenities" : [ "FOOD", "VIDEO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 129
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738) Layout 3",
-    "amenities" : [ "FOOD", "VIDEO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 130
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 21
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Embraer ERJ-190",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 6
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 76
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 16
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "China Southern",
+  "code": "CZ",
+  "web": "https://global.csair.com/",
+  "lounge": "N/A",
+  "reservationsPhone": "020-95539",
+  "frequentFlyerProgram": "N/A",
+  "alliance": "SkyTeam",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-200 (332) Layout 1",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 24
+        },
+        {
+          "seatClass": "Deluxe First",
+          "numSeats": 4
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 142
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 48
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-200 (332) Layout 2",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 24
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 184
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 50
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-300 (333) Layout 1",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 24
+        },
+        {
+          "seatClass": "Deluxe First",
+          "numSeats": 4
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 208
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 48
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-300 (333) Layout 2",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 30
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 197
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 48
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A380-800 (388)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 70
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 428
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 8
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 777-200 (772) Layout 1",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 53
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 207
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 777-200 (772) Layout 2",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 18
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 316
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 40
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 777-300ER (77W)",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 34
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 227
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 4
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 44
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 787-8 (788)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 24
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 200
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 4
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 787-9 (789)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 28
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 241
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 28
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A319 (319)",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 90
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320 (320)",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 120
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321 (321)",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 143
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-300 (733) Layout 1",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 130
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-300 (733) Layout 2",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 148
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-300 (733) Layout 3",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 140
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-300 (733) Layout 4",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 144
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-700 (737) Layout 1",
+      "amenities": [
+        "FOOD",
+        "VIDEO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 88
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-700 (737) Layout 2",
+      "amenities": [
+        "FOOD",
+        "VIDEO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 96
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-700 (737) Layout 3",
+      "amenities": [
+        "FOOD",
+        "VIDEO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 119
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738) Layout 1",
+      "amenities": [
+        "FOOD",
+        "VIDEO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 132
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738) Layout 2",
+      "amenities": [
+        "FOOD",
+        "VIDEO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 129
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738) Layout 3",
+      "amenities": [
+        "FOOD",
+        "VIDEO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 130
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 21
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Embraer ERJ-190",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 6
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 76
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 16
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

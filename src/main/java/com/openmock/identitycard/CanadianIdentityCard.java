@@ -92,15 +92,15 @@ public class CanadianIdentityCard implements IIdentityCard {
         int pos = 0;
         String reversedPartialSin = new StringBuilder(partialSin).reverse().toString();
 
-        while(pos < length - 1){
+        while (pos < length - 1) {
             int digit1 = Character.getNumericValue(reversedPartialSin.charAt(pos));
             int doubledDigit1 = digit1 * 2;
-            if(doubledDigit1 > 9){
+            if (doubledDigit1 > 9) {
                 doubledDigit1 -= 9;
             }
             sum += doubledDigit1;
 
-            if(pos + 1 < length - 1){ // Check if there's a next digit (even position in original)
+            if (pos + 1 < length - 1) { // Check if there's a next digit (even position in original)
                 int digit2 = Character.getNumericValue(reversedPartialSin.charAt(pos + 1));
                 sum += digit2;
             }
@@ -108,7 +108,7 @@ public class CanadianIdentityCard implements IIdentityCard {
         }
 
         // The checkdigit calculation is specific: (( floor($sum/10) + 1) * 10 - $sum) % 10;
-        int checkdigit = (( (int)Math.floor(sum/10.0) + 1) * 10 - sum) % 10;
+        int checkdigit = (((int) Math.floor(sum / 10.0) + 1) * 10 - sum) % 10;
         sin.append(checkdigit);
 
         // The PHP generateSIN adds spaces. The IIdentityCard interface expects a String without separators.

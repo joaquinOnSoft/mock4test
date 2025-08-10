@@ -1,20 +1,37 @@
 {
-  "name" : "Spring Airlines",
-  "code" : "9C",
-  "web" : "https://en.ch.com",
-  "lounge" : "N/A",
-  "reservationsPhone" : "(+86 21) 95 524",
-  "frequentFlyerProgram" : "SpringPass",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320-200 (320)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 180
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Spring Airlines",
+  "code": "9C",
+  "web": "https://en.ch.com",
+  "lounge": "N/A",
+  "reservationsPhone": "(+86 21) 95 524",
+  "frequentFlyerProgram": "SpringPass",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320-200 (320)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 180
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

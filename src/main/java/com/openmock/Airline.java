@@ -51,11 +51,11 @@ public class Airline {
     @JsonProperty("popularDestinations")
     private List<String> popularDestinations = new LinkedList<>();
 
-    public void addAircraft(Aircraft aircraft){
+    public void addAircraft(Aircraft aircraft) {
         aircrafts.add(aircraft);
     }
 
-    public void addPopularDestination(String destination){
+    public void addPopularDestination(String destination) {
         popularDestinations.add(destination);
     }
 }

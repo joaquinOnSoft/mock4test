@@ -17,7 +17,7 @@ import java.util.Locale;
 
 @Log4j2
 @Getter
-public class PersonLoader extends Field{
+public class PersonLoader extends Field {
     private volatile static List<FamilyNameDTO> familyNames;
     private volatile static List<NameDTO> femaleNames;
     private volatile static List<NameDTO> maleNames;
@@ -34,9 +34,9 @@ public class PersonLoader extends Field{
 
     @SuppressWarnings("unchecked")
     private void initDictionaries() throws OpenMockException {
-        if(maleNames == null) {
+        if (maleNames == null) {
             synchronized (this) {
-                if(maleNames == null) {
+                if (maleNames == null) {
                     try {
                         maleNames = (List<NameDTO>) loadCSV("person/male-name", NameDTO.class);
                         femaleNames = (List<NameDTO>) loadCSV("person/female-name", NameDTO.class);
@@ -51,35 +51,34 @@ public class PersonLoader extends Field{
         }
     }
 
-    public Person getPerson(){
+    public Person getPerson() {
         Person person = new Person();
 
 
-        if(familyNames != null){
+        if (familyNames != null) {
             person.setLastName(getFamilyName());
 
-            if(locale.getLanguage().compareTo(LANG_ES) == 0){
+            if (locale.getLanguage().compareTo(LANG_ES) == 0) {
                 person.setSecondLastName(getFamilyName());
             }
         }
 
         Sex sex;
-        if(RndUtil.getInstance().nextFloat() <= 0.5f){
+        if (RndUtil.getInstance().nextFloat() <= 0.5f) {
             sex = Sex.MALE;
             if (maleNames != null) {
                 person.setFirstName(getMaleName());
 
-                if(RndUtil.getInstance().nextFloat() <= 0.15f){
+                if (RndUtil.getInstance().nextFloat() <= 0.15f) {
                     person.setMiddleName(getMaleName());
                 }
             }
-        }
-        else{
+        } else {
             sex = Sex.FEMALE;
             if (femaleNames != null) {
                 person.setFirstName(getFemaleName());
 
-                if(RndUtil.getInstance().nextFloat() <= 0.15f){
+                if (RndUtil.getInstance().nextFloat() <= 0.15f) {
                     person.setMiddleName(getFemaleName());
                 }
             }
@@ -96,7 +95,7 @@ public class PersonLoader extends Field{
 
 
         //Init jobs
-        if(jobs != null) {
+        if (jobs != null) {
             JobDTO job = jobs.get(RndUtil.getInstance().nextIntInRange(0, jobs.size() - 1));
 
             person.setJobArea(job.getJobArea());
@@ -113,14 +112,14 @@ public class PersonLoader extends Field{
     }
 
     private String getFamilyName() {
-        return familyNames == null? "" : familyNames.get(RndUtil.getInstance().nextIntInRange(0, familyNames.size() - 1)).getFamilyName();
+        return familyNames == null ? "" : familyNames.get(RndUtil.getInstance().nextIntInRange(0, familyNames.size() - 1)).getFamilyName();
     }
 
     private String getFemaleName() {
-        return femaleNames == null? "" : femaleNames.get(RndUtil.getInstance().nextIntInRange(0, femaleNames.size() - 1)).getName();
+        return femaleNames == null ? "" : femaleNames.get(RndUtil.getInstance().nextIntInRange(0, femaleNames.size() - 1)).getName();
     }
 
     private String getMaleName() {
-        return maleNames == null? "" : maleNames.get(RndUtil.getInstance().nextIntInRange(0, maleNames.size() - 1)).getName();
+        return maleNames == null ? "" : maleNames.get(RndUtil.getInstance().nextIntInRange(0, maleNames.size() - 1)).getName();
     }
 }

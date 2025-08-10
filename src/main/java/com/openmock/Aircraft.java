@@ -24,25 +24,20 @@ public class Aircraft {
     @JsonProperty("name")
     private String name;
     @JsonProperty("amenities")
-    private List<Amenity>amenities = new LinkedList<>();
+    private List<Amenity> amenities = new LinkedList<>();
     @JsonProperty("seats")
-    private List<Seat>seats = new LinkedList<>();
+    private List<Seat> seats = new LinkedList<>();
 
 
-    public void addAmenity(Amenity amenity){
+    public void addAmenity(Amenity amenity) {
         amenities.add(amenity);
     }
 
-    @JsonProperty("amenities")
-    public void setAmenities(List<Amenity> amenities) {
-        this.amenities = amenities;
-    }
-
-    public void addSeat(Seat seat){
+    public void addSeat(Seat seat) {
         seats.add(seat);
     }
 
-    public void addSeat(String seatClass, int numSeats){
+    public void addSeat(String seatClass, int numSeats) {
         seats.add(new Seat(seatClass, numSeats));
     }
 

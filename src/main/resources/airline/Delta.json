@@ -1,533 +1,918 @@
 {
-  "name" : "Delta",
-  "code" : "DL",
-  "web" : "https://www.delta.com/",
-  "lounge" : "Sky Club",
-  "reservationsPhone" : "1-800-325-1999",
-  "frequentFlyerProgram" : "Miles Credit Card",
-  "alliance" : "SkyTeam",
-  "magazine" : "Sky",
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-200 (332)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 32
-    }, {
-      "seatClass" : "Delta One",
-      "numSeats" : 34
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 168
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-300 (333)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 40
-    }, {
-      "seatClass" : "Delta One",
-      "numSeats" : 34
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 219
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-900neo (339)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 56
-    }, {
-      "seatClass" : "Delta One",
-      "numSeats" : 29
-    }, {
-      "seatClass" : "Delta Premium Select",
-      "numSeats" : 28
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 168
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A350-900 (359)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta One",
-      "numSeats" : 32
-    }, {
-      "seatClass" : "Delta Premium Select",
-      "numSeats" : 48
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 226
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 767-300ER (76H/76Z) Layout 3",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 35
-    }, {
-      "seatClass" : "Delta One",
-      "numSeats" : 26
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 165
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 767-300ER (76L) Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 32
-    }, {
-      "seatClass" : "Delta One",
-      "numSeats" : 36
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 143
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 767-300ER (76T/76W) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 29
-    }, {
-      "seatClass" : "Delta One",
-      "numSeats" : 36
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 143
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 767-300ER (76Z) Layout 4",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 29
-    }, {
-      "seatClass" : "Delta One",
-      "numSeats" : 26
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 171
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 767-400ER (764) Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 28
-    }, {
-      "seatClass" : "Delta One",
-      "numSeats" : 34
-    }, {
-      "seatClass" : "Delta Premium Select",
-      "numSeats" : 20
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 156
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 767-400ER (76D) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 28
-    }, {
-      "seatClass" : "Delta One",
-      "numSeats" : 40
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 178
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 777-200ER/LR (7CB) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 90
-    }, {
-      "seatClass" : "Delta One",
-      "numSeats" : 28
-    }, {
-      "seatClass" : "Delta Premium Select",
-      "numSeats" : 48
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 122
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 777-200ER/LR (7HD) Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta One",
-      "numSeats" : 28
-    }, {
-      "seatClass" : "Delta Premium Select",
-      "numSeats" : 48
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 220
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A220-100 (CS1)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 15
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 82
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 12
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A319 (319)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 18
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 102
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 12
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320 (32K) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort +",
-      "numSeats" : 18
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 126
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 16
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320 (32M) Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 18
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 123
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 16
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321 (321) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 29
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 143
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 20
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321 (321) Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 29
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 143
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 20
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 717-200 (717)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 20
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 78
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 12
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-700 (73W)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 18
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 94
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 12
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (73H)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 36
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 108
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 16
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-900ER (739)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 21
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 139
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 20
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 757-200 (757)",
-    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 21
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 135
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 757-200 (75D)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 29
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 150
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 20
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 757-200 (75G)",
-    "amenities" : [ "FOOD", "INTERNET" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 21
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 128
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 20
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 757-200 (75P)",
-    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 41
-    }, {
-      "seatClass" : "Delta One",
-      "numSeats" : 20
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 132
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 757-200 (75S)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 44
-    }, {
-      "seatClass" : "Delta One",
-      "numSeats" : 16
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 108
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 757-300 (75Y)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 32
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 178
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Embraer E-170 (E70)",
-    "amenities" : [ "FOOD", "INTERNET" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 48
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 9
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Embraer E-175 (E75) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 52
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 12
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Embraer E-175 (E75) Layout 2 - SkyWest",
-    "amenities" : [ "FOOD", "INTERNET" ],
-    "seats" : [ {
-      "seatClass" : "Comfort+",
-      "numSeats" : 20
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 38
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 12
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "McDonnell Douglas MD-88 (M88)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 25
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 108
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 16
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "McDonnell Douglas MD-90 (M90)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 25
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 117
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 16
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Bombardier CRJ-100/200",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 50
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Bombardier CRJ-700 (CR7)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 14
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 46
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 9
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Bombardier CRJ-900 (CR9)",
-    "amenities" : [ "FOOD", "INTERNET" ],
-    "seats" : [ {
-      "seatClass" : "Delta Comfort+",
-      "numSeats" : 20
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 44
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 12
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Bombardier CRJ-900 Atmosphere Cabin (CR9)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER" ],
-    "seats" : [ {
-      "seatClass" : "Comfort+",
-      "numSeats" : 20
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 38
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 12
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Delta",
+  "code": "DL",
+  "web": "https://www.delta.com/",
+  "lounge": "Sky Club",
+  "reservationsPhone": "1-800-325-1999",
+  "frequentFlyerProgram": "Miles Credit Card",
+  "alliance": "SkyTeam",
+  "magazine": "Sky",
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-200 (332)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 32
+        },
+        {
+          "seatClass": "Delta One",
+          "numSeats": 34
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 168
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-300 (333)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 40
+        },
+        {
+          "seatClass": "Delta One",
+          "numSeats": 34
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 219
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-900neo (339)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 56
+        },
+        {
+          "seatClass": "Delta One",
+          "numSeats": 29
+        },
+        {
+          "seatClass": "Delta Premium Select",
+          "numSeats": 28
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 168
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A350-900 (359)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta One",
+          "numSeats": 32
+        },
+        {
+          "seatClass": "Delta Premium Select",
+          "numSeats": 48
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 226
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 767-300ER (76H/76Z) Layout 3",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 35
+        },
+        {
+          "seatClass": "Delta One",
+          "numSeats": 26
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 165
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 767-300ER (76L) Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 32
+        },
+        {
+          "seatClass": "Delta One",
+          "numSeats": 36
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 143
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 767-300ER (76T/76W) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 29
+        },
+        {
+          "seatClass": "Delta One",
+          "numSeats": 36
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 143
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 767-300ER (76Z) Layout 4",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 29
+        },
+        {
+          "seatClass": "Delta One",
+          "numSeats": 26
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 171
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 767-400ER (764) Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 28
+        },
+        {
+          "seatClass": "Delta One",
+          "numSeats": 34
+        },
+        {
+          "seatClass": "Delta Premium Select",
+          "numSeats": 20
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 156
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 767-400ER (76D) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 28
+        },
+        {
+          "seatClass": "Delta One",
+          "numSeats": 40
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 178
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 777-200ER/LR (7CB) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 90
+        },
+        {
+          "seatClass": "Delta One",
+          "numSeats": 28
+        },
+        {
+          "seatClass": "Delta Premium Select",
+          "numSeats": 48
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 122
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 777-200ER/LR (7HD) Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta One",
+          "numSeats": 28
+        },
+        {
+          "seatClass": "Delta Premium Select",
+          "numSeats": 48
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 220
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A220-100 (CS1)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 15
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 82
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 12
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A319 (319)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 18
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 102
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 12
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320 (32K) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort +",
+          "numSeats": 18
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 126
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 16
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320 (32M) Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 18
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 123
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 16
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321 (321) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 29
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 143
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 20
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321 (321) Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 29
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 143
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 20
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 717-200 (717)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 20
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 78
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 12
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-700 (73W)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 18
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 94
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 12
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (73H)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 36
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 108
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 16
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-900ER (739)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 21
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 139
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 20
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 757-200 (757)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 21
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 135
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 757-200 (75D)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 29
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 150
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 20
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 757-200 (75G)",
+      "amenities": [
+        "FOOD",
+        "INTERNET"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 21
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 128
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 20
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 757-200 (75P)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 41
+        },
+        {
+          "seatClass": "Delta One",
+          "numSeats": 20
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 132
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 757-200 (75S)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 44
+        },
+        {
+          "seatClass": "Delta One",
+          "numSeats": 16
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 108
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 757-300 (75Y)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 32
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 178
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Embraer E-170 (E70)",
+      "amenities": [
+        "FOOD",
+        "INTERNET"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 48
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 9
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Embraer E-175 (E75) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 52
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 12
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Embraer E-175 (E75) Layout 2 - SkyWest",
+      "amenities": [
+        "FOOD",
+        "INTERNET"
+      ],
+      "seats": [
+        {
+          "seatClass": "Comfort+",
+          "numSeats": 20
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 38
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 12
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "McDonnell Douglas MD-88 (M88)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 25
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 108
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 16
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "McDonnell Douglas MD-90 (M90)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 25
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 117
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 16
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Bombardier CRJ-100/200",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 50
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Bombardier CRJ-700 (CR7)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 14
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 46
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 9
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Bombardier CRJ-900 (CR9)",
+      "amenities": [
+        "FOOD",
+        "INTERNET"
+      ],
+      "seats": [
+        {
+          "seatClass": "Delta Comfort+",
+          "numSeats": 20
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 44
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 12
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Bombardier CRJ-900 Atmosphere Cabin (CR9)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER"
+      ],
+      "seats": [
+        {
+          "seatClass": "Comfort+",
+          "numSeats": 20
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 38
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 12
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

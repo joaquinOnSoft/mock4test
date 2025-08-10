@@ -1,92 +1,156 @@
 {
-  "name" : "Austrian",
-  "code" : "OS",
-  "web" : "https://www.austrian.com/?sc_lang=en&cc=US",
-  "lounge" : "Worldwide Lounges",
-  "reservationsPhone" : "1-800-581-6400",
-  "frequentFlyerProgram" : "Miles & More",
-  "alliance" : "Star Alliance",
-  "magazine" : "SKYlines",
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 767-300ER (763)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 26
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 167
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 18
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 777-200 (772)",
-    "amenities" : [ "FOOD", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 40
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 244
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A319 (319)",
-    "amenities" : [ "FOOD", "VIDEO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 28
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 102
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320 (320)",
-    "amenities" : [ "FOOD", "VIDEO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 28
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 132
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321 (321)",
-    "amenities" : [ "FOOD", "VIDEO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 200
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Embraer E-195 (E95)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 104
-    } ]
-  }, {
-    "type" : "TURBOPROPS",
-    "name" : "Bombardier Q400 (DH4)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 10
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 66
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Austrian",
+  "code": "OS",
+  "web": "https://www.austrian.com/?sc_lang=en&cc=US",
+  "lounge": "Worldwide Lounges",
+  "reservationsPhone": "1-800-581-6400",
+  "frequentFlyerProgram": "Miles & More",
+  "alliance": "Star Alliance",
+  "magazine": "SKYlines",
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 767-300ER (763)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 26
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 167
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 18
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 777-200 (772)",
+      "amenities": [
+        "FOOD",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 40
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 244
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A319 (319)",
+      "amenities": [
+        "FOOD",
+        "VIDEO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 28
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 102
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320 (320)",
+      "amenities": [
+        "FOOD",
+        "VIDEO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 28
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 132
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321 (321)",
+      "amenities": [
+        "FOOD",
+        "VIDEO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 200
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Embraer E-195 (E95)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 104
+        }
+      ]
+    },
+    {
+      "type": "TURBOPROPS",
+      "name": "Bombardier Q400 (DH4)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 10
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 66
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

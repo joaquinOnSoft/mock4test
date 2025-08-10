@@ -1,4 +1,5 @@
 package com.openmock.identitycard;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
@@ -49,7 +50,6 @@ public class PortugueseIdentityCard implements IIdentityCard {
 
         CHARS = CHAR_VALUES.keySet().toArray(new Character[0]);
     }
-
 
 
     @Override

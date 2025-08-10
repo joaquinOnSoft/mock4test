@@ -1,160 +1,287 @@
 {
-  "name" : "Alaska Airlines",
-  "code" : "AS",
-  "web" : "https://www.alaskaair.com/",
-  "lounge" : "Alaska Lounge",
-  "reservationsPhone" : "+1 800 252 7522",
-  "frequentFlyerProgram" : "Mileage Plan",
-  "alliance" : "N/A",
-  "magazine" : "Alaska Air",
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A319 (319) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 99
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Premium",
-      "numSeats" : 12
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A319 (319) Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 87
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Premium",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320 Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 123
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Premium",
-      "numSeats" : 18
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320 Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 120
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Premium",
-      "numSeats" : 18
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320 Layout 3",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 114
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Premium",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321 (321)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 150
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 16
-    }, {
-      "seatClass" : "Premium",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-700 (737)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 94
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Premium",
-      "numSeats" : 18
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 117
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Premium",
-      "numSeats" : 30
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-900 (739)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 138
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 16
-    }, {
-      "seatClass" : "Premium",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Embraer 175 (E75)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 52
-    }, {
-      "seatClass" : "First",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Premium",
-      "numSeats" : 12
-    } ]
-  }, {
-    "type" : "TURBOPROPS",
-    "name" : "Bombardier Q400",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 76
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Alaska Airlines",
+  "code": "AS",
+  "web": "https://www.alaskaair.com/",
+  "lounge": "Alaska Lounge",
+  "reservationsPhone": "+1 800 252 7522",
+  "frequentFlyerProgram": "Mileage Plan",
+  "alliance": "N/A",
+  "magazine": "Alaska Air",
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A319 (319) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 99
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Premium",
+          "numSeats": 12
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A319 (319) Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 87
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Premium",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320 Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 123
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Premium",
+          "numSeats": 18
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320 Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 120
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Premium",
+          "numSeats": 18
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320 Layout 3",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 114
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Premium",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321 (321)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 150
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 16
+        },
+        {
+          "seatClass": "Premium",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-700 (737)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 94
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Premium",
+          "numSeats": 18
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 117
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Premium",
+          "numSeats": 30
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-900 (739)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 138
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 16
+        },
+        {
+          "seatClass": "Premium",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Embraer 175 (E75)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 52
+        },
+        {
+          "seatClass": "First",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Premium",
+          "numSeats": 12
+        }
+      ]
+    },
+    {
+      "type": "TURBOPROPS",
+      "name": "Bombardier Q400",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 76
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

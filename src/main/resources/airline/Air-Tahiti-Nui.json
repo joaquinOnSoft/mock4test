@@ -1,26 +1,49 @@
 {
-  "name" : "Air Tahiti Nui",
-  "code" : "TN",
-  "web" : "https://www.airtahitinui.com/us-en",
-  "lounge" : "Shared Lounges Worldwide",
-  "reservationsPhone" : "310-258-9913 x25",
-  "frequentFlyerProgram" : "Club Tiare",
-  "alliance" : "N/A",
-  "magazine" : "Air Tahiti Magazine",
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 787-9 (789)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Moana Economy",
-      "numSeats" : 232
-    }, {
-      "seatClass" : "Moana Premium",
-      "numSeats" : 32
-    }, {
-      "seatClass" : "Poerava Business",
-      "numSeats" : 30
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Air Tahiti Nui",
+  "code": "TN",
+  "web": "https://www.airtahitinui.com/us-en",
+  "lounge": "Shared Lounges Worldwide",
+  "reservationsPhone": "310-258-9913 x25",
+  "frequentFlyerProgram": "Club Tiare",
+  "alliance": "N/A",
+  "magazine": "Air Tahiti Magazine",
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 787-9 (789)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Moana Economy",
+          "numSeats": 232
+        },
+        {
+          "seatClass": "Moana Premium",
+          "numSeats": 32
+        },
+        {
+          "seatClass": "Poerava Business",
+          "numSeats": 30
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

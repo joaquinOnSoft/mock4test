@@ -8,7 +8,7 @@ import java.util.Locale;
 
 @Setter
 @Getter
-public class Person extends Field{
+public class Person extends Field {
     private String bio;
     private String firstName;
     private String fullName;
@@ -25,7 +25,7 @@ public class Person extends Field{
     private ZodiacSign zodiacSign;
     private LocalDate birthdate;
 
-    public Person(){
+    public Person() {
         this(Locale.forLanguageTag(LANG_TAG_ES_ES));
     }
 
@@ -33,8 +33,8 @@ public class Person extends Field{
         super(locale);
     }
 
-    public String getFullName(){
-        if(fullName == null) {
+    public String getFullName() {
+        if (fullName == null) {
             StringBuilder fullN = new StringBuilder();
 
             fullN.append(firstName);

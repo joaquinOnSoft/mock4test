@@ -5,6 +5,7 @@ package com.openmock.identitycard;
  * (Powszechny Elektroniczny System Ewidencji Ludności) as its national identification number.
  * It's 11 digits long and includes a checksum.
  */
+
 import java.util.Random;
 
 public class PolishIdentityCard implements IIdentityCard {

@@ -4,14 +4,14 @@ import org.junit.jupiter.api.BeforeAll;
 
 import java.util.stream.Stream;
 
-public class GermanIdentityCardTest extends AbstractIdentityCardTest{
+public class GermanIdentityCardTest extends AbstractIdentityCardTest {
 
     @BeforeAll
-    public static void init(){
+    public static void init() {
         card = new GermanIdentityCard();
     }
 
-    protected static Stream<String> validIds(){
+    protected static Stream<String> validIds() {
         return Stream.of(
                 "123456789", "987654321", "123123123",
                 "456456456", "789789789", "321654987",
@@ -19,7 +19,7 @@ public class GermanIdentityCardTest extends AbstractIdentityCardTest{
         );
     }
 
-    protected static Stream<String> invalidIds(){
+    protected static Stream<String> invalidIds() {
         return Stream.of(
                 // Muy corto
                 "12345678",

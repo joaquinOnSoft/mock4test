@@ -7,18 +7,18 @@ import java.util.stream.Stream;
 public class FrenchIdentityCardTest extends AbstractIdentityCardTest {
 
     @BeforeAll
-    public static void init(){
+    public static void init() {
         card = new FrenchIdentityCard();
     }
 
 
-    protected static Stream<String> validIds(){
+    protected static Stream<String> validIds() {
         return Stream.of(
                 "123456789012" // 12 digits
         );
     }
 
-    protected static Stream<String> invalidIds(){
+    protected static Stream<String> invalidIds() {
         return Stream.of(
                 // 11 digits
                 "12345678901",

@@ -1,204 +1,351 @@
 {
-  "name" : "Iberia",
-  "code" : "IB",
-  "web" : "http://www.iberia.com/",
-  "lounge" : "Iberia VIP Lounge",
-  "reservationsPhone" : "1-800-772-4642",
-  "frequentFlyerProgram" : "Iberia Plus Emprese",
-  "alliance" : "oneworld",
-  "magazine" : "Ronda Iberia Magazine",
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-200 (332)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business Plus",
-      "numSeats" : 19
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 269
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-300 (333) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business Plus",
-      "numSeats" : 36
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 242
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-300 (333) Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business Plus",
-      "numSeats" : 29
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 242
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 21
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A340-600 (346) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business Plus",
-      "numSeats" : 46
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 300
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A340-600 (346) Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business Plus",
-      "numSeats" : 36
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 296
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 23
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A350-900 (359)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 31
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 293
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "LEVEL - Airbus A330-200 (332)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 293
-    }, {
-      "seatClass" : "Premium",
-      "numSeats" : 21
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A319 (319) Layout 1",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 34
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 84
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A319 (319) Layout 2",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 24
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 184
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320 (320)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 18
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 144
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320 (320) Express",
-    "amenities" : [ "FOOD", "AC_POWER" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 18
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 162
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321 (321) Layout 1",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 50
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 124
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321 (321) Layout 2",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 24
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 184
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "LEVEL - Airbus A321-200 (321)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 212
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Bombardier CRJ-1000",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 100
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Bombardier CRJ-200",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 50
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Bombardier CRJ-900",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 90
-    } ]
-  }, {
-    "type" : "TURBOPROPS",
-    "name" : "ATR-72",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 74
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Iberia",
+  "code": "IB",
+  "web": "http://www.iberia.com/",
+  "lounge": "Iberia VIP Lounge",
+  "reservationsPhone": "1-800-772-4642",
+  "frequentFlyerProgram": "Iberia Plus Emprese",
+  "alliance": "oneworld",
+  "magazine": "Ronda Iberia Magazine",
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-200 (332)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business Plus",
+          "numSeats": 19
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 269
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-300 (333) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business Plus",
+          "numSeats": 36
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 242
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-300 (333) Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business Plus",
+          "numSeats": 29
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 242
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 21
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A340-600 (346) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business Plus",
+          "numSeats": 46
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 300
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A340-600 (346) Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business Plus",
+          "numSeats": 36
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 296
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 23
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A350-900 (359)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 31
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 293
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "LEVEL - Airbus A330-200 (332)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 293
+        },
+        {
+          "seatClass": "Premium",
+          "numSeats": 21
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A319 (319) Layout 1",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 34
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 84
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A319 (319) Layout 2",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 24
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 184
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320 (320)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 18
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 144
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320 (320) Express",
+      "amenities": [
+        "FOOD",
+        "AC_POWER"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 18
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 162
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321 (321) Layout 1",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 50
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 124
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321 (321) Layout 2",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 24
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 184
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "LEVEL - Airbus A321-200 (321)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 212
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Bombardier CRJ-1000",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 100
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Bombardier CRJ-200",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 50
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Bombardier CRJ-900",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 90
+        }
+      ]
+    },
+    {
+      "type": "TURBOPROPS",
+      "name": "ATR-72",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 74
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

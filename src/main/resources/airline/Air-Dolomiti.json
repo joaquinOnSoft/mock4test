@@ -1,23 +1,42 @@
 {
-  "name" : "Air Dolomiti",
-  "code" : "EN",
-  "web" : "https://www.airdolomiti.eu/",
-  "lounge" : "Lufthansa Lounges",
-  "reservationsPhone" : "+49 089 9758 0497",
-  "frequentFlyerProgram" : "Miles & More",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Embraer E-195 (E95)",
-    "amenities" : [ "FOOD", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 104
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Air Dolomiti",
+  "code": "EN",
+  "web": "https://www.airdolomiti.eu/",
+  "lounge": "Lufthansa Lounges",
+  "reservationsPhone": "+49 089 9758 0497",
+  "frequentFlyerProgram": "Miles & More",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Embraer E-195 (E95)",
+      "amenities": [
+        "FOOD",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 104
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

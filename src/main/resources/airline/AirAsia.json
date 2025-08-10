@@ -1,34 +1,58 @@
 {
-  "name" : "AirAsia",
-  "code" : "AK",
-  "web" : "https://www.airasia.com/en/gb",
-  "lounge" : "N/A",
-  "reservationsPhone" : "+61 2 8188 2133",
-  "frequentFlyerProgram" : "AirAsia Big Loyalty",
-  "alliance" : "N/A",
-  "magazine" : "Travel 3Sixty",
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320-200 (320)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 138
-    }, {
-      "seatClass" : "Hot Seats",
-      "numSeats" : 42
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320neo (320)",
-    "amenities" : [ "INTERNET" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 144
-    }, {
-      "seatClass" : "Hot Seats",
-      "numSeats" : 42
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "AirAsia",
+  "code": "AK",
+  "web": "https://www.airasia.com/en/gb",
+  "lounge": "N/A",
+  "reservationsPhone": "+61 2 8188 2133",
+  "frequentFlyerProgram": "AirAsia Big Loyalty",
+  "alliance": "N/A",
+  "magazine": "Travel 3Sixty",
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320-200 (320)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 138
+        },
+        {
+          "seatClass": "Hot Seats",
+          "numSeats": 42
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320neo (320)",
+      "amenities": [
+        "INTERNET"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 144
+        },
+        {
+          "seatClass": "Hot Seats",
+          "numSeats": 42
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

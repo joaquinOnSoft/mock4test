@@ -25,7 +25,7 @@ import java.util.List;
 /// which change an atom's atomic number.
 @Getter
 @Setter
-public class Element extends Field{
+public class Element extends Field {
     @CsvBindByName
     private int atomicNumber;
     //Element's name
@@ -49,21 +49,21 @@ public class Element extends Field{
     private String phase;
     @CsvBindByName
     //Radioactive: yes/(empty)
-    @CsvCustomBindByName(column="Radioactive", converter= Element.YesNo2BooleanConverter.class)
+    @CsvCustomBindByName(column = "Radioactive", converter = Element.YesNo2BooleanConverter.class)
     private boolean radioactive;
     //Natural: yes/(empty)
-    @CsvCustomBindByName(column="Natural", converter= Element.YesNo2BooleanConverter.class)
+    @CsvCustomBindByName(column = "Natural", converter = Element.YesNo2BooleanConverter.class)
     private boolean natural;
     //Metal: yes/(empty)
-    @CsvCustomBindByName(column="Metal", converter= Element.YesNo2BooleanConverter.class)
+    @CsvCustomBindByName(column = "Metal", converter = Element.YesNo2BooleanConverter.class)
     private boolean metal;
     @CsvBindByName
     //Non-metal: yes/(empty)
-    @CsvCustomBindByName(column="Nonmetal", converter= Element.YesNo2BooleanConverter.class)
+    @CsvCustomBindByName(column = "Nonmetal", converter = Element.YesNo2BooleanConverter.class)
     private boolean nonmetal;
     @CsvBindByName
     //Metalloid: yes/(empty)
-    @CsvCustomBindByName(column="Metalloid", converter= Element.YesNo2BooleanConverter.class)
+    @CsvCustomBindByName(column = "Metalloid", converter = Element.YesNo2BooleanConverter.class)
     private boolean metalloid;
     @CsvBindByName
     private String Type;
@@ -72,7 +72,7 @@ public class Element extends Field{
     @CsvBindByName
     private float electronegativity;
     @CsvBindByName
-    private float  firstIonization;
+    private float firstIonization;
     @CsvBindByName
     private double density;
     @CsvBindByName

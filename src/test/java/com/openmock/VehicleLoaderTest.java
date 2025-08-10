@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.fail;
 public class VehicleLoaderTest {
 
     @Test
-    public void getVehicle(){
+    public void getVehicle() {
         try {
             VehicleLoader loader = new VehicleLoader();
             assertNotNull(loader.getVehicle());

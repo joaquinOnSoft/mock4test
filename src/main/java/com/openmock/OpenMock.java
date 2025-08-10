@@ -11,7 +11,7 @@ public class OpenMock {
 
     protected Locale locale;
 
-    public Person getVehicle(){
+    public Person getVehicle() {
         return null;
     }
 }

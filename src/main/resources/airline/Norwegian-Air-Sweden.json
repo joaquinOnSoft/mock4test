@@ -1,31 +1,59 @@
 {
-  "name" : "Norwegian Air Sweden",
-  "code" : "LE",
-  "web" : "https://www.norwegian.com/se/",
-  "lounge" : "Norwegian Air's Lounges Worldwide",
-  "reservationsPhone" : "1-800-357-4159",
-  "frequentFlyerProgram" : "N/A",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 787-9 (789)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 309
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 35
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737 MAX 8 (7M8)",
-    "amenities" : [ "FOOD", "INTERNET" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 189
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Norwegian Air Sweden",
+  "code": "LE",
+  "web": "https://www.norwegian.com/se/",
+  "lounge": "Norwegian Air's Lounges Worldwide",
+  "reservationsPhone": "1-800-357-4159",
+  "frequentFlyerProgram": "N/A",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 787-9 (789)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 309
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 35
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737 MAX 8 (7M8)",
+      "amenities": [
+        "FOOD",
+        "INTERNET"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 189
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

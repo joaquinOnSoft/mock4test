@@ -1,20 +1,41 @@
 {
-  "name" : "La Compagnie",
-  "code" : "B0",
-  "web" : "https://www.lacompagnie.com",
-  "lounge" : "ICare 2 Lounge (CDG), Art & Lounge (EWR)",
-  "reservationsPhone" : "+33 0 892 230 240",
-  "frequentFlyerProgram" : "MyCompagnie",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321neo (321)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 76
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "La Compagnie",
+  "code": "B0",
+  "web": "https://www.lacompagnie.com",
+  "lounge": "ICare 2 Lounge (CDG), Art & Lounge (EWR)",
+  "reservationsPhone": "+33 0 892 230 240",
+  "frequentFlyerProgram": "MyCompagnie",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321neo (321)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 76
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

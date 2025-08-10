@@ -55,7 +55,8 @@ class DateOfBirthGeneratorTest {
     /**
      * Calculates the age in years between a birth date and a current date.
      * This helper method ensures consistent age calculation across test and source.
-     * @param birthDate The date of birth.
+     *
+     * @param birthDate   The date of birth.
      * @param currentDate The reference date (e.g., today's date or a specific point in time).
      * @return The age in full years.
      */

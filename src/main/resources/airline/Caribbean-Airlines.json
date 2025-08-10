@@ -1,34 +1,63 @@
 {
-  "name" : "Caribbean Airlines",
-  "code" : "BW",
-  "web" : "https://www.caribbean-airlines.com/#/",
-  "lounge" : "N/A",
-  "reservationsPhone" : "+ 1 800 920 4225",
-  "frequentFlyerProgram" : "Caribbean Miles",
-  "alliance" : "N/A",
-  "magazine" : null,
-  "aircrafts" : [ {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738)",
-    "amenities" : [ "FOOD", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Caribbean Plus",
-      "numSeats" : 42
-    }, {
-      "seatClass" : "Economy",
-      "numSeats" : 96
-    } ]
-  }, {
-    "type" : "TURBOPROPS",
-    "name" : "ATR 72-600 (AT7)",
-    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Economy",
-      "numSeats" : 68
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "Caribbean Airlines",
+  "code": "BW",
+  "web": "https://www.caribbean-airlines.com/#/",
+  "lounge": "N/A",
+  "reservationsPhone": "+ 1 800 920 4225",
+  "frequentFlyerProgram": "Caribbean Miles",
+  "alliance": "N/A",
+  "magazine": null,
+  "aircrafts": [
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738)",
+      "amenities": [
+        "FOOD",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Caribbean Plus",
+          "numSeats": 42
+        },
+        {
+          "seatClass": "Economy",
+          "numSeats": 96
+        }
+      ]
+    },
+    {
+      "type": "TURBOPROPS",
+      "name": "ATR 72-600 (AT7)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Economy",
+          "numSeats": 68
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

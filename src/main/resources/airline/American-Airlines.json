@@ -1,377 +1,651 @@
 {
-  "name" : "American Airlines",
-  "code" : "AA",
-  "web" : "https://www.aa.com/",
-  "lounge" : "Admirals Club",
-  "reservationsPhone" : "1-800-421-0600",
-  "frequentFlyerProgram" : "AA Advantage",
-  "alliance" : "oneworld",
-  "magazine" : "American Way",
-  "aircrafts" : [ {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Airbus A330-200 (332)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 20
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 156
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 50
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 21
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 777-200 (777)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 37
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 146
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 66
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 777-300ER (77W)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Flagship Business",
-      "numSeats" : 52
-    }, {
-      "seatClass" : "Flagship First",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 188
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 28
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 28
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 787-8 (788)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 20
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 138
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 48
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 28
-    } ]
-  }, {
-    "type" : "WIDE_BODY_JETS",
-    "name" : "Boeing 787-9 (789)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Business",
-      "numSeats" : 30
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 198
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 36
-    }, {
-      "seatClass" : "Premium Economy",
-      "numSeats" : 21
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A319 (319)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "First",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 96
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 24
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A320 (320)",
-    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "First",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 120
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 18
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321 (321) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "First",
-      "numSeats" : 16
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 129
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 36
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321 (321) Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "First",
-      "numSeats" : 16
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 156
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 15
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321 (32B) Layout 3",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "Flagship Business",
-      "numSeats" : 20
-    }, {
-      "seatClass" : "Flagship First",
-      "numSeats" : 10
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 36
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 36
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Airbus A321neo ACF",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "First",
-      "numSeats" : 20
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 129
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 47
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737 MAX 8 (7M8)",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "First",
-      "numSeats" : 16
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 126
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 30
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "First",
-      "numSeats" : 16
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 114
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 30
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Boeing 737-800 (738) Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "First",
-      "numSeats" : 16
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 126
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 30
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Embraer ERJ-175 (E75) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "First",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 44
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 20
-    } ]
-  }, {
-    "type" : "NARROW_BODY_JETS",
-    "name" : "Embraer ERJ-175 (E75) Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "First",
-      "numSeats" : 8
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 68
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 4
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Bombardier CRJ-700 (CR7) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "First",
-      "numSeats" : 9
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 46
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 8
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Bombardier CRJ-700 (CR7) Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "First",
-      "numSeats" : 6
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 48
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 16
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Bombardier CRJ-700 (CR7) Layout 3",
-    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "First",
-      "numSeats" : 9
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 40
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 16
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Bombardier CRJ-700 (CR7) Layout 4",
-    "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "First",
-      "numSeats" : 9
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 40
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 16
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Bombardier CRJ-900 (CR9) Layout 1",
-    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "First Class",
-      "numSeats" : 12
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 52
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 12
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Bombardier CRJ-900 (CR9) Layout 2",
-    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "First",
-      "numSeats" : 9
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 58
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 12
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Bombardier CRJ-900 (CR9) Layout 3",
-    "amenities" : [ "FOOD", "INTERNET", "VIDEO", "AUDIO" ],
-    "seats" : [ {
-      "seatClass" : "First",
-      "numSeats" : 9
-    }, {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 36
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 31
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Embraer ERJ-140 (ERD)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 41
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 3
-    } ]
-  }, {
-    "type" : "REGIONAL_JETS",
-    "name" : "Embraer ERJ-145 (ER4)",
-    "amenities" : [ "FOOD" ],
-    "seats" : [ {
-      "seatClass" : "Main Cabin",
-      "numSeats" : 47
-    }, {
-      "seatClass" : "Main Cabin Extra",
-      "numSeats" : 3
-    } ]
-  } ],
-  "popularDestinations" : [ "Washington DC", "Orlando", "Chicago", "Las Vegas", "San Francisco", "Honolulu", "Mexico", "Toronto", "London", "New York City" ]
+  "name": "American Airlines",
+  "code": "AA",
+  "web": "https://www.aa.com/",
+  "lounge": "Admirals Club",
+  "reservationsPhone": "1-800-421-0600",
+  "frequentFlyerProgram": "AA Advantage",
+  "alliance": "oneworld",
+  "magazine": "American Way",
+  "aircrafts": [
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Airbus A330-200 (332)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 20
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 156
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 50
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 21
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 777-200 (777)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 37
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 146
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 66
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 777-300ER (77W)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Flagship Business",
+          "numSeats": 52
+        },
+        {
+          "seatClass": "Flagship First",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 188
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 28
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 28
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 787-8 (788)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 20
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 138
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 48
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 28
+        }
+      ]
+    },
+    {
+      "type": "WIDE_BODY_JETS",
+      "name": "Boeing 787-9 (789)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Business",
+          "numSeats": 30
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 198
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 36
+        },
+        {
+          "seatClass": "Premium Economy",
+          "numSeats": 21
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A319 (319)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "First",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 96
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 24
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A320 (320)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "First",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 120
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 18
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321 (321) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "First",
+          "numSeats": 16
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 129
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 36
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321 (321) Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "First",
+          "numSeats": 16
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 156
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 15
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321 (32B) Layout 3",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "Flagship Business",
+          "numSeats": 20
+        },
+        {
+          "seatClass": "Flagship First",
+          "numSeats": 10
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 36
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 36
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Airbus A321neo ACF",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "First",
+          "numSeats": 20
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 129
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 47
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737 MAX 8 (7M8)",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "First",
+          "numSeats": 16
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 126
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 30
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "First",
+          "numSeats": 16
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 114
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 30
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Boeing 737-800 (738) Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "First",
+          "numSeats": 16
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 126
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 30
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Embraer ERJ-175 (E75) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "First",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 44
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 20
+        }
+      ]
+    },
+    {
+      "type": "NARROW_BODY_JETS",
+      "name": "Embraer ERJ-175 (E75) Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "First",
+          "numSeats": 8
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 68
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 4
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Bombardier CRJ-700 (CR7) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "First",
+          "numSeats": 9
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 46
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 8
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Bombardier CRJ-700 (CR7) Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "First",
+          "numSeats": 6
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 48
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 16
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Bombardier CRJ-700 (CR7) Layout 3",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "First",
+          "numSeats": 9
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 40
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 16
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Bombardier CRJ-700 (CR7) Layout 4",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "AC_POWER",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "First",
+          "numSeats": 9
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 40
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 16
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Bombardier CRJ-900 (CR9) Layout 1",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "First Class",
+          "numSeats": 12
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 52
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 12
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Bombardier CRJ-900 (CR9) Layout 2",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "First",
+          "numSeats": 9
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 58
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 12
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Bombardier CRJ-900 (CR9) Layout 3",
+      "amenities": [
+        "FOOD",
+        "INTERNET",
+        "VIDEO",
+        "AUDIO"
+      ],
+      "seats": [
+        {
+          "seatClass": "First",
+          "numSeats": 9
+        },
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 36
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 31
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Embraer ERJ-140 (ERD)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 41
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 3
+        }
+      ]
+    },
+    {
+      "type": "REGIONAL_JETS",
+      "name": "Embraer ERJ-145 (ER4)",
+      "amenities": [
+        "FOOD"
+      ],
+      "seats": [
+        {
+          "seatClass": "Main Cabin",
+          "numSeats": 47
+        },
+        {
+          "seatClass": "Main Cabin Extra",
+          "numSeats": 3
+        }
+      ]
+    }
+  ],
+  "popularDestinations": [
+    "Washington DC",
+    "Orlando",
+    "Chicago",
+    "Las Vegas",
+    "San Francisco",
+    "Honolulu",
+    "Mexico",
+    "Toronto",
+    "London",
+    "New York City"
+  ]
 }

@@ -7,18 +7,30 @@ public class IdentityCardFactory {
         String countryCode = locale.getCountry().toUpperCase();
 
         switch (countryCode) {
-            case "AT": return new AustrianIdentityCard();
-            case "CA": return new CanadianIdentityCard();
-            case "CN": return new ChineseIdentityCard();
-            case "DE": return new GermanIdentityCard();
-            case "ES": return new SpanishIdentityCard();
-            case "FR": return new FrenchIdentityCard();
-            case "GB": return new BritishIdentityCard();
-            case "IE": return new IrishIdentityCard();
-            case "IT": return new ItalianIdentityCard();
-            case "JP": return new JapaneseIdentityCard();
-            case "PL": return new PolishIdentityCard();
-            case "PT": return new PortugueseIdentityCard();
+            case "AT":
+                return new AustrianIdentityCard();
+            case "CA":
+                return new CanadianIdentityCard();
+            case "CN":
+                return new ChineseIdentityCard();
+            case "DE":
+                return new GermanIdentityCard();
+            case "ES":
+                return new SpanishIdentityCard();
+            case "FR":
+                return new FrenchIdentityCard();
+            case "GB":
+                return new BritishIdentityCard();
+            case "IE":
+                return new IrishIdentityCard();
+            case "IT":
+                return new ItalianIdentityCard();
+            case "JP":
+                return new JapaneseIdentityCard();
+            case "PL":
+                return new PolishIdentityCard();
+            case "PT":
+                return new PortugueseIdentityCard();
             //case "RO": return new RomanianIdentityCard();
             //case "BE": return new BelgianIdentityCard();
             //case "NL": return new DutchIdentityCard();
@@ -42,7 +54,8 @@ public class IdentityCardFactory {
             //case "MT": return new MalteseIdentityCard();
             //case "IS": return new IcelandicIdentityCard();
             //case "LI": return new LiechtensteinIdentityCard();
-            default: throw new IllegalArgumentException("No identity card implementation for country: " + countryCode);
+            default:
+                throw new IllegalArgumentException("No identity card implementation for country: " + countryCode);
         }
     }
 }
