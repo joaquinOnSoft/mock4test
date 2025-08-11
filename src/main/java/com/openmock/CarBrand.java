@@ -1,7 +1,7 @@
 package com.openmock;
 
 /// Most popular vehicle brands
-public enum Brand {
+public enum CarBrand {
     ABARTH("ABARTH"),
     AIWAYS("AIWAYS"),
     ALEKO("ALEKO"),
@@ -124,7 +124,7 @@ public enum Brand {
 
     public final String brand;
 
-    Brand(String brand) {
+    CarBrand(String brand) {
         this.brand = brand;
     }
 

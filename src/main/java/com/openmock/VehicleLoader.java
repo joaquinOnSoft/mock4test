@@ -18,14 +18,14 @@ public class VehicleLoader extends AbstractLoader {
     private final YearMonth fromDateFilter;
     private final YearMonth toDateFilter;
 
-    private static final Brand[] defaultBrands = new Brand[]{
-            Brand.AUDI, Brand.BMW, Brand.CITROEN,
-            Brand.DACIA, Brand.FIAT, Brand.FORD,
-            Brand.MERCEDES_BENZ, Brand.OPEL, Brand.PEUGEOT,
-            Brand.RENAULT, Brand.TOYOTA, Brand.VOLKSWAGEN
+    private static final CarBrand[] defaultBrands = new CarBrand[]{
+            CarBrand.AUDI, CarBrand.BMW, CarBrand.CITROEN,
+            CarBrand.DACIA, CarBrand.FIAT, CarBrand.FORD,
+            CarBrand.MERCEDES_BENZ, CarBrand.OPEL, CarBrand.PEUGEOT,
+            CarBrand.RENAULT, CarBrand.TOYOTA, CarBrand.VOLKSWAGEN
     };
 
-    private volatile static Brand[] selectedBrands;
+    private volatile static CarBrand[] selectedBrands;
 
     private static List<List<Vehicle>> brandVehicles;
 
@@ -74,7 +74,7 @@ public class VehicleLoader extends AbstractLoader {
                 defaultBrands);
     }
 
-    public VehicleLoader(Locale locale, YearMonth fromDateFilter, YearMonth toDateFilter, Brand... brands) throws OpenMockException {
+    public VehicleLoader(Locale locale, YearMonth fromDateFilter, YearMonth toDateFilter, CarBrand... brands) throws OpenMockException {
         this.locale = locale;
         this.fromDateFilter = fromDateFilter;
         this.toDateFilter = toDateFilter;
@@ -104,7 +104,7 @@ public class VehicleLoader extends AbstractLoader {
                     brandVehicles = new LinkedList<>();
                     try {
                         List<Vehicle> cars;
-                        for (Brand brand : selectedBrands) {
+                        for (CarBrand brand : selectedBrands) {
                             log.info(brand);
                             cars = (List<Vehicle>) loadCSV("vehicles/" + brand.toString(), Vehicle.class, true);
                             cars = filterCarsByManufactureDate(cars, fromDateFilter, toDateFilter);
